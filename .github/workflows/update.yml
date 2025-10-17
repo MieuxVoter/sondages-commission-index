@@ -1,0 +1,57 @@
+name: "Indexe et récupère les derniers sondages"
+
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+  # Runs the job automatically at 6:00 UTC every day
+  schedule:
+    - cron: "0 6 * * *"
+
+jobs:
+  scrap_and_commit:
+    # Use a standard GitHub-hosted runner instead of a Codeberg-specific one
+    runs-on: ubuntu-latest
+
+    # Grant permissions for the job to push code back to the repository
+    permissions:
+      contents: write
+
+    steps:
+      # Step 1: Check out the repository's code
+      - name: "Checkout repository"
+        uses: actions/checkout@v4
+        # The `ref` attribute was removed. For scheduled runs, this action
+        # correctly checks out the default branch automatically.
+
+      # Step 2: Set up the Python environment
+      - name: "Set up Python"
+        uses: actions/setup-python@v5 # Using a more recent version for best practice
+        with:
+          python-version: "3.9"
+
+      # Step 3: Install the required Python packages
+      - name: "Install dependencies"
+        run: pip install -r scripts/requirements.txt
+
+      # Step 4: Run your Python scripts
+      - name: "Run scrap script"
+        run: python scripts/scrap.py
+
+      - name: "Run download script"
+        run: python scripts/download.py
+
+      # Step 5: Commit the new files back to the repository
+      - name: "Commit new files"
+        run: |
+          # Configure git with the standard GitHub Actions bot user
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Add the generated files to the staging area
+          git add "*.csv"
+          git add "archives/**/*.pdf"
+          
+          # Commit the changes and push. If there are no changes, the commit command
+          # will fail, and the `|| true` part ensures the whole step doesn't fail.
+          git commit -m "ajoute les sondages détectés le $(date '+%Y-%m-%d')" && git push || true
