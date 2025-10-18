@@ -20,6 +20,110 @@ LEG = 'Leg'
 VALID_CATEGORIES = [PRES, PRIM, MUN, LEG]
 
 
+def get_best_date(row):
+    """
+    Extract the best available date from a row using multiple strategies.
+    Priority:
+    1. pdf creation-date (most accurate)
+    2. http last-modified (server timestamp)
+    3. year column (fallback to middle of year: July 1st)
+    
+    Returns:
+        datetime or None if no date can be determined (all returned as tz-naive)
+    """
+    # Strategy 1: PDF creation date
+    if pd.notna(row.get('pdf creation-date')):
+        try:
+            dt = pd.to_datetime(row['pdf creation-date'])
+            # Convert to naive datetime if timezone-aware
+            if dt.tz is not None:
+                dt = dt.tz_localize(None)
+            return dt
+        except:
+            pass
+    
+    # Strategy 2: HTTP last-modified
+    if pd.notna(row.get('http last-modified')):
+        try:
+            dt = pd.to_datetime(row['http last-modified'])
+            # Convert to naive datetime if timezone-aware
+            if dt.tz is not None:
+                dt = dt.tz_localize(None)
+            return dt
+        except:
+            pass
+    
+    # Strategy 3: Year column (use July 1st as midpoint)
+    if pd.notna(row.get('year')):
+        try:
+            year = int(float(row['year']))
+            return pd.to_datetime(f"{year}-07-01")
+        except:
+            pass
+    
+    return None
+
+
+def apply_date_filter(df, after_date=None, before_date=None):
+    """
+    Filter dataframe by date using multiple date sources.
+    
+    Args:
+        df: DataFrame to filter
+        after_date: Only include entries after this date (YYYY-MM-DD format)
+        before_date: Only include entries before this date (YYYY-MM-DD format)
+    
+    Returns:
+        Filtered DataFrame
+    """
+    if not after_date and not before_date:
+        return df
+    
+    # Parse filter dates
+    after_dt = pd.to_datetime(after_date) if after_date else None
+    before_dt = pd.to_datetime(before_date) if before_date else None
+    
+    # Extract best date for each row
+    print("\nApplying date filters...")
+    if after_dt:
+        print(f"  After: {after_dt.strftime('%Y-%m-%d')}")
+    if before_dt:
+        print(f"  Before: {before_dt.strftime('%Y-%m-%d')}")
+    
+    df_copy = df.copy()
+    df_copy['_filter_date'] = df_copy.apply(get_best_date, axis=1)
+    
+    # Count how many have valid dates
+    valid_dates = df_copy['_filter_date'].notna().sum()
+    print(f"  Found dates for {valid_dates}/{len(df_copy)} entries")
+    
+    # Show date source breakdown
+    pdf_dates = df_copy['pdf creation-date'].notna().sum()
+    http_dates = df_copy['http last-modified'].notna().sum()
+    year_only = df_copy['year'].notna().sum()
+    print(f"  Date sources: {pdf_dates} PDF creation dates, {http_dates} HTTP dates, {year_only} year-only")
+    
+    # Apply filters
+    mask = pd.Series([True] * len(df_copy), index=df_copy.index)
+    
+    if after_dt:
+        date_mask = df_copy['_filter_date'] >= after_dt
+        # Include rows without dates (don't exclude them)
+        mask = mask & (date_mask | df_copy['_filter_date'].isna())
+        filtered_by_after = date_mask.sum()
+        print(f"  {filtered_by_after} entries match 'after' filter")
+    
+    if before_dt:
+        date_mask = df_copy['_filter_date'] <= before_dt
+        # Include rows without dates (don't exclude them)
+        mask = mask & (date_mask | df_copy['_filter_date'].isna())
+        filtered_by_before = date_mask.sum()
+        print(f"  {filtered_by_before} entries match 'before' filter")
+    
+    # Drop temporary column and return filtered df
+    return df[mask]
+
+
 def export_pdfs(
     category=None,
     after_date=None,
@@ -79,22 +183,10 @@ def export_pdfs(
         df = df[df['categorie'] == category].copy()
         print(f"Filtered to {len(df)} entries with category '{category}'")
     
-    # Parse dates if provided
-    if after_date:
-        try:
-            after_dt = pd.to_datetime(after_date)
-            # Note: We need to parse dates from the 'name' or 'href' or have a date column
-            print(f"⚠️  Note: Date filtering requires a date column in base.csv")
-            print(f"   Skipping date filter for now. Consider adding date parsing to scrap.py")
-        except Exception as e:
-            print(f"⚠️  Warning: Could not parse after_date '{after_date}': {e}")
-    
-    if before_date:
-        try:
-            before_dt = pd.to_datetime(before_date)
-            print(f"⚠️  Note: Date filtering requires a date column in base.csv")
-        except Exception as e:
-            print(f"⚠️  Warning: Could not parse before_date '{before_date}': {e}")
+    # Apply date filtering using multiple strategies
+    if after_date or before_date:
+        df = apply_date_filter(df, after_date, before_date)
+        print(f"After date filtering: {len(df)} entries remaining")
     
     # Create output directory
     output_path = workspace_root / output_dir
@@ -170,8 +262,14 @@ Examples:
   # Export all presidential polls
   python export_pdfs.py --category Pres
   
-  # Export all primaries
-  python export_pdfs.py --category Prim
+  # Export all primaries from 2024 onwards
+  python export_pdfs.py --category Prim --after 2024-01-01
+  
+  # Export presidential polls from Dec 2023 to now
+  python export_pdfs.py --category Pres --after 2023-12-01
+  
+  # Export municipal polls before 2020
+  python export_pdfs.py --category Mun --before 2020-01-01
   
   # Export municipal polls to custom directory
   python export_pdfs.py --category Mun --output municipal_pdfs
@@ -192,12 +290,12 @@ Examples:
     
     parser.add_argument(
         '--after',
-        help='Only include files after this date (YYYY-MM-DD format) - NOT YET IMPLEMENTED'
+        help='Only include files after this date (YYYY-MM-DD format). Uses PDF creation date, HTTP last-modified, or year column.'
     )
     
     parser.add_argument(
         '--before',
-        help='Only include files before this date (YYYY-MM-DD format) - NOT YET IMPLEMENTED'
+        help='Only include files before this date (YYYY-MM-DD format). Uses PDF creation date, HTTP last-modified, or year column.'
     )
     
     parser.add_argument(
