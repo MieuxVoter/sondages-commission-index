@@ -16,7 +16,7 @@ with app.setup:
 
 @app.cell
 def _():
-    index = pd.read_csv('base.csv')
+    index = pd.read_csv("base.csv")
     return (index,)
 
 
@@ -31,21 +31,20 @@ def save(href, bar=None, overwrite=False):
     r = requests.get(f"{base_url}{href}", allow_redirects=True)
 
     url = r.url
-    path = "archives/"+"/".join(url.split('/')[6:-1])+"/"
-    filename = url.split('/')[-1]
-    last_modified = r.headers['last-modified'] if 'last-modified' in r.headers else None
+    path = "archives/" + "/".join(url.split("/")[6:-1]) + "/"
+    filename = url.split("/")[-1]
+    last_modified = r.headers["last-modified"] if "last-modified" in r.headers else None
     creation_date = None
 
-    if not os.path.isfile(path+filename) or overwrite:
+    if not os.path.isfile(path + filename) or overwrite:
         os.makedirs(path, exist_ok=True)
-        open(path+filename, "wb").write(r.content)
+        open(path + filename, "wb").write(r.content)
 
         try:
-            pdf = PdfReader(path+filename)
+            pdf = PdfReader(path + filename)
             creation_date = pdf.metadata.creation_date
         except:
-            print("problème avec le pdf : "+path+filename)
-
+            print("problème avec le pdf : " + path + filename)
 
     if bar != None:
         bar.update()
@@ -55,13 +54,13 @@ def save(href, bar=None, overwrite=False):
 
 @app.cell
 def _():
-    save('/notices/medias/fichiers/add/162', overwrite=True)
+    save("/notices/medias/fichiers/add/162", overwrite=True)
     return
 
 
 @app.cell
 def _():
-    files_current = pd.read_csv('files.csv')
+    files_current = pd.read_csv("files.csv")
     return (files_current,)
 
 
@@ -73,7 +72,7 @@ def _(files_current):
 
 @app.cell
 def _(files_current):
-    files_current.query('`pdf creation-date`.isna()')
+    files_current.query("`pdf creation-date`.isna()")
     return
 
 
@@ -82,22 +81,14 @@ def get_files(index, overwrite=False):
     with mo.status.progress_bar(total=len(index)) as bar:
         files = (
             index
-            #.iloc[0:10]
+            # .iloc[0:10]
             .apply(
                 lambda x: save(x.href, bar=bar, overwrite=overwrite),
                 axis=1,
-                result_type='expand',
+                result_type="expand",
             )
-            .rename(
-                columns = {
-                    0: 'url',
-                    1: 'path_local',
-                    2: 'filename',
-                    3: 'http last-modified',
-                    4: 'pdf creation-date'
-                }
-            )
-            .join(index[['name']])
+            .rename(columns={0: "url", 1: "path_local", 2: "filename", 3: "http last-modified", 4: "pdf creation-date"})
+            .join(index[["name"]])
         )
 
     return files
@@ -107,14 +98,15 @@ def get_files(index, overwrite=False):
 def _(index):
     def get_all():
         files_all = get_files(index, overwrite=True)
-        files_all.to_csv('files.csv', index=False)
+        files_all.to_csv("files.csv", index=False)
         return files_all
+
     return
 
 
 @app.cell
 def _():
-    #get_all()
+    # get_all()
     return
 
 
@@ -123,9 +115,8 @@ def _(files_current, index):
     files_current
 
     index_new = (
-        index
-        .query("~name.isin(@files_current.name)")
-        #.pipe(get_files)
+        index.query("~name.isin(@files_current.name)")
+        # .pipe(get_files)
     )
     return (index_new,)
 
@@ -138,7 +129,7 @@ def _(index_new):
 
 @app.cell
 def _(files_current, index_new):
-    if (len(index_new) > 0):
+    if len(index_new) > 0:
         files_new = index_new.pipe(get_files)
     else:
         files_new = pd.DataFrame()
@@ -151,7 +142,7 @@ def _(files_current, index_new):
 
 @app.cell
 def _(files):
-    files.to_csv('files.csv', index=False)
+    files.to_csv("files.csv", index=False)
     return
 
 
