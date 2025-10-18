@@ -104,3 +104,5 @@ Le workflow GitHub Actions exécute automatiquement :
 ```
 
 ## voir aussi
+
+- [Liste de sondages sur l'élection présidentielle française de 2027](https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027) · Wikipédia en Français
