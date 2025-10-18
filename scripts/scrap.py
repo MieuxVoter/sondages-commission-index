@@ -78,6 +78,58 @@ def _():
 
 @app.cell
 def _(current_year):
+    # Election category constants
+    PRES = 'Pres'
+    PRIM = 'Prim'
+    MUN = 'Mun'
+    LEG = 'Leg'
+    
+    # Keyword patterns for categorization
+    PRIMARY_KEYWORDS = [
+        'prim d', 'prim g',  # Check these first (more specific)
+        'primd', 'primg', 'prims',
+        'primaire', 'prim'
+    ]
+    
+    PRESIDENTIAL_KEYWORDS = [
+        'pres', 'présidentielle', 'presidentielle'
+    ]
+    
+    MUNICIPAL_KEYWORDS = [
+        'mun', 'municipal', 'municipale'
+    ]
+    
+    LEGISLATIVE_KEYWORDS = [
+        'leg', 'législative', 'legislative', 'legisl'
+    ]
+    
+    def categorize_election(name):
+        """
+        Categorize election type based on keywords in the name.
+        Returns: 'Pres' for presidential, 'Prim' for primaries, 
+                 'Mun' for municipal, 'Leg' for legislative
+        """
+        name_lower = name.lower()
+        
+        # Check for primaries FIRST (more specific than presidential)
+        if any(keyword in name_lower for keyword in PRIMARY_KEYWORDS):
+            return PRIM
+        
+        # Check for presidential elections
+        if any(keyword in name_lower for keyword in PRESIDENTIAL_KEYWORDS):
+            return PRES
+        
+        # Check for municipal elections
+        if any(keyword in name_lower for keyword in MUNICIPAL_KEYWORDS):
+            return MUN
+        
+        # Check for legislative elections
+        if any(keyword in name_lower for keyword in LEGISLATIVE_KEYWORDS):
+            return LEG
+        
+        # Default to None if no match
+        return None
+    
     index = (
         pd
         .concat([
@@ -90,6 +142,7 @@ def _(current_year):
 
             for year in range(2016, current_year+1)
         ])
+        .assign(categorie=lambda df: df['name'].apply(categorize_election))
     )
     return (index,)
 
