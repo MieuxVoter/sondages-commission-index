@@ -46,15 +46,11 @@ Les sondages sont automatiquement catégorisés selon leur type :
 | [`scripts/download.py`]   | Télécharge les PDFs manquants de façon incrémentale et produit `files.csv` |
 | [`scripts/merge_files.py`]| **Fusionne** `base.csv` et `files.csv` en un catalogue unifié `notices_catalog.csv` |
 | [`scripts/export_pdfs.py`]| Exporte les PDFs filtrés par catégorie et période vers un répertoire |
-| [`scripts/enrich_files.py`]| Script legacy pour enrichir files.csv (remplacé par merge_files.py) |
-| [`scripts/extract_all_to_text.py`]| Extrait le texte de tous les PDFs présidentiels vers `extracted_texts/` |
 
 [`scripts/scrap.py`]: https://codeberg.org/nsppolls/sondages-commission-index/src/branch/main/scripts/scrap.py
 [`scripts/download.py`]: https://codeberg.org/nsppolls/sondages-commission-index/src/branch/main/scripts/download.py
 [`scripts/merge_files.py`]: https://codeberg.org/nsppolls/sondages-commission-index/src/branch/main/scripts/merge_files.py
 [`scripts/export_pdfs.py`]: https://codeberg.org/nsppolls/sondages-commission-index/src/branch/main/scripts/export_pdfs.py
-[`scripts/enrich_files.py`]: https://codeberg.org/nsppolls/sondages-commission-index/src/branch/main/scripts/enrich_files.py
-[`scripts/extract_all_to_text.py`]: https://codeberg.org/nsppolls/sondages-commission-index/src/branch/main/scripts/extract_all_to_text.py
 
 ### Utilisation des scripts
 
@@ -68,9 +64,6 @@ python scripts/merge_files.py     # Crée le catalogue unifié
 python scripts/export_pdfs.py --category Pres --output exported_pdfs
 python scripts/export_pdfs.py --category Prim --after 2022-01-01
 python scripts/export_pdfs.py --dry-run  # Voir ce qui serait exporté
-
-# Extraction de texte pour analyse LLM
-python scripts/extract_all_to_text.py
 ```
 
 ## automatisation
