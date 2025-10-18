@@ -41,6 +41,9 @@ jobs:
       - name: "Run download script"
         run: python scripts/download.py
 
+      - name: "Merge data into catalog"
+        run: python scripts/merge_files.py
+
       # Step 5: Commit the new files back to the repository
       - name: "Commit new files"
         run: |
@@ -54,4 +57,4 @@ jobs:
           
           # Commit the changes and push. If there are no changes, the commit command
           # will fail, and the `|| true` part ensures the whole step doesn't fail.
-          git commit -m "ajoute les sondages détectés le $(date '+%Y-%m-%d')" && git push || true
+          git commit -m "🤖 ajoute les sondages détectés le $(date '+%Y-%m-%d')" && git push || true
