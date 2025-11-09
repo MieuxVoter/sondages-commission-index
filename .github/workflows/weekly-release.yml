@@ -1,0 +1,140 @@
+name: "Weekly Release - Sondages"
+
+on:
+  # Run every Sunday at 9:00 AM UTC
+  schedule:
+    - cron: "0 9 * * 0"
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  create-release:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: "Checkout repository"
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Get full history for changelog
+      
+      - name: "Set up Python"
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.9"
+      
+      - name: "Install dependencies"
+        run: pip install -r scripts/requirements.txt
+      
+      - name: "Generate changelog"
+        id: changelog
+        run: |
+          python << 'EOF'
+          import pandas as pd
+          from datetime import datetime, timedelta
+          
+          # Calculate date range (last 7 days)
+          today = datetime.now()
+          week_ago = today - timedelta(days=7)
+          
+          # Read catalog
+          df = pd.read_csv('notices_catalog.csv')
+          
+          # Convert dates for filtering
+          df['_date'] = pd.to_datetime(df['http last-modified'], errors='coerce')
+          
+          # Filter to last week
+          recent = df[df['_date'] >= week_ago].copy()
+          
+          # Group by category
+          changelog = []
+          changelog.append(f"# Sondages ajoutés - Semaine du {week_ago.strftime('%d/%m/%Y')}")
+          changelog.append("")
+          changelog.append(f"📊 **{len(recent)} nouveaux sondages** cette semaine")
+          changelog.append("")
+          
+          if len(recent) > 0:
+              # Group by category
+              for cat in ['Pres', 'Prim', 'Leg', 'Mun']:
+                  cat_polls = recent[recent['categorie'] == cat]
+                  if len(cat_polls) > 0:
+                      cat_name = {
+                          'Pres': '🏛️ Présidentielles',
+                          'Prim': '🗳️ Primaires', 
+                          'Leg': '📜 Législatives',
+                          'Mun': '🏘️ Municipales'
+                      }.get(cat, cat)
+                      changelog.append(f"## {cat_name} ({len(cat_polls)})")
+                      changelog.append("")
+                      for _, row in cat_polls.iterrows():
+                          name = row.get('name', 'Sans titre')
+                          filename = row.get('filename', '')
+                          changelog.append(f"- {name}")
+                          if filename:
+                              changelog.append(f"  - `{filename}`")
+                      changelog.append("")
+              
+              # Uncategorized
+              uncat = recent[recent['categorie'].isna()]
+              if len(uncat) > 0:
+                  changelog.append(f"## 📋 Autres sondages ({len(uncat)})")
+                  changelog.append("")
+                  for _, row in uncat.iterrows():
+                      name = row.get('name', 'Sans titre')
+                      changelog.append(f"- {name}")
+                  changelog.append("")
+          else:
+              changelog.append("_Aucun nouveau sondage cette semaine._")
+          
+          # Write to file and output
+          changelog_text = '\n'.join(changelog)
+          with open('CHANGELOG_WEEK.md', 'w') as f:
+              f.write(changelog_text)
+          
+          # Output for GitHub Actions (escape for multiline)
+          import os
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write(f"count={len(recent)}\n")
+              f.write(f"week_start={week_ago.strftime('%Y-%m-%d')}\n")
+          
+          print(f"Generated changelog with {len(recent)} polls")
+          EOF
+      
+      - name: "Create release tag"
+        id: create_tag
+        run: |
+          WEEK_START="${{ steps.changelog.outputs.week_start }}"
+          TAG_NAME="semaine-${WEEK_START}"
+          
+          # Create and push tag
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git tag -a "${TAG_NAME}" -m "Sondages de la semaine du ${WEEK_START}"
+          git push origin "${TAG_NAME}" || echo "Tag already exists"
+          
+          echo "tag_name=${TAG_NAME}" >> $GITHUB_OUTPUT
+      
+      - name: "Create GitHub Release"
+        uses: softprops/action-gh-release@v1
+        if: steps.changelog.outputs.count > 0
+        with:
+          tag_name: ${{ steps.create_tag.outputs.tag_name }}
+          name: "📊 Sondages - Semaine du ${{ steps.changelog.outputs.week_start }}"
+          body_path: CHANGELOG_WEEK.md
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: "Summary"
+        run: |
+          echo "## 📊 Weekly Release Created" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Tag**: ${{ steps.create_tag.outputs.tag_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **New polls**: ${{ steps.changelog.outputs.count }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Week**: ${{ steps.changelog.outputs.week_start }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          cat CHANGELOG_WEEK.md >> $GITHUB_STEP_SUMMARY
