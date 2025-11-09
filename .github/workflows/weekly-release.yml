@@ -58,9 +58,12 @@ jobs:
           
           if len(recent) > 0:
               # Group by category
+              pres_found = False
               for cat in ['Pres', 'Prim', 'Leg', 'Mun']:
                   cat_polls = recent[recent['categorie'] == cat]
                   if len(cat_polls) > 0:
+                      if cat == 'Pres':
+                          pres_found = True
                       cat_name = {
                           'Pres': '🏛️ Présidentielles',
                           'Prim': '🗳️ Primaires', 
@@ -77,6 +80,13 @@ jobs:
                               changelog.append(f"  - `{filename}`")
                       changelog.append("")
               
+              # Message si pas de sondages présidentiels
+              if not pres_found:
+                  changelog.append("## 🏛️ Présidentielles")
+                  changelog.append("")
+                  changelog.append("_Aucun sondage présidentiel cette semaine._")
+                  changelog.append("")
+              
               # Uncategorized
               uncat = recent[recent['categorie'].isna()]
               if len(uncat) > 0:
@@ -88,6 +98,10 @@ jobs:
                   changelog.append("")
           else:
               changelog.append("_Aucun nouveau sondage cette semaine._")
+              changelog.append("")
+              changelog.append("## 🏛️ Présidentielles")
+              changelog.append("")
+              changelog.append("_Aucun sondage présidentiel cette semaine._")
           
           # Write to file and output
           changelog_text = '\n'.join(changelog)
