@@ -59,7 +59,8 @@ jobs:
           # Add the generated files to the staging area
           git add "*.csv"
           git add "archives/**/*.pdf"
-          git add "archives_txt"
+          # `|| true` because the pathspec fails if no text has ever been extracted
+          git add "archives_txt" || true
 
           # Commit the changes and push. If there are no changes, the commit command
           # will fail, and the `|| true` part ensures the whole step doesn't fail.
