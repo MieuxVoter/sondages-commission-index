@@ -31,5 +31,5 @@ jobs:
           git pull origin $GITHUB_REF
           git add "*.csv"
           git add "archives/**/*.pdf"
-          git add "archives_txt"
+          git add "archives_txt" || true
           git commit -m "ajoute les sondages détectés le $(date '+%Y-%m-%d')" && git push || true
