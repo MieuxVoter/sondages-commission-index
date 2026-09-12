@@ -15,10 +15,12 @@ jobs:
           ref: ${{ github.head_ref }}
       - uses: "actions/setup-python@v2"
         with:
-          python-version: "3.9"
+          # 3.10+ required by pdfminer.six, the pdfplumber dependency used by extract_text.py
+          python-version: "3.13"
       - run: pip install -r scripts/requirements.txt
       - run: python scripts/scrap.py
       - run: python scripts/download.py
+      - run: python scripts/extract_text.py --new
       - name: "commit"
         shell: bash
         run: |
@@ -29,4 +31,5 @@ jobs:
           git pull origin $GITHUB_REF
           git add "*.csv"
           git add "archives/**/*.pdf"
+          git add "archives_txt"
           git commit -m "ajoute les sondages détectés le $(date '+%Y-%m-%d')" && git push || true

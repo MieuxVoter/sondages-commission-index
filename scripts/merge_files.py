@@ -8,6 +8,8 @@ import pandas as pd
 from pathlib import Path
 import sys
 
+from extract_text import txt_path_for
+
 
 def merge_files(base_csv="base.csv", files_csv="files.csv", output_csv="notices_catalog.csv"):
     """
@@ -72,6 +74,16 @@ def merge_files(base_csv="base.csv", files_csv="files.csv", output_csv="notices_
         axis=1,
     )
 
+    # Point to the pdfplumber text export, but only when it actually exists:
+    # the column fills itself in as extract_text.py processes new notices
+    merged_df["txt_path"] = merged_df["pdf_path"].apply(
+        lambda pdf_path: (
+            str(txt_path_for(pdf_path))
+            if pd.notna(pdf_path) and (workspace_root / txt_path_for(pdf_path)).exists()
+            else None
+        )
+    )
+
     # Reorder columns for better readability
     column_order = [
         "filename",
@@ -79,6 +91,7 @@ def merge_files(base_csv="base.csv", files_csv="files.csv", output_csv="notices_
         "year",
         "name",
         "pdf_path",
+        "txt_path",
         "path_local",
         "url",
         "href",
@@ -99,6 +112,7 @@ def merge_files(base_csv="base.csv", files_csv="files.csv", output_csv="notices_
     print(f"  Total entries: {len(merged_df)}")
     print(f"  With category: {merged_df['categorie'].notna().sum()}")
     print(f"  Without category: {merged_df['categorie'].isna().sum()}")
+    print(f"  With text export: {merged_df['txt_path'].notna().sum()}")
     print(f"\n  Category breakdown:")
     if "categorie" in merged_df.columns:
         for cat, count in merged_df["categorie"].value_counts().items():
