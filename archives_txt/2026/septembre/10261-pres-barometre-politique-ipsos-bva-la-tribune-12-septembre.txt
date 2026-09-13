@@ -1,0 +1,855 @@
+# notice commission des sondages
+# source_pdf: archives/2026/septembre/10261-pres-barometre-politique-ipsos-bva-la-tribune-12-septembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Paris, le11septembre2026
+
+            COMMISSIONDES SONDAGES
+            Conseil d’Etat
+
+            PlaceduPalais Royal
+            75100PARIS RP
+
+            Al’attention deMonsieurlePrésident
+
+            MonsieurlePrésident,
+
+            Vous trouverezsous cepli les informations complémentaires surlesondagesuivant :
+
+            «BaromètrePolitique Ipsos-bvaCesi écoled'ingénieurs pourlaTribune Dimanche
+                -Septembre2026».
+
+            Jevous pried’agréer,MonsieurlePrésident,l’expressiondemahaute considération.
+
+            Jean-François DORIDOT
+            DirecteurGénéral d’Ipsos PublicAffairs France
+
+             Ipsos(France)                       35,rueduValdeMarne
+             S.A.S.aucapitalde43710320euros      75628ParisCedex13–France
+             R.C.S.Paris392901856                Tél:+33141989000
+             CertifiéISO9001BVQI/2003/132450     Fax:+33141989919
+                                                 http:www.ipsos.fr
+
+--- page 2 ---
+
+STRUCTURE            DE
+
+                L’ÉCHANTILLON                AVANT        ET
+
+                 APRÈS       LE   REDRESSEMENT
+
+--- page 3 ---
+
+La Tribune / 9 au 10 septembre 2026
+
+                                           RedressementSocio-Démo&Politique
+
+                                      BaseNon    Coeff.de
+                                             %         BasePondérée %
+                                      Pondérée  Pondération
+                 ENSEMBLE............................................................. 1000 100,0% 1,000 1000 100,0%
+                 Sexe*Age
+                  Hommes18à24ans............................................ 51 5,1% 1,000 51 5,1%
+                  Hommes25à34ans............................................ 73 7,3% 1,000 73 7,3%
+                  Hommes35à49ans............................................ 119 11,9% 1,000 119 11,9%
+                  Hommes50à59ans............................................ 82 8,2% 1,000 82 8,2%
+                  Hommes60à69ans............................................ 72 7,2% 1,000 72 7,2%
+                  Hommes70ansetplus........................................ 80 8,0% 1,000 80 8,0%
+                  Femmes18à24ans............................................ 50 5,0% 1,000 50 5,0%
+                  Femmes25à34ans............................................ 76 7,6% 1,000 76 7,6%
+                  Femmes35à49ans............................................ 124 12,4% 1,000 124 12,4%
+                  Femmes50à59ans............................................ 86 8,6% 1,000 86 8,6%
+                  Femmes60à69ans............................................ 81 8,1% 1,000 81 8,1%
+                  Femmes70ansetplus......................................... 106 10,6% 1,000 106 10,6%
+                 RecodeCSP
+                  Agriculteursexploitants(RS4=1).......................... 5 0,5% 1,397 7 0,7%
+                  Artisans,commerçantsetchefsd'entreprise(RS4=2o3) 41 4,1% 0,949 39 3,9%
+                  Cadresetprofessionsintellectuellessupérieures(RS4=4o153o06) 13,0% 0,891 116 11,6%
+                  Professionsintermédiaires(RS4=7o8)................ 134 13,4% 1,147 154 15,4%
+                  Employés(RS4=9o10).......................................... 185 18,5% 0,869 161 16,1%
+                  Ouvriers(RS4=11)................................................ 107 10,7% 1,138 122 12,2%
+                  Retraités(RS4=12)............................................... 276 27,6% 1,045 288 28,8%
+                  Autrespersonnessansactivitéprofessionnelle(RS4=13o11242) 12,2% 0,933 114 11,4%
+                 Région
+                  Ile-de-France......................................................... 186 18,6% 0,995 185 18,5%
+                  Centre-ValdeLoire............................................... 45 4,5% 0,867 39 3,9%
+                  BourgogneFranche-Comté.................................. 45 4,5% 0,956 43 4,3%
+                  Normandie............................................................. 46 4,6% 1,109 51 5,1%
+                  Hauts-de-France................................................... 98 9,8% 0,918 90 9,0%
+                  Grand-Est.............................................................. 89 8,9% 0,955 85 8,5%
+                  PaysdelaLoire.................................................... 59 5,9% 0,983 58 5,8%
+                  Bretagne................................................................ 57 5,7% 0,912 52 5,2%
+                  NouvelleAquitaine................................................ 87 8,7% 1,092 95 9,5%
+                  Occitanie................................................................ 105 10,5% 0,895 94 9,4%
+                  Auvergne-Rhône-Alpes......................................... 109 10,9% 1,128 123 12,3%
+                  PACA+Corse....................................................... 74 7,4% 1,149 85 8,5%
+                 Catégoried'agglomération
+                  Rural...................................................................... 179 17,9% 1,186 212 21,2%
+                  Moinsde20.000hab............................................ 186 18,6% 0,974 181 18,1%
+                  20.000à100.000hab........................................... 148 14,8% 0,933 138 13,8%
+                  Plusde100.000hab............................................. 325 32,5% 0,939 305 30,5%
+                  AgglomérationParisienne..................................... 162 16,2% 1,007 163 16,3%
+                 ExprimésPrésidentielle1ertour.......................... 717 100,0% 1,000 717 100,0%
+                 VotePrésidentielle20221ertour
+                  N.ArthaudP.Poutou............................................ 11 1,5% 0,867 10 1,3%
+                  JLMélenchon........................................................ 91 12,7% 1,729 157 21,9%
+                  F.Roussel............................................................. 29 4,0% 0,564 16 2,3%
+                  Y.Jadot................................................................. 35 4,9% 0,948 33 4,6%
+                  A.Hidalgo.............................................................. 18 2,5% 0,701 13 1,8%
+                  E.Macron.............................................................. 204 28,5% 0,979 200 27,9%
+                  V.Pécresse........................................................... 46 6,4% 0,745 34 4,8%
+                  J.Lassalle............................................................. 16 2,2% 1,407 23 3,1%
+                  N.Dupont-Aignan................................................. 19 2,6% 0,777 15 2,1%
+                  M.LePen.............................................................. 221 30,8% 0,751 166 23,2%
+                  E.Zemmour........................................................... 27 3,8% 1,877 51 7,1%
+                 ExprimésEuropéennes2024............................... 662 100,0% 1,000 662 100,0%
+                 VoteEuropéennes2024
+                  N.Arthaud(LO)..................................................... 4 0,6% 0,828 3 0,5%
+                  M.Aubry(LFI)........................................................ 64 9,7% 1,024 66 9,9%
+                  L.Deffontaines(PCF)........................................... 14 2,1% 1,135 16 2,4%
+                  M.Toussaint(EELV)............................................. 36 5,4% 1,011 36 5,5%
+                  R.Glucksmann(PSPP)....................................... 81 12,2% 1,128 91 13,8%
+                  V.Hayer(Renaissanceetalliés).......................... 118 17,8% 0,819 97 14,6%
+                  FXBellamy(LR).................................................... 54 8,2% 0,883 48 7,2%
+                  J.Bardella(RN)..................................................... 231 34,9% 0,900 208 31,4%
+                  M.Maréchal(Reconquête!).................................. 18 2,7% 2,023 36 5,5%
+                  H.Thouy(Animalistes).......................................... 4 0,6% 3,310 13 2,0%
+                  Autreliste............................................................... 38 5,7% 1,254 48 7,2%
+
+--- page 4 ---
+
+CARTE       DES     POINTS       D’ENQUETE
+
+--- page 5 ---
+
+La Tribune / 9 au 10 septembre 2026
+
+                                 Listedespointsd'enquête
+
+                                                   TOTAL
+                          TOTAL....................................................................................... 1000
+                          Région
+                          Ile-de-France.......................................................................... 186
+                          Centre-ValdeLoire................................................................ 45
+                          BourgogneFranche-Comté.................................................... 45
+                          Normandie.............................................................................. 46
+                          Hauts-de-France.................................................................... 98
+                          Grand-Est............................................................................... 89
+                          PaysdelaLoire..................................................................... 59
+                          Bretagne................................................................................ 57
+                          NouvelleAquitaine................................................................. 87
+                          Occitanie................................................................................ 105
+                          Auvergne-Rhône-Alpes.......................................................... 109
+                          PACA+Corse........................................................................ 74
+
+--- page 6 ---
+
+QUESTIONS           D’OPINION
+
+                       RÉSULTATS            BRUTS
+
+                           ET   REDRESSÉS
+
+--- page 7 ---
+
+LaTribune
+                                                               ENSEMBLE
+                             Vague28
+                                                         Effbrut %brut Effredr %redr
+                         du9au10septembre2026
+        BAROMETRE
+        LT1.Jugementportésurl'actiond'EmmanuelMACRONen Base:Tous 1000 1000 1000 1000
+        tantqueprésidentdelaRépublique Trèsfavorable      22  2,2  23  2,3
+                                 Plutôtfavorable          149 14,9 140 14,0
+                                 Plutôtdéfavorable        305 30,5 310 31,0
+                                 Trèsdéfavorable          493 49,3 495 49,5
+                                 Nsp                      31  3,1  31  3,1
+                                 STFavorable              171 17,1 163 16,3
+                                 STDéfavorable            798 79,8 805 80,5
+        LT2.Jugementportésurl'actiondeSébastienLECORNU Base:Tous 1000 1000 1000 1000
+        entantquePremierministre Trèsfavorable            29  2,9  23  2,3
+                                 Plutôtfavorable          192 19,2 178 17,8
+                                 Plutôtdéfavorable        336 33,6 337 33,7
+                                 Trèsdéfavorable          346 34,6 359 35,9
+                                 Nsp                      97  9,7  102 10,2
+                                 STFavorable              221 22,1 202 20,2
+                                 STDéfavorable            682 68,2 696 69,6
+        LT4.Parmilesdifférentsministresdugouvernement, Base:Tous 1000 1000 1000 1000
+        lesquelssontselonvouslesdeuxmeilleurs? GéraldDarmanin 379 37,9 376 37,6
+                                 CatherineVautrin         95  9,5  91  9,1
+                                 AuroreBergé              107 10,7 107 10,7
+                                 Jean-NoëlBarrot          130 13,0 124 12,4
+                                 AnnieGenevard            59  5,9  60  6,0
+                                 MaudBregeon              72  7,2  72  7,2
+                                 LaurentNunez             260 26,0 252 25,2
+                                 MoniqueBarbut            67  6,7  69  6,9
+                                 RolandLescure            113 11,3 105 10,5
+                                 EdouardGeffray           81  8,1  79  7,9
+                                 VincentJeanbrun          56  5,6  67  6,7
+                                 SergePapin               93  9,3  81  8,1
+                                 Jean-PierreFarandou      68  6,8  71  7,1
+                                 DavidAmiel               51  5,1  60  6,0
+                                 CatherinePégard          57  5,7  57  5,7
+                                 Jean-DidierBerger        43  4,3  44  4,4
+        LT7.Parmilesenjeuxsuivants,quelssontlestroisqui Base:Tous 1000 1000 1000 1000
+        vouspréoccupentleplusàtitrepersonnel? Laprotectiondel'environnement(réchauffement
+                                                          297 29,7 306 30,6
+                                 climatique,biodiversité,pollution,etc.)
+                                 L'avenirdusystèmesocial(santé,retraites...) 397 39,7 402 40,2
+                                 Lesdifficultésentermesdepouvoird'achat(hausse
+                                                          528 52,8 538 53,8
+                                 desprix,salaires,impôts,etc.)
+                                 Lamontéedesinégalitéssociales 192 19,2 206 20,6
+                                 Letauxdechômage          95  9,5  93  9,3
+                                 L'avenirdusystèmescolaire 146 14,6 140 14,0
+                                 Leniveaudeladélinquance  267 26,7 255 25,5
+                                 Leniveaudel'immigration  315 31,5 314 31,4
+                                 Lamenaceterroriste       74  7,4  67  6,7
+                                 Lesrisquesd'épidémies(Covid19,grippe,etc.) 19 1,9 18 1,8
+                                 Lescrisesinternationales(Ukraine,Proche-Orient…) 225 22,5 206 20,6
+                                 Leniveaudeladetteetdesdéficits 308 30,8 302 30,2
+        LT8.Silapersonnalité Jean-LucMélenchon Base:Tous 1000 1000 1000 1000
+        politiquesuivantedevenait Trèssatisfait           76  7,6  83  8,3
+        président(e)dela         Plutôtsatisfait          83  8,3  102 10,2
+        Républiqueen2027,vous
+                                 Nisatisfait,nimécontent  92  9,2  92  9,2
+        seriezsatisfait(e)ou
+                                 Plutôtmécontent          120 12,0 124 12,4
+        mécontent(e)?
+                                 Trèsmécontent            610 61,0 580 58,0
+                                 (NR)                     19  1,9  19  1,9
+                                 STSatisfait              159 15,9 185 18,5
+                                 Nisatisfait,nimécontent  92  9,2  92  9,2
+                                 STMécontent              730 73,0 704 70,4
+                    FabienRoussel Base:Tous              1000 1000 1000 1000
+                                 Trèssatisfait            17  1,7  16  1,6
+                                 Plutôtsatisfait          97  9,7  100 10,0
+                                 Nisatisfait,nimécontent  303 30,3 308 30,8
+                                 Plutôtmécontent          282 28,2 280 28,0
+                                 Trèsmécontent            278 27,8 274 27,4
+                                 (NR)                     23  2,3  22  2,2
+
+--- page 8 ---
+
+STSatisfait              114 11,4 117 11,7
+                                 Nisatisfait,nimécontent  303 30,3 308 30,8
+                                 STMécontent              560 56,0 554 55,4
+                    FrançoisRuffin Base:Tous             1000 1000 1000 1000
+                                 Trèssatisfait            34  3,4  35  3,5
+                                 Plutôtsatisfait          103 10,3 109 10,9
+                                 Nisatisfait,nimécontent  265 26,5 267 26,7
+                                 Plutôtmécontent          283 28,3 279 27,9
+                                 Trèsmécontent            293 29,3 290 29,0
+                                 (NR)                     22  2,2  20  2,0
+                                 STSatisfait              137 13,7 144 14,4
+                                 Nisatisfait,nimécontent  265 26,5 267 26,7
+                                 STMécontent              576 57,6 569 56,9
+                    OlivierFaure Base:Tous               1000 1000 1000 1000
+                                 Trèssatisfait            15  1,5  14  1,4
+                                 Plutôtsatisfait          84  8,4  99  9,9
+                                 Nisatisfait,nimécontent  316 31,6 318 31,8
+                                 Plutôtmécontent          263 26,3 261 26,1
+                                 Trèsmécontent            302 30,2 290 29,0
+                                 (NR)                     20  2,0  17  1,7
+                                 STSatisfait              99  9,9  113 11,3
+                                 Nisatisfait,nimécontent  316 31,6 318 31,8
+                                 STMécontent              565 56,5 551 55,1
+                    RaphaëlGlucksmann Base:Tous          1000 1000 1000 1000
+                                 Trèssatisfait            33  3,3  38  3,8
+                                 Plutôtsatisfait          129 12,9 133 13,3
+                                 Nisatisfait,nimécontent  286 28,6 288 28,8
+                                 Plutôtmécontent          227 22,7 221 22,1
+                                 Trèsmécontent            308 30,8 303 30,3
+                                 (NR)                     17  1,7  17  1,7
+                                 STSatisfait              162 16,2 171 17,1
+                                 Nisatisfait,nimécontent  286 28,6 288 28,8
+                                 STMécontent              535 53,5 524 52,4
+                    BernardCazeneuve Base:Tous           1000 1000 1000 1000
+                                 Trèssatisfait            16  1,6  10  1,0
+                                 Plutôtsatisfait          94  9,4  97  9,7
+                                 Nisatisfait,nimécontent  317 31,7 299 29,9
+                                 Plutôtmécontent          268 26,8 291 29,1
+                                 Trèsmécontent            284 28,4 284 28,4
+                                 (NR)                     21  2,1  19  1,9
+                                 STSatisfait              110 11,0 108 10,8
+                                 Nisatisfait,nimécontent  317 31,7 299 29,9
+                                 STMécontent              552 55,2 575 57,5
+                    GabrielAttal Base:Tous               1000 1000 1000 1000
+                                 Trèssatisfait            33  3,3  31  3,1
+                                 Plutôtsatisfait          153 15,3 152 15,2
+                                 Nisatisfait,nimécontent  218 21,8 198 19,8
+                                 Plutôtmécontent          268 26,8 280 28,0
+                                 Trèsmécontent            308 30,8 319 31,9
+                                 (NR)                     20  2,0  19  1,9
+                                 STSatisfait              186 18,6 183 18,3
+                                 Nisatisfait,nimécontent  218 21,8 198 19,8
+                                 STMécontent              576 57,6 600 60,0
+                    BrunoLeMaire Base:Tous               1000 1000 1000 1000
+                                 Trèssatisfait            7   0,7  6   0,6
+                                 Plutôtsatisfait          59  5,9  55  5,5
+                                 Nisatisfait,nimécontent  280 28,0 274 27,4
+                                 Plutôtmécontent          268 26,8 264 26,4
+                                 Trèsmécontent            366 36,6 380 38,0
+                                 (NR)                     20  2,0  21  2,1
+                                 STSatisfait              66  6,6  61  6,1
+                                 Nisatisfait,nimécontent  280 28,0 274 27,4
+                                 STMécontent              634 63,4 644 64,4
+                    EdouardPhilippe Base:Tous            1000 1000 1000 1000
+                                 Trèssatisfait            38  3,8  34  3,4
+                                 Plutôtsatisfait          172 17,2 155 15,5
+                                 Nisatisfait,nimécontent  230 23,0 223 22,3
+                                 Plutôtmécontent          228 22,8 243 24,3
+                                 Trèsmécontent            311 31,1 326 32,6
+                                 (NR)                     21  2,1  20  2,0
+
+--- page 9 ---
+
+STSatisfait              210 21,0 189 18,9
+                                 Nisatisfait,nimécontent  230 23,0 223 22,3
+                                 STMécontent              539 53,9 568 56,8
+                    XavierBertrand Base:Tous             1000 1000 1000 1000
+                                 Trèssatisfait            19  1,9  18  1,8
+                                 Plutôtsatisfait          101 10,1 86  8,6
+                                 Nisatisfait,nimécontent  284 28,4 280 28,0
+                                 Plutôtmécontent          290 29,0 309 30,9
+                                 Trèsmécontent            288 28,8 289 28,9
+                                 (NR)                     18  1,8  18  1,8
+                                 STSatisfait              120 12,0 104 10,4
+                                 Nisatisfait,nimécontent  284 28,4 280 28,0
+                                 STMécontent              578 57,8 598 59,8
+                    DavidLisnard Base:Tous               1000 1000 1000 1000
+                                 Trèssatisfait            40  4,0  46  4,6
+                                 Plutôtsatisfait          88  8,8  76  7,6
+                                 Nisatisfait,nimécontent  366 36,6 363 36,3
+                                 Plutôtmécontent          221 22,1 230 23,0
+                                 Trèsmécontent            262 26,2 263 26,3
+                                 (NR)                     23  2,3  22  2,2
+                                 STSatisfait              128 12,8 122 12,2
+                                 Nisatisfait,nimécontent  366 36,6 363 36,3
+                                 STMécontent              483 48,3 493 49,3
+                    LaurentWauquiez Base:Tous            1000 1000 1000 1000
+                                 Trèssatisfait            5   0,5  6   0,6
+                                 Plutôtsatisfait          63  6,3  55  5,5
+                                 Nisatisfait,nimécontent  282 28,2 290 29,0
+                                 Plutôtmécontent          289 28,9 284 28,4
+                                 Trèsmécontent            342 34,2 346 34,6
+                                 (NR)                     19  1,9  19  1,9
+                                 STSatisfait              68  6,8  61  6,1
+                                 Nisatisfait,nimécontent  282 28,2 290 29,0
+                                 STMécontent              631 63,1 630 63,0
+                    MarineLePen  Base:Tous               1000 1000 1000 1000
+                                 Trèssatisfait            227 22,7 209 20,9
+                                 Plutôtsatisfait          145 14,5 156 15,6
+                                 Nisatisfait,nimécontent  99  9,9  100 10,0
+                                 Plutôtmécontent          106 10,6 97  9,7
+                                 Trèsmécontent            403 40,3 421 42,1
+                                 (NR)                     20  2,0  18  1,8
+                                 STSatisfait              372 37,2 365 36,5
+                                 Nisatisfait,nimécontent  99  9,9  100 10,0
+                                 STMécontent              509 50,9 517 51,7
+                    EricZemmour  Base:Tous               1000 1000 1000 1000
+                                 Trèssatisfait            58  5,8  72  7,2
+                                 Plutôtsatisfait          96  9,6  93  9,3
+                                 Nisatisfait,nimécontent  115 11,5 100 10,0
+                                 Plutôtmécontent          133 13,3 123 12,3
+                                 Trèsmécontent            575 57,5 589 58,9
+                                 (NR)                     23  2,3  22  2,2
+                                 STSatisfait              154 15,4 165 16,5
+                                 Nisatisfait,nimécontent  115 11,5 100 10,0
+                                 STMécontent              708 70,8 712 71,2
+                    JordanBardella Base:Tous             1000 1000 1000 1000
+                                 Trèssatisfait            214 21,4 200 20,0
+                                 Plutôtsatisfait          154 15,4 158 15,8
+                                 Nisatisfait,nimécontent  113 11,3 119 11,9
+                                 Plutôtmécontent          101 10,1 87  8,7
+                                 Trèsmécontent            398 39,8 417 41,7
+                                 (NR)                     20  2,0  19  1,9
+                                 STSatisfait              368 36,8 358 35,8
+                                 Nisatisfait,nimécontent  113 11,3 119 11,9
+                                 STMécontent              499 49,9 504 50,4
+                    FrançoisHollande Base:Tous           1000 1000 1000 1000
+                                 Trèssatisfait            24  2,4  24  2,4
+                                 Plutôtsatisfait          148 14,8 156 15,6
+                                 Nisatisfait,nimécontent  195 19,5 206 20,6
+                                 Plutôtmécontent          254 25,4 242 24,2
+                                 Trèsmécontent            357 35,7 351 35,1
+                                 (NR)                     22  2,2  21  2,1
+
+--- page 10 ---
+
+STSatisfait              172 17,2 180 18,0
+                                 Nisatisfait,nimécontent  195 19,5 206 20,6
+                                 STMécontent              611 61,1 593 59,3
+                    MarineTondelier Base:Tous            1000 1000 1000 1000
+                                 Trèssatisfait            25  2,5  30  3,0
+                                 Plutôtsatisfait          87  8,7  93  9,3
+                                 Nisatisfait,nimécontent  247 24,7 245 24,5
+                                 Plutôtmécontent          211 21,1 217 21,7
+                                 Trèsmécontent            408 40,8 393 39,3
+                                 (NR)                     22  2,2  21  2,1
+                                 STSatisfait              112 11,2 123 12,3
+                                 Nisatisfait,nimécontent  247 24,7 245 24,5
+                                 STMécontent              619 61,9 610 61,0
+                    BrunonRetailleau Base:Tous           1000 1000 1000 1000
+                                 Trèssatisfait            34  3,4  34  3,4
+                                 Plutôtsatisfait          147 14,7 130 13,0
+                                 Nisatisfait,nimécontent  285 28,5 292 29,2
+                                 Plutôtmécontent          202 20,2 206 20,6
+                                 Trèsmécontent            309 30,9 318 31,8
+                                 (NR)                     23  2,3  21  2,1
+                                 STSatisfait              181 18,1 164 16,4
+                                 Nisatisfait,nimécontent  285 28,5 292 29,2
+                                 STMécontent              511 51,1 524 52,4
+                    DominiqueDeVillepin Base:Tous        1000 1000 1000 1000
+                                 Trèssatisfait            30  3,0  33  3,3
+                                 Plutôtsatisfait          89  8,9  88  8,8
+                                 Nisatisfait,nimécontent  284 28,4 280 28,0
+                                 Plutôtmécontent          280 28,0 281 28,1
+                                 Trèsmécontent            296 29,6 298 29,8
+                                 (NR)                     21  2,1  19  1,9
+                                 STSatisfait              119 11,9 121 12,1
+                                 Nisatisfait,nimécontent  284 28,4 280 28,0
+                                 STMécontent              576 57,6 579 57,9
+                    SarahKnafo   Base:Tous               1000 1000 1000 1000
+                                 Trèssatisfait            78  7,8  94  9,4
+                                 Plutôtsatisfait          94  9,4  80  8,0
+                                 Nisatisfait,nimécontent  227 22,7 231 23,1
+                                 Plutôtmécontent          180 18,0 185 18,5
+                                 Trèsmécontent            401 40,1 391 39,1
+                                 (NR)                     20  2,0  19  1,9
+                                 STSatisfait              172 17,2 174 17,4
+                                 Nisatisfait,nimécontent  227 22,7 231 23,1
+                                 STMécontent              581 58,1 576 57,6
+                    SébastienLecornu Base:Tous           1000 1000 1000 1000
+                                 Trèssatisfait            24  2,4  20  2,0
+                                 Plutôtsatisfait          118 11,8 105 10,5
+                                 Nisatisfait,nimécontent  255 25,5 255 25,5
+                                 Plutôtmécontent          291 29,1 300 30,0
+                                 Trèsmécontent            293 29,3 300 30,0
+                                 (NR)                     19  1,9  19  1,9
+                                 STSatisfait              142 14,2 126 12,6
+                                 Nisatisfait,nimécontent  255 25,5 255 25,5
+                                 STMécontent              584 58,4 600 60,0
+                    NicolasDupont-Aignan Base:Tous       1000 1000 1000 1000
+                                 Trèssatisfait            23  2,3  23  2,3
+                                 Plutôtsatisfait          95  9,5  97  9,7
+                                 Nisatisfait,nimécontent  246 24,6 248 24,8
+                                 Plutôtmécontent          227 22,7 224 22,4
+                                 Trèsmécontent            392 39,2 390 39,0
+                                 (NR)                     17  1,7  17  1,7
+                                 STSatisfait              118 11,8 120 12,0
+                                 Nisatisfait,nimécontent  246 24,6 248 24,8
+                                 STMécontent              619 61,9 614 61,4
+        SUJETMARINELEPEN
+        MLP1.Diriez-vousque Veutvraimentchangerles Base:Tous 1000 1000 1000 1000
+        chacundesqualificatifs choses S'appliquetrèsbien  254 25,4 238 23,8
+        suivantss’appliquebien   S'appliqueassezbien      282 28,2 280 28,0
+        oumalàMarineLePen?
+                                 S'appliqueassezmal       113 11,3 111 11,1
+                                 S'appliquetrèsmal        274 27,4 289 28,9
+                                 Vousnesavezvraimentpas   77  7,7  81  8,1
+
+--- page 11 ---
+
+STBIEN                   536 53,6 518 51,8
+                                 STMAL                    387 38,7 400 40,0
+                    Comprendbienlasituation Base:Tous    1000 1000 1000 1000
+                    réelledupays S'appliquetrèsbien       210 21,0 199 19,9
+                                 S'appliqueassezbien      260 26,0 266 26,6
+                                 S'appliqueassezmal       152 15,2 142 14,2
+                                 S'appliquetrèsmal        311 31,1 325 32,5
+                                 Vousnesavezvraimentpas   67  6,7  68  6,8
+                                 STBIEN                   470 47,0 465 46,5
+                                 STMAL                    463 46,3 467 46,7
+                    Estprochedes Base:Tous               1000 1000 1000 1000
+                    préoccupationsdesgens S'appliquetrèsbien 201 20,1 191 19,1
+                    commevous    S'appliqueassezbien      231 23,1 232 23,2
+                                 S'appliqueassezmal       125 12,5 119 11,9
+                                 S'appliquetrèsmal        357 35,7 370 37,0
+                                 Vousnesavezvraimentpas   86  8,6  88  8,8
+                                 STBIEN                   432 43,2 423 42,3
+                                 STMAL                    482 48,2 489 48,9
+                    Veutvraimentaméliorerla Base:Tous    1000 1000 1000 1000
+                    situationdesplusfragiles S'appliquetrèsbien 160 16,0 148 14,8
+                                 S'appliqueassezbien      247 24,7 243 24,3
+                                 S'appliqueassezmal       152 15,2 144 14,4
+                                 S'appliquetrèsmal        341 34,1 354 35,4
+                                 Vousnesavezvraimentpas   100 10,0 112 11,2
+                                 STBIEN                   407 40,7 390 39,0
+                                 STMAL                    493 49,3 498 49,8
+                    Alastaturepourêtre Base:Tous         1000 1000 1000 1000
+                    présidentedelaRépublique S'appliquetrèsbien 213 21,3 198 19,8
+                                 S'appliqueassezbien      221 22,1 229 22,9
+                                 S'appliqueassezmal       130 13,0 125 12,5
+                                 S'appliquetrèsmal        367 36,7 376 37,6
+                                 Vousnesavezvraimentpas   69  6,9  72  7,2
+                                 STBIEN                   434 43,4 427 42,7
+                                 STMAL                    497 49,7 501 50,1
+                    Seraitsuffisammentsolide Base:Tous   1000 1000 1000 1000
+                    pourfairefaceàune S'appliquetrèsbien  171 17,1 167 16,7
+                    situationdecrisemajeure S'appliqueassezbien 215 21,5 205 20,5
+                                 S'appliqueassezmal       133 13,3 127 12,7
+                                 S'appliquetrèsmal        379 37,9 388 38,8
+                                 Vousnesavezvraimentpas   102 10,2 114 11,4
+                                 STBIEN                   386 38,6 372 37,2
+                                 STMAL                    512 51,2 514 51,4
+                    Estsuffisammentbien Base:Tous        1000 1000 1000 1000
+                    entouréepourgouvernerle S'appliquetrèsbien 169 16,9 158 15,8
+                    pays         S'appliqueassezbien      211 21,1 210 21,0
+                                 S'appliqueassezmal       137 13,7 141 14,1
+                                 S'appliquetrèsmal        385 38,5 388 38,8
+                                 Vousnesavezvraimentpas   98  9,8  103 10,3
+                                 STBIEN                   380 38,0 368 36,8
+                                 STMAL                    522 52,2 529 52,9
+                    Esthonnête   Base:Tous               1000 1000 1000 1000
+                                 S'appliquetrèsbien       124 12,4 113 11,3
+                                 S'appliqueassezbien      206 20,6 200 20,0
+                                 S'appliqueassezmal       149 14,9 140 14,0
+                                 S'appliquetrèsmal        392 39,2 409 40,9
+                                 Vousnesavezvraimentpas   129 12,9 138 13,8
+                                 STBIEN                   330 33,0 313 31,3
+                                 STMAL                    541 54,1 548 54,8
+                    Estsolidesurlesenjeux Base:Tous      1000 1000 1000 1000
+                    économiques,commela S'appliquetrèsbien 153 15,3 146 14,6
+                    detteetledéficit,la S'appliqueassezbien 227 22,7 225 22,5
+                    croissanceoul'aideaux
+                                 S'appliqueassezmal       150 15,0 149 14,9
+                    entreprises
+                                 S'appliquetrèsmal        375 37,5 384 38,4
+                                 Vousnesavezvraimentpas   95  9,5  96  9,6
+                                 STBIEN                   380 38,0 371 37,1
+                                 STMAL                    525 52,5 533 53,3
+                    Estsolidesurlesenjeux Base:Tous      1000 1000 1000 1000
+                    sociaux,commelepouvoir S'appliquetrèsbien 162 16,2 156 15,6
+                    d'achat,lesinégalitésoule S'appliqueassezbien 263 26,3 254 25,4
+                    systèmedeprotection
+                                 S'appliqueassezmal       156 15,6 151 15,1
+                    sociale
+
+--- page 12 ---
+
+sociale
+                                 S'appliquetrèsmal        325 32,5 337 33,7
+                                 Vousnesavezvraimentpas   94  9,4  103 10,3
+                                 STBIEN                   425 42,5 410 41,0
+                                 STMAL                    481 48,1 487 48,7
+                    Estsolidesurlesenjeux Base:Tous      1000 1000 1000 1000
+                    d'immigrationet S'appliquetrèsbien    280 28,0 262 26,2
+                    d'intégration S'appliqueassezbien     246 24,6 247 24,7
+                                 S'appliqueassezmal       113 11,3 110 11,0
+                                 S'appliquetrèsmal        290 29,0 302 30,2
+                                 Vousnesavezvraimentpas   71  7,1  78  7,8
+                                 STBIEN                   526 52,6 510 51,0
+                                 STMAL                    403 40,3 413 41,3
+                    Estsolidesurlesenjeuxliés Base:Tous  1000 1000 1000 1000
+                    àl'insécurité S'appliquetrèsbien      255 25,5 238 23,8
+                                 S'appliqueassezbien      256 25,6 253 25,3
+                                 S'appliqueassezmal       136 13,6 135 13,5
+                                 S'appliquetrèsmal        268 26,8 289 28,9
+                                 Vousnesavezvraimentpas   85  8,5  84  8,4
+                                 STBIEN                   511 51,1 491 49,1
+                                 STMAL                    404 40,4 424 42,4
+                    Estsolidesurlesenjeux Base:Tous      1000 1000 1000 1000
+                    internationaux,commela S'appliquetrèsbien 146 14,6 138 13,8
+                    guerreenUkraine,les S'appliqueassezbien 193 19,3 199 19,9
+                    relationsaveclesÉtats-Unis
+                                 S'appliqueassezmal       146 14,6 136 13,6
+                    oulaconstruction
+                                 S'appliquetrèsmal        405 40,5 412 41,2
+                    européenne
+                                 Vousnesavezvraimentpas   110 11,0 115 11,5
+                                 STBIEN                   339 33,9 337 33,7
+                                 STMAL                    551 55,1 548 54,8
+                    Estsolidesurlesenjeux Base:Tous      1000 1000 1000 1000
+                    environnementaux S'appliquetrèsbien   108 10,8 105 10,5
+                                 S'appliqueassezbien      189 18,9 185 18,5
+                                 S'appliqueassezmal       175 17,5 158 15,8
+                                 S'appliquetrèsmal        392 39,2 404 40,4
+                                 Vousnesavezvraimentpas   136 13,6 148 14,8
+                                 STBIEN                   297 29,7 290 29,0
+                                 STMAL                    567 56,7 562 56,2
+        MLP4.SiMarineLePen Jean-LucMélenchon Base:Tous   1000 1000 1000 1000
+        étaitélueprésidentedela  Mieux                    445 44,5 424 42,4
+        Républiqueen2027,ferait- Moinsbien                243 24,3 269 26,9
+        elleselonvousmieux,
+                                 Nimieux,nimoinsbien      226 22,6 217 21,7
+        moinsbienounimieux,ni
+                                 Vousnesavezvraimentpas   86  8,6  89  8,9
+        moinsbienque…?
+                    MarineTondelier Base:Tous            1000 1000 1000 1000
+                                 Mieux                    371 37,1 367 36,7
+                                 Moinsbien                243 24,3 253 25,3
+                                 Nimieux,nimoinsbien      216 21,6 201 20,1
+                                 Vousnesavezvraimentpas   170 17,0 180 18,0
+                    OlivierFaure Base:Tous               1000 1000 1000 1000
+                                 Mieux                    346 34,6 339 33,9
+                                 Moinsbien                261 26,1 266 26,6
+                                 Nimieux,nimoinsbien      227 22,7 217 21,7
+                                 Vousnesavezvraimentpas   166 16,6 178 17,8
+                    RaphaelGlucksmann Base:Tous          1000 1000 1000 1000
+                                 Mieux                    351 35,1 347 34,7
+                                 Moinsbien                296 29,6 300 30,0
+                                 Nimieux,nimoinsbien      192 19,2 185 18,5
+                                 Vousnesavezvraimentpas   161 16,1 168 16,8
+                    GabrielAttal Base:Tous               1000 1000 1000 1000
+                                 Mieux                    350 35,0 339 33,9
+                                 Moinsbien                329 32,9 324 32,4
+                                 Nimieux,nimoinsbien      214 21,4 229 22,9
+                                 Vousnesavezvraimentpas   107 10,7 108 10,8
+                    EdouardPhilippe Base:Tous            1000 1000 1000 1000
+                                 Mieux                    334 33,4 323 32,3
+                                 Moinsbien                344 34,4 337 33,7
+                                 Nimieux,nimoinsbien      207 20,7 225 22,5
+                                 Vousnesavezvraimentpas   115 11,5 116 11,6
+                    BrunoRetailleau Base:Tous            1000 1000 1000 1000
+                                 Mieux                    291 29,1 274 27,4
+                                 Moinsbien                241 24,1 234 23,4
+                                 Nimieux,nimoinsbien      330 33,0 342 34,2
+
+--- page 13 ---
+
+Vousnesavezvraimentpas   138 13,8 150 15,0
+        MLP5.Voiciplusieurs Leprogrammeéconomique Base:Tous 1000 1000 1000 1000
+        opinionsquel’onentend duRassemblementNational Toutàfaitd'accord 274 27,4 270 27,0
+        parfoisàproposdu estdangereux Plutôtd'accord      228 22,8 235 23,5
+        RassemblementNational
+                                 Plutôtpasd'accord        297 29,7 289 28,9
+        etdeMarineLePen.Etes-
+                                 Pasdutoutd'accord        180 18,0 183 18,3
+        vousd’accordoupas
+                                 (NR)                     21  2,1  23  2,3
+        d’accordavecchacune
+                                 STD'accord               502 50,2 505 50,5
+        d’entreelles?
+                                 STPasd'accord            477 47,7 472 47,2
+                    LeRassemblementNational Base:Tous    1000 1000 1000 1000
+                    changetropsouventde Toutàfaitd'accord 216 21,6 210 21,0
+                    positionsurdespoints Plutôtd'accord   325 32,5 329 32,9
+                    importantsdeson
+                                 Plutôtpasd'accord        297 29,7 291 29,1
+                    programme
+                                 Pasdutoutd'accord        144 14,4 149 14,9
+                                 (NR)                     18  1,8  21  2,1
+                                 STD'accord               541 54,1 538 53,8
+                                 STPasd'accord            441 44,1 440 44,0
+                    LeRassemblementNational Base:Tous    1000 1000 1000 1000
+                    faitdespromesses Toutàfaitd'accord    325 32,5 322 32,2
+                    économiquesqu'ilne Plutôtd'accord     265 26,5 276 27,6
+                    pourraitpasfinancers'il
+                                 Plutôtpasd'accord        273 27,3 265 26,5
+                    arrivaitaupouvoir
+                                 Pasdutoutd'accord        118 11,8 116 11,6
+                                 (NR)                     19  1,9  21  2,1
+                                 STD'accord               590 59,0 597 59,7
+                                 STPasd'accord            391 39,1 382 38,2
+                    LeRassemblementNational Base:Tous    1000 1000 1000 1000
+                    nedisposepasd'un Toutàfaitd'accord    264 26,4 264 26,4
+                    personnelsuffisamment Plutôtd'accord  258 25,8 254 25,4
+                    nombreuxetcompétentpour
+                                 Plutôtpasd'accord        299 29,9 303 30,3
+                    dirigerlepays
+                                 Pasdutoutd'accord        165 16,5 165 16,5
+                                 (NR)                     14  1,4  13  1,3
+                                 STD'accord               522 52,2 518 51,8
+                                 STPasd'accord            464 46,4 468 46,8
+                    LeRassemblementNational Base:Tous    1000 1000 1000 1000
+                    n'apasdepartisalliésavec Toutàfaitd'accord 188 18,8 182 18,2
+                    lesquelsilpourraitgouverner Plutôtd'accord 380 38,0 375 37,5
+                    lepays
+                                 Plutôtpasd'accord        309 30,9 318 31,8
+                                 Pasdutoutd'accord        106 10,6 107 10,7
+                                 (NR)                     17  1,7  18  1,8
+                                 STD'accord               568 56,8 557 55,7
+                                 STPasd'accord            415 41,5 425 42,5
+                    Ilyatropdedésaccords Base:Tous       1000 1000 1000 1000
+                    entrelesprincipaux Toutàfaitd'accord  176 17,6 168 16,8
+                    dirigeantsdu Plutôtd'accord           354 35,4 361 36,1
+                    RassemblementNationalsur
+                                 Plutôtpasd'accord        315 31,5 317 31,7
+                    desenjeuximportants
+                                 Pasdutoutd'accord        142 14,2 139 13,9
+                                 (NR)                     13  1,3  15  1,5
+                                 STD'accord               530 53,0 529 52,9
+                                 STPasd'accord            457 45,7 456 45,6
+                    SiMarineLePenarrivaitau Base:Tous    1000 1000 1000 1000
+                    pouvoir,nosalliés Toutàfaitd'accord   185 18,5 179 17,9
+                    traditionnelsàl'étrangerse Plutôtd'accord 295 29,5 304 30,4
+                    détourneraientdenous
+                                 Plutôtpasd'accord        335 33,5 321 32,1
+                                 Pasdutoutd'accord        167 16,7 178 17,8
+                                 (NR)                     18  1,8  18  1,8
+                                 STD'accord               480 48,0 483 48,3
+                                 STPasd'accord            502 50,2 499 49,9
+                    L'arrivéeaupouvoirdu Base:Tous       1000 1000 1000 1000
+                    RassemblementNational Toutàfaitd'accord 272 27,2 262 26,2
+                    affaibliraitl'influencedela Plutôtd'accord 241 24,1 254 25,4
+                    Franceauseindel'Union
+                                 Plutôtpasd'accord        292 29,2 285 28,5
+                    européenne
+                                 Pasdutoutd'accord        179 17,9 185 18,5
+                                 (NR)                     16  1,6  14  1,4
+                                 STD'accord               513 51,3 516 51,6
+                                 STPasd'accord            471 47,1 470 47,0
+                    SiMarineLePenétaitélue Base:Tous     1000 1000 1000 1000
+                    présidente,elleadopterait Toutàfaitd'accord 241 24,1 234 23,4
+                    unepositiontropfavorableà Plutôtd'accord 311 31,1 321 32,1
+                    laRussiedanslaguerreen
+                                 Plutôtpasd'accord        303 30,3 284 28,4
+                    Ukraine
+                                 Pasdutoutd'accord        125 12,5 140 14,0
+
+--- page 14 ---
+
+(NR)                     20  2,0  21  2,1
+                                 STD'accord               552 55,2 555 55,5
+                                 STPasd'accord            428 42,8 425 42,5
+                    LeRassemblementNational Base:Tous    1000 1000 1000 1000
+                    resteavanttoutunparti Toutàfaitd'accord 280 28,0 275 27,5
+                    nationalisteetxénophobe Plutôtd'accord 215 21,5 222 22,2
+                                 Plutôtpasd'accord        237 23,7 236 23,6
+                                 Pasdutoutd'accord        251 25,1 249 24,9
+                                 (NR)                     17  1,7  17  1,7
+                                 STD'accord               495 49,5 497 49,7
+                                 STPasd'accord            488 48,8 485 48,5
+                    LeRassemblementNational Base:Tous    1000 1000 1000 1000
+                    représenteunréeldanger Toutàfaitd'accord 297 29,7 295 29,5
+                    pourladémocratie Plutôtd'accord       173 17,3 194 19,4
+                                 Plutôtpasd'accord        230 23,0 218 21,8
+                                 Pasdutoutd'accord        283 28,3 276 27,6
+                                 (NR)                     17  1,7  18  1,8
+                                 STD'accord               470 47,0 489 48,9
+                                 STPasd'accord            513 51,3 494 49,4
+                    L'arrivéeaupouvoirdu Base:Tous       1000 1000 1000 1000
+                    Rassemblementnational Toutàfaitd'accord 324 32,4 326 32,6
+                    aggraveraitencoreplusles Plutôtd'accord 258 25,8 260 26,0
+                    tensionsetlesdivisionsau
+                                 Plutôtpasd'accord        230 23,0 227 22,7
+                    seindelasociétéfrançaise
+                                 Pasdutoutd'accord        167 16,7 165 16,5
+                                 (NR)                     21  2,1  22  2,2
+                                 STD'accord               582 58,2 586 58,6
+                                 STPasd'accord            397 39,7 392 39,2
+                    Dansl'entouragedeMarine Base:Tous    1000 1000 1000 1000
+                    LePen,ilyaencorede Toutàfaitd'accord  370 37,0 365 36,5
+                    nombreusespersonnesqui Plutôtd'accord 291 29,1 298 29,8
+                    défendentdesidées
+                                 Plutôtpasd'accord        235 23,5 220 22,0
+                    extrémistes
+                                 Pasdutoutd'accord        88  8,8  101 10,1
+                                 (NR)                     16  1,6  16  1,6
+                                 STD'accord               661 66,1 663 66,3
+                                 STPasd'accord            323 32,3 321 32,1
+                    Malgrésesdiscours,le Base:Tous       1000 1000 1000 1000
+                    RassemblementNationalfait Toutàfaitd'accord 244 24,4 236 23,6
+                    delapolitiquecommeles Plutôtd'accord  406 40,6 413 41,3
+                    autrespartis
+                                 Plutôtpasd'accord        193 19,3 184 18,4
+                                 Pasdutoutd'accord        138 13,8 144 14,4
+                                 (NR)                     19  1,9  23  2,3
+                                 STD'accord               650 65,0 649 64,9
+                                 STPasd'accord            331 33,1 328 32,8
+                    Enmatièred'honnêtetéetde Base:Tous   1000 1000 1000 1000
+                    probité,leRassemblement Toutàfaitd'accord 240 24,0 227 22,7
+                    Nationaln'estpasdifférent Plutôtd'accord 359 35,9 360 36,0
+                    desautrespartispolitiques
+                                 Plutôtpasd'accord        220 22,0 206 20,6
+                                 Pasdutoutd'accord        165 16,5 185 18,5
+                                 (NR)                     16  1,6  22  2,2
+                                 STD'accord               599 59,9 587 58,7
+                                 STPasd'accord            385 38,5 391 39,1
+                    LeRassemblementnational Base:Tous    1000 1000 1000 1000
+                    estlepartiquiales Toutàfaitd'accord   250 25,0 233 23,3
+                    meilleurespropositionssur Plutôtd'accord 268 26,8 268 26,8
+                    l'immigrationoul'Islam
+                                 Plutôtpasd'accord        174 17,4 172 17,2
+                                 Pasdutoutd'accord        287 28,7 302 30,2
+                                 (NR)                     21  2,1  25  2,5
+                                 STD'accord               518 51,8 501 50,1
+                                 STPasd'accord            461 46,1 474 47,4
+                    LeRassemblementNational Base:Tous    1000 1000 1000 1000
+                    araisondevouloirréserver Toutàfaitd'accord 345 34,5 333 33,3
+                    enprioritécertainesaideset Plutôtd'accord 299 29,9 305 30,5
+                    certainsdroitsauxFrançais
+                                 Plutôtpasd'accord        155 15,5 159 15,9
+                                 Pasdutoutd'accord        183 18,3 185 18,5
+                                 (NR)                     18  1,8  16  1,6
+                                 STD'accord               644 64,4 639 63,9
+                                 STPasd'accord            338 33,8 345 34,5
+                    LeRassemblementNational Base:Tous    1000 1000 1000 1000
+                    estlepartiquipeutlemieux Toutàfaitd'accord 198 19,8 187 18,7
+                    protégerlesFrançaisface Plutôtd'accord 252 25,2 249 24,9
+                    auxdifficultéséconomiques
+
+--- page 15 ---
+
+auxdifficultéséconomiques
+                                 Plutôtpasd'accord        227 22,7 233 23,3
+                    etsociales
+                                 Pasdutoutd'accord        305 30,5 314 31,4
+                                 (NR)                     18  1,8  17  1,7
+                                 STD'accord               450 45,0 436 43,6
+                                 STPasd'accord            532 53,2 546 54,6
+                    LeRassemblementNational Base:Tous    1000 1000 1000 1000
+                    estlepartiquicomprendle Toutàfaitd'accord 228 22,8 217 21,7
+                    mieuxlespréoccupations Plutôtd'accord 230 23,0 237 23,7
+                    desgenscommevous
+                                 Plutôtpasd'accord        191 19,1 193 19,3
+                                 Pasdutoutd'accord        326 32,6 327 32,7
+                                 (NR)                     25  2,5  26  2,6
+                                 STD'accord               458 45,8 454 45,4
+                                 STPasd'accord            517 51,7 520 52,0
+                    LeRassemblementNational Base:Tous    1000 1000 1000 1000
+                    pourraitremettredel'ordre Toutàfaitd'accord 262 26,2 254 25,4
+                    danslepays   Plutôtd'accord           269 26,9 271 27,1
+                                 Plutôtpasd'accord        191 19,1 194 19,4
+                                 Pasdutoutd'accord        267 26,7 268 26,8
+                                 (NR)                     11  1,1  13  1,3
+                                 STD'accord               531 53,1 526 52,6
+                                 STPasd'accord            458 45,8 462 46,2
+                    LeRassemblementNational Base:Tous    1000 1000 1000 1000
+                    estlepartiquidéfendle Toutàfaitd'accord 225 22,5 210 21,0
+                    mieuxlesintérêtsdela Plutôtd'accord   239 23,9 245 24,5
+                    France
+                                 Plutôtpasd'accord        215 21,5 213 21,3
+                                 Pasdutoutd'accord        304 30,4 313 31,3
+                                 (NR)                     17  1,7  20  2,0
+                                 STD'accord               464 46,4 455 45,5
+                                 STPasd'accord            519 51,9 525 52,5
+                    LeRassemblementNational Base:Tous    1000 1000 1000 1000
+                    estaujourd'huiprêtà Toutàfaitd'accord 242 24,2 231 23,1
+                    gouvernerlepays Plutôtd'accord        242 24,2 247 24,7
+                                 Plutôtpasd'accord        208 20,8 207 20,7
+                                 Pasdutoutd'accord        288 28,8 295 29,5
+                                 (NR)                     20  2,0  20  2,0
+                                 STD'accord               484 48,4 478 47,8
+                                 STPasd'accord            496 49,6 503 50,3
+                    LeRassemblementNational Base:Tous    1000 1000 1000 1000
+                    estmoinsextrémisteque Toutàfaitd'accord 256 25,6 259 25,9
+                    danslepassé  Plutôtd'accord           324 32,4 299 29,9
+                                 Plutôtpasd'accord        168 16,8 173 17,3
+                                 Pasdutoutd'accord        234 23,4 246 24,6
+                                 (NR)                     18  1,8  23  2,3
+                                 STD'accord               580 58,0 558 55,8
+                                 STPasd'accord            402 40,2 419 41,9
+                    Ladroitecommelagauche Base:Tous      1000 1000 1000 1000
+                    ontéchouéaupouvoir,ilfaut Toutàfaitd'accord 275 27,5 261 26,1
+                    donclaissersachanceau Plutôtd'accord  209 20,9 208 20,8
+                    RassemblementNational
+                                 Plutôtpasd'accord        177 17,7 196 19,6
+                                 Pasdutoutd'accord        318 31,8 317 31,7
+                                 (NR)                     21  2,1  18  1,8
+                                 STD'accord               484 48,4 469 46,9
+                                 STPasd'accord            495 49,5 513 51,3
+        MLP6.Aucoursdesdernièressemaines,desdésaccords Base:Tous 1000 1000 1000 1000
+        sontapparusentredesdirigeantsduRassemblement Unemeilleureopinionduparti,carilyaundébatet
+                                                          227 22,7 210 21,0
+        nationalsurdessujetsimportantscommelesretraites, différentessensibilitésensonsein
+        l'aideàl'Ukraine,l'interdictionduvoileoul'immigration.
+        LefaitquedesresponsablesduRassemblementNational Unemoinsbonneopinionduparti,carcelamontre
+                                                          230 23,0 236 23,6
+        exprimentdespositionsdifférentessurcessujets,cela qu'ilmanquedecohérenceetdeclarté
+        vousdonne-t-ilplutôt…
+                                 Celanechangepasvotreopinionenversleparti 543 54,3 554 55,4
+                                 (NR)
