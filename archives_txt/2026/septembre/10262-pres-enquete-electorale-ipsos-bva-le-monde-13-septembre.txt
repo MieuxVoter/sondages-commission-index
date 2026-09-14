@@ -1,0 +1,2375 @@
+# notice commission des sondages
+# source_pdf: archives/2026/septembre/10262-pres-enquete-electorale-ipsos-bva-le-monde-13-septembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+•  11  septembre           2026
+
+                                NOTICE               TECHNIQUE
+
+                                ENQUETE     ELECTORALE       FRANCAISE      – Septembre     2026
+
+                                IPSOS   bva Cesi  Ecole  d’ingénieurs   pour  Le  Monde,   le
+
+                                CEVIPOF,    la Fondation   Jean  Jaurès   et l’Institut Montaigne
+
+--- page 2 ---
+
+ARTICLE      2 –  INFORMATIONS           GENERALES
+
+    ▪ Organisme    ayant  réalisé  le sondage              IPSOS  bva
+
+                                                           CEVIPOF    – Le Monde    – Fondation   Jean   Jaurès  – Institut
+    ▪ Commanditaires      du sondage
+                                                           Montaigne
+
+                                                            13 060  personnes    inscrites  sur  les listes électorales,
+
+                                                            constituant    un échantillon   représentatif   de  la population
+
+    ▪ Nombre    de personnes    interrogées                 française   âgée  de  18 ans  et plus (dont  8 984  à 9 445
+
+                                                            certaines   d’aller voter et exprimant    une  intention  de  vote
+
+                                                            selon  l’hypothèse)
+
+    ▪ Dates  de réalisation   des  interviews              Du 3 au  9 septembre    2026
+
+    ▪ Date  de diffusion  prévue                           Le 13 septembre     à 19H
+
+    ▪ Questionnaire                                        Présenté   intégralement     dans  le rapport  d’étude  ci-après
+
+--- page 3 ---
+
+PRÉCISIONS             SUR     L’INTERVALLE             DE    CONFIANCE
+
+    L’intervalle de confiance (appelé aussi marge d’erreur) est l’intervalle dans lequel se trouve la valeur recherchée avec une probabilité fixée (le niveau
+
+    de confiance). L’amplitude de cet intervalle dépend du niveau de confiance, de la valeur observée et de la taille de l’échantillon. Le calcul n’est
+    justifié que pour les sondages aléatoires. Il ne peut pas être déterminé dans le cas de sondages par quotas mais on considère qu’il est proche de
+    celui des sondages aléatoires.
+
+                             INTERVALLE   DE CONFIANCE
+
+                         (avec un niveau de confiance de 95%)
+                                      SCORES OBTENUS (P)                      Note de lecture :
+        Taille
+                                                                              *pour un échantillon de 13 060 personnes, si le score mesuré est de
+     d'échantillon 2% ou 5% ou 10% ou 15% ou 20% ou 25% ou 30% ou 35% ou 40% ou 45% ou
+                                                                        50%   20%, il y a 95% de chances pour que la valeur réelle se situe
+         (N)    98%   95%  90%   85%  80%   75%  70%   65%   60%  55%
+                                                                              aujourd’hui entre 19,3% et 20,7% (plus ou moins 0,7 point).
+        100      2,7  4,3   5,9  7,0   7,8  8,5   9,0  9,3   9,6   9,8  9,8   ** base intentions de vote Hypothèse R. Glucksmann, G. Attal et E.
+        500      1,2  1,9   2,6  3,1   3,5  3,8   4,0  4,2   4,3   4,4  4,4   Philippe, pour un échantillon de 9 445 personnes, si le score mesuré
+                                                                              est de 20%, il y a 95% de chances pour que la valeur réelle se situe
+        1 000    0,9  1,4   1,9  2,2   2,5  2,7   2,8  3,0   3,0   3,1  3,1
+                                                                              aujourd’hui entre 19,2% et 20,8% (plus ou moins 0,8 point).
+        2 500    0,5  0,9   1,2  1,4   1,6  1,7   1,8  1,9   1,9   2,0  2,0
+        6 000    0,4  0,6   0,8  0,9   1,0  1,1   1,2  1,2   1,2   1,3  1,3
+       9 445**   0,3  0,4   0,6  0,7   0,8  0,9   0,9  0,9   1,0   1,0  1,0
+       10 000    0,3  0,4   0,6  0,7   0,8  0,8   0,9  0,9   1,0   1,0  1,0
+       13 060*   0,2  0,4   0,5  0,6   0,7  0,7   0,8  0,8   0,8   0,9  0,9
+       15 000    0,2  0,3   0,5  0,6   0,6  0,7   0,7  0,8   0,8   0,8  0,8
+
+    ©Ipsos bvaCesiécole d’ingénieurs –CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 –Septembre 2026 –Vague 3 3
+
+--- page 4 ---
+
+ARTICLE      3 – INFORMATIONS            GENERALES
+
+     ▪ Objet du sondage                              ENQUETE   ELECTORALE    FRANCAISE   – Septembre 2026
+
+                                                     13 060 personnes inscrites sur les listes électorales, constituant un échantillon
+                                                     représentatif de la population française âgée de 18 ans et plus
+     ▪ Echantillon interrogé
+                                                     Méthode  des quotas : le sexe, l’âge, la profession, la région et la catégorie
+                                                     d’agglomération.
+
+     ▪ Mode de recueil                               En ligne, via l’Access Panel d’Ipsos
+
+                                                     Le taux de non-réponse  (lorsqu’il est supérieur à 0) est présenté pour chaque
+     ▪ Taux de non-réponse
+                                                     question dans le rapport ci-après.
+
+                                                     Chaque  répondant  a obtenu des points cumulables pour une valeur inférieure à 1
+     ▪ Gratification des personnes interrogées
+                                                     euro.
+
+                                                     Le redressement  a été effectué à partir de la structure sociodémographique de
+
+                                                     la population française âgée de 18 ans et plus (sexe, âge, catégorie
+     ▪ Critères de redressement                      socioprofessionnelle de la personne interrogée, région et catégorie
+                                                     d’agglomération), du souvenir de vote aux élections européennes de 2024 et du
+
+                                                     souvenir de vote au 1er tour de l’élection présidentielle de 2022.
+
+--- page 5 ---
+
+ENQUÊTE
+
+   ÉLECTORALE
+
+   FRANÇAISE                           2026
+
+    Septembre       2026    – Vague     3
+
+  Brice Teinturier
+
+  Jean-François  Doridot
+  Federico  Vacas
+
+  Pierre Latrille
+  prenom.nom@ipsos.com
+
+--- page 6 ---
+
+MÉTHODOLOGIE
+
+                    ÉCHANTILLON                                           MÉTHODOLOGIE
+
+                    13 060 personnes inscrites sur les listes
+
+                    électorales, constituant un échantillon
+                                                                     Échantillon interrogé par Internet via l’Access
+                    représentatif de la population française
+                                                                     Panel Online d’Ipsos.
+                    âgée de 18 ans et plus.
+                                                                     Méthode  des quotas  :
+                                                                     Sexe, âge, profession, région, catégorie
+                                                                     d’agglomération.
+                    DATES    DE  TERRAIN
+
+                     Du 3 au 9 septembre 2026
+
+         Notes de lecture :
+         Tous les résultats sont exprimés en pourcentages (%).
+
+                 Ce rapport a été réalisé pour :
+
+                Ce rapport a été élaboré dans le respect de la norme internationale ISO 20252 «Etudes de marché, études sociales et d’opinion».
+                Ce rapport a été relu par Federico Vacas, Directeur adjoint – Public Affairs.
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 6
+
+--- page 7 ---
+
+L’ÉTAT              DE       L’OPINION                   DANS            LA
+
+     PERSPECTIVE                           DE      L’ÉLECTION
+
+     PRÉSIDENTIELLE                                2027
+
+     ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne :
+     Enquête électorale française 2026 – Septembre 2026 – Vague 3
+                                                                  7
+
+--- page 8 ---
+
+L’état     d’esprit     des    Français
+
+     Question : Parmi les mots suivants, quels sont ceux qui caractérisent le mieux votre état d’esprit aujourd’hui ?
+     Base : à tous – Total supérieur à 100% car 3 réponses possibles     Rappels
+
+     % Au total                                                      Mai 2024* Oct. 2021**
+
+           Inquiétude
+                                                          59             48         38
+                                                                                                           91%
+           Incertitude
+                                                     51                  42         39
+              Fatigue                      34                            32         37             Citent  au  moins    un
+               Colère                   30                               21         16             sentiment     négatif
+
+              Révolte                24                                  17         14                  68% ne citent que
+
+                                                                                                     des sentiments négatifs
+             Angoisse            17                                      17         12
+
+               Espoir            17                                      25         25
+
+             Déprime        10                                           12         10
+
+            Bien-être       9                                            14         19                     32%
+
+            Confiance       9                                            15         21
+                                                                                                   Citent  au  moins    un
+             Bonheur       7                                             11         14
+                                                                                                   sentiment     positif
+             Sérénité      7                                             13         19                 9% qui ne citent que
+
+                                                                                                     des sentiments positifs
+        Enthousiasme     5                                                9         10
+   *Ipsos CEVIPOF FJJ LE MONDE – Enquête électorale 2024 – Vague 5- 11 430 répondants âgés de 18 ans et plus, inscrits sur les listes électorales interrogés du 27 au 31 mai 2024
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 8
+   **Ipsos CEVIPOF FJJ LE MONDE – Enquête électorale 2021 – Vague 2- 16 228 répondants âgés de 18 ans et plus, inscrits sur les listes électorales interrogés du 7 au 13 octobre 2021
+
+--- page 9 ---
+
+L’évolution        attendue        de   la situation       en  France      (1/2)
+
+     Question : Dans les mois à venir, diriez-vous que la situation du pays va s’améliorer, se détériorer ou rester la même ?
+     Base : à tous
+
+                                                                                         % SELON L’ÂGE
+                              4
+
+                                                                                           18-24 ans 10 23            67
+                                      22
+
+                                                                                           25-34 ans 6 23            71
+
+                                                                                           35-49 ans 3 25            72
+
+                                                 RAPPELS OCTOBRE 2021*
+                                                                                           50-59 ans 2 21           77
+
+                  74
+                                                                     21                    60-69 ans 2 19           79
+
+                                                           45
+                                                                                         70 ans et plus 2 22        76
+
+                                                                     34
+
+       Va s’améliorer         Va rester la même        Va se détériorer
+
+ * Ipsos CEVIPOF FJJ LE MONDE – Enquête électorale 2021 – Vague 2- 16 228 répondants âgés de 18 ans et plus, inscrits sur les listes électorales interrogés du 7 au 13 octobre 2021
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 9
+
+--- page 10 ---
+
+L’évolution        attendue        de   la situation       en  France      (2/2)
+
+     Question : Dans les mois à venir, diriez-vous que la situation du pays va s’améliorer, se détériorer ou rester la même ?
+     Base : à tous
+
+                                                                                        % SELON LA PROXIMITÉ PARTISANE
+
+                                                                                                   LFI 7 20          73
+
+                              4
+                                                                                                    PC 3 20         77
+
+                                      22                                                     Les Ecologistes 4 27    69
+
+                                                                                           PS / Place Publique 2 31   67
+
+                                                                                             ST Bloc central 5 35     60
+
+                                                                                           …dont Renaissance 7 38      55
+                                                 RAPPELS OCTOBRE 2021*
+                                                                                             …Dont MODEM 3 29        68
+                  74
+                                                                     21                     ….Dont Horizons 2 32      66
+
+                                                                                                    LR 3 21         76
+                                                           45
+                                                                                                    RN 3 15         82
+                                                                     34
+                                                                                               Reconquête 210      88
+
+                                                                                               Aucun parti 3 25      72
+
+       Va s’améliorer         Va rester la même        Va se détériorer
+
+ * Ipsos CEVIPOF FJJ LE MONDE – Enquête électorale 2021 – Vague 2- 16 228 répondants âgés de 18 ans et plus, inscrits sur les listes électorales interrogés du 7 au 13 octobre 2021
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 10
+
+--- page 11 ---
+
+Les    attentes       concernant         la  prochaine        élection      présidentielle
+
+     Question : Qu’attendez-vous de la prochaine élection présidentielle ?
+     Base : à tous
+
+                                                                                        % SELON LA PROXIMITÉ PARTISANE
+
+                                                                                                 LFI          82          12 5 1
+                        2
+                  11
+                                                                                                 PC          74         15 10 1
+                                                                                          Les Ecologistes  63         22   11 4
+
+          16                                                                            PS / Place Publique 62        26   102
+
+                                                                                           ST Bloc central 51        37    10 2
+                                                RAPPELS OCTOBRE 2021*
+                                                                                        …dont Renaissance 47         41    9 3
+                                                            4
+                                                        16                                 …Dont MODEM    54        27    16 3
+                                   71
+                                                                                          ….Dont Horizons 57          34    7 2
+                                                                    51
+                                                                                                 LR         72          19  6 3
+
+                                                      29
+                                                                                                 RN            89          7 4
+                                                                                            Reconquête         92           341
+
+                                                                                             Aucun parti   59       16   21  4
+
+     … de réaliser un vrai
+                              …d’apaiser la France     Je n’en attends rien     Ne se prononce pas
+ changement social et politique
+ * Ipsos CEVIPOF FJJ LE MONDE – Enquête électorale 2021 – Vague 2- 16 228 répondants âgés de 18 ans et plus, inscrits sur les listes électorales interrogés du 7 au 13 octobre 2021
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 11
+
+--- page 12 ---
+
+Les    questions        prioritaires       auxquelles         la France      est   confrontée
+
+     Question : Parmi les grandes questions auxquelles la France est aujourd’hui confrontée, quelles sont, parmi les suivantes,
+
+     les deux qui vous semblent les plus importantes
+     Base : à tous – Total supérieur à 100% car 2 réponses possibles
+
+                                  Les questions économiques   et financières
+                                                                                                                         54
+    (importance des déficits publics, faible croissance économique, concurrence plus agressive de
+                                                                                                  30
+                                                          certains grands pays…)
+                                                     Les questions sociales
+                                                                                                                        53
+  (stagnation du pouvoir d’achat, hausse des inégalités sociales et territoriales, manque de mobilité
+                                                                                                 29
+                                                                    sociale…)
+                                          Les questions environnementales
+                                                                                                     30
+          (dérèglement climatique, recul de la biodiversité, pollution de l’air, de l’eau et des sols…)
+                                                                                    13
+                                                  Les questions identitaires
+      (difficultés liées à l’intégration des personnes étrangères, hausse de l’immigration, perte des 29
+                                                         valeurs traditionnelles…)     16
+                    Les questions de représentation et de décision politique
+
+  (fragmentation des forces politiques, absence de majorités et difficulté à passer des compromis, 15
+                                      sentiment des Français d’être mail représentés…) 6
+
+                                                  Les questions de défense                                 Au total   En premier
+   (guerre en Ukraine et menace russe, multiplication des conflits, lutte contre la désinformation et 15
+                             les tentatives de déstabilisation menées par certains pays…) 5
+
+                                                        Aucune  de celles-là
+                                                                              1
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 12
+
+--- page 13 ---
+
+Les    questions        prioritaires       auxquelles         la France      est   confrontée
+
+     Question : Parmi les grandes questions auxquelles la France est aujourd’hui confrontée, quelles sont, parmi les suivantes,
+
+     les deux qui vous semblent les plus importantes
+     Base : à tous – Total supérieur à 100% car 2 réponses possibles
+
+                 %AU   TOTAL      Ens.                    LES   PS / PLACE ST BLOC …DONT …DONT ….DONT                         AUCUN
+                                           LFI     PC   ECOLOGISTES PUBLIQUE CENTRAL RENAISSANCE MODEM HORIZONS LR RN RECONQUÊTE PARTI
+  Les questions économiques
+                                  54       32     40      29      52     72      70      67      79     71      55      63     56
+               et financières
+
+      Les questions sociales      53       85      81     64      62     35      36      35     33      31      49     20      54
+
+                Les questions
+                                  30       58     49      79      43     27      26      34     25      17      10      6      30
+          environnementales
+
+    Les questions identitaires    29       7       5       5      7       13     12      19      14     42      59      83     22
+
+             Les questions de
+         représentation et de     15       13      14      8      16     20      21      18      21     17      12      18     15
+
+            décision politique
+
+    Les questions de défense      15       5       8      12      18     32      34      28     28      21      12      8      15
+
+          Aucune  de celles-là     1       -       1       1       1      -       -       -      -       -       1      1       3
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 13
+
+--- page 14 ---
+
+Les    priorités      en   matière      budgétaire
+
+     Question : Selon vous faudrait-il, en France, augmenter, maintenir au même niveau ou diminuer ?
+                                                                                           % D               % A
+     Base : à tous                                                                             IMINUER           UGMENTER
+
+                Le déficit budgétaire de l’Etat      46                34        8 33 6        80                  6
+
+                           La dette publique          51                 33       6 33 4       84                  6
+
+                       Les dépenses de l’Etat          55               24      9   6 33       79                  9
+
+           L’âge minimum du départ en retraite 10   24            37           21    4 4       34                  25
+
+      Le nombre de trimestres nécessaires pour
+                                             9      23            42            18   3 5       32                  21
+                 avoir une retraite à taux plein
+
+                     Le montant des retraites 1 5   32               44            15  3        6                  59
+
+                                                  Maintenir au
+   Fortement diminuer      Plutôt diminuer                            Plutôt augmenter    Fortement augmenter       Je ne sais pas
+                                                  même niveau
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 14
+
+--- page 15 ---
+
+Les    priorités      en   matière      budgétaire
+
+     Question : Selon vous faudrait-il, en France, augmenter, maintenir au même niveau ou diminuer ?
+     Base : à tous
+                                                                                                Le nombre de trimestres
+                  Le déficit budgétaire de                                  L’âge minimum du départ                   Le montant des
+                                        La dette publique Les dépenses de l’Etat               nécessaires pour avoir une
+                        l’Etat                                                   en retraite                             retraites
+                                                                                                  retraite à taux plein
+               Ens.
+                        80    866           84    664          79    9 93       34  37  25 4       32   42  21 5     6 32    59   3
+                LFI
+                       64   15 9 12        71    13 8 8      50   16 29 5         71    21 62        64    25 56     6 20    71   3
+                PC
+                       70    21 36         75    14 74        62   13 22 3       58    33 72        51    38  83     9 17    72   2
+        Les Ecologistes
+                       73    14 58         80     1064        65    17 144      43    39 15 3       42   42  115     5  36    55  4
+      PS / Place publique
+                        81    946           84    943          75    15 82     27   49   21 3      28   51   17 4    6  35    57  2
+        ST Bloc central 88     633          92     422         86     932     10 36    52  2      11 44    42 3      7   50    41 2
+     …dont Renaissance  88     732          92     422         85     1131    11 37    50  2      12 44    41 3      7  46    44  3
+
+        …Dont MODEM     84     745          90     442         84     835     12  41   43  4      11 46    40 3      7   60     32 1
+
+       ….Dont Horizons   91    333          93     421          91     630    8 30    60   2      7  43    48 2      7   53    38 2
+
+                LR       92    332          94     321          92     431    12 35    50  3      12 42    42 4      4  46    47  3
+
+                RN      84    664           88    462           88    471       37   39  21 3      35   44   18 3    6 24    68   2
+
+          Reconquête     92    422          93     331          95     230    10 33    54  3      9  44    41 6      10 38    48  4
+
+           Aucun parti
+                        75   9 7 9         80     767          81    775       32   41   21 6      31   44  17 8     6 31    57   6
+                    Maintenir au même
+        Diminuer                       Augmenter       Ne sait pas
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPnOFiv FeJaJu Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 15
+
+--- page 16 ---
+
+Les    priorités      en   matière      budgétaire
+
+     Question : Selon vous faudrait-il, en France, augmenter, maintenir au même niveau ou diminuer ?
+     Base : à tous
+                                                                                                  %  D              %  A
+                                                                                                      IMINUER           UGMENTER
+  Les cotisations sociales payées par les salariés, qui
+                                                   8       28                 51            7 24
+           financent, notamment, la sécurité sociale                                                   36                  9
+  Les cotisations sociales payées par les entreprises,
+                                                   7     22             40             21    6  4
+                                                                                                       29                 27
+        qui financent, notamment, la sécurité sociale
+                                                  4   14         31            31         15   5
+           L'impôt sur les bénéfices des entreprises                                                   18                 46
+
+                                          La TVA    11        36                 41          7 23      47                  9
+
+                             L'impôt sur le revenu 10       29                46            9 3 3      39                 12
+
+                       Les taxes sur les carburants      37                36           17   4 3 3     73                  7
+
+       Les contributions (CSG) prélevées sur tous les
+                                                                                                       46                  8
+                                                    15         31               40         6 2 6
+   revenus imposables au profit de la sécurité sociale
+                                                  Maintenir au
+   Fortement diminuer      Plutôt diminuer                            Plutôt augmenter    Fortement augmenter       Je ne sais pas
+                                                  même niveau
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 16
+
+--- page 17 ---
+
+Les    priorités      en   matière      budgétaire
+
+     Question : Selon vous faudrait-il, en France, augmenter, maintenir au même niveau ou diminuer ?
+     Base : à tous
+                    Les cotisations sociales Les cotisations sociales                                                Les contributions (CSG)
+                   payées par les salariés, qui payées par les entreprises, L'impôt sur les bénéfices                 prélevées sur tous les
+                                                                         La TVA       L'impôt sur le revenu Les taxes sur les carburants
+                    financent, notamment, la qui financent, notamment, des entreprises                                revenus imposables au
+                      sécurité sociale la sécurité sociale                                                          profit de la sécurité sociale
+               Ens.
+                     36    51  94    29  40   27 4  18  31   46 5      47    41 93    39    46  123      73    17 73    46   40  86
+                LFI
+                    24    58   144 10 31    55  4   8 14   74   4      51    40 54    31   38  26 5      64   20 124   31   44  14 11
+                PC
+                    18   63    18 1 9 31    59  1   8 9    82    1     55    38 52    25   50  22 3      67    25 71   36    46  15 3
+        Les Ecologistes
+                    21    68   83   11 44    43 2   6 23   66   5     37    53  64   22   51   23 4     53   26 18 3  22    58  11 9
+      PS / Place publique
+                    26    61   103  16  45   36 3   7 22   67   4     36    53  83    25   59   133      68    23 72   30   54   115
+        ST Bloc central 32 56  102   31   48   19 2 15  44   38 3    27    56   152   25   64    92     60    32 71    32    55  94
+     …dont Renaissance 31 56   103  28    52   18 2 15  45    38 2   28    57   132   26    63   92     61    30 72    32    56  75
+
+        …Dont MODEM  30   58   102  28    50  20 2  11 42    41 6    25   51   22 2  18    67   141     56    35 81    31   51   144
+
+       ….Dont Horizons 35  55  91    40    40  19 1 19  42    38 1   26    57   170   27    63   91     61     33 51   31    56  94
+
+                LR   39    52   72   41    43  142   24  41   31 4    36   49   141   39     54  61      76     19 41   54    37  63
+
+                RN    49    40 92    41    37 19 3   26  34  36 4       64    28 62     55    36 72       88     651     62    29 54
+
+          Reconquête   65    27 62     66    24 82     51   32 143     53    32 123     59    35 42       83    1331      73    21 42
+
+           Aucun parti 33 52   8 7  27   44   23 6  16 32   43  9     46    40  86    39    47  95       73    16 74    46   39  7 8
+
+                    Maintenir au même
+        Diminuer                       Augmenter       Ne sait pas
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPnOFiv FeJaJu Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 17
+
+--- page 18 ---
+
+L’intérêt      pour     l’élection     présidentielle         de   2027
+
+     Question : Sur une échelle de 0 à 10, où 0 signifie aucun intérêt et 10 signifie énormément d’intérêt, quel est votre niveau
+
+     d’intérêt pour la prochaine élection présidentielle de 2027 ?
+     Base : à tous                                                            Note  moyenne
+
+                                                                                  7,7/10
+
+    0 SIGNIFIE QUE VOUS   0       1      2       3       4       5      6       7       8       9      10  10 SIGNIFIE QUE VOUS VOUS
+    N’ÊTES PAS DU TOUT                                                                                     ÊTES EXTRÊMEMENT
+
+    INTÉRESSÉ                                                                                              INTÉRESSÉ
+                         PAS DU TOUT    PLUTÔT  PAS                            PLUTÔT    EXTRÊMEMENT
+                                                      MOYENNEMENT  INTÉRESSÉ
+                          INTÉRESSÉ      INTÉRESSÉ                            INTÉRESSÉ    INTÉRESSÉ
+                                                               (4 À 6)
+                             (0 À 1)       (2 À 3)                              (7 À 8)     (9 À 10)
+                             4%             4%                 17%              26%          49%
+
+                                  NOTE DE 0 À 3                                    NOTE  DE 7 À 10
+                                PAS  INTÉRESSÉ                                      INTÉRESSÉ
+
+                                    8%                                               75%
+
+       Rappels Octobre 2021*       9%                         24%                       67%
+
+    Rappels Septembre 2016**       8%                         21%                       71%
+
+     * Ipsos CEVIPOF FJJ LE MONDE – Enquête électorale 2021 – Vague 2- 16 228 répondants âgés de 18 ans et plus, inscrits sur les listes électorales interrogés du 7 au 13 octobre 2021
+     ** Ipsos CEVIPOF LE MONDE – Enquête électorale 2017 – Vague 6 – 18 659 répondants âgés de 18 ans et plus, inscrits sur les listes électorales interrogés du 9 au 18 septembre 2016
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 18
+
+--- page 19 ---
+
+LES        INTENTIONS                        DE       VOTE           POUR
+
+     L’ÉLECTION                      PRÉSIDENTIELLE                                 2027
+
+     ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne :
+     Enquête électorale française 2026 – Septembre 2026 – Vague 3
+                                                                  19
+
+--- page 20 ---
+
+L’intention        d’aller    voter    au   premier      tour
+
+     Question : Le premier tour de l’élection présidentielle aura lieu le 18 avril 2027. Pouvez-vous donner une note de 0 à 10 sur
+
+     votre intention d’aller voter au premier tour de l’élection présidentielle ? 0 signifiant que vous êtes vraiment tout à fait
+     certain de ne pas aller voter et 10 que vous êtes vraiment tout à fait certain d’aller voter.
+
+     Base : à tous
+
+                     ABSTENTIONNISTES           ABSTENTIONNISTES           PRESQUE   CERTAINS         CERTAINS   D’ALLER
+
+                         PROBABLES                  POTENTIELS               D’ALLER   VOTER                 VOTER
+
+                            (0 À 5)                    (6 À 8)                      (9)                       (10)
+
+                            9%                        12%                         12%                        67%
+
+       Rappels
+
+         Octobre 2021*         11%                      18%                           12%                      59%
+
+       Septembre 2016**        9%                       12%                           12%                      67%
+
+        L’intention de participation à plusieurs mois du scrutin n’est pas prédictive du niveau réel de participation au premier
+        tour car la campagne électorale a vocation à faire progresser la mobilisation du corps électoral. Le niveau de la hausse peut
+        être très variable car il dépend, entre autres, du déroulement  de la campagne.   Cette intention de participation est
+
+        cependant aujourd’hui en hausse par rapport à celle mesurée à la même époque lors du précédent scrutin présidentiel (67%,
+        +8 pts).
+        * Ipsos CEVIPOF FJJ LE MONDE – Enquête électorale 2021 – Vague 2- 16 228 répondants âgés de 18 ans et plus, inscrits sur les listes électorales interrogés du 7 au 13 octobre 2021
+        ** Ipsos CEVIPOF LE MONDE – Enquête électorale 2017 – Vague 6 – 18 659 répondants âgés de 18 ans et plus, inscrits sur les listes électorales interrogés du 9 au 18 septembre 2016
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 20
+
+--- page 21 ---
+
+Intentions        de   vote    - 1er  tour    de   l’élection      présidentielle         2027     - Récapitulatif
+
+                                                            Hypothèses     d’intentions   de  vote
+
+                                  Hypothèse :                      Hypothèse :     Hypothèse :
+                                                   Hypothèse:                                      Hypothèse :     Hypothèse :
+                                  R. Glucksmann                   R. Glucksmann     O. Faure
+                                                  R. Glucksmann                                      O. Faure        O. Faure
+                                    G. Attal                         G. Attal        G. Attal
+                                                   E. Philippe                                      E. Philippe      G. Attal
+                                   E. Philippe                                      E. Philippe
+             Nathalie Arthaud        0,5              0,5             0,5             0,5             0,5             0,5
+         Jean-Luc  Mélenchon         15,5            15,5            15,5             16,5            16,5             17
+
+               Fabien Roussel        2,5              2,5             2,5              3              3,5             3,5
+
+             Marine Tondelier         4               4               4,5              5              5,5             5,5
+
+         Raphaël  Glucksmann         11,5            12,5            13,5
+
+                 Olivier Faure                                                        4,5              5              5,5
+
+                 Gabriel Attal        6                               13              7,5                             15,5
+
+             Edouard Philippe         14             17,5                              16              21
+
+             Bruno  Retailleau        7                8              10               7              7,5             10,5
+
+       Nicolas Dupont-Aignan          2               2                2               2               2              2,5
+
+                Marine Le Pen         33             33,5             34              34              34,5             35
+
+                Eric Zemmour          4               4               4,5              4               4              4,5
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 21
+
+--- page 22 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : R.  Glucksmann,           G.  Attal,   E.  Philippe
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 9 445 personnes
+                                                                                                            Marges d’erreur
+                                     Nathalie  Arthaud     0,5%                                              +/- 0,1 point
+
+                                Jean-Luc   Mélenchon                        15,5%                            +/- 0,7 point
+
+                                      Fabien   Roussel       2,5%                                            +/- 0,3 point
+
+                                     Marine  Tondelier         4%                                            +/- 0,4 point
+
+                                Raphaël   Glucksmann                   11,5%                                 +/- 0,6 point
+
+                                          Gabriel Attal          6%                                          +/- 0,5 point
+
+                                    Edouard    Philippe                   14%                                +/- 0,7 point
+
+                                     Bruno  Retailleau            7%                                         +/- 0,5 point
+
+                              Nicolas  Dupont-Aignan         2%                                              +/- 0,3 point
+
+                                        Marine  Le Pen                                         33%           +/- 0,9 point
+
+                                                               4%                                            +/- 0,4 point
+                                        Eric Zemmour
+   Personnes certaines d’aller voter n’ayant pas exprimé d’intention de vote : 8%
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 22
+
+--- page 23 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : R.  Glucksmann,           G.  Attal,   E.  Philippe
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 9 445 personnes
+
+       INTENTION   DE VOTE
+                                                                                                  Nicolas
+                              Nathalie Jean-Luc Fabien  Marine  Raphaël  Gabriel Edouard  Bruno            Marine   Eric
+                                                                                                  Dupont-                  TOTAL
+                             Arthaud Mélenchon Roussel Tondelier Glucksmann Attal Philippe Retailleau     Le Pen Zemmour
+          1ER TOUR 2027                                                                           Aignan
+                     SEXE
+
+                   Hommes       *       16       3       3        11      5        14       7       2       34       5       100
+
+                   Femmes       1       15       2       5        12       7       14       7       2       32       3       100
+
+                      ÂGE
+
+                  18-24 ans     *       42       1       7        4        7       9        6       1       21       2       100
+                  25-34 ans     *       32       2       6        7       5        10      4        1       30       3       100
+
+                  35-49 ans     1       16       2       6        11      6        12      4        2       37       3       100
+
+                  50-59 ans     *       8        2       4        13      5        13       5       3       43       4       100
+
+                  60-69 ans     1       7        5       2        13      6        15       7       2       37       5       100
+              70 ans et plus    *       4        3        1       16       7      20       13       2       28       6       100
+
+     * Inférieur à 1%
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 23
+
+--- page 24 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : R.  Glucksmann,           G.  Attal,   E.  Philippe
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 9 445 personnes
+
+       INTENTION   DE VOTE
+                                                                                                  Nicolas
+                              Nathalie Jean-Luc Fabien  Marine  Raphaël  Gabriel Edouard  Bruno            Marine   Eric
+                                                                                                  Dupont-                  TOTAL
+                             Arthaud Mélenchon Roussel Tondelier Glucksmann Attal Philippe Retailleau     Le Pen Zemmour
+          1ER TOUR 2027                                                                           Aignan
+                      PCS
+
+             Agriculteurs et
+                                *       17       2       5        8        7       13       6       2       34       6       100
+        prof. indépendantes
+                    Cadres      *       20       3       6        15       7       19       6       1       19       4       100
+
+         Prof. intermédiaires   *       18       3       6        11      6        14       6       2       31       3       100
+
+                  Employés      1       21       1       5        7       6        8       4        2       43       2       100
+
+                   Ouvriers     *       13       2       3        6       3        5        3       3       58       4       100
+        Sous-total Retraités    *       5        4       2        15      6        19      11       2       30       6       100
+
+             Retraités CSP+     *       5        3       2        18      6       22       13       3       21       7       100
+
+             Retraités CSP-     *       5        4        1       14      6        17       9       2       38       4       100
+
+     * Inférieur à 1%
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 24
+
+--- page 25 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : R.  Glucksmann,           G.  Attal,   E.  Philippe
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 9 445 personnes
+
+       INTENTION   DE VOTE
+                                                                                                  Nicolas
+                              Nathalie Jean-Luc Fabien  Marine  Raphaël          Edouard  Bruno            Marine   Eric
+                                                                       Gabriel Attal              Dupont-                  TOTAL
+                             Arthaud Mélenchon Roussel Tondelier Glucksmann     Philippe Retailleau       Le Pen Zemmour
+          1ER TOUR 2027                                                                           Aignan
+        VOTE 1er TOUR 2022
+
+          Jean-Luc Mélenchon    1       53       5       7        18      2        3        1       1        9       *       100
+              Fabien Roussel    *       9       42       5       24       4        5        2       2        7       *       100
+
+               Yannick Jadot    *       11       1       33      35       5        9        2       1        3       *       100
+
+                Anne Hidalgo    1       9        1       10      69       4        2        *       *        4       *       100
+
+            Emmanuel Macron     *       3        1       2        15      17      40       10       *       11       1       100
+             Valérie Pécresse   *        1       *        *       3       3       25       45       2       20       1       100
+
+                Jean Lassalle   1       5        3        1       9       3        18      10       6       40       4       100
+
+        Nicolas Dupont-Aignan   *        *       *        1       3        1       4       10      52       26       3       100
+
+               Marine Le Pen    *        *       *        *       1        *       2        2       1       92       2       100
+               Eric Zemmour     *        1       *        *       *        1       1       10       4       41      42       100
+     * Inférieur à 1%
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 25
+
+--- page 26 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : R.  Glucksmann,           E. Philippe
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 9 327 personnes
+                                                                                                            Marges d’erreur
+                                     Nathalie  Arthaud
+                                                           0,5%                                              +/- 0,1 point
+
+                                Jean-Luc   Mélenchon
+                                                                            15,5%                            +/- 0,7 point
+                                      Fabien   Roussel
+                                                             2,5%                                            +/- 0,3 point
+
+                                     Marine  Tondelier
+                                                               4%                                            +/- 0,4 point
+
+                                Raphaël   Glucksmann
+                                                                        12,5%                                +/- 0,7 point
+                                    Edouard    Philippe
+                                                                              17,5%                          +/- 0,8 point
+
+                                     Bruno  Retailleau             8%                                        +/- 0,6 point
+
+                              Nicolas  Dupont-Aignan         2%                                              +/- 0,3 point
+
+                                        Marine  Le Pen                                         33,5%          +/- 1 point
+
+                                        Eric Zemmour           4%                                            +/- 0,4 point
+
+   Personnes certaines d’aller voter n’ayant pas exprimé d’intention de vote : 9%
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 26
+
+--- page 27 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : R.  Glucksmann,           E. Philippe
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 9 327 personnes
+
+       INTENTION   DE VOTE
+                                                                                          Nicolas
+                              Nathalie Jean-Luc Fabien  Marine  Raphaël Edouard   Bruno           Marine    Eric
+                                                                                         Dupont-                   TOTAL
+                             Arthaud Mélenchon Roussel Tondelier Glucksmann Philippe Retailleau  Le Pen  Zemmour
+          1ER TOUR 2027                                                                   Aignan
+                     SEXE
+
+                   Hommes       *       16       3       3        12      17       8        2      34        5      100
+
+                   Femmes       *       15       3       5        13      18       8        2       33       3      100
+
+                      ÂGE
+
+                  18-24 ans     *       41       1       7        6       14       8        1      20        2      100
+                  25-34 ans     1       32       1       7        8       12       4        2      30        3      100
+
+                  35-49 ans     1       16       3       6        11      15       5        2       38       3      100
+
+                  50-59 ans     1       8        2       4        13      17       6        3      42        4      100
+
+                  60-69 ans     1       8        5       2        14      17       8        2       38       5      100
+              70 ans et plus    *       4        3        1       17      25       14       2      28        6      100
+
+     * Inférieur à 1%
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 27
+
+--- page 28 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : R.  Glucksmann,           E. Philippe
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 9 327 personnes
+
+       INTENTION   DE VOTE
+                                                                                          Nicolas
+                              Nathalie Jean-Luc Fabien  Marine  Raphaël Edouard   Bruno           Marine    Eric
+                                                                                         Dupont-                   TOTAL
+                             Arthaud Mélenchon Roussel Tondelier Glucksmann Philippe Retailleau  Le Pen  Zemmour
+          1ER TOUR 2027                                                                   Aignan
+                      PCS
+
+             Agriculteurs et
+                                1       17       1       4        10      16       6        3       35       7      100
+        prof. indépendantes
+                    Cadres      *       19       3       7        16      22       7        2      20        4      100
+
+         Prof. intermédiaires   1       17       3       6        13      16       7        3       31       3      100
+
+                  Employés      1       21       1       4        9       11       5        2      43        3      100
+
+                   Ouvriers     1       12       2       3        6       8        3        2       58       5      100
+        Sous-total Retraités    *       5        4       2        17      23       12       2      30        5      100
+
+             Retraités CSP+     *       6        3       2        19      26       14       2      22        6      100
+
+             Retraités CSP-     *       5        4       2        14      21       10       2       38       4      100
+
+     * Inférieur à 1%
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 28
+
+--- page 29 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : R.  Glucksmann,           E. Philippe
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 9 327 personnes
+
+       INTENTION   DE VOTE
+                                                                                          Nicolas
+                              Nathalie Jean-Luc Fabien  Marine  Raphaël Edouard   Bruno           Marine    Eric
+                                                                                         Dupont-                   TOTAL
+                             Arthaud Mélenchon Roussel Tondelier Glucksmann Philippe Retailleau  Le Pen  Zemmour
+          1ER TOUR 2027                                                                   Aignan
+        VOTE 1er TOUR 2022
+
+          Jean-Luc Mélenchon    1       53       6       7        18      3        2        1       8        1      100
+              Fabien Roussel    *       11      42       5       23       6        3        2       8        *      100
+
+               Yannick Jadot    1       11       2       31      37       11       3        1       3        *      100
+
+                Anne Hidalgo    1       11       2       9       68       4        *        1       4        *      100
+
+            Emmanuel Macron     *       3        1       2        18      51       12       *       12       1      100
+             Valérie Pécresse   *        1       *        1       3       26      45        2      20        2      100
+
+                Jean Lassalle   *       5        4        1       11      21       10       7       39       2      100
+
+        Nicolas Dupont-Aignan   *        *       *        *       4       3        11      51      29        2      100
+
+               Marine Le Pen    *        *       *        *       1       2        3        1       91       2      100
+               Eric Zemmour     *        1       *        *       1        1       10       3      43       41      100
+     * Inférieur à 1%
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 29
+
+--- page 30 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : R.  Glucksmann,           G.Attal
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 9 233 personnes
+                                                                                                            Marges d’erreur
+                                     Nathalie  Arthaud
+                                                           0,5%                                              +/- 0,1 point
+
+                                Jean-Luc   Mélenchon
+                                                                            15,5%                            +/- 0,7 point
+                                      Fabien   Roussel
+                                                             2,5%                                            +/- 0,3 point
+
+                                     Marine  Tondelier
+                                                                4,5%
+                                                                                                             +/- 0,4 point
+                                Raphaël   Glucksmann
+                                                                         13,5%
+                                                                                                             +/- 0,7 point
+                                          Gabriel Attal
+                                                                         13%                                 +/- 0,7 point
+                                     Bruno  Retailleau                10%
+                                                                                                             +/- 0,6 point
+                              Nicolas  Dupont-Aignan         2%
+                                                                                                             +/- 0,3 point
+
+                                        Marine  Le Pen                                          34%
+                                                                                                              +/- 1 point
+
+                                        Eric Zemmour            4,5%
+                                                                                                             +/- 0,4 point
+   Personnes certaines d’aller voter n’ayant pas exprimé d’intention de vote : 10%
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 30
+
+--- page 31 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : R.  Glucksmann,           G.Attal
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 9 233 personnes
+
+       INTENTION   DE VOTE
+                                                                                          Nicolas
+                              Nathalie Jean-Luc Fabien  Marine  Raphaël           Bruno           Marine    Eric
+                                                                       Gabriel Attal     Dupont-                   TOTAL
+                             Arthaud Mélenchon Roussel Tondelier Glucksmann    Retailleau        Le Pen  Zemmour
+          1ER TOUR 2027                                                                   Aignan
+                     SEXE
+
+                   Hommes       1       16       3       4        12      11       10       2       35       6      100
+
+                   Femmes       1       15       3       5        14      14       10       2       33       3      100
+
+                      ÂGE
+
+                  18-24 ans     *       43       1       7        5       11       8        1      22        2      100
+                  25-34 ans     1       31       2       7        7       10       6        1       31       4      100
+
+                  35-49 ans     1       16       3       6        13      12       6        2       38       3      100
+
+                  50-59 ans     1       7        2       4        14      12       9        3      44        4      100
+
+                  60-69 ans     1       7        4       2        15      13       11       3       38       6      100
+              70 ans et plus    *       4        3       2        19      17       17       2      29        7      100
+
+     * Inférieur à 1%
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 31
+
+--- page 32 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : R.  Glucksmann,           G.Attal
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 9 233 personnes
+
+       INTENTION   DE VOTE
+                                                                                          Nicolas
+                              Nathalie Jean-Luc Fabien  Marine  Raphaël           Bruno           Marine    Eric
+                                                                       Gabriel Attal     Dupont-                   TOTAL
+                             Arthaud Mélenchon Roussel Tondelier Glucksmann    Retailleau        Le Pen  Zemmour
+          1ER TOUR 2027                                                                   Aignan
+                      PCS
+
+             Agriculteurs et
+                                *       16       2       7        9       14       8        3       35       6      100
+        prof. indépendantes
+                    Cadres      1       19       3       7        18      17       9        2      20        4      100
+
+         Prof. intermédiaires   1       18       3       7        14      11       8        2      32        4      100
+
+                  Employés      1       20       2       5        7       10       6        3      43        3      100
+
+                   Ouvriers     1       13       2       3        6       6        5        2       57       5      100
+        Sous-total Retraités    *       5        4       2        18      16       16       2       31       6      100
+
+             Retraités CSP+     *       6        3       2       22       17       18       2      22        8      100
+
+             Retraités CSP-     *       5        4       2        16      14       13       2       39       5      100
+
+     * Inférieur à 1%
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 32
+
+--- page 33 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : R.  Glucksmann,           G.Attal
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 9 233 personnes
+
+       INTENTION   DE VOTE
+                                                                                          Nicolas
+                              Nathalie Jean-Luc Fabien  Marine  Raphaël           Bruno           Marine    Eric
+                                                                       Gabriel Attal     Dupont-                   TOTAL
+                             Arthaud Mélenchon Roussel Tondelier Glucksmann    Retailleau        Le Pen  Zemmour
+          1ER TOUR 2027                                                                   Aignan
+        VOTE 1er TOUR 2022
+
+          Jean-Luc Mélenchon    1       52       6       8        19      2        1        1       9        1      100
+              Fabien Roussel    *       9       42       7       24       6        3        2       7        *      100
+
+               Yannick Jadot    1       11       2       32      38       8        3        *       5        *      100
+
+                Anne Hidalgo    *       9        1       10      70       5        *        *       5        *      100
+
+            Emmanuel Macron     *       3        1       2        21      40       18       1       13       1      100
+             Valérie Pécresse   *        1       *        1       4       10      59        2      22        1      100
+
+                Jean Lassalle   1       4        4       2        11      8        14       6      45        5      100
+
+        Nicolas Dupont-Aignan   *        *       *        *       4       2        9       50       31       4      100
+
+               Marine Le Pen    *        *       *        *       1        1       3        1       91       3      100
+               Eric Zemmour     *        1       *        *       1        1       10       3       39      45      100
+     * Inférieur à 1%
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 33
+
+--- page 34 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : O.  Faure,     G.  Attal,    E.  Philippe
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 9 290 personnes
+                                                                                                            Marges d’erreur
+                                     Nathalie  Arthaud     0,5%                                              +/- 0,1 point
+
+                                Jean-Luc   Mélenchon                         16,5%                           +/- 0,8 point
+
+                                      Fabien   Roussel        3%                                             +/- 0,3 point
+
+                                     Marine  Tondelier          5%                                           +/- 0,4 point
+
+                                         Olivier Faure          4,5%
+                                                                                                             +/- 0,4 point
+                                          Gabriel Attal
+                                                                   7,5%                                      +/- 0,5 point
+                                    Edouard    Philippe                     16%
+                                                                                                             +/- 0,7 point
+
+                                     Bruno  Retailleau            7%
+                                                                                                             +/- 0,5 point
+                              Nicolas  Dupont-Aignan         2%
+                                                                                                             +/- 0,3 point
+                                        Marine  Le Pen                                          34%
+                                                                                                              +/- 1 point
+
+                                        Eric Zemmour           4%
+                                                                                                             +/- 0,4 point
+   Personnes certaines d’aller voter n’ayant pas exprimé d’intention de vote : 9%
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 34
+
+--- page 35 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : O.  Faure,     G.  Attal,    E.  Philippe
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 9 290 personnes
+
+       INTENTION   DE VOTE
+                                                                                                  Nicolas
+                              Nathalie Jean-Luc Fabien  Marine  Olivier          Edouard  Bruno            Marine   Eric
+                                                                       Gabriel Attal              Dupont-                  TOTAL
+                             Arthaud Mélenchon Roussel Tondelier Faure          Philippe Retailleau       Le Pen Zemmour
+          1ER TOUR 2027                                                                           Aignan
+                     SEXE
+
+                   Hommes       *       17       3       4        4       6        16       7       2       35       6       100
+
+                   Femmes       *       16       3       6        5       9        16       7       2       33       3       100
+
+                      ÂGE
+
+                  18-24 ans     *       43       1       7        2        7       10       6       1       21       2       100
+                  25-34 ans     *       31       2       7        4       6        11      4        1       31       3       100
+
+                  35-49 ans     *       17       3       7        4       8        13       5       2       38       3       100
+
+                  50-59 ans     1       9        3       4        5       6        16       5       3       44       4       100
+
+                  60-69 ans     1       8        5       4        5       8        17       7       2       38       5       100
+              70 ans et plus    *       5        4       2        5       9       24       14       2       29       6       100
+
+     * Inférieur à 1%
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 35
+
+--- page 36 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : O.  Faure,     G.  Attal,    E.  Philippe
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 9 290 personnes
+
+       INTENTION   DE VOTE
+                                                                                                  Nicolas
+                              Nathalie Jean-Luc Fabien  Marine  Olivier          Edouard  Bruno            Marine   Eric
+                                                                       Gabriel Attal              Dupont-                  TOTAL
+                             Arthaud Mélenchon Roussel Tondelier Faure          Philippe Retailleau       Le Pen Zemmour
+          1ER TOUR 2027                                                                           Aignan
+                      PCS
+
+             Agriculteurs et
+                                1       17       3       6        2       8        15       6       2       35       5       100
+        prof. indépendantes
+                    Cadres      *       20       3       8        6       10       21       6       2       20       4       100
+
+         Prof. intermédiaires   1       19       3       7        5        7       16       5       2       32       3       100
+
+                  Employés      *       22       2       4        4       6        9       4        2       44       3       100
+
+                   Ouvriers     1       14       1       4        2       4        6        3       2       58       5       100
+        Sous-total Retraités    *       6        5       3        5       9       22       11       2       31       6       100
+
+             Retraités CSP+     *       6        5       3        6       9       26       14       2       22       7       100
+
+             Retraités CSP-     *       6        4       2        5       9        19       9       2       39       5       100
+     * Inférieur à 1%
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 36
+
+--- page 37 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : O.  Faure,     G.  Attal,    E.  Philippe
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 9 290 personnes
+
+       INTENTION   DE VOTE
+                                                                                                  Nicolas
+                              Nathalie Jean-Luc Fabien  Marine  Olivier          Edouard  Bruno            Marine   Eric
+                                                                       Gabriel Attal              Dupont-                  TOTAL
+                             Arthaud Mélenchon Roussel Tondelier Faure          Philippe Retailleau       Le Pen Zemmour
+          1ER TOUR 2027                                                                           Aignan
+        VOTE 1er TOUR 2022
+
+          Jean-Luc Mélenchon    1       56       6       9        8       3        4        1       1       10       1       100
+              Fabien Roussel    *       10      50       7        9       5        7        2       2        8       *       100
+
+               Yannick Jadot    *       11       5       41       13      8        14       2       1        5       *       100
+
+                Anne Hidalgo    1       13       7       15      45       8        5        1       *        5       *       100
+
+            Emmanuel Macron     *       3        1       2        5       21      45       10       *       12       1       100
+             Valérie Pécresse   *        1       *        1       1       4       26       44       2       20       1       100
+
+                Jean Lassalle   1       4        3        1       1       5       24       11       5       41       4       100
+
+        Nicolas Dupont-Aignan   *        *       *        1       *        1       6       11      52       25       4       100
+
+               Marine Le Pen    *        *       *        *       *        1       2        2       1       92       2       100
+               Eric Zemmour     *       2        *        *       *        *       1       11       3       39      44       100
+     * Inférieur à 1%
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 37
+
+--- page 38 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : O.  Faure,     E.  Philippe
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 9 142 personnes
+                                                                                                            Marges d’erreur
+                                                                                                            Marges d’erreur
+                                     Nathalie  Arthaud     0,5%                                              +/- 0,1 point
+
+                                Jean-Luc   Mélenchon                         16,5%                           +/- 0,8 point
+
+                                      Fabien   Roussel        3,5%                                           +/- 0,4 point
+
+                                     Marine  Tondelier           5,5%
+                                                                                                             +/- 0,5 point
+
+                                         Olivier Faure          5%
+                                                                                                             +/- 0,4 point
+                                    Edouard    Philippe
+                                                                                 21%                         +/- 0,8 point
+
+                                     Bruno  Retailleau             7,5%
+                                                                                                             +/- 0,5 point
+                              Nicolas  Dupont-Aignan         2%
+                                                                                                             +/- 0,3 point
+
+                                        Marine  Le Pen                                          34,5%
+                                                                                                              +/- 1 point
+
+                                        Eric Zemmour           4%
+                                                                                                             +/- 0,4 point
+   Personnes certaines d’aller voter n’ayant pas exprimé d’intention de vote : 11%
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 38
+
+--- page 39 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : O.  Faure,     E.  Philippe
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 9 142 personnes
+
+       INTENTION   DE VOTE
+                                                                                          Nicolas
+                              Nathalie Jean-Luc Fabien  Marine  Olivier Edouard   Bruno           Marine    Eric
+                                                                                         Dupont-                   TOTAL
+                             Arthaud Mélenchon Roussel Tondelier Faure Philippe Retailleau       Le Pen  Zemmour
+          1ER TOUR 2027                                                                   Aignan
+                     SEXE
+
+                   Hommes       1       17       4       5        4       20       7        2       35       5      100
+
+                   Femmes       *       16       4       6        5       22       8        2      34        3      100
+
+                      ÂGE
+
+                  18-24 ans     1       42       2       7        3       15       6        1       21       2      100
+                  25-34 ans     1       32       2       8        4       14       4        1       31       3      100
+
+                  35-49 ans     1       17       3       8        4       17       5        2       39       4      100
+
+                  50-59 ans     1       8        3       5        6       20       6        3      44        4      100
+
+                  60-69 ans     1       8        6       4        5       22       8        2       39       5      100
+              70 ans et plus    *       5        5       2        6       31       14       2      30        5      100
+
+     * Inférieur à 1%
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 39
+
+--- page 40 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : O.  Faure,     E.  Philippe
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 9 142 personnes
+
+       INTENTION   DE VOTE
+                                                                                          Nicolas
+                              Nathalie Jean-Luc Fabien  Marine  Olivier Edouard   Bruno           Marine    Eric
+                                                                                         Dupont-                   TOTAL
+                             Arthaud Mélenchon Roussel Tondelier Faure Philippe Retailleau       Le Pen  Zemmour
+          1ER TOUR 2027                                                                   Aignan
+                      PCS
+
+             Agriculteurs et
+                                1       17       3       7        2       17       7        3       36       7      100
+        prof. indépendantes
+                    Cadres      *       20       4       10       6       27       6        2       21       4      100
+
+         Prof. intermédiaires   1       19       4       7        6       20       6        2      32        3      100
+
+                  Employés      1       22       2       5        4       12       5        2      44        3      100
+
+                   Ouvriers     1       13       2       4        2       9        3        2       59       5      100
+        Sous-total Retraités    *       6        5       3        6       29       12       2      32        5      100
+
+             Retraités CSP+     *       7        5       4        6       32       15       2      22        7      100
+
+             Retraités CSP-     *       5        6       2        6       26       10       2      40        3      100
+
+     * Inférieur à 1%
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 40
+
+--- page 41 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : O.  Faure,     E.  Philippe
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 9 142 personnes
+
+       INTENTION   DE VOTE
+                                                                                          Nicolas
+                              Nathalie Jean-Luc Fabien  Marine  Olivier Edouard   Bruno           Marine    Eric
+                                                                                         Dupont-                   TOTAL
+                             Arthaud Mélenchon Roussel Tondelier Faure Philippe Retailleau       Le Pen  Zemmour
+          1ER TOUR 2027                                                                   Aignan
+        VOTE 1er TOUR 2022
+
+          Jean-Luc Mélenchon    1       56       8       9        8       5        2        1       9        1      100
+              Fabien Roussel    *       10      53       7        10       7       2        2       9        *      100
+
+               Yannick Jadot    2       11       5       43       14      17       2        1       5        *      100
+
+                Anne Hidalgo    2       14       8       17      44       8        1        1       5        *      100
+
+            Emmanuel Macron     *       3        2       3        5       61       12       -       13       1      100
+             Valérie Pécresse   *        1       -        1       1       29      44        2       21       1      100
+
+                Jean Lassalle   1       2        7        1       1       25       11       7      43        2      100
+
+        Nicolas Dupont-Aignan   1        *       *        1       *       6        10      48      30        4      100
+
+               Marine Le Pen    *        1       *        *       *       2        3        1       91       2      100
+               Eric Zemmour     *        1       *        *       *        1       10      4       43       41      100
+     * Inférieur à 1%
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 41
+
+--- page 42 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : O.  Faure,     G.Attal
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 8 984 personnes
+                                                                                                            Marges d’erreur
+                                      Nathalie  Arthaud
+                                                           0,5%                                              +/- 0,1 point
+
+                                 Jean-Luc   Mélenchon
+                                                                             17%                             +/- 0,8 point
+
+                                       Fabien   Roussel
+                                                              3,5%                                           +/- 0,4 point
+                                      Marine  Tondelier
+                                                                 5,5%
+                                                                                                             +/- 0,5 point
+                                           Oliver Faure
+                                                                 5,5%
+                                                                                                             +/- 0,5 point
+                                           Gabriel Attal
+                                                                           15,5%                             +/- 0,7 point
+                                      Bruno  Retailleau
+                                                                      10,5%
+                                                                                                             +/- 0,6 point
+                               Nicolas  Dupont-Aignan
+                                                             2,5%
+                                                                                                             +/- 0,3 point
+                                         Marine  Le Pen                                          35%
+                                                                                                              +/- 1 point
+                                         Eric Zemmour           4,5%
+                                                                                                             +/- 0,4 point
+   Personnes certaines d’aller voter n’ayant pas exprimé d’intention de vote : 12%
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 42
+
+--- page 43 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : O.  Faure,     G.  Attal
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 8 984 personnes
+
+       INTENTION   DE VOTE
+                                                                                          Nicolas
+                              Nathalie Jean-Luc Fabien  Marine  Olivier  Gabriel  Bruno          Marine Le  Eric
+                                                                                         Dupont-                   TOTAL
+                             Arthaud Mélenchon Roussel Tondelier Faure  Attal  Retailleau         Pen    Zemmour
+          1ER TOUR 2027                                                                   Aignan
+                     SEXE
+
+                   Hommes       *       18       3       5        5       14       11       2       36       6      100
+
+                   Femmes       *       17       4       6        6       17       10       3      34        3      100
+
+                      ÂGE
+
+                  18-24 ans     *       44       2       7        2       12       8        2      20        3      100
+                  25-34 ans     *       32       2       8        5       11       6        2       31       3      100
+
+                  35-49 ans     1       17       3       8        6       14       6        3       39       3      100
+
+                  50-59 ans     1       9        4       5        6       14       9        3      45        4      100
+
+                  60-69 ans     1       9        6       4        5       16       11       3      40        5      100
+              70 ans et plus    *       6        5       2        7       22       19       2       31       6      100
+
+     * Inférieur à 1%
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 43
+
+--- page 44 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : O.  Faure,     G.  Attal
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 8 984 personnes
+
+       INTENTION   DE VOTE
+                                                                                          Nicolas
+                              Nathalie Jean-Luc Fabien  Marine  Olivier  Gabriel  Bruno          Marine Le  Eric
+                                                                                         Dupont-                   TOTAL
+                             Arthaud Mélenchon Roussel Tondelier Faure  Attal  Retailleau         Pen    Zemmour
+          1ER TOUR 2027                                                                   Aignan
+                      PCS
+
+             Agriculteurs et
+                                1       17       3       5        5       16       8        3       35       7      100
+        prof. indépendantes
+                    Cadres      1       21       4       10       7       21       9        1       21       5      100
+
+         Prof. intermédiaires   1       20       4       8        7       13       9        2       33       3      100
+
+                  Employés      1       22       2       5        4       10       6        3      44        3      100
+
+                   Ouvriers     1       14       2       4        2        7       4        3       57       6      100
+        Sous-total Retraités    *       7        5       3        7       20       17       2       33       6      100
+
+             Retraités CSP+     *       7        5       4        8       23      20        3      23        7      100
+
+             Retraités CSP-     1       7        5       2        6       18       13       2      42        4      100
+
+     * Inférieur à 1%
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 44
+
+--- page 45 ---
+
+Intentions       de   vote    - 1er   tour   de   l’élection     présidentielle        2027
+
+    Hypothèse          : O.  Faure,     G.  Attal
+
+     Question : Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain et si vous aviez le choix entre les candidats
+
+     suivants, quel est celui pour lequel il y aurait le plus de chances que vous votiez au 1er tour, nous parlons bien ici du 1er tour.
+     Base : Inscrits sur les listes électorales, se déclarant certains d’aller voter, exprimés, soit 8 984 personnes
+
+       INTENTION   DE VOTE
+                                                                                          Nicolas
+                              Nathalie Jean-Luc Fabien  Marine  Olivier  Gabriel  Bruno          Marine Le  Eric
+                                                                                         Dupont-                   TOTAL
+                             Arthaud Mélenchon Roussel Tondelier Faure  Attal  Retailleau         Pen    Zemmour
+          1ER TOUR 2027                                                                   Aignan
+        VOTE 1er TOUR 2022
+
+          Jean-Luc Mélenchon    1       58       7       10       9       3        1        1       10       *      100
+              Fabien Roussel    *       11       51      8        10       7       3        2       8        *      100
+
+               Yannick Jadot    1       11       6       44       14      13       4        1       6        *      100
+
+                Anne Hidalgo    1       15       6       16      45       9        3        *       5        *      100
+
+            Emmanuel Macron     *       3        2       3        7       50       19       1       14       1      100
+             Valérie Pécresse   *        1       *        1       1       10      60        2      23        2      100
+
+                Jean Lassalle   *       6        5       2        3       12       16       6      45        5      100
+
+        Nicolas Dupont-Aignan   *        *       *        1       *       3        9       53       31       3      100
+
+               Marine Le Pen    *        1       *        *       *        1       3        1       91       3      100
+               Eric Zemmour     *       2        *        *       *        1       10      4       40       43      100
+     * Inférieur à 1%
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 45
+
+--- page 46 ---
+
+RADICALITÉ                       ET       POLARISATION
+
+     DANS            LA       SOCIÉTÉ                 FRANÇAISE
+
+     ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne :
+     Enquête électorale française 2026 – Septembre 2026 – Vague 3
+                                                                  46
+
+--- page 47 ---
+
+Le   souhait      de   transformation           de   la  société
+
+    Question : Quand vous pensez  à la société française actuelle, quelle opinion se rapproche le plus de la vôtre ?
+    Base : A tous
+
+                                   1
+                                                                                                                  54
+                                          19                                                   50
+                        26                                                43
+                                                                         36
+                                                                                               25
+                                                                                                                   26
+                                                                          16
+                                                                                              24                    19
+                                                                         5                     1
+                                                                                                                   1
+                                                                          2023*             Avril 2026**        Sept. 2026
+
+                                    54
+                                                        **Ipsos CEVIPOF FJJ LE MONDE – Enquête électorale 2026 – Vague 2 – 10 962 répondants âgés de 18 ans et
+                                                        plus, inscrits sur les listes électorales interrogés du 2 au 9 avril 2026
+                                                        *Rappels Mars 2023 issus de l’enquête «Société idéale» menée en ligne du 23 au 31 mars 2023 auprès de
+
+                                                         8 700 personnes, constituant un échantillon représentatif de la population française âgée de 18 ans et plus
+
+                                     Il faut l’aménager sur quelques
+  Il faut la laisser dans son état actuel aspects mais sans toucher à Il faut la réformer en profondeur Il faut la transformer radicalement
+                                             l’essentiel
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 47
+
+--- page 48 ---
+
+Le   souhait      de   transformation           de   la  société      - Détails
+
+    Question : Quand vous pensez  à la société française actuelle, quelle opinion se rapproche le plus de la vôtre ?
+    Base : A tous
+
+                                                                          % SELON LA PROXIMITÉ PARTISANE
+        % SELON LE GENRE
+         Hommes 1 18         52           29                                         LFI 2 17      54        27
+
+         Femmes 1 20          55           24
+                                                                                      PC   25       55       20
+        % SELON L’ÂGE
+                                                                              Les Ecologistes 1 26    61      12
+         18-24 ans 2 24         56          18
+        25-34 ans 1 20        53           26                               PS / Place Publique 1 36   53      10
+
+         35-49 ans 1 20       51          28                                  ST Bloc central 1 33     58      8
+         50-59 ans 18        52           30
+                                                                            …dont Renaissance 1 38      54     7
+         60-69 ans 1 17      55           27
+                                                                               …Dont MODEM 28         64       8
+      70 ans et plus 18       58           24
+        % SELON LA CATÉGORIE SOCIOPROFESSIONNELLE                             ….Dont Horizons 24     66        10
+
+    Cadres supérieurs 1 22     55          22                                         LR 1 15       67        17
+         Prof.
+                1  21          55          23
+      intermédiaires                                                                  RN 8     49          43
+        Employés 1 19         53          27
+                                                                                Reconquête 13 38         58
+         Ouvriers 1 15     46            38
+         Retraités 18         58           24                                    Aucun parti 1 21   55       23
+
+                                     Il faut l’aménager sur quelques
+  Il faut la laisser dans son état actuel aspects mais sans toucher à Il faut la réformer en profondeur Il faut la transformer radicalement
+                                             l’essentiel
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 48
+
+--- page 49 ---
+
+La   perception         de   la radicalité      dans     la  vie  politique      française
+
+    Question : Quand vous pensez  à la vie politique en France, diriez-vous…
+    Base : A tous
+
+  …qu’il   n’y  a pas   assez    d’idées
+
+  et  de  comportements                                                           qu’il y  a trop   d’idées   et  de
+
+  radicaux     qui  permettraient                                                 comportements           radicaux,     cela
+
+                                               48
+  de   trouver    de  nouvelles     voies                                 52      ne  permet     pas   de  faire   avancer
+
+  pour    faire  avancer     les                                                  les  choses     et d’améliorer      la
+
+  choses     et  d’améliorer      la                                              situation    du   pays
+
+  situation     du  pays
+
+   Rappel    avril 2026   : 37%*
+                                                                                  Rappel   avril 2026   : 63%*
+
+ *Ipsos CEVIPOF FJJ LE MONDE – Enquête électorale 2026 – Vague 2 – 10 962 répondants âgés de 18 ans et plus, inscrits sur les listes électorales interrogés du 2 au 9 avril 2026
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 49
+
+--- page 50 ---
+
+La   perception         de   la radicalité      dans     la  vie  politique      française        - Détails
+
+    Question : Quand vous pensez  à la vie politique en France, diriez-vous…
+    Base : A tous
+
+        …qu’il y a trop d’idées et de comportements radicaux, cela ne …qu’il n’y a pas assez d’idées et de comportements radicaux qui
+           permet pas de faire avancer les choses et d’améliorer la  permettraient de trouver de nouvelles voies pour faire avancer
+                            situation du pays                                 les choses et d’améliorer la situation du pays
+
+              % SELON L’ÂGE                                         % SELON LA PROXIMITÉ PARTISANE
+
+              18-24 ans        55              45                               LFI    44          56
+
+                                                                                PC      55          45
+                              51              49
+              25-34 ans
+                                                                         Les Ecologistes 63          37
+
+                              51              49                       PS / Place Publique 76          24
+              35-49 ans
+                                                                         ST Bloc central   77          23
+                              49              51
+              50-59 ans
+                                                                       …dont Renaissance   75          25
+                              48              52                          …Dont MODEM      77          23
+              60-69 ans
+                                                                         ….Dont Horizons   79          21
+                               57              43
+           70 ans et plus
+                                                                                LR       59          41
+                                                                                RN   29          71
+
+                                                                           Reconquête 25         75
+
+                                                                           Aucun parti   58          42
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 50
+
+--- page 51 ---
+
+Les    préférences          en   termes      de   dirigeant      politique
+
+    Question : Vous personnellement, quel type de dirigeant politique préférez-vous pour diriger la France ?…
+    Base : A tous
+
+  Un   dirigeant    politique     qui  est
+                                                                                  Un   dirigeant    politique    qui   reste
+
+  prêt   à faire   des  compromis
+                                                                                  fidèle   à ses   idées   et  à ses
+                                                                          47
+  avec    les autres    afin  de
+                                                                                  principes     et  ne  fait pas   de
+                                               53
+  parvenir     à avancer     au  moins
+                                                                                  compromis
+  en   partie   ses  idées
+                                                                                   Rappel avril 2026 : 45%*
+   Rappels  avril 2026 : 55%*
+
+ *Ipsos CEVIPOF FJJ LE MONDE – Enquête électorale 2026 – Vague 2 – 10 962 répondants âgés de 18 ans et plus, inscrits sur les listes électorales interrogés du 2 au 9 avril 2026
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 51
+
+--- page 52 ---
+
+Les    préférences          en   termes      de   dirigeant      politique       - Détails
+
+    Question : Vous personnellement, quel type de dirigeant politique préférez-vous pour diriger la France ?…
+    Base : A tous
+
+          Un dirigeant politique qui reste fidèle à ses idées et à ses Un dirigeant politique qui est prêt à faire des compromis avec
+                   principes et ne fait pas de compromis               les autres afin de parvenir à avancer au moins en partie ses
+                                                                                                idées
+
+              % SELON L’ÂGE                                         % SELON LA PROXIMITÉ PARTISANE
+
+              18-24 ans      44              56                                 LFI     54          46
+
+                                                                                PC    39           61
+                             46              54
+              25-34 ans
+                                                                         Les Ecologistes 29      71
+
+                              48              52                       PS / Place Publique 21   79
+              35-49 ans
+                                                                         ST Bloc central 28      72
+                              50              50
+              50-59 ans
+                                                                       …dont Renaissance 27      73
+                              50              50                          …Dont MODEM 24         76
+              60-69 ans
+                                                                         ….Dont Horizons 31       69
+                             46              54
+           70 ans et plus
+                                                                                LR      52          48
+                                                                                RN        67          33
+
+                                                                           Reconquête      80          20
+
+                                                                           Aucun parti 41          59
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 52
+
+--- page 53 ---
+
+La   polarisation         politique      de  la  société      française
+
+     Question : Nous aimerions connaître vos sentiments envers  différents groupes. Nous souhaiterions que vous nous donniez
+
+     votre ressenti sur ces groupes en utilisant une échelle allant de 0 à 10. Une note de 10 signifie que vous les aimez beaucoup, la note 0
+     signifie que vous ne les aimez pas du tout. Une note de 5 signifie que vous n’éprouvez pas une sympathie ou antipathie particulière envers ce groupe.
+     Les notes intermédiaires permettent de nuancer votre ressenti.
+
+     Base : à tous
+                                                                                                     NI UNE
+                                   VOUS NE LES                                VOUS LES             SYMPATHIE NI
+
+                                   AIMEZ PAS DU                                AIMEZ    ANTIPATHIE    UNE    SYMPATHIE    Note
+  LES GENS QUI VOTENT POUR …                   (2 À 3)    (4 À 6)   (7 À 8)
+                                    DU TOUT                                  BEAUCOUP     (0 À 3)  ANTIPATHIE  (7 À 10) moyenne
+                                     (0 À 1)                                  (9 À 10)             PARTICULIÈRE
+                                                                                                     (4 À 6)
+               La France Insoumise    50         12        21         8         9          62         21        17        2,9
+
+                    Les écologistes
+                                      24         16        38        15         7          40         38        22        4,2
+      (ex Europe Ecologie - Les Verts)
+                   le Parti socialiste 19        17        45        14         5          36         45        19        4,2
+
+                      Renaissance !
+                                      27         18        43         9         3          45         43        12        3,6
+       (ex La République En Marche !)
+                   Les Républicains   17         16        48        14         5          33         48        19        4,4
+
+         Le Rassemblement  national
+                                      35         10        23        12        20          45         23        32        4,3
+                  (ex Front National)
+
+                       Reconquête     36         15        36         8         5          51         36        13        3,3
+
+          Les gens qui ne votent pas  37         18        36         6         3          55         36         9        3,0
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 53
+
+--- page 54 ---
+
+Le   sentiment         d’affinité     avec     le  parti   politique      dont     on  se   sent    le  plus   proche
+
+     Question : En pensant au parti duquel vous vous sentez le plus proche, à quelle fréquence pensez-vous de la manière suivante ?
+     Base : A ceux qui se sentent proches d’un des partis politiques
+                                                                                           %  T              %  P
+                                                                                               OUJOURS           ARFOIS
+                                                                                             SOUVENT           JAMAIS
+
+       J'ai beaucoup de choses en commun avec les
+                                                   15         44              35       6
+                personnes qui soutiennent <Parti* >                                             59               41
+
+   Lorsque des individus complimentent < Parti*>, je
+                                                   18        34            33       15
+                                                                                                52               48
+                                    me sens bien
+
+         Lorsque je rencontre quelqu'un qui soutient
+                                                  13       31            39         17          44               56
+            <Parti*>, je me sens lié à cette personne
+
+     Quand je parle de < Parti*>, je dis « nous » plutôt
+                                                  8   16      23             53                 24               76
+                                       que « ils »
+
+    Lorsque d'autres personnes critiquent < Parti* >,
+                                                  7   16       34              43               23               77
+        je le ressens comme une insulte personnelle
+ *Les répondants étaient interrogés sur le parti dont ils se déclaraient les plus proches.
+
+             Toujours                         Souvent                           Parfois                          Jamais
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 54
+
+--- page 55 ---
+
+Le   sentiment         d’affinité     avec     le  parti   politique      dont     on  se   sent    le  plus   proche
+
+     Question : En pensant au parti duquel vous vous sentez le plus proche, à quelle fréquence pensez-vous de la manière suivante ?
+     Base : A ceux qui se sentent proches d’un des partis politiques
+
+        %  TOUJOURS,   SOUVENT
+
+            SELON  LA PROXIMITÉ    Ens.
+
+                     PARTISANE                            LES   PS / PLACE ST BLOC …DONT …DONT ….DONT
+                                           LFI     PC   ECOLOGISTES PUBLIQUE CENTRAL RENAISSANCE MODEM HORIZONS LR RN RECONQUÊTE
+        J'ai beaucoup de choses en
+    commun  avec les personnes qui 59      73     70      59      51     42      43      39     43      49      64      73
+              soutiennent <Parti*>
+
+             Lorsque des individus
+     complimentent < Parti*>, je me 52     64     62      49      39     35      36      26      37     38      60      64
+
+                        sens bien
+ Lorsque je rencontre quelqu'un qui
+   soutient <Parti*>, je me sens lié à 44  60     58      41      33     26      27      17     26      32      52      59
+
+                   cette personne
+
+  Quand je parle de < Parti*>, je dis «
+                                   24      30      31     15      14      15     17      13      11     17      30      37
+           nous » plutôt que « ils »
+       Lorsque d'autres personnes
+
+   critiquent < Parti* >, je le ressens 23 30     26      23      10      12     13      9       11     13      32      28
+    comme  une insulte personnelle
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 55
+
+--- page 56 ---
+
+Le   positionnement             des    personnalités          politiques       en  termes       de   radicalité
+
+     Question : Pour chacune des personnalités suivantes, sur une échelle de 0 à 10 où 0 signifie que cette personnalité défend
+
+     des idées vraiment très modérées  et 10 qu’elle défend des idées vraiment très radicales, où la situez-vous ?
+     Base : à tous
+                                                                                           Idées   Idées ni modérées, ni Idées
+                                                                                                                            Note
+                                                                                          modérées    radicales  radicales
+                                                                                                                           moyenne
+                                                                                           (0 à 3)     (4 à 6)    (7 à 10)
+                  Eric Zemmour 4 2 7    16                     66                   5       6           7         82        8,5
+                  Marine Le Pen 22 13        27                     53               3      4          13         80        8,2
+
+             Jean-Luc Mélenchon 11 4   9      16                  55                5       15          9          71       7,6
+
+                Bruno Retailleau 4 5     30               27           17    3   14         9          30         44        6,5
+
+                Marine Tondelier 8 12          29           15       14    6     16        20          29         29        5,5
+
+                                                                                            19         47         23        5,1
+                Edouard Philippe 7 12               47                 17     6 1  10
+                                                                                           22          48         19        4,9
+                   Gabriel Attal 8  14                48                14    5 1  10
+
+                                                                                           27          41         14        4,4
+             Raphaël Glucksmann 10    17               41             10  4  4   14
+                                                                                           27          39          11       4,3
+                   Olivier Faure 10   17              39            8   3 5     18
+
+                                                                                           38          45          8        3,8
+               François Hollande 15        23                 45              6 21  8
+
+        Idées très modérées (0-1) 2 à 3 4 à 6 7 à 8   Idées très radicales (9-10) Vous n'avez jamais entendu parler de cette personnalité Vous ne savez pas
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 56
+
+--- page 57 ---
+
+Le   positionnement             des    personnalités          politiques       en  termes       de   radicalité
+
+     Question : Pour chacune des personnalités suivantes, sur une échelle de 0 à 10 où 0 signifie que cette personnalité défend
+
+     des idées vraiment très modérées  et 10 qu’elle défend des idées vraiment très radicales, où la situez-vous ?
+     Base : à tous
+
+                 NOTE  MOYENNE
+
+            SELON  LA PROXIMITÉ    Ens.
+
+                     PARTISANE                            LES   PS / PLACE ST BLOC …DONT …DONT ….DONT                         AUCUN
+                                           LFI     PC   ECOLOGISTES PUBLIQUE CENTRAL RENAISSANCE MODEM HORIZONS LR RN RECONQUÊTE PARTI
+                   Eric Zemmour    8,5    9,3     9,5     9,4    9,3     8,9     9,0     8,7    8,9     8,5     7,7    8,2     8,3
+
+                   Marine Le Pen   8,2    9,0     9,2     9,1    9,0     8,7     8,8     8,6    8,6     8,1     7,5    6,9     8,0
+
+            Jean-Luc  Mélenchon    7,6    6,0     7,4     7,8    8,2     8,6     8,5     8,6    8,7     8,4     7,3    8,0     7,6
+
+                Bruno  Retailleau  6,5     7,7    7,9     7,4     7,7    6,7     6,7     6,8    6,8     6,2     5,3    5,5     6,4
+
+                Marine Tondelier   5,5    4,7     5,2     5,2    5,5     6,3     6,2     6,1    6,4     6,5     5,1    6,4     5,6
+
+                Edouard Philippe   5,1    6,0     6,2     5,4    5,8     5,1     5,0     5,5    5,1     5,1     4,4    3,8     5,2
+
+                    Gabriel Attal  4,9    5,6     5,9     5,1    5,4     4,8     4,8    5,0     4,8     4,8     4,3    3,8     5,0
+
+            Raphaël Glucksmann     4,4     4,1    4,1     4,3    4,3     4,7     4,7    4,8     4,6     4,9     4,2    4,1     4,6
+
+                    Olivier Faure  4,3     4,1    4,4     4,2    4,4     4,9     5,0    4,9     4,8     4,9     3,9    4,4     4,4
+
+               François Hollande   3,8    3,9     4,2     3,8    4,0     4,1     4,1    4,3     4,1     4,3     3,5    3,4     3,9
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 57
+
+--- page 58 ---
+
+La   sévérité      de   la  justice    à  l’égard     de   Marine      Le  Pen
+
+    Question : Marine Le Pen a été condamnée en appel dans l’affaire des assistants parlementaires du RN à 3 ans de prison, dont deux ans avec sursis et un
+    an ferme aménageable avec bracelet électronique. Elle a également été condamnée à 45 mois d'inéligibilité, dont 30 avec sursis. La cour d’appel a donc
+    confirmé la condamnation, cependant, Marine Le Pen est redevenue éligible à la présidentielle de 2027, contrairement à ce qu’impliquait le jugement de
+    première instance qui l’avait condamnée à cinq ans d’inéligibilité avec exécution immédiate. % SELON LA PROXIMITÉ PARTISANE % PAS ASSEZ
+
+    Diriez-vous que la justice a été trop, pas assez ou ni trop ni pas assez sévère avec Marine Le Pen ?               % SÉVÈRE SÉVÈRE
+    Base : A tous                                                                                                         2     88
+                                                                                              LFI 11 8 14     74        2
+                                                                                                                          3     79
+                                                                                              PC 03 15 19       60      3
+                                               %  S       : 23
+                                                   ÉVÈRE
+                            9        12                                                                                   2     80
+                                                                                       Les Ecologistes 11 14 19 61      4
+                                                                                                                          3     73
+                                                                                     PS / Place Publique 12 20 21 52    4
+                                            11
+                                                                                                                          4     66
+                                                                                       ST Bloc central 13 24 24  42    6
+                                                                                                                          4     72
+                                                                                     …dont Renaissance 13 19 26  46     5
+                  31
+                                                                                                                          7     57
+                                                                                       …Dont MODEM 25 30    25     32  6
+                                                                                      ….Dont Horizons 13 31 21    37   7  4     58
+                                           23
+                                                                                              LR 7  18    32    16  18 9 25     34
+                             14                                                               RN    37     23    26  43 7 60    7
+    %  P
+         AS ASSEZ
+                                                                                         Reconquête  43     20   18 7 4 8 63    11
+             : 45
+     SÉVÈRE
+                                                                                         Aucun parti 5 9 27 15  27    17  14    42
+                                               Ni tropsévère, ni pas     Plutôt pas            Pas du tout         Vous n’en savez
+       Tropsévère           Plutôt sévère
+                                                  assez sévère          assez sévère          assez sévère          vraiment rien
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 58
+
+--- page 59 ---
+
+Le   positionnement             des    partis    politiques       sur   l’axe   gauche-droite
+
+     Question : En politique les gens parlent de la gauche et de la droite. Sur une échelle de 0 à 10, où classeriez-vous les partis
+                                                                                                            «Au       «A
+     politiques suivants ?                                                                      «A gauche»                    Note
+                                                                                                           centre»  droite »
+     Base : à tous                                                                                (0 à 4)                   moyenne
+                                                                                                             (5)     (6 à 10)
+                                                                                                   86        3        5       1,2
+                                 La France Insoumise           68                  16   23122 6
+
+                                                                                                   76        11       5       2,8
+               Les écologistes (ex Europe Ecologie - Les Verts) 24  39          13    11 22  8
+                                                                                           1
+                                                                                                   75        10       9       3,1
+                                   le Parti socialiste 17        41            17    10  4 41 6
+
+                                                                                                   18        21       51      5,8
+                  Renaissance (ex La République En Marche !) 4 8 6 21 17        27       7   9
+                                                                                           1
+                                   Les Républicains 233 10 12            48             14   8      8        10       74      6,9
+
+                Le Rassemblement national (ex Front National) 3113 3 18      67               4     5        3        88      8,7
+
+                                       Reconquête 3 4 3 10 7    18            42         1  12     10        10       67      7,6
+
+       Très à gauche (0 à 1) A gauche (2 à 3) Plutôt à gauche (4) Centre (5) Plutôt à droite (6) A droite (7 à 8) Très à droite (9 à 10) Jamais entendu parler de ce parti Je ne sais pas
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 59
+
+--- page 60 ---
+
+Le   positionnement             des    partis    politiques       sur   l’axe   gauche-droite
+
+     Question : En politique les gens parlent de la gauche et de la droite. Sur une échelle de 0 à 10, où classeriez-vous les partis
+
+     politiques suivants ?
+     Base : à tous
+
+                 NOTE  MOYENNE
+
+            SELON  LA PROXIMITÉ    Ens.
+
+                     PARTISANE                            LES   PS / PLACE ST BLOC …DONT …DONT ….DONT                         AUCUN
+                                           LFI     PC   ECOLOGISTES PUBLIQUE CENTRAL RENAISSANCE MODEM HORIZONS LR RN RECONQUÊTE PARTI
+            La France Insoumise    1,2     1,9    1,7     1,6     1,3    0,8     0,8     0,7    0,6     0,6     0,9    0,4     1,4
+
+                 Les Ecologistes   2,8    3,3     3,7     3,1    3,3     2,8     2,8     2,9    2,8     2,2     2,2     1,1    3,1
+
+               Le Parti socialiste 3,1    4,5     4,2     3,5    3,3     3,2     3,2     3,3    3,4     2,7     2,3    1,9     3,2
+
+                    Renaissance    5,8    7,2     7,2     6,7    6,6     6,0     6,0     5,9    5,9     5,3     4,6    3,4     5,9
+
+               Les Républicains    6,9     7,7    8,0     7,3     7,5    7,2     7,2     7,3    7,2     7,5     5,9    5,6     6,8
+
+     Le Rassemblement   national   8,7    9,3     9,3     9,2    9,0     8,8     8,8     8,8    8,8     8,6     8,7    7,5     8,3
+
+                    Reconquête     7,6    8,7     8,6     8,5    8,2     8,0     7,9     7,8    8,3     7,3     6,6    8,6     7,2
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 60
+
+--- page 61 ---
+
+Les    perceptions          des   différents        types     de  systèmes         politiques
+
+     Question : Il existe différents types de systèmes politiques. Que pensez-vous de chacun d’eux comme façon de gouverner
+
+     le pays. Pour chacun, diriez-vous que c'est une très bonne, assez bonne, assez mauvaise ou très mauvaise façon de
+     gouverner  le pays ?
+
+     Base : à tous                                                                      % U              %  U
+                                                                                            NE BONNE          NE MAUVAISE
+                                                                                           FAÇON               FAÇON
+
+        Avoir un système politique démocratique                                              93                  7
+                                                         47                46         6 1
+
+             Que ce soient des experts, et non un
+                                                                                             65                  35
+          gouvernement,  qui décident ce qui leur 12           53              27     8
+                  semble  le meilleur pour le pays
+
+    Avoir à sa tête un homme fort qui n'a pas à se
+                                                                                             39                  61
+                                                  12      27         32          29
+        préoccuper du parlement ni des élections
+
+                       Que l'armée dirige le pays 3 12      31              54                15                 85
+
+        Une très bonne façon            Une assez bonne façon           Une assez mauvaise façon          Une très mauvaise façon
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 61
+
+--- page 62 ---
+
+Les    perceptions          des   différents        types     de  systèmes         politiques
+
+     Question : Il existe différents types de systèmes politiques. Que pensez-vous de chacun d’eux comme façon de gouverner
+
+     le pays. Pour chacun, diriez-vous que c'est une très bonne, assez bonne, assez mauvaise ou très mauvaise façon de
+     gouverner  le pays ?
+
+     Base : à tous
+
+               %  BONNE  FAÇON
+
+            SELON  LA PROXIMITÉ    Ens.
+
+                     PARTISANE                            LES   PS / PLACE ST BLOC …DONT …DONT ….DONT                         AUCUN
+                                           LFI     PC   ECOLOGISTES PUBLIQUE CENTRAL RENAISSANCE MODEM HORIZONS LR RN RECONQUÊTE PARTI
+
+         Avoir un système politique
+                                   93
+                                           97     96      98      98     96      96      96     96      94      91      85     90
+                    démocratique
+   Que ce soient des experts, et non
+  un gouvernement, qui décident ce
+                                   65
+                                           65     49      72      59     64      63      58      67     69      67      57     67
+  qui leur semble le meilleur pour le
+                            pays
+   Avoir à sa tête un homme fort qui
+                                   39
+         n'a pas à se préoccuper du        18      17     17      24     36      34      31      41     49      56      69     40
+         parlement ni des élections
+
+                                   15
+          Que l'armée dirige le pays       5       1       5      4       5       4      9       5      16      27     40      16
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 62
+
+--- page 63 ---
+
+L’opinion       sur   les   pratiques       en   politique
+
+     Question : Pour chacune de ces phrases pouvez-vous   dire si vous êtes tout à fait, plutôt, plutôt pas ou pas d’accord du tout ?
+     Base : à tous
+
+                                                             PAS DU TOUT                             TOUT À FAIT          Note
+
+                                                              D’ACCORD     2        3         4      D’ACCORD   NSP
+                                                                                                                        moyenne
+                                                                  1                                     5
+          Les hommes politiques parlent trop et n'agissent pas assez -     2        9         25       64         -       4,5
+
+      Les hommes politiques à l'Assemblée nationale doivent suivre la
+                                                                 -         2        14        31       52         -       4,3
+                                             volonté du peuple
+           Les responsables politiques ont conduit le pays à la faillite 1 4        15        27       51         2       4,3
+
+          Le peuple n'est pas bien représenté à l'Assemblée nationale 2    5        16        28       49         -       4,2
+
+         Les différences politiques entre les citoyens ordinaires et les
+                                                                 2         4        24        30       40         -       4,0
+           élites sont plus grandes que les différences entre citoyens
+          Les décisions politiques les plus importantes devraient être
+                                                                 3         8        26        28       35         -       3,9
+            prises par le peuple et non pas par les hommes politiques
+
+      Je préfèrerais être représenté(e) par un citoyen ordinaire plutôt
+                                                                 5        12        31        25       28         -       3,6
+                               que par un politicien professionnel
+       En politique, lorsqu'on parle de compromis, c'est qu'on renonce
+                                                                 8        19        33        23       17         -       3,2
+                                       en réalité à ses principes
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 63
+
+--- page 64 ---
+
+L’opinion       sur   les   pratiques       en   politique
+
+     Question : Pour chacune de ces phrases pouvez-vous   dire si vous êtes tout à fait, plutôt, plutôt pas ou pas d’accord du tout ?
+     Base : à tous
+
+                       NOTE  MOYENNE
+                                          Ens.
+       SELON LA  PROXIMITÉ PARTISANE                           LES  PS / PLACE ST BLOC …DONT …DONT ….DONT                     AUCUN
+                                                 LFI    PC    ECOLOGISTES PUBLIQUE CENTRAL RENAISSANCE MODEM HORIZONS LR RN RECONQUÊTE PARTI
+        Les hommes politiques parlent trop et
+                                          4,5    4,4    4,3    4,5    4,4    4,3    4,2    4,3    4,4     4,6    4,7    4,8    4,5
+                       n'agissent pas assez
+Les hommes politiques à l'Assemblée nationale
+                                          4,3    4,6    4,5    4,3    4,2    3,9    3,9    4,0     3,9    4,2    4,6    4,6    4,2
+           doivent suivre la volonté du peuple
+Les responsables politiques ont conduit le pays
+                                          4,3    4,3    4,3    4,0    3,9    3,6    3,5    3,9     3,8    4,3    4,6    4,8    4,2
+                               à la faillite
+         Le peuple n'est pas bien représenté à
+                                          4,2    4,4    4,2    4,1    3,9    3,5    3,4    3,6     3,6    3,9    4,5    4,5    4,2
+                     l'Assemblée nationale
+  Les différences politiques entre les citoyens
+  ordinaires et les élites sont plus grandes que 4,0 4,2 4,2   4,0    4,0    3,7    3,6    3,7     3,8    3,9    4,1    4,1    4,0
+               les différences entre citoyens
+  Les décisions politiques les plus importantes
+  devraient être prises par le peuple et non pas 3,9 4,1 3,9   3,8    3,5    3,1    3,0    3,2     3,1    3,5    4,2    4,3    3,8
+                  par les hommes politiques
+
+      Je préfèrerais être représenté(e) par un
+   citoyen ordinaire plutôt que par un politicien 3,6 3,7 3,7  3,8    3,4    3,0    3,0    3,2     2,9    3,2    3,8    3,5    3,7
+                            professionnel
+
+    En politique, lorsqu'on parle de compromis,
+                                          3,2    3,2    3,1    2,8    2,8    2,7    2,7    2,7     2,8    3,2    3,6    4,0    3,1
+  c'est qu'on renonce en réalité à ses principes
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 64
+
+--- page 65 ---
+
+ANNEXES
+
+     ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne :
+     Enquête électorale française 2026 – Septembre 2026 – Vague 3
+                                                                  65
+
+--- page 66 ---
+
+PRÉCISIONS             SUR     L’INTERVALLE             DE    CONFIANCE
+
+    L’intervalle de confiance (appelé aussi marge d’erreur) est l’intervalle dans lequel se trouve la valeur recherchée avec une probabilité fixée (le niveau
+
+    de confiance). L’amplitude de cet intervalle dépend du niveau de confiance, de la valeur observée et de la taille de l’échantillon. Le calcul n’est
+    justifié que pour les sondages aléatoires. Il ne peut pas être déterminé dans le cas de sondages par quotas mais on considère qu’il est proche de
+    celui des sondages aléatoires.
+
+                             INTERVALLE   DE CONFIANCE
+
+                         (avec un niveau de confiance de 95%)
+                                      SCORES OBTENUS (P)                      Note de lecture :
+        Taille
+                                                                              *pour un échantillon de 13 060 personnes, si le score mesuré est de
+     d'échantillon 2% ou 5% ou 10% ou 15% ou 20% ou 25% ou 30% ou 35% ou 40% ou 45% ou
+                                                                        50%   20%, il y a 95% de chances pour que la valeur réelle se situe
+         (N)    98%   95%  90%   85%  80%   75%  70%   65%   60%  55%
+                                                                              aujourd’hui entre 19,3% et 20,7% (plus ou moins 0,7 point).
+        100      2,7  4,3   5,9  7,0   7,8  8,5   9,0  9,3   9,6   9,8  9,8   ** base intentions de vote Hypothèse R. Glucksmann, G. Attal et E.
+        500      1,2  1,9   2,6  3,1   3,5  3,8   4,0  4,2   4,3   4,4  4,4   Philippe, pour un échantillon de 9 445 personnes, si le score mesuré
+                                                                              est de 20%, il y a 95% de chances pour que la valeur réelle se situe
+        1 000    0,9  1,4   1,9  2,2   2,5  2,7   2,8  3,0   3,0   3,1  3,1
+                                                                              aujourd’hui entre 19,2% et 20,8% (plus ou moins 0,8 point).
+        2 500    0,5  0,9   1,2  1,4   1,6  1,7   1,8  1,9   1,9   2,0  2,0
+        6 000    0,4  0,6   0,8  0,9   1,0  1,1   1,2  1,2   1,2   1,3  1,3
+       9 445**   0,3  0,4   0,6  0,7   0,8  0,9   0,9  0,9   1,0   1,0  1,0
+       10 000    0,3  0,4   0,6  0,7   0,8  0,8   0,9  0,9   1,0   1,0  1,0
+       13 060*   0,2  0,4   0,5  0,6   0,7  0,7   0,8  0,8   0,8   0,9  0,9
+       15 000    0,2  0,3   0,5  0,6   0,6  0,7   0,7  0,8   0,8   0,8  0,8
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 66
+
+--- page 67 ---
+
+NOS        ENGAGEMENTS
+
+     CODES    PROFESSIONNELS,         CERTIFICATION      QUALITÉ    CONSERVATION         ET PROTECTION       DES  DONNÉES
+
+    Ipsos est membre des organismes professionnels français et européens des études de Ipsos France est certifiée ISO 20252 :
+
+    marché et d’opinion suivants:                                                 Market Research - version 2019
+                                                                                  par AFNOR CERTIFICATION
+      •   SYNTEC (syndicat professionnel des sociétés d’études de marché en france ;
+          www.Syntec-etudes.Com)
+                                                                         Ce document est élaboré dans le respect de ces codes et normes
+      •   ESOMAR (European Society for Opinion and Market Research, www.Esomar.Org) internationales.
+
+     Ipsos France s’engage à appliquer le code ICC/Esomar des études de marché et d’opinion. Ce code définit les règles déontologiques des professionnels des
+     études de marché et établit les mesures de protection dont bénéficient les personnes interrogées.
+
+            Ipsos s’engage à respecter les lois applicables. Ipsos a désigné un Data Protection Officer et a mis place un plan de conformité au Règlement Général sur
+            la Protection des Données (Règlement (UE) 2016/679). Pour plus d’informations sur notre politique en matière de protection des données personnelles :
+            https://www.ipsos.com/fr-fr/confidentialite-et-protection-des-donnees-personnelles
+
+     A ce titre, la durée de conservation des données personnelles des personnes interviewées dans le cadre d’une étude est, à moins d’un engagement contractuel
+     spécifique :
+
+     de 12 mois suivant la date de fin d’une étude Ad Hoc .
+
+     de 36 mois suivant la date de fin de chaque vague d’une étude récurrente.
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 67
+
+--- page 68 ---
+
+FIABILITÉ      DES   RÉSULTATS         :
+
+     Études           auto-administrées                         online
+
+      La fiabilité globale d’une enquête est le résultat du contrôle de toutes les composantes d’erreurs, c’est pourquoi Ipsos
+
+      impose des contrôles et des procédures strictes à toutes les phases de l’étude.
+
+      EN AMONT DU RECUEIL                                             EN AVAL DU RECUEIL
+
+    •  Echantillon : structure et représentativité                  •  Les résultats sont analysés en respectant les méthodes d’analyses statistiques
+                                                                       (intervalle de confiance versus taille d’échantillon, tests de significativité). Les
+    •  Questionnaire : le questionnaire est rédigé en suivant un process de rédaction
+                                                                       premiers résultats sont systématiquement contrôlés versus les résultats bruts
+       comprenant 12 standards obligatoires. Il est relu et validé par un niveau senior
+                                                                       issus de la collecte. La cohérence des résultats est aussi contrôlée (notamment
+       puis envoyé au client pour validation finale. La programmation (ou script du
+                                                                       les résultats observés versus les sources de comparaison en notre possession).
+       questionnaire) est testée par au moins 2 personnes puis validée.
+                                                                    •  Dans le cas d’une pondération de l’échantillon (méthode de calage sur marges),
+                                                                       celle-ci est contrôlée par les équipes de traitement (DP) puis validée par les
+      LORS DU RECUEIL                                                  équipes études.
+    •  Echantillonnage: Ipsos impose des règles d’exploitation très strictes de ses
+       bases de tirages afin de maximiser le caractère aléatoire de la sélection de
+       l’échantillon: tirage aléatoire, taux de sollicitation, taux de participation,
+       abandon en cours, hors cible…
+
+    •  Suivi du terrain: La collecte est suivie et contrôlée (pénétration, durée
+       d’interview, cohérence des réponses, suivi du comportement du répondant,
+       taux de participation, nombre de relances,…).
+
+    ©Ipsos bva Cesi école d’ingénieurs – CEVIPOF FJJ Le Monde Institut Montaigne : Enquête électorale française 2026 – Septembre 2026 – Vague 3 68
+
+--- page 69 ---
+
+À   PROPOS       D’IPSOS                               GAME      CHANGERS
+
+         Ipsos est l’un des leaders mondiaux des études de marché et des Dans un monde qui évolue rapidement, s’appuyer sur des
+         sondages d’opinion, présent dans 90 marchés et comptant près données fiables pour prendre les bonnes décisions n’a jamais été
+
+         de 20 000 collaborateurs.                              aussi important.
+         Nos chercheurs, analystes et scientifiques sont passionnément
+         curieux et ont développé des capacités multi-spécialistes qui Chez Ipsos, nous sommes convaincus que nos clients cherchent
+         permettent de fournir des informations et des analyses poussées plus qu’un simple fournisseur de données. Ils ont besoin d’un
+         sur les actions, les opinions et les motivations des citoyens, des véritable partenaire qui leur procure des informations précises et
+         consommateurs, des patients, des clients et des employés. pertinentes, et les transforme en connaissances pour leur
+                                                                permettre de passer à l’action.
+         Nos 75 solutions s’appuient sur des données primaires provenant
+         de nos enquêtes, de notre suivi des réseaux sociaux et de Voilà pourquoi nos experts, curieux et passionnés, délivrent les
+
+         techniques qualitatives ou observationnelles.          mesures les plus exactes pour en extraire l’information qui
+                                                                permettra d’avoir une vraie compréhension de la Société, des
+         Notre signature « Game Changers » résume bien notre ambition Marchés et des Individus.
+         d’aider nos 5 000 clients à évoluer avec confiance dans un monde
+         en rapide évolution.                                   Nous mêlons notre savoir-faire au meilleur des sciences et de la
+                                                                technologie, et appliquons nos quatre principes de sécurité,
+         Créé en France en 1975, Ipsos est coté à l’Euronext Paris depuis le simplicité, rapidité et de substance à tout ce que nous
+         1er juillet 1999. L’entreprise fait partie des indices SBF 120 et Mid- produisons.
+         60 et est éligible au service de règlement différé (SRD). Pour permettre à nos clients d’agir avec plus de rapidité,
+                                                                d’ingéniosité et d’audace.
+
+         ISIN code FR0000073298, Reuters ISOS.PA, Bloomberg IPS:FP
+         www.ipsos.com                                          La clef du succès se résume par une vérité simple :
+                                                                You act better when you are sure.
+
+                                                                  69
