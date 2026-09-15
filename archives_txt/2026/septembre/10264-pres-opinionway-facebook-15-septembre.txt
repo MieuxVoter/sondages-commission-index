@@ -1,0 +1,518 @@
+# notice commission des sondages
+# source_pdf: archives/2026/septembre/10264-pres-opinionway-facebook-15-septembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+RR  Sébastien       Bonnal
+      UU
+      OO
+      PP
+
+      La     candidature                     de
+
+      Sébastien                 Bonnal
+
+      à   l’élection
+
+      présidentielle                   de     2027
+
+      Notice    à la  commission       des   sondages      -
+
+      Septembre       2026                                                                                                        s
+                                                                                                                                  le
+                                                                                                                                  x
+                                                                                                                                  e
+                                                                                                                                  P
+                                                                                                                                  ru
+                                                                                                                                  o
+                                                                                                                                  p
+                                                                                                                                  a
+                                                                                                                                  ru
+                                                                                                                                  o
+                                                                                                                                  M
+                                                                                                                                  e
+                                                                                                                                  rd
+                                                                                                                                  n
+                                                                                                                                  A
+                                                                                                                                  :
+                                                                                                                                  s
+                                                                                                                                  t
+                                                                                                                                  id
+                                                                                                                                  é
+                 POUR Sébastien Bonnal                                                                                            r C
+
+--- page 2 ---
+
+Les    indications         générales         sur    le  sondage
+
+                                                                                                                             903
+                                                                                                                           personnes
+
+                     Nom  de l’organisme ayant réalisé le sondage : OpinionWay
+
+                     Nom  et qualité du/des commanditaire(s) du
+                                                                   Sébastien Bonnal
+                     sondage  :
+
+                     Nom  et qualité de l’acheteur du sondage :    Sébastien Bonnal
+
+                                                                   Pour les remercier de leur participation, les panélistes
+                     Existence d’une gratification :               ont touché des incentives ou ont fait un don à
+                                                                   l’association proposée de leur choix.
+
+                    «Toute personne a le droit de consulter auprès de la Commission des sondages la notice prévue par l’article 3.
+                        Cette commission rend publique cette notice sur son service de communication au public en ligne.
+                                            http://www.commission-des-sondages.fr/notices/»
+
+                 PPOOUURR Sébastien Bonnal                                                                                        2
+
+--- page 3 ---
+
+Echantillon de 1 034 personnes, représentatif de la population
+   La                                                                française âgée de 18 ans et plus, dont 951 personnes inscrites
+                                                                     sur les listes électorales.
+
+   méthodologie
+                                                                     L’échantillon a été constitué selon la méthode des quotas, au regard
+                                                                     des critères de sexe, d’âge, de catégorie socioprofessionnelle, de
+                                                                     catégorie d’agglomération et de région de résidence.
+
+   Toute publication totale ou       L’échantillon a été interrogé par questionnaire
+   partielle doit impérativement     auto-administré  en ligne sur système CAWI
+                                     (Computer Assisted Web Interview).
+   utiliser la mention complète
+   suivante :
+
+   « Sondage OpinionWay   pour
+                                                                     Les interviews ont été réalisées du 2 au 4 septembre 2026.
+   Sébastien Bonnal »
+                                                                     Pour les remercier de leur participation, les panélistes ont touché des
+   et aucune reprise de                                              incentivesou ont fait un don à l’association proposée de leur choix.
+   l’enquête ne pourra être
+   dissociée de cet intitulé.
+                                     OpinionWay   a réalisé cette enquête en appliquant
+
+                                     les procédures et règles de la norme ISO 20252
+
+                                                                     La colonne de référence que nous avons choisie pour le résultat publié des
+                                                                     intentions de vote est le redressement sociodémographique + vote au premier
+                                                                     tourdel’électionprésidentiellede2022surlescertainsd’allervoter(note9+10).
+                                                                     Pour déterminer le pourcentage de personnes n’exprimant pas d’intentions de
+                                                                     vote, nous avons utilisé le redressement sociodémographique sur la base de
+                                                                     l’ensembledesrépondants.
+                                                                     La colonne de référence pour les autres résultats publiés est le redressement
+                                                                     sociodémographique + le vote au premier tour de l’élection présidentielle de
+                                                                     2022surbaseensemble.
+
+                 POUR Sébastien Bonnal                                                                                            3
+
+--- page 4 ---
+
+La   notice      sur   les   marges        d’erreur
+
+                                                                                                                             903
+             Les résultats présentés dans ce document  sont calculés sur la base des personnes  interrogées, inscrites sur
+                                                                                                                           personnes
+             les listes électorales et certaines d’aller voter. « Tout sondage ou enquête d’opinion est affecté de marges
+             d’erreur. »
+
+             Pour un  échantillon de 951 et 700 personnes  interrogées, les marges  d’erreur sont les suivantes, avec un
+             niveau de confiance de 95%  :
+
+                              Pour un pourcentagede :    5%   10%   20%   30%   40%   50%  60%   70%   80%   90%   95%
+
+                                                         +/-   +/-   +/-   +/-  +/-   +/-   +/-   +/-   +/-   +/-   +/-
+                              Lamarge d’erreur est de :  1,4   1,9   2,5   2,9   3,1  3,2   3,1   2,9   2,5   1,9   1,4
+
+                 951 personnes
+                                                         3,6   8 ,1  1 7 , 5 2 7 , 1 3 6 , 9 4 6 , 8 5 6 , 9 6 7 , 1 7 7 ,5 8 8 , 1 9 3 ,6
+                              Lerésultat réel se situe dans et e t   e t   e t   e t   e t  e t   e t   e t   e t   e t
+                              une fourchette de :        6,4   11,9 22,5  32,9  43,1  53,2  63,1  72,9 82,5  91,9  96,4
+
+                                                         +/-   +/-   +/-   +/-  +/-   +/-   +/-   +/-   +/-   +/-   +/-
+                              Lamarge d’erreur est de :  1,6   2,3   3     3,4   3,7  3,8   3,7   3,4    3    2,3   1,6
+                 700 personnes
+                                                         3,4   7 , 7 1 7  2 6 , 6 3 6 , 3 4 6 , 2 5 6 , 3 6 6 , 6 7 7 8 7 , 7 9 3 ,4
+                              Lerésultat réel se situe dans et e t   e t   e t   e t   e t  e t   e t   e t   e t   e t
+                              une fourchette de :        6,6   12,3  23   33,4  43,7  53,8  63,7  73,4  83   92,3  96,6
+
+                 PPOOUURR Sébastien Bonnal                                                                                        4
+
+--- page 5 ---
+
+Le   questionnaire
+
+             Q. Lors de la prochaine élection présidentielle, sur une échelle de 1 à 10, quelle est la probabilité que vous alliez voter au premier tour ?
+
+             Note de 1 à 10
+
+             Q. Si le premier tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants y aurait-il le plus de
+             chance que vous votiez ?
+
+             1. Nathalie Arthaud
+             2. Jean-Luc Mélenchon
+
+             3. Fabien Roussel
+
+             4. Marine Tondelier
+
+             5. Raphaël Glucksmann
+             6. Gabriel Attal
+
+             7. Sébastien Bonnal
+
+             8. Édouard Philippe
+             9. Bruno Retailleau
+
+             10. Éric Zemmour
+
+             11. Marine Le Pen
+             12. Vous voteriez blanc ou nul
+
+             13. Vous vous abstiendriez
+
+                 POUR Sébastien Bonnal                                                                                            5
+
+--- page 6 ---
+
+Le   questionnaire
+
+             Q. Avez-vous entendu parler de la déclaration de candidature de Sébastien Bonnal pour l’élection présidentielle ?
+
+             1. Oui, et vous voyez précisément qui il est
+             2. Oui mais vous ne voyez pas précisément qui il est
+
+             3. Non, jamais
+
+             Q. Diriez-vous que cette candidature est … ?
+
+             1. Oui, tout à fait
+
+             2. Oui, plutôt
+             3. Non, plutôt pas
+
+             4. Non, pas du tout
+
+             1) Courageuse
+
+             2) Utile
+
+             3) Légitime
+
+             4) Innovante
+
+                 POUR Sébastien Bonnal                                                                                            6
+
+--- page 7 ---
+
+Le   questionnaire
+
+             Q. Êtes-vous favorable ou pas à chacune des mesures suivantes ?
+
+             1. Tout à fait favorable
+             2. Plutôt favorable
+
+             3. Plutôt pas favorable
+
+             4. Pas du tout favorable
+
+             1) La réduction du déficit public
+
+             2) L’autorisation de l’abaya dans tous les lieux publics
+             3) L’interdiction des opérations de chirurgie de changement de sexe pour les mineurs
+
+                 POUR Sébastien Bonnal                                                                                            7
+
+--- page 8 ---
+
+Le   redressement             socio-démographique                     de   l’échantillon
+
+             1 034  personnes
+
+     Sexe                             Brut    Redressé            Catégorie socio-professionnelle de l’individu Brut  Redressé
+
+                                                                             Agriculteurs, artisans commerçants,
+                          Hommes      44%       48%                                                           2%        4%
+                                                                                            chefs d’entreprise
+                           Femmes     56%       52%                                 Professions libérales, cadres 1 4 % 10%
+
+                                                                                     Professions intermédiaires 1 4 %   15%
+
+                                                                                                   Employés   2 1 %     17%
+     Age                              Brut    Redressé
+                                                                                                    Ouvriers  1 3 %     12%
+                          18 à 24 ans 10%       10%
+                                                                                                    Retraités 2 6 %     28%
+                         25 à 34 ans  15%       15%
+
+                                                                                               Autres inactifs 1 0 %    14%
+                         35 à 49 ans  26%       24%
+
+                         50 à 64 ans  25%       24%
+
+                       65 ans et plus 24%       27%
+
+                 POUR Sébastien Bonnal                                                                                            8
+
+--- page 9 ---
+
+Le   redressement             socio-démographique                     de   l’échantillon
+
+             1 034  personnes
+
+                                      Région                           Brut    Redressé
+
+                                                     Région parisienne 20%       19%
+
+                                                           Nord Ouest  22%       23%
+
+                                                              Nord Est 23%       22%
+
+                                                            Sud Ouest   9%        11%
+
+                                                              Sud Est  26%       25%
+
+                                      Catégorie d’agglomération        Brut    Redressé
+
+                                                   Une commune rurale  1 8%      21%
+
+                                                2 000 à 19 999 habitants 16%     18%
+
+                                               20 000 à 99 999 habitants 15%     14%
+
+                                                100 000 habitants et plus 33%    30%
+
+                                               Agglomération parisienne 18%       17%
+
+                 POUR Sébastien Bonnal                                                                                            9
+
+--- page 10 ---
+
+Le   redressement             politique        de   l’échantillon
+
+             951 personnes
+
+                                                                                                                             903
+                                                                                                                           personnes
+                                    1er tour de l’élection présidentielle de 2022 Brut Redressé
+
+                                                           Nathalie Arthaud   1%         <1%
+
+                                                             Philippe Poutou  1%         1%
+
+                                                             Fabien Roussel   3%         2%
+
+                                                        Jean-Luc Mélenchon    14%       16%
+
+                                                              Anne Hidalgo    2%         1%
+
+                                                              Yannick Jadot   5%         3%
+
+                                                          Emmanuel Macron     19%       20%
+
+                                                            Valérie Pécresse  6%         3%
+
+                                                              Jean Lassalle   3%         2%
+
+                                                      Nicolas Dupont-Aignan   3%         2%
+
+                                                              Éric Zemmour    4%         5%
+
+                                                              Marine Le Pen  25%         17%
+
+                                               Blanc ou nul + Abstention + NSP 14%      28%
+
+                 PPOOUURR Sébastien Bonnal                                                                                        10
+
+--- page 11 ---
+
+Le   redressement             politique        de   l’échantillon
+
+             951 personnes
+
+                                                                                                                             903
+                                                                                                                           personnes
+
+                              1er tour des élections législatives de 2024 Brut  Redressé
+
+                                                      Extrême-gauche    2%         1%
+
+                                                                 NFP    18%        18%
+
+                                                 Majorité présidentielle 12%       13%
+
+                                                           LR et alliés 8%         7%
+
+                                                          Reconquête    2%         <1%
+
+                                                           RN et alliés 28%        22%
+
+                                                               Autres   11%        4%
+
+                                          Blanc ou nul + Abstention + NSP 19%      35%
+
+                 PPOOUURR Sébastien Bonnal                                                                                        11
+
+--- page 12 ---
+
+L’intention         de   vote     au   premier        tour     de   l’élection       présidentielle
+
+             Q. Si le premier tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants y aurait-il le plus de
+             chances que vous votiez ?
+
+                                            Ensemble des personnes inscrites sur les listes électorales Ensemble des personnes inscrites sur les listes électorales
+                                                         (951 personnes)                    certaines d’aller voter (9+10 : 700 personnes)
+                                   Publié
+                                                                           Socio-Démo +                                Socio-Démo +
+                                                                Socio-Démo +                                Socio-Démo +
+                                             Brut    Socio-Démo            Présid2022 +  Brut    Socio-Démo            Présid2022 +
+                                                                 Presid2022                                  Presid2022
+                                                                            Légis2024                                   Légis2024
+                   Nathalie Arthaud 1%       1%         1%         1%         1%         1%         1%         1%         -
+                Jean-Luc Mélenchon 16%       14%        14%        17%        17%       14%        13%        16%        17%
+                     Fabien Roussel 2%       2%         3%         2%         2%         3%         3%         2%         2%
+                   Marine Tondelier 3%       3%         3%         3%         3%         3%         3%         3%         4%
+
+                Raphaël Glucksmann 12%       10%        10%        11%       10%        10%         11%       12%        10%
+
+                       Gabriel Attal 7%      6%         6%         7%         7%         6%         5%         7%         6%
+
+                   Sébastien Bonnal <1%       -         -          -          -          -          -         <1%         -
+
+                   Édouard Philippe 15%      14%        13%        15%       16%        13%        13%        15%        16%
+                    Bruno Retailleau 7%      8%         7%         6%         7%         7%         7%         7%         6%
+
+                      Éric Zemmour 3%        3%         3%         4%         2%         3%         3%         3%         3%
+
+                      Marine Le Pen 34%     39%        40%        34%        35%        40%        41%        34%        36%
+
+         N’expriment pas d’intention de vote 13% 14%    13%        19%       20%         7%         6%        10%        10%
+
+                 POUR Sébastien Bonnal                                                                                            12
+
+--- page 13 ---
+
+La   notoriété        de    la  candidature           de   Sébastien         Bonnal
+
+                                                                                                                            1001
+             Q. Avez-vous entendu parler de la déclaration de candidature de Sébastien Bonnal pour l'élection présidentielle ?
+                                                                                                                          personnes
+
+                                                                  Ensemble des personnes inscrites sur les listes électorales
+                                                                               (951 personnes)
+
+                                                                                              Socio-Démo +
+                                                                     Brut
+                                                                                               Presid2022
+
+                                            Sous-total Oui           18%                        18%
+
+                      …Oui, et vous voyez précisément qui il est     4%                          3%
+
+              …Oui mais vous ne voyez pas précisément qui il est     14%                         15%
+
+                                               Non, jamais           82%                        82%
+
+                 POUR Sébastien Bonnal                                                                                            13
+
+--- page 14 ---
+
+La   perception          de    la  démarche          de   Sébastien         Bonnal
+
+                                                                                                                            1001
+             Q. Sébastien Bonnal a déclaré en août 2026 sa candidature à l'élection présidentielle en tant que candidat indépendant.
+                                                                                                                          personnes
+             Diriez-vous que cette candidature est ... ?
+
+                                                                  Ensemble des personnes inscrites sur les listes électorales
+           % Sous-total Oui                                                    (951 personnes)
+
+                                                                                              Socio-Démo +
+                                                                     Brut
+                                                                                               Presid2022
+                                              Courageuse             11%                        10%
+
+                                                  Légitime           8%                          9%
+
+                                                Innovante            6%                          7%
+
+                                                     Utile           4%                          4%
+
+                 POUR Sébastien Bonnal                                                                                            14
+
+--- page 15 ---
+
+L’opinion        sur    le  programme             de   Sébastien         Bonnal
+
+                                                                                                                            1001
+             Q. Êtes-vous favorable ou pas à chacune des mesures suivantes ?
+                                                                                                                          personnes
+
+           % Sous-total Favorable
+                                                                  Ensemble des personnes inscrites sur les listes électorales
+                                                                               (951 personnes)
+                                                                                              Socio-Démo +
+                                                                     Brut
+                                                                                               Presid2022
+
+                                 La réduction du déficit public      86%                        83%
+
+                    L'interdiction des opérations de chirurgie de
+                                                                     70%                        69%
+                         changement de sexe pour les mineurs
+               L'autorisation de l'abaya dans tous les lieux publics 27%                        27%
+
+                 POUR Sébastien Bonnal                                                                                            15
+
+--- page 16 ---
+
+PARIS  BORDEAUX  VARSOVIE  CASABLANCA  ABIDJAN
+
+   Fondé en 2000 sur cette idée Enabletoday,shapetomorrow
+                                                                      Restons         connectés          !
+   radicalement innovante pour
+                          C’est la mission qui anime les
+   l’époque, OpinionWay a été
+                          collaborateurs d’OpinionWay et
+   précurseur  dans     le
+                          quifondelarelationqu’ils tissent
+   renouvellement des pratiques de
+                          avecleursclients.                           Une image Une image Une image Une image
+   la  profession des études
+                                                                      contenant contenant contenant contenant
+   marketingetd’opinion.  Le plaisir ressenti à apporter les          clipart, ligne, logo, symbole,
+                          réponses  aux   questions                   cercle, symbole, Graphique, logo
+   Forte d’une croissance continue qu’ils se posent, à réduire        symbole, blanc, symbole,
+   depuis sa création, l’entreprise n’a
+                          l’incertitude sur les décisions
+   eu de cesse de s’ouvrir vers de
+                          à prendre, à tracker les insights           Recevez chaque   semaine  nos derniers résultats
+   nouveaux horizons pour mieux
+                          pertinents et à co-construire les
+   adresser   toutes   les                                            d’études dans votre boite mail en vous abonnant
+                          solutions d’avenir, nourrit tous les
+   problématiques marketing et
+                          projets sur  lesquels ils                   à notre newsletter !
+   sociétales, en intégrant à ses
+                          interviennent.
+   méthodologies le Social Média
+   Intelligence, l’exploitation de la Cet enthousiasme associé à un
+                                                                          Je m’abonne
+   smart data, les dynamiques véritable goût pour l’innovation et
+   créatives de co-construction, les la transmission expliquent que nos
+   approches communautaires et le clients expriment une haute
+   storytelling.          satisfaction après chaque
+   Aujourd’hui OpinionWay poursuit collaboration -8,9/10, et un fort  Vos contacts OpinionWay
+                          taux de recommandation –3,88/4.
+   sa dynamique de croissance en
+   s’implantant géographiquement Le plaisir, l’engagement et la                                 Frédéric Micheau
+                                                                      Bruno Jeanbart
+   sur des zones à fort potentiel que stimulation intellectuelle sont les
+                                                                                                Directeur général adjoint
+   sontl’Europedel’Estetl’Afrique. trois mantras de nos interventions. Vice-président
+                                                                                                Directeur du Pôle opinion
+                                                                      Tel: 01 81 81 83 00
+                                                                                                Tel: 01 81 81 83 00
+                                                                      bjeanbart@opinion-way.com
+                                                                                                fmicheau@opinion-way.com
