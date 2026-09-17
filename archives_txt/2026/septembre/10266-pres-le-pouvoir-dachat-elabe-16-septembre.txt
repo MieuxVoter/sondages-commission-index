@@ -1,0 +1,383 @@
+# notice commission des sondages
+# source_pdf: archives/2026/septembre/10266-pres-le-pouvoir-dachat-elabe-16-septembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+NOTICE TECHNIQUE
+
+                             Les Français et le pouvoir d’achat
+
+     Article 2
+
+     Organisme ayant réalisé le sondage : Elabe
+
+     Nom du/des commanditaire(s) : BFMTV
+
+     Nombre de personnes interrogées : Echantillon de 1 012 personnes, représentatif des résidents
+                                   de France métropolitaine âgés de 18 ans et plus
+
+     Dates de réalisation de l'enquête : Du 15 au 16 septembre 2026
+
+     Date et support de première publication : Le 16 août 2026 à 16h50 sur www.elabe.fr
+
+                                                                             1
+
+--- page 2 ---
+
+Q1. Selon vous, ces dernières années, quel est le poste de dépenses qui a le plus augmenté ?
+     En premier ? En 2ème ? En 3ème ?
+     Rotation aléatoire des items 1 à 12
+       1. Se nourrir
+       2. Se chauffer
+       3. Se soigner
+       4. Se déplacer
+       5. S’assurer
+       6. Se loger
+       7. Payer ses impôts
+       8. Partir en vacances
+       9. Se divertir
+       10. S’habiller
+       11. Téléphoner, communiquer (abonnement téléphone, internet)
+       12. Equiper, décorer son logement
+       13. Autres
+       14. Aucun de ces postes n'a augmenté [EXCLUSIF]
+     Q2. Ces derniers mois, avez-vous dû renoncer à chacune des choses suivantes pour des raisons financières ?
+     Plusieurs réponses possibles
+     Rotation aléatoire des items 1 à 10
+       1. Faire du shopping
+       2. Partir en vacances ou en week-end
+       3. Faire une sortie (cinéma, restaurant, bar, etc.)
+       4. Acheter certains produits alimentaires
+       5. Chauffer convenablement mon logement (baisser le chauffage)
+       6. Faire un don à des associations
+       7. Me soigner, prendre soin de ma santé (consultation chez le médecin, traitement, opérations, etc.)
+       8. Utiliser votre voiture (essence)
+       9. Aider financièrement mes proches
+       10. Payer les études/la scolarité de mes enfants
+       11. Autres, précisez : __
+       12. Je n’ai renoncé à rien ces derniers mois pour des raisons financières [EXCLUSIF]
+     Q3. Quand vous pensez aux prochains mois, pensez-vous que votre pouvoir d’achat va s’améliorer, se dégrader ou
+     rester stable par rapport à la situation actuelle ?
+       •  Beaucoup s'améliorer
+       •  Un peu s'améliorer
+       •  Rester stable
+       •  Un peu se dégrader
+       •  Beaucoup se dégrader
+     Q4. Voici un certain nombre de mesures proposées par des candidats à l'élection présidentielle pour améliorer le
+     pouvoir d'achat des Français. Pour chacune de ces mesures, diriez-vous que vous y êtes favorable ou opposé ?
+     Très favorable / Plutôt favorable / Plutôt opposé / Très opposé
+     Rotation aléatoire des items
+       1. Porter le SMIC à 1 700 euros nets
+       2. Taxer les « méga-héritages » supérieurs à 2 millions d’euros pour réduire la CSG et augmenter le salaire net
+       3. Réduire les cotisations sociales sur les salaires et augmenter en contrepartie la TVA (taxe payée par les consommateurs
+          sur les biens et services) afin d’augmenter le salaire net
+       4. Permettre aux salariés volontaires de travailler jusqu’à 30 minutes supplémentaires par jour, en exonérant ces heures
+          de cotisations salariales et patronales
+       5. Baisser la TVA de 20 % à 5,5 % sur l'énergie : électricité, gaz, carburants, fioul domestique
+
+                                                                             2
+
+--- page 3 ---
+
+Q5. Faites-vous confiance ou pas confiance à chacune des personnalités suivantes pour améliorer le pouvoir d’achat des
+     Français ?
+     Tout à fait confiance / Plutôt confiance / Pas vraiment confiance / Pas du tout confiance
+     Rotation aléatoire des items
+       1. Jean-Luc MELENCHON
+       2. Fabien ROUSSEL
+       3. Marine TONDELIER
+       4. Raphaël GLUCKSMANN
+       5. Oliver FAURE
+       6. François HOLLANDE
+       7. Emmanuel MACRON
+       8. Sébastien LECORNU
+       9. Roland LESCURE
+       10. Gabriel ATTAL
+       11. Edouard PHILIPPE
+       12. Bruno RETAILLEAU
+       13. Marine LE PEN
+       14. Éric ZEMMOUR
+     Q6. La hausse du prix des carburants a-t-elle un impact ou non sur votre budget ?
+     Rotation aléatoire des items 1 et 3
+       •  Oui, un impact important
+       •  Oui, mais limité
+       •  Non, aucun impact
+     Q7. Les prix de l’essence ont augmenté et ont parfois dépassé 2 euros le litre. Selon vous, qui est responsable du prix
+     élevé de l’essence ?
+     En 1er ? En 2ème ? Jusqu'à 2 réponses possibles
+     Rotation aléatoire des items
+       1. La guerre en Iran
+       2. Les compagnies pétrolières (producteurs, raffineurs, transporteurs)
+       3. L'Etat
+       4. La grande distribution
+     Q8. Parmi les moyens suivants pour réduire le prix des carburants, lesquelles doivent être mises en place en priorité
+     selon vous ?
+     En 1er ? En 2ème ? En 3ème ?
+     Rotation aléatoire des items 1 à 7
+       1. Baisser les taxes sur les carburants
+       2. Réduire les marges des distributeurs (grande distribution, station essence, etc.)
+       3. Réduire les marges des producteurs et raffineurs (Total, etc.)
+       4. Mettre en place des aides de l'Etat pour l'ensemble des automobilistes
+       5. Renforcer les aides pour les automobilistes aux revenus modestes
+       6. Plafonner, bloquer le prix de de l’essence
+       7. Inciter avec des aides la location ou l'achat d'une voiture électrique
+       8. Autres, préciser : …
+       9. Il n'y a rien à faire, il faut juste attendre une baisse des cours internationaux du pétrole [EXCLUSIF]
+     Q9. Dans le contexte budgétaire actuel (dette publique importante et volonté du gouvernement de réduire le déficit
+     public), trouvez-vous acceptable que les retraités soient mis à contribution pour réduire le déficit public ?
+     Rotation aléatoire des items 1 et 3
+       •  Il est acceptable que les retraités soient mis à contribution pour réduire le déficit public
+       •  Ce serait acceptable, uniquement si cela concerne les retraités aisés
+       •  C'est inacceptable de mettre les retraités à contribution (quel que soit leur niveau de vie), il faut trouver d'autres
+          moyens pour réduire le déficit public
+     Q10. Depuis quelques jours, des appels à une nouvelle mobilisation des « gilets jaunes » circulent en France,
+     notamment pour protester contre la hausse des prix des carburants et du coût de la vie. Quelle serait votre attitude à
+     l'égard d'une nouvelle mobilisation des "gilets jaunes" ?
+       •  Vous la soutiendriez
+       •  Vous auriez de la sympathie
+       •  Vous y seriez opposé
+       •  Vous y seriez hostile
+       •  Vous y seriez indifférent
+                                                                             3
+
+--- page 4 ---
+
+NOTE SUR LES MARGES D’ERREUR
+
+     Comme toute enquête statistique, un sondage présente une incertitude appelée « marge d’erreur » ou « marge
+     d’incertitude ». La marge d’erreur ou d’incertitude d’un sondage dépend de la taille de l’échantillon interrogé et du
+     résultat observé. Pour un échantillon de 1000 personnes interrogées, les marges d’erreur sont les suivantes avec un
+     niveau de confiance de 95 % :
+
+                           Pour un La marge d'erreur Le résultat réel se
+                        pourcentage de : est de : situe entre :
+                             5         +/- 1,4    3,6 et 6,4
+                            10         +/- 1,9    8,1 et 11,9
+                            15         +/- 2,2    12,8 et 17,2
+                            20         +/- 2,5    17,5 et 22,5
+
+                            25         +/- 2,7    22,3 et 27,7
+                            30         +/- 2,8    27,2 et 32,8
+                            35         +/- 3,0     32 et 38
+                            40         +/- 3,0     37 et 43
+
+                            45         +/- 3,1    41,9 et 48,1
+                            50         +/- 3,1    46,9 et 53,1
+                            55         +/- 3,1    51,9 et 58,1
+                            60         +/- 3,0     57 et 63
+
+                            65         +/- 3,0     62 et 68
+                            70         +/- 2,8    67,2 et 72,8
+                            75         +/- 2,7    72,3 et 77,7
+                            80         +/- 2,5    77,5 et 82,5
+
+                            85         +/- 2,2    82,8 et 87,2
+                            90         +/- 1,9    88,1 et 91,9
+                            95         +/- 1,4    93,6 et 96,4
+
+     Exemple de lecture :
+     Pour un résultat observé de 25 %, il y a 95 % de chances pour que le résultat réel soit compris entre 22,3% et 27,7%.
+
+     ELABE rappelle que les résultats de ce sondage doivent être interprétés comme une photographie, à la date de réalisation de
+     l’enquête, de l’état de l’opinion publique en France métropolitaine sur le sujet étudié. Ils ne constituent ni une intention de vote ni
+     un élément prédictif de l’évolution de l’opinion. La notice de ce sondage peut être consultée sur le site internet de la Commission
+     des sondages : www.commission-des-sondages.fr
+     Toute publication ou toute reprise de ce sondage doit faire figurer la méthodologie et les marges d’erreurs :
+     « Echantillon de 1 012 personnes, représentatif des résidents de France métropolitaine âgés de 18 ans et plus. Interrogation par
+     Internet du 15 au 16 septembre 2026.
+
+     La représentativité de l’échantillon a été assurée selon la méthode des quotas appliquée aux variables suivantes : sexe, âge,
+     catégorie socio-professionnelle, région de résidence et catégorie d’agglomération.
+     Marge d’erreur comprise entre 1,4 et 3,1 pts de pourcentage. »
+
+                                                                             4
+
+--- page 5 ---
+
+Article 3
+
+     Objet du sondage :            Election présidentielle
+
+     Méthode :                     Echantillon de 1 012 personnes, représentatif des résidents
+                                   de France métropolitaine âgés de 18 ans et plus, constitué
+                                   d'après la méthode des quotas (sexe, âge, profession de la
+                                   personne interrogée, catégorie d’agglomération et région
+                                   de résidence).
+     Conditions d’interrogation :  Les répondants ont été interrogés en ligne (Internet).
+
+     Nombre de sans réponse :      Voir « Résultats publiés »*
+
+     Existence d’une gratification : Oui. Gratification sous la forme de points cumulables et dont
+                                   la valeur s’élève à moins de 1€ pour un questionnaire
+                                   complété.
+
+     Critères de redressement :    L’échantillon brut a été redressé sur les variables
+                                   sociodémographiques et professionnelles utilisées comme
+                                   quotas (données Insee issues du recensement de la
+                                   population 2022) ainsi que sur le statut d’occupation du
+                                   logement (données Insee issues du recensement de la
+                                   population 2022), le vote au premier tour des élections
+                                   législatives 2024, au premier tour et au second tour de
+                                   l’élection présidentielle 2022 (données du Ministère de
+                                   l’Intérieur).
+
+     (*) Nous vous présentons dans ce document le nombre de « sans-réponse » pour chacune des questions publiées.
+     Les questions de quota étant obligatoires (de façon à s’assurer de la représentativité de l’échantillon) aucune des
+     personnes interrogées ne peut ne pas avoir répondu à l’ensemble du sondage.
+
+                                                                             5
+
+--- page 6 ---
+
+QUESTIONS PUBLIEES
+
+     Q1. Selon vous, ces dernières années, quel est le poste de dépenses qui a le plus augmenté ? – % TOTAL DES CITATIONS
+                                     Libellé              PUBLIÉ
+                    Effectifs bruts                        1012
+
+                    Se nourrir                             70
+                    Se chauffer                            49
+                    Se soigner                             18
+                    Se déplacer                            46
+                    S’assurer                              16
+                    Se loger                               24
+                    Payer ses impôts                       19
+                    Partir en vacances                     15
+                    Se divertir                             8
+                    S’habiller                              5
+                    Téléphoner, communiquer (abonnement téléphone, internet) 4
+                    Equiper, décorer son logement           3
+                    Autres                                  1
+
+                    Aucun de ces postes n'a augmenté        0
+     Q2. Ces derniers mois, avez-vous dû renoncer à chacune des choses suivantes pour des raisons financières ?
+
+                                     Libellé              PUBLIÉ
+                    Effectifs bruts                        1012
+                    Faire du shopping                      40
+                    Partir en vacances ou en week-end      42
+                    Faire une sortie (cinéma, restaurant, bar, etc.) 38
+                    Acheter certains produits alimentaires 40
+                    Chauffer convenablement mon logement (baisser le chauffage) 26
+                    Faire un don à des associations        19
+                    Me soigner, prendre soin de ma santé (consultation chez le médecin, traitement,
+                                                           20
+                    opérations, etc.)
+                    Utiliser votre voiture (essence)       26
+                    Aider financièrement mes proches       18
+                    Payer les études/la scolarité de mes enfants 3
+                    Autres, précisez : …                    1
+                    Je n'ai renoncé à rien ces derniers mois pour des raisons financières 21
+                    Sans-réponses                           0
+     Q3. Quand vous pensez aux prochains mois, pensez-vous que votre pouvoir d’achat va s’améliorer, se dégrader ou rester stable par
+     rapport à la situation actuelle ?
+                                     Libellé              PUBLIÉ
+                    Effectifs bruts                        1012
+                    Beaucoup s'améliorer                    2
+                    Un peu s'améliorer                      7
+                    Rester stable                          19
+                    Un peu se dégrader                     38
+                    Beaucoup se dégrader                   33
+                    Sans-réponses                           1
+
+                                                                             6
+
+--- page 7 ---
+
+Q4. Voici un certain nombre de mesures proposées par des candidats à l'élection présidentielle pour améliorer le pouvoir d'achat des
+     Français. Pour chacune de ces mesures, diriez-vous que vous y êtes favorable ou opposé ? – % TOTAL FAVORABLE
+                                     Libellé              PUBLIÉ
+                    Effectifs bruts                        1012
+                    Porter le SMIC à 1 700 euros nets      74
+                    Taxer les « méga-héritages » supérieurs à 2 millions d’euros pour réduire la CSG et
+                                                           74
+                    augmenter le salaire net
+                    Réduire les cotisations sociales sur les salaires et augmenter en contrepartie la TVA
+                    (taxe payée par les consommateurs sur les biens et services) afin d’augmenter le 49
+                    salaire net
+                    Permettre aux salariés volontaires de travailler jusqu’à 30 minutes supplémentaires
+                                                           79
+                    par jour, en exonérant ces heures de cotisations salariales et patronales
+                    Baisser la TVA de 20 % à 5,5 % sur l’énergie : électricité, gaz, carburants, fioul
+                                                           91
+                    domestique
+     Q5. Faites-vous confiance ou pas confiance à chacune des personnalités suivantes pour améliorer le pouvoir d’achat des Français ? – %
+     TOTAL CONFIANCE
+                                     Libellé              PUBLIÉ
+                    Effectifs bruts                        1012
+                    Jean-Luc MÉLENCHON                     18
+                    Fabien ROUSSEL                         13
+                    Marine TONDELIER                       11
+                    Raphaël GLUCKSMANN                     17
+                    Olivier FAURE                          11
+                    François HOLLANDE                      18
+                    Emmanuel MACRON                        14
+                    Sébastien LECORNU                      17
+                    Roland LESCURE                          9
+                    Gabriel ATTAL                          19
+                    Édouard PHILIPPE                       22
+                    Bruno RETAILLEAU                       23
+                    Marine LE PEN                          36
+                    Éric ZEMMOUR                           16
+     Q6. La hausse du prix des carburants a-t-elle un impact ou non sur votre budget ?
+                                     Libellé              PUBLIÉ
+                    Effectifs bruts                        1012
+                    Oui, un impact important               46
+                    Oui, mais limité                       39
+                    Non, aucun impact                      14
+                    Sans-réponses                           1
+     Q7. Les prix de l’essence ont augmenté et ont parfois dépassé 2 euros le litre. Selon vous, qui est responsable du prix élevé de
+     l’essence ? – % TOTAL DES CITATIONS
+                                     Libellé              PUBLIÉ
+                    Effectifs bruts                        1012
+                    La guerre en Iran                      60
+                    Les compagnies pétrolières (producteurs, raffineurs, transporteurs) 52
+                    L'Etat                                 62
+                    La grande distribution                 11
+
+     Q8. Parmi les moyens suivants pour réduire le prix des carburants, lesquelles doivent être mises en place en priorité selon vous ? – %
+     TOTAL DES CITATIONS
+                                                                             7
+
+--- page 8 ---
+
+Libellé              PUBLIÉ
+                    Effectifs bruts                        1012
+
+                    Baisser les taxes sur les carburants   69
+                    Réduire les marges des distributeurs (grande distribution, station essence, etc.) 31
+                    Réduire les marges des producteurs et raffineurs (Total, etc.) 45
+                    Mettre en place des aides de l'Etat pour l'ensemble des automobilistes 16
+                    Renforcer les aides pour les automobilistes aux revenus modestes 15
+                    Plafonner, bloquer le prix de l’essence 54
+                    Inciter avec des aides la location ou l’achat d’une voiture électrique 9
+                    Autres, préciser : …                    2
+                    Il n'y a rien à faire, il faut juste attendre une baisse des cours internationaux du
+                                                            4
+                    pétrole
+     Q9. Dans le contexte budgétaire actuel (dette publique importante et volonté du gouvernement de réduire le déficit public), trouvez-
+     vous acceptable que les retraités soient mis à contribution pour réduire le déficit public ?
+                                     Libellé              PUBLIÉ
+                    Effectifs bruts                        1012
+                    Il est acceptable que les retraités soient mis à contribution pour réduire le déficit
+                                                           10
+                    public
+                    Ce serait acceptable, uniquement si cela concerne les retraités aisés 42
+                    C'est inacceptable de mettre les retraités à contribution (quel que soit leur niveau
+                                                           47
+                    de vie), il faut trouver d'autres moyens pour réduire le déficit public
+                    Sans-réponses                           1
+     Q10. Depuis quelques jours, des appels à une nouvelle mobilisation des « gilets jaunes » circulent en France, notamment pour
+     protester contre la hausse des prix des carburants et du coût de la vie. Quelle serait votre attitude à l’égard d’une nouvelle mobilisation
+     des « gilets jaunes » ?
+                                     Libellé              PUBLIÉ
+                    Effectifs bruts                        1012
+                    Vous la soutiendriez                   37
+                    Vous auriez de la sympathie            29
+                    Vous y seriez opposé                   10
+                    Vous y seriez hostile                  11
+                    Vous y seriez indifférent              13
+                    Sans-réponses                           0
+
+                                                                             8

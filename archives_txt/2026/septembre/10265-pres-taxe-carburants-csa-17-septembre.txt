@@ -1,0 +1,315 @@
+# notice commission des sondages
+# source_pdf: archives/2026/septembre/10265-pres-taxe-carburants-csa-17-septembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Monsieur Jean Gaeremynck
+                                          Président de la Commission des Sondages
+
+                                          Conseil d'État
+                                          Place du Palais Royal
+
+                                          75001 PARIS
+
+                                          PARIS, le 16 septembre 2026
+
+     Monsieur le Président,
+
+     Je me permets de vous faire parvenir ci-jointe la notice technique relative au sondage sur « La baisse des
+     taxes sur les carburants » qui sera diffusée le 17 septembre à partir de 6h sur CNews, Europe 1 et le
+
+     Journal du Dimanche (JDD).
+
+     En vous souhaitant bonne réception, je vous prie de croire, Monsieur le Président, à l'assurance de mes
+
+     sentiments respectueusement dévoués.
+
+     Julie Gaillot
+
+     Directrice du Pôle Society de l’Institut CSA
+
+                                                                             1
+
+--- page 2 ---
+
+NOTICE TECHNIQUE
+
+     Nom du client :              CNews / Europe 1 / Le Journal du Dimanche (JDD)
+
+     Dates de l'enquête :         Du 15 au 16 septembre 2026
+
+     Date de publication :        Le 17 septembre 2026
+
+     Echantillon national représentatif de 1010 personnes âgées de 18 ans et plus, constitué d'après la méthode
+
+     des quotas (sexe, âge, profession de la personne interrogée) après stratification par région et catégorie
+     d’agglomération.
+     Pour ce sondage, les panélistes ont été dédommagés sous forme de points : 20 points, soit l’équivalent de
+
+     20 centimes.
+
+         Nombre de personnes interrogées : 1010 personnes
+
+         Mode d'administration du
+                                     Par Internet sur panel en ligne (panel CSA)
+         questionnaire :
+
+         Type de sondage :           Ad hoc
+
+                                     Socio démographiques sur critères de quotas (sexe,
+
+                                     âge, profession de la personne interrogée, région,
+         Méthode de redressement :
+                                     catégorie d’agglomération) et vote au premier tour de
+                                     l’élection présidentielle 2022
+
+         Taux de non-réponse :
+                                     0,4%
+
+     Ce document présente les résultats d’une étude respectant les principes scientifiques et déontologiques de
+     l’enquête par sondage. Comme toute étude publiée, la notice de cette enquête est consultable sur le site de
+
+     la Commission des sondages.
+     Pour citer ce sondage, il est obligatoire d’en mentionner a minima les émetteurs « Institut CSA pour CNews,
+
+     Europe 1 et le JDD », l’échantillon et le mode de recueil (cf. mentions ci-dessus).
+
+                                                                             2
+
+--- page 3 ---
+
+Marges d’erreur statistique
+
+          Pour un échantillon de 1000 personnes, les marges d’erreur sont les suivantes avec un niveau de
+          confiance de 95% :
+
+          Pour un pourcentage de : 5%  10%     20%     30%     40%    50%
+
+          La marge d’erreur est de : +/-1,4 +/-1,9 +/-2,5 +/-2,8 +/-3,0 +/-3,1
+
+          Le résultat réel se situe    8,1 et 17,5 et 27,2 et 37,0 et 46,9 et
+                              3,6 et 6,4
+          dans une fourchette entre :  11,9    22,5    32,8    43,0   53,1
+
+          Pour un pourcentage de : 60%   70%       80%      90%       95%
+
+          La marge d’erreur est de : +/-3,0 +/-2,8 +/-2,5   +/-1,9   +/-1,4
+
+          Le résultat réel se situe 57,0 et 67,2 et 77,5 et 88,1 et  93,6 et
+          dans une fourchette entre : 63,0 72,8    82,5     91,9      96,4
+
+          Exemple de lecture : pour un résultat observé de 50%, il y a 95% de chances pour que le résultat
+          réel soit compris entre 46,9% et 53,1%.
+
+                                                                             3
+
+--- page 4 ---
+
+Questionnaire :
+
+          Q1. Faut-il baisser les taxes sur les carburants ?
+          Base : 1 010 répondants
+
+          -  Oui
+
+          -  Non
+
+          PROXPART. Parmi les partis politiques suivants, pouvez-vous me dire duquel vous vous sentez le
+          plus proche ou disons le moins éloigné ?
+
+          -  Lutte Ouvrière
+          -  Le NPA, Nouveau Parti Anticapitaliste
+
+          -  Le Parti Communiste
+
+          -  La France insoumise
+
+          -  L’Après de Clémentine Autain, Raquel Garrido et Alexis Corbière
+
+          -  Debout ! de François Ruffin
+          -  Le Parti Radical de Gauche
+
+          -  Génération.s de Benoît Hamon
+
+          -  Le Parti Socialiste
+
+          -  Place Publique de Raphaël Glucksmann
+
+          -  Les Ecologistes (ex-Europe Ecologie / Les Verts)
+          -  Un autre parti écologiste
+
+          -  Le Parti Animaliste
+
+          -  Renaissance d'Emmanuel Macron (ex-En Marche)
+
+          -  Le MoDem – Mouvement Démocrate
+
+          -  Horizons, le parti d'Edouard Philippe
+          -  Les Centristes / Le Nouveau Centre d’Hervé Morin
+
+          -  L'UDI - Union des Démocrates et Indépendants
+
+          -  Les Républicains
+
+          -  Debout la France
+
+          -  L’UDR – Union des Droites pour la République, le parti d’Eric Ciotti
+          -  Les Patriotes de Florian Philippot
+
+                                                                             4
+
+--- page 5 ---
+
+-  L’Union Populaire Républicaine (UPR) de François Asselineau
+
+          -  Le Rassemblement National
+
+          -  Reconquête, le parti d’Eric Zemmour
+
+          -  Aucun
+
+          -  Ne se prononce pas
+
+          PRES2022T1. Le dimanche 10 avril 2022 avait lieu le premier tour de l'élection présidentielle. Pouvez-
+          vous me dire pour lequel des candidats suivants vous avez voté ?
+
+          -  Nathalie ARTHAUD
+
+          -  Philippe POUTOU
+
+          -  Fabien ROUSSEL
+
+          -  Jean-Luc MÉLENCHON
+
+          -  Anne HIDALGO
+
+          -  Yannick JADOT
+
+          -  Emmanuel MACRON
+
+          -  Valérie PÉCRESSE
+
+          -  Jean LASSALLE
+
+          -  Nicolas DUPONT-AIGNAN
+
+          -  Marine LE PEN
+
+          -  Éric ZEMMOUR
+
+          -  Vous avez voté blanc ou nul
+
+          -  Vous n'avez pas voté, vous êtes abstenu
+
+          -  Vous n'étiez pas inscrit sur les listes électorales
+
+          -  Vous ne souhaitez pas vous prononcer
+
+                                                                             5
+
+--- page 6 ---
+
+Résultats bruts et redressés :
+
+                             Brut   Redressé
+     Sexe
+     Total                   1010     1010
+     Hommes                  49,5%   47,8%
+     Femmes                  50,5%   52,2%
+     Age de l'interviewé
+     Total                   1010     1010
+     ST Moins de 35 ans      20,7%   24,9%
+     18 à 24 ans             5,7%    10,1%
+     25 à 34 ans             15,0%   14,8%
+     35 à 49 ans             25,1%   24,3%
+     ST 50 ans et plus       54,2%   50,8%
+     50 à 64 ans             26,4%   24,8%
+     65 ans et plus          27,7%   26,0%
+
+     CSP Répondants
+     Total                   1010     1010
+     CSP +                   31,4%   31,5%
+     CSP -                   30,5%   28,2%
+     Inactifs                38,1%   40,3%
+     UDA 5
+     Total                   1010     1010
+     IDF                     13,3%   18,5%
+     Nord est                23,5%   21,8%
+     Nord ouest              24,7%   22,9%
+     Sud ouest               12,7%   11,5%
+     Sud est                 25,9%   25,4%
+     Taille d'Agglomération
+     Total                   1010     1010
+     Commune rurale (lnf. 2000 hab.) 21,0% 21,3%
+     De 2000 à 19 999 hab.   18,2%   17,9%
+     De 20 000 à 99 999 hab. 15,2%   13,6%
+     Plus de 100 000 hab.    32,5%   30,8%
+     Agglomération Parisienne 13,1%  16,4%
+     PRESID1 - 2022 - Base
+     exprimés
+     Total                   788      788
+     ST Exprimés            100,0%   100,0%
+      Nathalie ARTHAUD       1,3%     0,6%
+      Philippe POUTOU        1,5%     0,8%
+      Fabien ROUSSEL         3,8%     2,3%
+      Jean-Luc MÉLENCHON     14,1%   22,0%
+      Anne HIDALGO           4,6%     1,8%
+      Yannick JADOT          5,7%     4,6%
+      Emmanuel MACRON        26,5%   27,9%
+      Valérie PÉCRESSE       5,3%     4,8%
+      Jean LASSALLE          2,4%     3,1%
+      Nicolas DUPONT-AIGNAN  3,7%     2,1%
+      Marine LE PEN          25,5%   23,2%
+      Éric ZEMMOUR           5,6%     7,1%
+
+                                                                             6
+
+--- page 7 ---
+
+Brut Redressé
+     Faut-il baisser les taxes sur les carburants ?
+     Total                          1010  1010
+     Oui                           85,8% 86,5%
+     Non                           13,8% 13,1%
+     Ne se prononce pas             0,4%  0,4%
+
+                                               Brut Redressé
+     PROXIMITE PARTISANE
+     Total                                     1010  1010
+     Extrême gauche                            2,2%  2,0%
+     Lutte Ouvrière                            1,4%  1,4%
+     Le NPA, Nouveau Parti Anticapitaliste     0,8%  0,6%
+     Gauche                                   24,9% 26,6%
+     Le Parti Communiste                       1,9%  1,6%
+     La France insoumise                       6,1%  9,2%
+     L’Après de Clémentine Autain, Raquel Garrido et Alexis Corbière 1,2% 1,1%
+     Debout ! de François Ruffin               1,4%  1,6%
+     Le Parti Radical de Gauche                0,4%  0,5%
+     Génération.s de Benoît Hamon              1,0%  1,0%
+     Le Parti Socialiste                       7,4%  6,3%
+     Place Publique de Raphaël Glucksmann      3,1%  3,0%
+     Les Ecologistes (ex-Europe Ecologie / Les Verts) 2,4% 2,3%
+     Le Parti Animaliste                       0,5%  0,6%
+     Majorité présidentielle                   8,8%  8,9%
+     Renaissance (ex-En Marche)                4,1%  4,2%
+     Le MoDem – Mouvement Démocrate            1,3%  1,3%
+     Horizons, le parti d'Edouard Philippe     3,5%  3,4%
+     Les Centristes / Le Nouveau Centre d’Hervé Morin 0,5% 0,5%
+     Droite                                   10,6%  9,8%
+     L'UDI - Union des Démocrates et Indépendants 0,6% 0,5%
+     Les Républicains                          7,8%  7,3%
+     Un autre parti écologiste                 0,8%  0,8%
+     Debout la France                          1,4%  1,3%
+     L’UDR – Union des Droites pour la République, le parti d’Eric
+                                               0,7%  0,7%
+     Ciotti
+     Les Patriotes de Florian Philippot        0,6%  0,5%
+     L’Union Populaire Républicaine (UPR) de François Asselineau 0,5% 0,4%
+     Rassemblement National + Reconquête      22,4% 21,3%
+     Le Rassemblement National                19,3% 17,9%
+     Reconquête, le parti d’Eric Zemmour       3,1%  3,5%
+     Aucun                                    24,1% 24,3%
+     Ne se prononce pas                        4,4%  4,4%
+
+                                                                             7

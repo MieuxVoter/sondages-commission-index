@@ -1,0 +1,137 @@
+# notice commission des sondages
+# source_pdf: archives/2026/septembre/10267-pres-odoxa-le-figaro-16-septembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Notice
+
+                                 SONDAGE D’ACTUALITE
+
+                   SONDAGE RÉALISÉ PAR ODOXA POUR BACKBONE ET LE FIGARO
+
+               Première publication sur le site www.odoxa.fr, le 16 septembre 2026 à 17h
+
+          Article 2 :
+           ✓  Organisme ayant réalisé le sondage : Odoxa
+
+           ✓  Commanditaire(s) : Backbone et Le Figaro
+
+           ✓  Nombre de personnes interrogées : échantillon représentatif de 1 005 Français âgés de
+
+              18 ans et plus
+
+           ✓  Dates de réalisation : du 15 au 16 septembre 2026
+
+          Article 3 :
+
+            ✓  Le pourcentage de personnes n’ayant pas répondu à chacune des questions est indiqué
+               sur le rapport de l’enquête disponible sur le site www.odoxa.fr
+
+            ✓  Gratification : Gratification sous la forme de points cumulables et dont la valeur s’élève
+               à 0,675 € pour un questionnaire complété.
+
+            ✓  Redressement : l’échantillon brut a été redressé sur les variables
+
+               sociodémographiques et professionnelles utilisées comme quotas ainsi que sur le vote
+               au premier et au second tours de l’élection présidentielle de 2022
+
+--- page 2 ---
+
+Questions posées
+
+          Q1. La hausse du prix des carburants a-t-elle un impact ou non sur votre budget ?
+            •  Oui, un impact important
+            •  Oui, mais limité
+            •  Non, aucun impact
+
+          Q2. Face à la hausse des prix des carburants, avec laquelle des deux opinions suivantes êtes-vous le
+          plus d’accord ?
+            •  Malgré le niveau du déficit et de la dette, l’État doit consacrer davantage d’argent à la baisse
+               des prix des carburants et aux aides aux Français
+            •  Compte tenu du niveau du déficit et de la dette, l’État doit éviter de nouvelles dépenses
+               importantes, même si cela limite les aides face à la hausse des carburants
+
+          Q3. Pensez-vous que la hausse des prix des carburants pourrait provoquer un mouvement de
+          colère comme celui que nous avions vécu au moment des « Gilets jaunes » ?
+            •  Oui, certainement
+            •  Oui, probablement
+
+            •  Non, probablement pas
+            •  Non, certainement pas
+
+          Q4. Au cours de la campagne présidentielle, la question de la hausse des prix du carburant devrait
+          pour vous être un enjeu…
+            •  Prioritaire
+            •  Important, mais pas prioritaire
+            •  Pas important
+
+          Q5. Pour chacun des candidats principaux à la présidentielle, dites-nous s’il vous paraît capable ou
+          non d’apporter de bonnes réponses à la hausse des prix des carburants :
+
+            •  Marine Le Pen
+            •  Eric Zemmour
+            •  Bruno Retailleau
+            •  David Lisnard
+            •  Gabriel Attal
+
+            •  Edouard Philippe
+            •  Jean-Luc Mélenchon
+            •  Raphaël Glucksmann
+            •  Olivier Faure
+            •  Marine Tondelier
+
+            o  Oui, tout à fait capable
+            o  Oui, plutôt capable
+            o  Non, plutôt pas capable
+            o  Non, pas du tout capable
+
+--- page 3 ---
+
+Tout sondage est affecté de marges d’erreurs
+
+          Avec ces effectifs, la marge d’erreur des résultats s'établit selon le score visé, entre plus ou
+          moins 1,4 et 3,1 points
+
+--- page 4 ---
+
+Structure
+
+                                         Base non % non Coefficient Base % pondéré
+                                         pondérée pondéré Pondératio pondérée
+                                                     n
+                 Total                    1 005 100,0%    1 005 100,0%
+                 Sexe
+                 Un homme                  470 46,8% 1,02  478 47,6%
+                 Une femme                 535 53,2% 0,98  527 52,4%
+                 Age
+                 18-24 ans                  92  9,2% 1,12  103 10,2%
+                 25-34 ans                 150 14,9% 0,99  148 14,7%
+                 35-49 ans                 251 25,0% 0,97  244 24,3%
+                 50-64 ans                 262 26,1% 0,94  245 24,4%
+                 65 ans et +               250 24,9% 1,06  265 26,3%
+                 CSP/Profession de l'interviewé
+                 Agriculteur, indépendant, chef d'entreprise 53 5,3% 0,85 45 4,5%
+                 Cadre et profession intellectuelle supérieure 104 10,3% 0,94 97 9,7%
+                 Profession intermédiaire  144 14,3% 1,03  148 14,7%
+                 Employé                   186 18,5% 0,91  170 16,9%
+                 Ouvrier                   114 11,3% 1,12  128 12,7%
+                 Retraité                  261 26,0% 1,08  282 28,1%
+                 Elève / étudiant           53  5,3% 0,99  52  5,2%
+                 Autre inactif              90  9,0% 0,92  82  8,2%
+                 Catégorie d'agglomération
+                 Rural                     230 22,9% 0,91  209 20,8%
+                 Moins de 20 000 hab       143 14,2% 1,26  180 17,9%
+                 De 20 000 à 99 999 hab    150 14,9% 0,95  143 14,2%
+                 100 000 hab et plus       313 31,1% 0,99  311 30,9%
+                 Agglomération parisienne  169 16,8% 0,96  163 16,2%
+                 Région UDA9
+                 Région Parisienne         194 19,3% 0,96  186 18,5%
+                 Nord                       63  6,3% 0,97  61  6,1%
+                 Est                        91  9,1% 0,92  84  8,4%
+                 Bassin Parisien Est        88  8,8% 0,85  75  7,5%
+                 Bassin Parisien Ouest      72  7,2% 1,26  91  9,0%
+                 Ouest                     102 10,1% 1,36  139 13,8%
+                 Sud Ouest                 127 12,6% 0,91  115 11,5%
+                 Sud Est                   133 13,2% 0,93  124 12,3%
+                 Méditerranée              135 13,4% 0,97  130 13,0%
