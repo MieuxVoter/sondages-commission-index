@@ -1,0 +1,290 @@
+# notice commission des sondages
+# source_pdf: archives/2026/septembre/10271-pres-ifop-paris-match-22-septembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Le regard   des   Français   sur  Gabriel   Attal  et
+
+        Edouard    Philippe
+
+        Notice   technique
+
+                                                                  FD N° 122770
+                                                                CONTACT IFOP :
+                                                                   Frédéric Dabi
+                                                              Département Opinion
+                                                            et Stratégies d'Entreprise
+                                                             prénom.nom@ifop.com
+                                                                SEPTEMBRE 2026
+
+--- page 2 ---
+
+1
+
+                                                  La  méthodologie
+
+        Ifop pour Paris Match                                             1
+
+        Le regard des Français sur Gabriel Attal et Edouard Philippe  Septembre 2026
+
+--- page 3 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Etude réalisée par Ifop pour Paris Match
+
+         Echantillon
+                            L’enquête a été menée auprès d’un échantillon de 1 001
+                            personnes, représentatif de la population française âgée de 18 ans
+                            et plus.
+
+         Méthodologie
+                            La représentativité de l’échantillon a été assurée par la méthode
+
+                            des quotas (sexe, âge, profession de la personne interrogée) après
+                            stratification par région et catégorie d'agglomération.
+
+            Mode de recueil
+                            Les interviews ont été réalisées par questionnaire auto-administré
+
+                            en ligne du 11 au 14 septembre 2026.
+
+        L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2022) et d’un redressement
+        politique sur la base de la reconstitution des votes suivants : présidentielle 2022 1er tour, législatives 2024 1er
+
+        tour.
+        La présente notice est consultable sur le site de la commission des sondages.
+
+        Ifop pour Paris Match                                            2
+
+        Le regard des Français sur Gabriel Attal et Edouard Philippe  Septembre 2026
+
+--- page 4 ---
+
+Précision  relative  aux marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+        comme le montre le tableau ci-dessous :
+
+                    INTERVALLE DE CONFIANCE   A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 1 000 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 1,8. Le vrai pourcentage est donc compris entre 8,2% et 11,8%.
+
+        Ifop pour Paris Match                                            3
+
+        Le regard des Français sur Gabriel Attal et Edouard Philippe  Septembre 2026
+
+--- page 5 ---
+
+Structure  de l’échantillon
+
+                                                 Brut   Redressé
+                                                  %        %
+        SEXE
+           Un homme                              49,8     47,7
+           Une femme                             50,2     52,3
+
+        AGE
+           De18a24ans                             8,6     10,3
+           De25a34ans                            15,7     14,8
+           De35a49ans                            24,3     24,0
+           De50a64ans                            23,2     24,4
+           De65a74ans                            14,7     14,0
+           A75ansetplus                          13,5     12,5
+
+        REGION
+           GrandEst                               8,5     8,5
+           NouvelleAquitaine                      8,6     9,5
+           AuvergneRhoneAlpes1                   12,6     12,3
+           BourgogneFrancheComte1                 4,2     4,3
+           Bretagne2                              5,4     5,2
+
+           CentreValDeLoire1                      4,0     3,9
+           IleDeFrance2                          19,0     18,4
+           Occitanie                              9,1     9,4
+           HautsdeFrance                          9,3     8,9
+           Normandie1                             4,4     5,1
+           PaysDeLaLoire2                         6,0     5,8
+           PACACorse                              9,0     8,5
+
+        AGGLO
+           Commune rurale                        23,0     21,1
+           Unité urbaine de 2 000 à 19 999 hab.  15,9     18,2
+           Unité urbaine de 20 000 à 99 999 hab. 15,1     13,9
+           Unité urbaine de 100 000 à 199 999 hab. 31,7   30,6
+           Agglomération parisienne              14,3     16,3
+
+        PROFESSION
+           Agriculteurs1                          1,0     0,7
+           Artisans1                              3,4     3,8
+           Cadres1                               10,5     11,2
+           Intermediaires1                       14,8     15,0
+           Employes1                             16,3     15,8
+           Ouvriers1                             14,2     12,1
+
+           Inactifs                              37,1     41,3
+        PRESIDENTIELLE 2022 1er tour (Ne se prononce pas =
+        25,5%)
+           Nathalie Arthaud                       1,2     0,6
+           Philippe Poutou                        1,5     0,8
+           Fabien Roussel                         4,1     2,3
+           Jean-Luc Mélenchon                    15,9     21,5
+
+        Ifop pour Paris Match                                            4
+
+        Le regard des Français sur Gabriel Attal et Edouard Philippe  Septembre 2026
+
+--- page 6 ---
+
+Anne Hidalgo                           1,9     1,7
+           Yannick Jadot                          5,0     4,6
+           Emmanuel Macron                       25,9     27,8
+           Valérie Pécresse                       6,2     4,8
+           Nicolas Dupont-Aignan                  3,7     2,1
+           Marine Le Pen                         26,9     23,5
+           Éric Zemmour                           5,1     7,1
+
+           Jean Lassalle                          2,4     3,2
+        LEGISLATIVE 2024 1er tour (Ne se prononce pas = 28,7%)
+           Extrême gauche                         1,3     1,2
+           NFP                                   27,9     28,7
+           Divers gauche                          0,9     1,0
+           ENS Ensemble !                        19,1     22,4
+
+           Divers centre                          0,7     0,8
+           LR & DVD                              11,0     9,5
+           RN & alliés                           36,8     34,0
+           Droite souverainiste, divers EXD - Reconquête 1,3 1,1
+           DIVERS                                 1,0     1,3
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        Ifop pour Paris Match                                            5
+
+        Le regard des Français sur Gabriel Attal et Edouard Philippe  Septembre 2026
+
+--- page 7 ---
+
+Le souhait   de candidature    de Gabriel  Attal et Edouard
+                                    Philippe
+
+        Question : Vous personnellement, souhaitez-vous que chacune des personnalités
+                   suivantes se porte candidate à la prochaine élection présidentielle ?
+
+                    TOTAL
+                           Oui,
+                                   Oui,    TOTAL
+                                                   Non,
+                                                          Non pas
+                        Brut tout à Brut Brut  Brut plutôt Brut Brut Total
+                    Oui            plutôt  Non            du tout
+                            fait                   pas
+        Edouard
+                    34 37,4 12 12,7 22 24,8 66 62,6 24 24,8 42 37,8 100
+        Philippe ..............
+        Gabriel Attal ...... 29 30,4 9 7,2 20 23,3 71 69,6 26 27,9 45 41,6 100
+
+        Ifop pour Paris Match                                            6
+        Le regard des Français sur Gabriel Attal et Edouard Philippe  Septembre 2026
+
+--- page 8 ---
+
+Les  traits d'image  associés  à Gabriel  Attal
+
+        Question : Pour chacune des phrases suivantes, diriez-vous qu’elle s’applique
+                   bien ou mal à Gabriel Attal ?
+
+                      S’applique     S’applique
+                                Brut           Brut    Total
+                        bien           mal
+        Il est sympathique .. 51 53,4   49     46,6    100
+        Il est ouvert au
+                        49      49,6    51     50,4    100
+        dialogue ..................
+        Il est courageux ...... 43 44,1 57     55,9    100
+        Il est compétent ..... 34 34,3  66     65,7    100
+        Il est sincère ............ 27 29,9 73 70,1    100
+        Il comprend la vie
+                        24      25,5    76     74,5    100
+        des Français ............
+        Il a la stature
+                        22      22,8    78     77,2    100
+        présidentielle ..........
+        Il est proche de vos
+                        22      23,5    78     76,5    100
+        préoccupations .......
+        Il est capable de
+                        20      20,0    80     80,0    100
+        redresser le pays ....
+
+        Ifop pour Paris Match                                            7
+        Le regard des Français sur Gabriel Attal et Edouard Philippe  Septembre 2026
+
+--- page 9 ---
+
+Les traits d'image   associés  à Edouard   Philippe
+
+        Question : Pour chacune des phrases suivantes, diriez-vous qu’elle s’applique
+                   bien ou mal à Edouard Philippe ?
+
+                      S’applique     S’applique
+                                Brut           Brut    Total
+                        bien           mal
+        Il est ouvert au
+                        40      42,3    60     57,7    100
+        dialogue ..................
+        Il est sympathique .. 39 40,6   61     59,4    100
+        Il est courageux ...... 39 42,6 61     57,4    100
+        Il a la stature
+                        39      43,7    61     56,3    100
+        présidentielle ..........
+        Il est compétent ..... 39 43,8  61     56,2    100
+        Il est sincère ............ 29 31,3 71 68,7    100
+        Il est capable de
+                        28      30,8    72     69,2    100
+        redresser le pays ....
+        Il comprend la vie
+                        24      27,8    76     72,2    100
+        des Français ............
+        Il est proche de vos
+                        22      24,5    78     75,5    100
+        préoccupations .......
+
+        Ifop pour Paris Match                                            8
+        Le regard des Français sur Gabriel Attal et Edouard Philippe  Septembre 2026
