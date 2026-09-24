@@ -1,0 +1,444 @@
+# notice commission des sondages
+# source_pdf: archives/2026/septembre/10273-pres-iv-cluster17-politico-24-septembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+INTENTIONS                                           DE           VOTE
+
+      –      PRÉSIDENTIELLE                                                     2027
+
+     Septembre      2026                                                                  Échantillon    : 1 943  personnes
+
+--- page 2 ---
+
+MÉTHODOLOGIE
+
+         Etude Cluster17 réalisée pour Politico auprès d'un échantillon de 1 943 personnes inscrites sur les listes électorales issu d'un échantillon de
+
+         2 045 personnes représentatives de la population française.
+
+         Parmi elles, 1 733 répondants ont exprimé une intention de vote pour le scénario 1 du premier tour, 1 723 répondants ont exprimé une intention
+
+         de vote pour le scénario 2 du premier tour et 1 729 répondants ont exprimé une intention de vote pour le scénario 3 du premier tour. Après
+         redressement et pondération en fonction des variables socio-démographiques et de la probabilité de vote, l'effectif utile est de 1 337 personnes
+
+         pour le scénario 1 du premier tour, de 1 342 personnes pour le scénario 2 du premier tour et de 1 341 personnes pour le scénario 3 du premier
+
+         tour.
+
+         L'échantillon est réalisé selon la méthode des quotas, au regard des critères de sexe, d’âge, de catégorie socioprofessionnelle, de taille de
+
+         commune et de région de résidence. L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE) et d’un redressement
+
+         politique sur la base de la reconstitutiondes votes suivants : premier tour de l’élection présidentielle de 2022 et élections européennes de 2024.
+
+         Les interviews ont été réalisées par questionnaire auto-administré en ligne. Interviews réalisées du 15 au 16 septembre 2026.
+
+         La notice de cette enquête est consultable sur le site de la Commission des sondages.
+
+--- page 3 ---
+
+MÉTHODOLOGIE
+
+         Aucune reprise de ce sondage ne peut être faite sans précision de la mention relative aux marges d’erreur. En cas de reprise de ce
+         sondage, merci de mentionner le nom de Cluster17.
+
+                                                      MARGES      D’ERREUR
+
+          Pour un pourcentage de    5%     10%     20%      30%     40%     50%     60%      70%     80%     90%     95%
+
+              2045 personnes        1       1,3     1,8      2      2,2     2,2      2,2      2      1,8      1,3      1
+              1943 personnes        1       1,3     1,8      2      2,2     2,2      2,2      2      1,8      1,3      1
+
+              1733 personnes       1,1      1,4     1,9     2,2     2,3     2,4      2,3     2,2     1,9      1,4     1,1
+
+              1729 personnes       1,1      1,4     1,9     2,2     2,3     2,4      2,3     2,2     1,9      1,4     1,1
+
+              1723 personnes       1,1      1,4     1,9     2,2     2,3     2,4      2,3     2,2     1,9      1,4     1,1
+
+              1342 personnes       1,2      1,6     2,2     2,5     2,7     2,7      2,7     2,5     2,2      1,6     1,2
+
+              1341 personnes       1,2      1,6     2,2     2,5     2,7     2,7      2,7     2,5     2,2      1,6     1,2
+              1337 personnes       1,2      1,6     2,2     2,5     2,7     2,7      2,7     2,5     2,2      1,6     1,2
+
+--- page 4 ---
+
+QUESTIONNAIRE
+
+                                                                         © Questions d'actualité et intentions de vote -Présidentielle 2027 - Septembre 2026
+
+--- page 5 ---
+
+QUESTIONNAIRE
+
+        Etes-vous    inscrit  sur les  listes électorales   ?
+
+          • Oui, je suis inscrit sur les listes électorales françaises
+          • Non, je ne suis pas inscrit sur les listes électorales françaises
+
+        Si le 1er  tour  de  l'élection présidentielle    avait  lieu dimanche     prochain,   pour   quelle  candidature
+        voteriez-vous    ?  (Hypothèse    1)
+
+          • Nathalie Arthaud                         • Bruno Retailleau
+
+          • Jean-Luc Mélenchon                       • Nicolas Dupont-Aignan
+          • Fabien Roussel                           • Marine Le Pen
+
+          • Marine Tondelier                         • Éric Zemmour
+          • Raphaël Glucksmann                       • Vote Blanc ou nul
+
+          • Edouard  Philippe                        • Abstention
+
+                                                                            © Questions d'actualité et intentions de vote -Présidentielle 2027 - Septembre 2026
+
+--- page 6 ---
+
+QUESTIONNAIRE
+
+         Si le 1er  tour de  l'élection  présidentielle    avait lieu  dimanche    prochain,    pour  quelle   candidature
+         voteriez-vous    ? (Hypothèse     2)
+
+          • Nathalie Arthaud                         • Bruno Retailleau
+          • Jean-Luc Mélenchon                       • Nicolas Dupont-Aignan
+
+          • Fabien Roussel                           • Marine Le Pen
+          • Marine Tondelier                         • Éric Zemmour
+
+          • Raphaël Glucksmann                       • Vote Blanc ou nul
+          • Gabriel Attal                            • Abstention
+
+         Si le 1er  tour de  l'élection  présidentielle    avait lieu  dimanche    prochain,    pour  quelle   candidature
+         voteriez-vous    ? (Hypothèse     3)
+
+          • Nathalie Arthaud                         • Bruno Retailleau
+          • Jean-Luc Mélenchon                       • David Lisnard
+
+          • Fabien Roussel                           • Nicolas Dupont-Aignan
+          • Marine Tondelier                         • Marine Le Pen
+
+          • François Hollande                        • Vote Blanc ou nul
+          • Edouard  Philippe                        • Abstention
+
+                                                                            © Questions d'actualité et intentions de vote -Présidentielle 2027 - Septembre 2026
+
+--- page 7 ---
+
+REDRESSEMENT
+
+                                                                         © Questions d'actualité et intentions de vote -Présidentielle 2027 - Septembre 2026
+
+--- page 8 ---
+
+REDRESSEMENT                       SOCIOLOGIQUE
+
+                                                                                  Région               Brut       Redressé
+                        Sexe                     Brut    Redressé
+                                                                            Auvergne Rhône Alpes      11,4%        12,3%
+                       Hommes                   46,8%      47,7%
+                                                                           Bourgogne Franche Comté    4,4%          4,0%
+                       Femmes                   53,2%      52,3%
+                                                                                 Bretagne             5,0%          5,2%
+                        Age                      Brut    Redressé             Centre Val de Loire     3,9%          3,8%
+                      18-24 ans                  7,5%      10,2%                   Corse              0,6%          0,4%
+                                                                            Français hors de France   1,1%          1,9%
+                      25-34 ans                 10,9%      15,0%
+                                                                                 Grand-Est            7,0%          8,2%
+                      35-49 ans                 23,6%      24,5%
+                                                                                 Outre-mer            0,9%          1,0%
+                      50-64 ans                 27,2%      24,5%
+                                                                               Hauts-de-France        7,4%          9,0%
+                     65 ans et plus             30,8%      25,8%
+                                                                                Ile de France         19,6%        17,4%
+         Catégorie socio-professionnelle de l’individu Brut Redressé
+                                                                                 Normandie            5,3%          5,0%
+                     Agriculteurs                0,4%      0,8%               Nouvelle Aquitaine      10,5%         9,0%
+         Artisans, commerçants, chefs d’entreprise et                            Occitanie            9,4%          9,0%
+                                                 3,8%      3,6%
+                professions indépendantes
+                                                                               Pays de la Loire       5,1%          5,6%
+        Cadres et professions intellectuelles supérieures 11,9% 9,7%
+                                                                          Provence Alpes Côte d'Azur  8,4%          8,2%
+                Professions intermédiaires      16,1%      14,2%              Taille de commune        Brut       Redressé
+                      Employés                  15,3%      16,1%               Inf à 3000 hab         28,2%        29,8%
+                       Ouvriers                  8,7%      12,4%               3000-10000 hab         18,8%        19,2%
+                                                                              10000-30000 hab         15,2%        16,8%
+                       Retraités                33,5%      33,8%
+                                                                              30000-100000 hab        17,3%        17,4%
+                     Autres Inactifs            10,3%      9,4%
+                                                                             Plus de 100000 hab       20,5%        16,8%
+                                                                            © Questions d'actualité et intentions de vote -Présidentielle 2027 - Septembre 2026
+
+--- page 9 ---
+
+REDRESSEMENT                       POLITIQUE
+
+                                         er
+                                         1 tour de la présidentielle 2022        Brut        Redressé
+                                                Anne Hidalgo                     1,8%         1,8%
+                                              Emmanuel Macron                   27,8%         27,8%
+
+                                               Eric Zemmour                      8,3%         7,1%
+                                               Fabien Roussel                    3,8%         2,2%
+
+                                                Jean Lassalle                    2,5%         3,1%
+                                             Jean-Luc Mélenchon                 21,8%         22,0%
+
+                                               Marine Le Pen                    19,8%         23,2%
+
+                                              Nathalie Arthaud                   0,5%         0,7%
+                                            Nicolas Dupont Aignan                2,3%         2,1%
+
+                                               Philippe Poutou                   1,0%         0,8%
+                                              Valérie Pécresse                   5,3%         4,8%
+
+                                               Yannick Jadot                     5,1%         4,4%
+
+                                                                                  %          Effectif
+                                            Abstention, Blanc, nuls             11,6%          225
+
+                                                   NSP                           0,6%          11
+
+                                                                            © Questions d'actualité et intentions de vote -Présidentielle 2027 - Septembre 2026
+
+--- page 10 ---
+
+REDRESSEMENT                       POLITIQUE
+
+                                       Elections européennes de 2024                              Brut          Redressé
+
+                                         Autre (veuillez préciser)                               5,9%             5,8%
+              Une liste « Lutte ouvrière le camp des travailleurs » de Lutte Ouvrière conduite par Nathalie Arthaud 0,2% 0,5%
+
+             Une liste « La France insoumise - Union populaire » de la France Insoumise conduite par Manon Aubry 13,5% 9,9%
+
+         Une liste « Gauche unie pour le monde du travail soutenue par Fabien Roussel » du Parti Communiste Français,
+                                                                                                 2,4%             2,4%
+         du MRC, de la Gauche Républicaine et Socialiste et du Mouvement l'Engagement conduite par Léon Deffontaines
+           Une liste « Europe Écologie » des Ecologistes (ex-Europe Ecologie Les Verts) conduite par Marie Toussaint 5,8% 5,5%
+                         Une liste « Ecologie au centre » conduite par Jean-Marc Governatori     1,2%             1,3%
+
+            Une liste « Réveiller l'Europe » du Parti Socialiste et de Place Publique conduite par Raphaël Glucksmann 13,8% 13,8%
+           Une liste « Besoin d’Europe » de Renaissance, du Modem, de l'UDI et d’Horizons, conduite par Valérie Hayer 17,1% 14,6%
+
+              Une liste « Les animaux comptent, votre voix aussi » du Parti animaliste conduite par Hélène Thouy 1,6% 2,0%
+
+         Une liste « La droite pour faire entendre la voix de la France en Europe » des Républicains conduite par François-
+                                                                                                 7,0%             7,3%
+                                             Xavier Bellamy
+                 Une liste « La France revient ! » du Rassemblement National conduite par Jordan Bardella 25,6%  31,4%
+           Une liste « La France fière » de Reconquête, Mouvement Conservateur et du Parti de la France conduite par
+                                                                                                 5,9%             5,5%
+                                            Marion Maréchal
+                                                                                                   %             Effectif
+                                          Abstention, Blanc, nuls                                21,0%            408
+
+                                                NSP                                              1,1%             22
+
+                                                                            © Questions d'actualité et intentions de vote -Présidentielle 2027 - Septembre 2026
+
+--- page 11 ---
+
+CALCUL
+
+                                          PARTICIPATION
+
+                                                                         © Questions d'actualité et intentions de vote -Présidentielle 2027 - Septembre 2026
+
+--- page 12 ---
+
+CALCUL            PARTICIPATION
+
+       Probabilité de participation déclarée * Poids
+
+       Les individus non inscrits et ceux déclarant vouloir s'abstenir ou voter blanc à l'élection présidentielle ont une
+       probabilité de participation de 0
+
+                                        Probabilité de participation
+                                                                            Fréquence
+                                                déclarée
+                                                 100%                         60,0%
+                                                  90%                          3,2%
+
+                                                  80%                          2,1%
+                                                  70%                          0,4%
+
+                                                  60%                          0,4%
+                                                  50%                          1,7%
+
+                                                  40%                          0,3%
+                                                  30%                          0,4%
+
+                                                  20%                          0,3%
+                                                  10%                          0,1%
+
+                                                  0%                          31,1%
+
+                                                                            © Questions d'actualité et intentions de vote -Présidentielle 2027 - Septembre 2026
+
+--- page 13 ---
+
+RÉSULTATS
+
+                                                                         © Questions d'actualité et intentions de vote -Présidentielle 2027 - Septembre 2026
+
+--- page 14 ---
+
+RÉSULTATS
+
+        Si le 1er  tour  de  l'élection présidentielle    avait  lieu dimanche     prochain,   pour   quelle  candidature
+
+        voteriez-vous    ?  (Hypothèse    1)
+
+                                     ITV 1er tour Hypothèse 1                       Brut            Redressé
+
+                                         Nathalie Arthaud                           0,4%              0,4%
+
+                                       Jean-Luc Mélenchon                          20,9%             19,1%
+
+                                         Fabien Roussel                             3,2%              2,2%
+
+                                         Marine Tondelier                           2,6%              2,6%
+                                       Raphaël Glucksmann                          12,9%             11,8%
+
+                                         Edouard Philippe                          18,6%             18,8%
+
+                                         Bruno Retailleau                           7,4%              7,6%
+
+                                      Nicolas Dupont-Aignan                         3,2%              3,2%
+
+                                          Marine Le Pen                            27,0%             30,8%
+
+                                          Éric Zemmour                              3,8%              3,5%
+
+                                                                            © Questions d'actualité et intentions de vote -Présidentielle 2027 - Septembre 2026
+
+--- page 15 ---
+
+RÉSULTATS
+
+        Si le 1er  tour  de  l'élection présidentielle    avait  lieu dimanche     prochain,   pour   quelle  candidature
+
+        voteriez-vous    ?  (Hypothèse    2)
+
+                                       ITV 1er tour Hypothèse 2                        Brut          Redressé
+
+                                           Nathalie Arthaud                            0,5%            0,4%
+
+                                         Jean-Luc Mélenchon                           21,2%           19,8%
+
+                                            Fabien Roussel                             3,3%            2,5%
+
+                                           Marine Tondelier                            2,8%            2,6%
+                                         Raphaël Glucksmann                           15,0%           14,0%
+
+                                             Gabriel Attal                            13,2%           13,4%
+
+                                           Bruno Retailleau                           10,1%            9,5%
+
+                                        Nicolas Dupont-Aignan                          3,0%            3,2%
+
+                                            Marine Le Pen                             27,1%           31,0%
+
+                                            Éric Zemmour                               3,8%            3,6%
+
+                                                                            © Questions d'actualité et intentions de vote -Présidentielle 2027 - Septembre 2026
+
+--- page 16 ---
+
+RÉSULTATS
+
+        Si le 1er  tour  de  l'élection présidentielle    avait  lieu dimanche     prochain,   pour   quelle  candidature
+
+        voteriez-vous    ?  (Hypothèse    3)
+
+                                    ITV 1er tour Hypothèse 3                      Brut             Redressé
+
+                                       Nathalie Arthaud                           0,6%               0,7%
+                                      Jean-Luc Mélenchon                         20,9%               19,6%
+
+                                        Fabien Roussel                            4,1%               2,9%
+
+                                       Marine Tondelier                           3,3%               3,0%
+
+                                       François Hollande                          8,4%               7,4%
+
+                                       Edouard Philippe                          19,8%               19,4%
+
+                                        Bruno Retailleau                          7,2%               7,6%
+
+                                         David Lisnard                            5,3%               5,2%
+                                     Nicolas Dupont-Aignan                        3,9%               4,0%
+
+                                        Marine Le Pen                            26,5%               30,2%
+
+                                                                            © Questions d'actualité et intentions de vote -Présidentielle 2027 - Septembre 2026
+
+--- page 17 ---
+
+Notre       ADN       : la   rigueur
+
+      L’identité de Cluster17 est la rigueur scientifique. Fondé                 scientifique
+
+      par des universitaires, nous avons à cœur de produire des
+      données  de qualité.
+
+      Cluster17  est le résultat d’un travail en recherche et
+      développement  de plusieurs années qui a permis de créer
+
+      un outil de sondages  performant, un panel de 200  000
+      individus et une  méthode   d’analyse innovante  testée
+
+      auprès   de  dizaines de   milliers de  personnes   sur
+      l’ensemble du  territoire. Cette approche repose sur une
+      segmentation   inédite de la  société française en  16
+
+      groupes homogènes   : les Clusters.
+
+                                                                            Jean-Yves  Dormagen   est le président & fondateur
+      Fort de ce travail, Cluster17 s’est hissé sur le podium des
+      meilleurs sondeurs à chaque  élection depuis sa création              de  Cluster17, docteur  et professeur  en  science
+      en 2022.                                                              politique, représentant  en  France  de   la World
+                                                                            Association for Public Opinion Research (WAPOR).
+
+             Retrouvez   nos  performances
+
+--- page 18 ---
+
+Nos      7  engagements
+
+                          1                                                             2
+
+                                                     Cluster17s’engageàappliquerles loisapplicablesenmatière deprotectiondedonnéespersonnelles.Ellea
+        Cluster17s’engageàappliquerlescodesetlestechniques
+                                                     désignéensonseinunDPO(DataProtection Officer)etamisenplaceunPIA(PrivacyImpactAssessment)
+        des Etudes de marché et d’opinion. Elle répond aux règles
+                                                     pourêtreconstammentenconformitéavecleRèglementGénéralsurlaProtectiondeDonnées(RGPD).Pour
+        déontologiques des spécialistes des sondages et protège
+                                                     plus de renseignements sur notre politique de protection de données: https://cluster17.com/politique-de-
+        lesdroitsdesespanélistes.
+                                                     protection-des-donnees/
+                          3
+                                                                                         4
+        Sauf engagement contractuel spécifique, la durée de
+                                                     Cluster17s’engageàréaliserdesprocéduresdecontrôlequalitéàchaqueétaped’uneétude:
+        conservation des données personnelles danslecadre d’un
+                                                       • Le questionnaire est rédigé en tenant compte des standards et normes professionnelles, il est rédigé et
+        sondage est de 36 mois pour les enquêtes récurrentes et
+                                                        reluparledirecteurdesétudespuisenvoyéauclientpourvalidationfinale.
+        de24moispourlesenquêtesadhoc.
+                                                       • Laprogrammationduquestionnaireesttestéeparaumoinstroispersonnesdifférentesavantsonenvoi.
+                          5
+                                                                                         6
+        Cluster17s’imposedesrèglestrèsstrictespourchoisirses
+        panélisteseteffectuerletiragealéatoiredespersonnesqui Cluster17 suit le terrain et la collecte de manière rigoureuse (lien unique, taux de participation, durée des
+        constituerontsonéchantillonpourunsondagedonné:taux réponses, comportement des répondants, contrôle des adresses IP des répondants, suivi des
+        desollicitation,tauxderéponse,tiragealéatoire... comportementsdespanélistes,cohérencedesréponses,…).
+             7    Cluster17analyseles résultats enappliquant les méthodesstatistiques envigueur.Lesrésultats bruts sontsystématiquement contrôlés etleurcohérence
+                  interrogée.Lesrésultatspondéréssontsystématiquementcontrôlésparaumoinsdeuxpersonnesqualifiéesdontunquantitativisteconfirmé.
+
+--- page 19 ---
+
+contact@cluster17.com
+       Retrouvez  Cluster17  sur        &
+                                                                                      jean-yves.dormagen@cluster17.com
