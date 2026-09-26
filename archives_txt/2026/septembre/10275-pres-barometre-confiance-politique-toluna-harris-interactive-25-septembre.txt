@@ -1,0 +1,979 @@
+# notice commission des sondages
+# source_pdf: archives/2026/septembre/10275-pres-barometre-confiance-politique-toluna-harris-interactive-25-septembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Baromètre               de     confiance              politique
+
+     Etude  réalisée pour LCI
+
+     Septembre    2026
+
+     Notice technique à la Commission des sondages
+
+     Département Politique & Opinion
+
+--- page 2 ---
+
+Méthodologie                     d’enquête
+
+                                                                                                                                 2
+
+--- page 3 ---
+
+Méthodologie          d’enquête
+
+                      Terrain                               Echantillon                                Quotas
+
+       Enquête réalisée en ligne du 22 au 24
+                                                 Échantillon de 1 017 personnes         Méthode  des quotas et redressement
+       septembre 2026.
+                                                 représentatif de la population         appliqués aux variables suivantes : sexe,
+                                                 Française âgée de 18 ans et plus.      âge, catégorie socioprofessionnelle et
+                                                                                        région de l’interviewé(e).
+
+                  Aide à la lecture des résultats détaillés :
+
+                  • Les chiffres présentés sont exprimés en pourcentage.
+                  • Les évolutions font référence aux précédentes vagues d’enquête.
+                  • Une notice pour cette étude est consultable sur le site de la Commission des sondages : https://www.commission-
+
+                    des-sondages.fr/
+                  • Lors des reprises de ce sondage, merci de mentionner le nom de l’institut et du commanditaire « Toluna Harris
+                    Interactive pour LCI »
+
+                                                                                                                                 3
+
+--- page 4 ---
+
+Méthodologie          d’enquête
+
+    Les répondants à cette étude sont issus du panel propriétaire Toluna-Harris Interactive.
+
+    Les panélistes Toluna ayant complété le questionnaire obtiennent des points cumulables pour une valeur inférieure à 1 euro.
+
+                                                                                                                                 4
+
+--- page 5 ---
+
+Intervalle    de   confiance
+
+     L’intervalle de confiance (parfois appelé «marge d’erreur »)permet de déterminer la confiance qui peut être attribuée à une valeur,en prenant en compte la valeur observée et la
+     taille de l’échantillon. Si le calcul de l’intervalle de confiance concerne les sondages réalisés avec la méthode aléatoire, il est communément admis qu’il est proche pour les
+     sondages réalisésaveclaméthodedesquotas.
+
+      Taille de l’échantillon   5% ou 95%        10% ou 90%      20% ou 80%       30% ou 70%      40% ou 60%         50%
+      100 interviews               4,4              6,0             8,0              9,2             9,8              10
+
+      200 interviews               3,1              4,3             5,7              6,5             6,9              7,1
+
+      300 interviews               2,5              3,5             4,6              5,3             5,7              5,8
+
+      400 interviews               2,2              3,0             4,0              4,6             4,9              5,0
+
+      500 interviews               2,0              2,7             3,6              4,1             4,4              4,5
+
+      600 interviews               1,8              2,4             3,3              3,8             4,0              4,1
+
+      800 interviews               1,5              2,1             2,8              3,2             3,4              3,5
+
+      1 000 interviews             1,4              1,8             2,5              2,9             3,0              3,1
+
+      2 000 interviews             1,0              1,3             1,8              2,1             2,2              2,3
+
+      3 000 interviews             0,8              1,1             1,5              1,7             1,8              1,8
+      4 000 interviews             0,7              0,9             1,3              1,5             1,6              1,6
+
+      6 000 interviews             0,6              0,8             1,1              1,3             1,4              1,4
+
+     Note de lecture : dans le cas d’un échantillon de 1 000 personnes, si le pourcentage mesuré est de 10%, la marge d’erreur est égale à 1,8. Il y a
+     donc 95%dechancequelepourcentageréelsoit comprisentre8,2%et11,8%(plusou moins 1,8 points).
+
+                                                                                                                                 5
+
+--- page 6 ---
+
+Données       socio-démographiques
+
+                                               SEXE                        Brut          Redressé
+
+                                                           Un homme         49              48
+
+                                                          Une femme         51              52
+                                               ÂGE
+
+                                                            18 - 24 ans     10              10
+                                                            25 - 34 ans     15              15
+
+                                                            35 - 49 ans     23              24
+                                                            50 - 64 ans     27              25
+
+                                                          65 ans et plus    25              26
+
+                                         PCS DE L’INTERVIEWÉ(E)
+
+                                                                PCS+        25              29
+                                                                PCS-        30              29
+
+                                                              Inactifs      45              42
+                                              REGION
+
+                                                      Région Parisienne     16              19
+
+                                                              Nord-Est      27              22
+                                                           Nord-Ouest       23              23
+
+                                                               Sud-Est      24              25
+                                                            Sud-Ouest       10              11
+
+                                                                                                                                 6
+
+--- page 7 ---
+
+Questionnaire
+
+                                                                                                                                 7
+
+--- page 8 ---
+
+Questionnaire
+
+     Faites-vous tout à fait confiance, plutôt confiance, plutôt pas confiance ou pas du tout confiance à Emmanuel Macron en tant que Président de la
+     République pour mener une bonne politique pour la France ?
+     1. Tout à fait confiance
+     2. Plutôt confiance
+     3. Plutôt pas confiance
+     4. Pas du tout confiance
+
+     Aux personnes qui font confiance à Emmanuel Macron
+       Quelles sont toutes les raisons pour lesquelles vous faites confiance à Emmanuel Macron ?
+
+     Aux personnes qui ne font pas confiance à Emmanuel Macron
+       Quelles sont toutes les raisons pour lesquelles vous ne faites pas confiance à Emmanuel Macron ?
+
+     Faites-vous tout à fait confiance, plutôt confiance, plutôt pas confiance ou pas du tout confiance à Sébastien Lecornu en tant que Premier ministre pour
+     mener une bonne politique pour la France ?
+     1. Tout à fait confiance
+     2. Plutôt confiance
+     3. Plutôt pas confiance
+     4. Pas du tout confiance
+
+     Aux personnes qui font confiance à Sébastien Lecornu
+       Quelles sont toutes les raisons pour lesquelles vous faites confiance à Sébastien Lecornu ?
+
+     Aux personnes qui ne font pas confiance à Sébastien Lecornu
+       Quelles sont toutes les raisons pour lesquelles vous ne faites pas confiance à Sébastien Lecornu ?
+
+                                                                                                                                 8
+
+--- page 9 ---
+
+Questionnaire
+
+     Faites-vous tout à fait confiance, plutôt confiance, plutôt pas confiance ou pas du tout confiance à chacune des personnalités suivantes pour mener une
+     bonne politique en tant que Ministre ?
+
+     1. Gérald Darmanin en tant que Garde des Sceaux, ministre de la Justice
+
+     2. Roland Lescure, en tant que Ministre de l’Économie, des Finances et de la Souveraineté industrielle, énergétique et numérique
+     3. Jean-Noël Barrot, en tant que Ministre de l’Europe et des Affaires étrangères
+     4. Aurore Bergé, en tant que Ministre déléguée chargée de l'Egalité entre les femmes et les hommes et de la lutte contre les discriminations
+     5. Catherine Vautrin, en tant que Ministre des Armées et des Anciens combattants
+     6. Annie Genevard, en tant que Ministre de l’Agriculture, de l’Agro-alimentaire et de la Souveraineté alimentaire
+     7. Benjamin Haddad, en tant que Ministre délégué chargé de l’Europe
+     8. Maud Bregeon, en tant que porte-parole du Gouvernement et Ministre déléguée chargée de l’Énergie auprès du ministre de l’Economie, des Finances
+        et de la Souveraineté industrielle, énergétique et numérique
+     9. Françoise Gatel, en tant que Ministre de l’Aménagement du territoire et de la Décentralisation
+     10.Marina Ferrari, en tant que Ministre des Sports, de la Jeunesse et de la Vie associative
+
+     11.Philippe Baptiste, en tant que Ministre de l’Enseignement supérieur, de la Recherche et de l’Espace
+     12.Philippe Tabarot, en tant que Ministre des transports
+     13.Laurent Nunez, en tant que Ministre de l’Intérieur
+     14.Jean-Pierre Farandou, en tant que Ministre du Travail et des solidarités
+     15.Monique Barbut, en tant que Ministre de la Transition écologique, de la Biodiversité et des Négociations internationales sur le climat et la nature
+     16.Serge Papin, en tant que Ministre des Petites et moyennes entreprises, du Commerce, de l’Artisanat et du Tourisme et du Pouvoir d’achat
+     17.Edouard Geffray, en tant que Ministre de l'Education nationale
+     18.Stéphanie Rist, en tant que Ministre de la Santé, des Familles, de l’Autonomie et des Personnes handicapées
+     19.Naïma Moutchou, en tant que Ministre des Outre-mer
+
+     20.Vincent Jeanbrun, en tant que Ministre de la Ville et du Logement
+     21.Laurent Panifous, en tant que Ministre déléguéchargé des Relations avec leParlement
+     22.Marie-Pierre Vedrenne, en tant que Ministre déléguéechargée de la Citoyenneté
+     23.Alice Rufo, en tant que Ministre déléguée auprès de la ministre des Armées et des Anciens combattants
+     24.Catherine Chabaud, en tant que Ministre déléguée chargée de la Mer et de la Pêche
+     25.Mathieu Lefevre, en tant que Ministre délégué chargé de la Transition écologique
+       …                                                                                * Items affichés en ordre aléatoire.
+                                                                                                                                 9
+
+--- page 10 ---
+
+Questionnaire
+
+     Faites-vous tout à fait confiance, plutôt confiance, plutôt pas confiance ou pas du tout confiance à chacune des personnalités suivantes pour mener une
+     bonne politique en tant que Ministre ?
+
+     25.…
+
+     26.Sébastien Martin, en tant que Ministre délégué chargé de l'Industrie
+     27.Anne Le Henanff, en tant que Ministre déléguée chargée de l'Intelligence artificielle et du Numérique
+     28.Nicolas Forissier, en tant que Ministre délégué chargé du Commerce extérieur et de l'Attractivité
+     29.Eleonore Caroit, en tant que Ministre déléguée chargée de la Francophonie, des Partenariats internationaux et des Français de l'étranger
+     30.David Amiel, en tant que Ministre de l’Action et des Comptes publics
+     31.Catherine Pégard, en tant que Ministre de la Culture
+     32.Jean-Didier Berger, en tant que Ministre délégué auprès du ministre de l'Intérieur
+     33.Sabrina Roubache, en tant que Ministre déléguéechargée de l’Enseignement et de la Formation professionnels et de l’Apprentissage
+     34.Camille Galliard-Minier, en tant que Ministre déléguéechargée de l’autonomie et des Personnes handicapées
+
+     1. Tout à fait confiance
+     2. Plutôt confiance
+     3. Plutôt pas confiance
+     4. Pas du tout confiance
+     5. Ne connaît pas / Ne se prononce pas
+
+                                                                                        * Items affichés en ordre aléatoire.
+                                                                                                                                 10
+
+--- page 11 ---
+
+Questionnaire
+
+     Faites-vous tout à fait confiance, plutôt confiance, plutôt pas confiance ou pas du tout confiance à chacune des personnalités suivantes pour faire des
+     propositions qui vont dans le bon sens ?
+
+     1. François Bayrou                       27.Édouard Philippe                       53.Elisabeth Borne
+
+     2. Nicolas Sarkozy                       28.Éric Piolle                            54.Dominique De Villepin
+     3. Marine Le Pen                         29.Michel Barnier                         55.Louis Sarkozy
+     4. Xavier Bertrand                       30.Eric Zemmour                           56.Sarah Knafo
+     5. Jean-Luc Mélenchon                    31.Sandrine Rousseau                      57.Rima Hassan
+     6. Laurent Wauquiez                      32.David Lisnard                          58.Jean-Louis Borloo
+     7. Anne Hidalgo                          33.Carole Delga                           59.Jérôme Guedj
+     8. Nicolas Dupont-Aignan                 34.Clémentine Autain                      60.BallyBagayoko
+     9. Florian Philippot                     35.Renaud Muselier
+     10.OlivierBesancenot                     36.Yaël Braun-Pivet                       1. Tout à fait confiance
+
+     11.Marion Maréchal                       37.Manuel Bompard                         2. Plutôt confiance
+     12.Valérie Pécresse                      38.Mathilde Panot                         3. Plutôt pas confiance
+     13.Yannick Jadot                         39.Boris Vallaud                          4. Pas du tout confiance
+     14.Manuel Valls                          40.Marine Tondelier                       5. Ne connaît pas / Ne se prononce pas
+     15.Bernard Cazeneuve                     41.Hervé Marseille
+     16.Ségolène Royal                        42.Nicolas Mayer-Rossignol
+     17.François Hollande                     43.Johanna Rolland
+     18.Christian Estrosi                     44.Aurélien Pradié
+     19.François Ruffin                       45.François Xavier Bellamy
+     20.OlivierFaure                          46.Jean-Philippe Tanguy
+
+     21.Fabien Roussel                        47.Jean Castex
+     22.Gérard Larcher                        48.Raphaël Glucksmann
+     23.Bruno Retailleau                      49.Bruno Le Maire
+     24.Rachida Dati                          50.Stéphane Sejourné
+     25.Éric Ciotti                           51.Gabriel Attal
+     26.Jordan Bardella                       52.Karim Bouamrane
+                                                                                        * Items affichés en ordre aléatoire.
+                                                                                                                                 11
+
+--- page 12 ---
+
+Résultats                     de
+
+                                                                                                 l’enquête
+
+--- page 13 ---
+
+La     confiance                 envers
+
+     le    Président              de      la    République
+
+--- page 14 ---
+
+Baromètre         de   confiance         politique
+
+      Septembre     2026
+
+     Confiance     en  Emmanuel     Macron
+
+     30%
+
+       59
+      57
+             5252
+        51                                51                    5151515151
+                  50                          50          50 50
+          49    4949                               4949              4949
+           48                                         48 48 48 48      48 48
+                   47                                      47           47
+         46 46                                    46   4646               46 46
+                                                4545 45                    45
+                                            4444                            44
+                                   43      43                                 43        43
+                     42             42                                          42   42  42     42
+                                  41                                                        41
+                    40          4040 40 4040                                        40    40
+                            39        39                                         393939 3939 39
+                             3838        38                                                   38
+                                                                                                  37 37  37
+                      36                                                                     36  36 36
+                           35                                                                        35   3535
+                       34                                                                                   34
+                        33                                                                            33                  33
+                         32                                                                            32    32        32
+                          31                                                                            31              31 31
+                                                                                                                            3030
+                                                                                                                   29
+                                                                                                              28 28   28 28
+                                                                                                                27   27
+                                                                                                                  25 25
+    mai-17 nov.-17 mai-18 nov.-18 mai-19 nov.-19 mai-20 nov.-20 mai-21 nov.-21 mai-22 nov.-22 mai-23 nov.-23 mai-24 nov.-24 mai-25 nov.-25 mai-26
+    Baromètrede confiancepolitique
+             u     s t a b l e
+                     Début du mouvement des Annonce du premier Réélection en tant que Promulgation de la Annonce de la dissolution de
+            Affaire Benalla Gilets jaunes confinement       Président de la Républiqueréforme des retraites l’Assemblée nationale
+
+--- page 15 ---
+
+Baromètre         de   confiance         politique
+
+      Septembre     2026
+
+     Confiance     en  Emmanuel     Macron
+
+     30%
+
+                                         42
+
+                                      34
+
+                                       36
+
+                                                 62
+
+                                    29
+
+                              14
+
+    Baromètrede confiancepolitique
+                                                                               {
+                                                                               y
+                                                                               {
+                                                                               y
+                                                                               {
+                                                                                    +
+                                                                                    -
+                                                                                    +
+                                                                                    -
+                                                                                    +
+                                                                                     5
+                                                                                     1
+                                                                                     1
+                                                                                     3
+                                                                                     3
+                                                                                      2
+                                                                                       3
+                                                                               y    -1
+
+--- page 16 ---
+
+Baromètre         de   confiance         politique
+
+      Septembre     2026
+                                                                                              “
+                                                                                                   « Il est digne de confiance
+                                                                                                   et qu’il a suffisamment de
+
+     Raisons   de  la confiance    en  Emmanuel     Macron                                         connaissance politique
+                                                                                                   pour diriger un pays. »
+
+                                                                                              “
+                                                                                                   « Intelligent, volontaire,
+                                                                                                   capable de  bien représenter
+
+                                                                                                   la France à l'étranger. »
+
+                                                                                              “
+
+                                                                                                   « Je le trouve compétent
+                                                                                                   en tant que Président. »
+
+                                                                                              “
+
+                                                                                                   « Il fait ce qu’il peut dans
+                                                                                                   une période difficile. »
+
+    Baromètrede confiancepolitique
+
+--- page 17 ---
+
+Baromètre         de   confiance         politique
+
+      Septembre     2026
+                                                                                              “
+                                                                                                   « Il a fait sombrer la France dans
+                                                                                                   une crise économique et
+
+     Raisons   de  la non-confiance     en  Emmanuel      Macron                                   sociale. »
+
+                                                                                              “
+                                                                                                   « Il ne tient aucunement
+                                                                                                   compte  des difficultés des
+
+                                                                                                   Français. »
+
+                                                                                              “
+
+                                                                                                   « Il a empiré la situation
+                                                                                                   économique  de  la France. »
+
+                                                                                              “
+
+                                                                                                   « Il ne tient aucune
+                                                                                                   promesse et ne s'intéresse
+
+                                                                                                   qu'aux riches. »
+
+    Baromètrede confiancepolitique
+
+--- page 18 ---
+
+La     confiance                 envers           le
+
+     Premier            ministre
+
+--- page 19 ---
+
+Baromètre         de   confiance         politique
+
+      Septembre     2026
+
+     Confiance     en  Sébastien   Lecornu
+
+     30%
+
+                                                                  37
+          35       34       35        34       34       35                 34       35       35                 34
+                                                                                                       32
+                                                                                                                         30
+
+        sept.-25 oct.-25  nov.-25   déc.-25  janv.-26 févr.-26 mars-26   avr.-26  mai-26    juin-26  juil.-26 août-26  sept.-26
+
+    Baromètrede confiancepolitique
+             y     - 4
+
+--- page 20 ---
+
+Baromètre         de   confiance         politique
+
+      Septembre     2026
+
+     Confiance     en  Sébastien   Lecornu
+
+     30%
+
+                                   27
+
+                                      33
+
+                                       36
+
+                                                  65
+
+                                         43
+
+                             12
+
+    Baromètrede confiancepolitique
+                                                                               {
+                                                                               y
+                                                                               y
+                                                                               y
+                                                                               u
+                                                                                    +
+                                                                                    -
+                                                                                    -
+                                                                                    -
+                                                                                    s
+                                                                                     1
+                                                                                     5
+                                                                                     1
+                                                                                     1
+                                                                                     t
+                                                                                      0
+                                                                                      3
+                                                                                      a b l e
+                                                                               y    -5
+
+--- page 21 ---
+
+Baromètre         de   confiance         politique
+
+      Septembre     2026
+                                                                                              “
+                                                                                                   « Il fait son travail alors que
+                                                                                                   le contexte est difficile. »
+
+     Confiance     en  Sébastien   Lecornu
+
+                                                                                              “
+                                                                                                   « Si Macron lui fait
+                                                                                                   confiance, moi aussi. »
+
+                                                                                              “
+
+                                                                                                   « Il fait ce qu’il peut avec
+                                                                                                   les moyens qu’il a. »
+
+                                                                                              “
+
+                                                                                                   « Il est sérieux. »
+
+    Baromètrede confiancepolitique
+
+--- page 22 ---
+
+Baromètre         de   confiance         politique
+
+      Septembre     2026
+                                                                                              “
+                                                                                                   « Il applique la politique
+                                                                                                   d’Emmanuel  Macron.
+
+     Confiance     en  Sébastien   Lecornu
+
+                                                                                              “
+                                                                                                   « Il suit les directives du
+                                                                                                   Président. »
+
+                                                                                              “
+
+                                                                                                   « Il est pareil qu’Emmanuel
+                                                                                                   Macron. »
+
+                                                                                              “
+
+                                                                                                   « Trop proche d’Emmanuel
+                                                                                                   Macron. »
+
+    Baromètrede confiancepolitique
+
+--- page 23 ---
+
+La     confiance                 envers           les
+
+     ministres
+
+--- page 24 ---
+
+Baromètre         de   confiance         politique
+
+      Septembre     2026
+
+     Confiance     dans  les ministres
+
+      Gérald Darmanin               28                         Jean-Didier Berger     15
+
+         Laurent Nunez            23                           Catherine Pégard       15
+      Catherine Vautrin          21                                 David Amiel       15
+       Jean-Noël Barrot          21                             Anne Le Henanff       15
+
+          Aurore Bergé          20                                   Alice Rufo       15
+        Roland Lescure          19                               Monique Barbut       15
+
+        Maud Bregeon           18                              Benjamin Haddad        15
+         Stéphanie Rist        17                                Eleonore Caroit     14
+
+           Serge Papin         17                                Nicolas Forissier   14
+   Jean-Pierre Farandou        17                               Sébastien Martin     14
+
+       Philippe Tabarot        17                               Laurent Panifous     14
+         Marina Ferrari        17                              Vincent Jeanbrun      14
+  Camille Galliard-Minier     16                               Naïma Moutchou        14
+
+     Sabrina Roubache         16                                 Françoise Gatel     14
+       Mathieu Lefevre        16                                Annie Genevard       14
+
+    Catherine Chabaud         16                            Marie-Pierre Vedrenne    13
+       Edouard Geffray        16
+
+       Philippe Baptiste      16
+
+    Baromètrede confiancepolitique
+                                                 - 4
+                                                 - 4
+                                                 - 3
+                                                 - 3
+                                                 - 2
+                                                 - 2
+                                                 - 1
+                                                 =
+                                                 - 3
+                                                 =
+                                                 =
+                                                 =
+                                                + 1
+                                                + 1
+                                                + 2
+                                                + 1
+                                                 - 1
+                                                + 1
+                                                                                                          +2
+                                                                                                          =
+                                                                                                          +1
+                                                                                                          +2
+                                                                                                          =
+                                                                                                          =
+                                                                                                          -1
+                                                                                                          -1
+                                                                                                          =
+                                                                                                          -1
+                                                                                                          +1
+                                                                                                          -1
+                                                                                                          -1
+                                                                                                          =
+                                                                                                          -3
+                                                                                                          =
+
+--- page 25 ---
+
+Baromètre         de   confiance         politique
+
+      Septembre     2026
+
+     Confiance     dans  les ministres
+
+     En %                  sept-25 oct-25 nov-25 déc-25 janv-26 févr-26 mars-26 avr-26 mai-26 juin-26 juil-26 août-26 sept-2026 Evolution
+      Gérald Darmanin       39    38    39    38    35    35     38    37    36    32    34    32    28    -4
+      Laurent Nunez         -     29    31    28    30    28     31    29    30    27    29    27    23    -4
+      Catherine Vautrin     21    21    23    22    23    23     26    25    26    26    24    24    21    -3
+      Jean-Noël Barrot      21    22    26    22    23    24     25    24    25    25    23    24    21    -3
+      Aurore Bergé          22    21    25    21    23    23     24    22    22    22    22    22    20    -2
+      Roland Lescure        -     20    22    20    20    22     24    23    23    23    22    21    19    -2
+      Maud Bregeon          -     18    20    17    19    18     21    19    20    22    20    19    18    -1
+      Stéphanie Rist        -     15    18    15    16    16     18    16    18    18    17    17    17     =
+      Serge Papin           -     18    21    20    19    19     20    18    20    18    20    20    17    -3
+      Jean-Pierre Farandou  -     18    20    17    17    18     21    17    19    20    18    17    17     =
+      Philippe Tabarot      16    17    19    17    17    18     19    17    20    17    19    17    17     =
+      Marina Ferrari        -     14    18    17    17    18     18    17    18    19    16    17    17     =
+      Camille Galliard-Minier -   -     -      -     -     -     18    15    16    16    16    15    16    +1
+      Sabrina Roubache      -     -     -      -     -     -     17    15    16    16    16    15    16    +1
+      Mathieu Lefevre       -     14    14    15    13    14     15    14    15    15    16    14    16    +2
+      Catherine Chabaud     -     15    17    15    15    16     17    15    15    15    16    15    16    +1
+      Edouard Geffray       -     14    18    16    16    16     17    14    16    21    18    17    16    -1
+      Philippe Baptiste     13    13    17    15    15    15     17    14    16    15    15    15    16    +1
+      Jean-Didier Berger    -     -     -      -     -     -     16    12    15    15    15    13    15    +2
+      Catherine Pégard      -     -     -      -     -     -     16    16    17    18    16    15    15     =
+      David Amiel           -     14    15    13    15    14     17    14    14    15    15    14    15    +1
+      Anne Le Henanff       -     14    16    14    15    15     17    14    15    16    15    13    15    +2
+      Alice Rufo            -     13    16    15    15    16     19    14    16    17    17    15    15     =
+      Monique Barbut        -     14    15    15    15    16     16    14    15    16    17    15    15     =
+      Benjamin Haddad       16    16    17    14    16    17     19    16    17    18    17    16    15    -1
+      Eleonore Caroit       -     14    17    14    14    14     17    14    15    16    14    15    14    -1
+      Nicolas Forissier     -     13    16    14    13    13     15    12    14    15    13    14    14     =
+      Sébastien Martin      -     14    16    15    14    15     17    14    16    16    15    15    14    -1
+      Laurent Panifous      -     13    15    14    14    14     15    13    15    14    15    13    14    +1
+      Vincent Jeanbrun      -     15    17    15    15    16     16    16    17    16    16    15    14    -1
+      Naïma Moutchou        -     14    16    15    15    15     16    14    16    16    16    15    14    -1
+      Françoise Gatel       13    13    16    14    13    14     15    12    15    16    15    14    14     =
+      Annie Genevard        16    18    18    16    14    17     18    16    19    18    18    17    14    -3
+      Marie-Pierre Vedrenne -     14    16    14    15    15     15    13    14    15    14    13    13     =
+    Baromètrede confiancepolitique
+
+--- page 26 ---
+
+La     confiance                 envers           d’autres
+
+     personnalités                    politiques
+
+--- page 27 ---
+
+Baromètre         de   confiance         politique
+
+      Septembre     2026
+
+     Confiance     dans  les personnalités    politiques
+
+               Marine Le Pen         39         +1            François Xavier Bellamy 15                 -3
+              Jordan Bardella        39         -1                 Bruno Le Maire 15                     -2
+             Marion Maréchal      30            +2                  Louis Sarkozy 15                     +2
+             Édouard Philippe    27             -3                François Bayrou 14                     =
+             Jean-Louis Borloo   27             +2               Laurent Wauquiez 14                     -2
+                  Eric Ciotti    26             -2                Valérie Pécresse 14                    -4
+               Gabriel Attal     26             -2                  Manuel Valls 14                      -2
+             Bruno Retailleau   23              -4                 Christian Estrosi 14                  =
+          Raphaël Glucksmann    23              -2                 Gérard Larcher 14                     -3
+              Nicolas Sarkozy   22              -1                  Rachida Dati 13                      -3
+            François Hollande   22              -3                  Anne Hidalgo 12                      -2
+                Jean Castex     22              =                Sandrine Rousseau 12                    -1
+                                                                  Manuel Bompard 12
+                Sarah Knafo     22              =                                                        =
+                                                                   Jérôme Guedj 12
+         Nicolas Dupont-Aignan 20               =                                                        +1
+                                                                    Carole Delga 11
+           Bernard Cazeneuve   20               -3                                                       -2
+                                                                 Clémentine Autain 11
+               Eric Zemmour    20               +2                                                       -2
+                                                                  Renaud Muselier 11
+          Jean-Philippe Tanguy 20               =                                                        =
+                                                                    Boris Vallaud 11
+              Florian Philippot 19              +3                                                       +1
+                                                                 Stéphane Sejourné 11
+              Ségolène Royal   19               +2                                                       +2
+               David Lisnard   19               +1               Karim Bouamrane 11                      =
+                                                                    Rima Hassan 11                       -1
+          Dominique De Villepin 19              -2
+                                                                   Bally Bagayoko 11                     -1
+              Xavier Bertrand 17                -6                    Éric Piolle 10                     +2
+          Jean-Luc Mélenchon  17                -1                 Mathilde Panot 10                     -1
+               François Ruffin 17               -3            Nicolas Mayer-Rossignol 10                 +1
+               Michel Barnier 17                =                 Johanna Rolland 9                      +1
+              Elisabeth Borne 17                -2                 Aurélien Pradié 9                     =
+            Olivier Besancenot 16               +1                 Hervé Marseille 8                     +1
+              Fabien Roussel  16                -2
+               Yannick Jadot  15                -3
+                Olivier Faure 15                =
+             Yaël Braun-Pivet 15                -2
+             Marine Tondelier 15                =
+    Baromètrede confiancepolitique
+
+--- page 28 ---
+
+Baromètre         de   confiance         politique
+
+      Septembre     2026
+
+     Confiance     dans  les personnalités    politiques  1/2
+
+     En %              sept-25 oct-25 nov-25 déc-25 janv-26 févr-26 mars-26 avr-26 mai-26 juin-26 juil-26 août-26 sept-26 Evolution
+
+      Marine Le Pen      37     39     42     39      40     38     39      38     39     39      39     38     39     +1
+      Jordan Bardella    38     41     43     42      42     38     41      41     41     41      40     40     39      -1
+      Marion Maréchal    27     31     31     30      30     28     31      30     30     30      28     28     30     +2
+      Édouard Philippe   32     32     32     29      30     31     34      32     32     30      30     30     27      -3
+      Jean-Louis Borloo  -      28     30     27      28     24     29      27     27     27      23     25     27     +2
+      Eric Ciotti        23     24     26     25      24     24     27      29     31     27      25     28     26      -2
+      Gabriel Attal      31     30     29     28      29     28     30      29     27     27      24     28     26      -2
+      Bruno Retailleau   -      31     31     30      27     30     28      30     29     28      27     27     23      -4
+      Raphaël Glucksmann 28     24     26     21      23     24     27      23     23     24      23     25     23      -2
+      Nicolas Sarkozy    23     26     27     25      23     21     25      23     23     22      21     23     22      -1
+      François Hollande  24     22     26     21      23     27     25      20     21     22      20     25     22      -3
+      Jean Castex        24     29     27     25      25     25     26      25     24     24      22     22     22      =
+      Sarah Knafo        17     19     21     21      21     19     23      21     21     20      20     22     22      =
+      Nicolas Dupont-Aignan 20  23     24     24      22     21     22      20     21     23      19     20     20      =
+      Bernard Cazeneuve  27     25     28     25      25     25     26      22     23     22      21     23     20      -3
+      Eric Zemmour       19     21     21     20      21     18     19      20     20     20      17     18     20     +2
+      Jean-Philippe Tanguy 17   19     22     19      21     18     20      20     20     21      19     20     20      =
+      Florian Philippot  17     17     20     19      17     17     18      18     17     18      17     16     19     +3
+      Ségolène Royal     17     19     20     18      19     18     18      18     17     17      17     17     19     +2
+      David Lisnard      17     18     18     14      15     16     18      18     18     18      17     18     19     +1
+      Dominique De Villepin 21  21     23     21      22     21     24      20     21     20      19     21     19      -2
+      Xavier Bertrand    23     24     26     23      22     23     26      23     25     22      21     23     17      -6
+      Jean-Luc Mélenchon 13     16     18     15      15     15     16      14     15     16      13     18     17      -1
+      François Ruffin    22     23     25     21      22     21     21      19     18     20      20     20     17      -3
+      Michel Barnier     22     22     23     21      21     21     23      20     20     18      19     17     17      =
+      Elisabeth Borne    -      17     20     15      19     19     20      19     19     18      17     19     17      -2
+      Olivier Besancenot 19     18     22     16      18     19     18      16     16     18      15     15     16     +1
+      Fabien Roussel     22     21     24     19      20     20     21      21     18     20      18     18     16      -2
+      Yannick Jadot      20     19     22     16      18     17     20      17     17     17      16     18     15      -3
+      Olivier Faure      20     19     20     16      18     18     18      17     15     15      17     15     15      =
+      Yaël Braun-Pivet   19     18     20     17      17     18     19      16     19     18      16     17     15      -2
+      Marine Tondelier   14     15     18     14      14     15     16      13     13     16      14     15     15      =
+    Baromètrede confiancepolitique
+
+--- page 29 ---
+
+Baromètre         de   confiance         politique
+
+      Septembre     2026
+
+     Confiance     dans  les personnalités    politiques  2/2
+
+     En %              sept-25 oct-25 nov-25 déc-25 janv-26 févr-26 mars-26 avr-26 mai-26 juin-26 juil-26 août-26 sept-26 Evolution
+
+      François Xavier Bellamy 17 18    21     18      16     17     19      17     18     18      17     18     15      -3
+      Bruno Le Maire     20     18     21     19      18     19     22      16     18     19      18     17     15      -2
+      Louis Sarkozy      16     19     21     17      15     16     14      14     15     14      13     13     15     +2
+      François Bayrou    12     15     17     13      15     15     14      13     15     13      13     14     14      =
+      Laurent Wauquiez   19     20     21     17      17     19     17      17     17     18      15     16     14      -2
+      Valérie Pécresse   18     20     22     17      18     19     18      18     19     19      18     18     14      -4
+      Manuel Valls       -      17     18     15      16     17     19      16     17     15      14     16     14      -2
+      Christian Estrosi  19     18     20     18      17     18     17      14     16     16      14     14     14      =
+      Gérard Larcher     18     19     21     17      17     18     18      15     15     17      15     17     14      -3
+      Rachida Dati       -      -       -      -      -      -      19      15     17     18      15     16     13      -3
+      Anne Hidalgo       14     14     17     12      15     16     16      14     14     15      13     14     12      -2
+      Sandrine Rousseau  12     13     16     12      15     14     16      12     11     13      12     13     12      -1
+      Manuel Bompard     13     12     17     12      14     13     13      12     12     13      12     12     12      =
+      Jérôme Guedj       -      -       -      -      -      12     15      12     11     12      11     11     12     +1
+      Carole Delga       14     16     17     14      14     14     15      13     13     15      13     13     11      -2
+      Clémentine Autain  14     13     17     12      14     13     13      13     12     15      14     13     11      -2
+      Renaud Muselier    13     12     15     12      12     12     13      11     10     14      10     11     11      =
+      Boris Vallaud      13     11     15     10      12     11     13      11     8      12      11     10     11     +1
+      Stéphane Sejourné  10     13     14     11      12     11     13      12     12     11      10     9      11     +2
+      Karim Bouamrane    10     10     13      9      10     10     11      10     9      12      10     11     11      =
+      Rima Hassan        10     10     14     10      11     9      10      11     11     11      9      12     11      -1
+      Bally Bagayoko     -      -       -      -      -      -       -      11     11     12      9      12     11      -1
+      Éric Piolle        9      11     11     10      10     9      10      9      9      10      9      8      10     +2
+      Mathilde Panot     11     10     15     10      11     11     12      10     11     12      10     11     10      -1
+      Nicolas Mayer-Rossignol 9 10     13      7      11     9       9      9      7      10      9      9      10     +1
+      Johanna Rolland    9      8      12      9      10     10     10      8      9      11      8      8      9      +1
+      Aurélien Pradié    10     10     12     10      11     11     11      10     9      10      9      9      9       =
+      Hervé Marseille    7      9      11      7      9      7       8      7      8       8      8      7      8      +1
+    Baromètrede confiancepolitique
+
+--- page 30 ---
+
+Baromètre         de   confiance         politique
+
+      Septembre     2026
+
+     Confiance     dans  les personnalités    politiques  pour  les sympathisants
+
+        Jean-Luc Mélenchon               83       Raphaël Glucksmann          61          Raphaël Glucksmann         53
+
+              Rima Hassan         47                François Hollande        55               Marine Tondelier       52
+
+           Manuel Bompard         45                  Ségolène Royal      39                   Yannick Jadot         51
+
+            Ségolène Royal       41                    François Ruffin    39                     Olivier Faure      44
+
+            Bally Bagayoko       38                    Yannick Jadot      37                Olivier Besancenot      43
+
+          Olivier Besancenot    34                      Olivier Faure     34                 François Hollande      42
+
+             François Ruffin    32                   Jean-Louis Borloo   33                    François Ruffin     41
+
+             Fabien Roussel     32                     Fabien Roussel    31                    Fabien Roussel      38
+
+            Mathilde Panot     30                      Anne Hidalgo      30                  Jean-Louis Borloo     38
+
+          Clémentine Autain    29                      Jérôme Guedj      29                    Ségolène Royal     35
+
+    Baromètrede confiancepolitique
+
+--- page 31 ---
+
+Baromètre         de   confiance         politique
+
+      Septembre     2026
+
+     Confiance     dans  les personnalités    politiques  pour  les sympathisants
+
+           Édouard Philippe             77            Bruno Retailleau        60              Marine Le Pen                94
+
+              Gabriel Attal           68               Nicolas Sarkozy      48               Jordan Bardella              89
+
+              Jean Castex            58                 Marine Le Pen       45              Marion Maréchal           66
+
+         Bernard Cazeneuve          54                 Jordan Bardella      45                    Eric Ciotti      51
+
+           Jean-Louis Borloo        54                Édouard Philippe     42                  Eric Zemmour      40
+
+            Bruno Le Maire         48            François Xavier Bellamy   42            Jean-Philippe Tanguy    35
+
+            Elisabeth Borne        48                    Gabriel Attal     41                  Sarah Knafo       35
+
+             Michel Barnier       44                       Eric Ciotti     40                Florian Philippot  30
+
+       Raphaël Glucksmann         42                  Jean-Louis Borloo    39          Nicolas Dupont-Aignan    29
+
+            Xavier Bertrand      40                     Michel Barnier    38                 Nicolas Sarkozy   26
+
+    Baromètrede confiancepolitique
+
+--- page 32 ---
+
+Baromètre         de   confiance         politique
+
+      Septembre     2026
+
+     Confiance     dans  les personnalités    politiques
+
+     1/2                    Ensemble
+
+      Marine Le Pen          39    +1     13    +3    11     -3    17    +10    14    -2     45    -4    94     +6
+      Jordan Bardella        39    -1     15    +6     6     -14   16    +3     11    -11    45    =     89     +2
+      Marion Maréchal        30    +2     16    +7    14     +1    13    +4     10    -5     29    -12   66     +8
+      Édouard Philippe       27    -3     25    +3    28     -8    34    +9     77    -3     42    -8    13     =
+      Jean-Louis Borloo      27    +2     23    +9    33     +5    38    +20    54    -3     39    -6    18     +5
+      Eric Ciotti            26    -2     16    +3    10     -2    11     =     13    -7     40    -6    51     +4
+      Gabriel Attal          26    -2     20    +3    26     -7    26    +2     68    -6     41    +6    14     +1
+      Bruno Retailleau       23    -4     12    +1    14     -4    19    +9     34    -2     60    -11   23     -2
+      Raphaël Glucksmann     23    -2     20    -6    61     -2    53    +9     42    +1     20    +1     7     =
+      Nicolas Sarkozy        22    -1     15    =     10     -8    15    +1     33    +5     48    -9    26     -3
+      François Hollande      22    -3     28    -4    55     -7    42    +6     32    =      14    -4     8     -3
+      Jean Castex            22    =      23    +9    19     -5    27    +6     58    +4     30    =     12     =
+      Sarah Knafo            22    =      16    -2    10     -2    10     -1    17    +5     23    -10   35     +4
+      Nicolas Dupont-Aignan  20    =      14    -1    15     +7    12     -5    16    +3     13    -13   29     +2
+      Bernard Cazeneuve      20    -3     15    +2    28     -17   23     -8    54    +11    22    -20   11     +1
+      Eric Zemmour           20    +2     10    +2     6     -1    14    +7     10    =      17    -8    40     +4
+      Jean-Philippe Tanguy   20    =      12    +4    13     +2    15    +8     10    -6     23    -6    35     -2
+      Florian Philippot      19    +3     13    +3     8     -9    12     -2    13    +3     15    -1    30     +8
+      Ségolène Royal         19    +2     41    +4    39     -5    35    +7     24    +9     3     -7    10     +2
+      David Lisnard          19    +1     12    -2    14     +4    6      -1    19    -7     35    -6    20     +6
+      Dominique De Villepin  19    -2     26    -3    25     =     26     -4    35    +4     25    -7    12     -3
+      Xavier Bertrand        17    -6     15    +1    22     -7    20    +8     40    -8     34    -15   10     -1
+      Jean-Luc Mélenchon     17    -1     83    -2    24     -4    20     -7    14    +5     6     +2     4     +1
+      François Ruffin        17    -3     32    -2    39     -2    41    -22    19    +1     8     -3     5     -3
+      Michel Barnier         17    =      15    +1    12     -3    16     -3    44    +1     38    -1     8     =
+      Elisabeth Borne        17    -2     13    -2    17     -7    18     -7    48    -2     12    -10    9     +2
+      Olivier Besancenot     16    +1     34    -3    27     -2    43    +19    13    +1     8     +4     8     -1
+      Fabien Roussel         16    -2     32    +3    31     -12   38     -9    14    -9     8     +1     7     +3
+      Yannick Jadot          15    -3     22    -7    37     -8    51     -8    19    -2     10    -1     4     =
+      Olivier Faure          15    =      27    +5    34     -16   44     -1    13    -3     6     -5     6     +1
+      Yaël Braun-Pivet       15    -2     12    +1    18     -3    18    +2     37    -6     18    -7     7     +1
+      Marine Tondelier       15    =      28    -10   23     -15   52     -2    15    +3     4     -1     7     +4
+    Baromètrede confiancepolitique
+
+--- page 33 ---
+
+Baromètre         de   confiance         politique
+
+      Septembre     2026
+
+     Confiance     dans  les personnalités    politiques
+
+     2/2                    Ensemble
+
+      François Xavier Bellamy 15   -3     18    +10   10     -4    17    +12    25    -4     42    -23   10     =
+      Bruno Le Maire         15    -2     15    +2    15     -8    16     =     48    +5     19    -12    5     -4
+      Louis Sarkozy          15    +2     17    +10   11     -3    11    +6     20    +4     28    -1    15     +1
+      François Bayrou        14    =      15    -5    20     +3    20    +1     30    -2     21    +5     6     =
+      Laurent Wauquiez       14    -2     14    -1    19     -3    16    +7     22    -3     33    -16    8     -3
+      Valérie Pécresse       14    -4     13    -1    17     -5    10    -10    35    +4     30    -14   10     =
+      Manuel Valls           14    -2     9     -6    24     -4    20    +7     28    =      18    -3     6     -2
+      Christian Estrosi      14    =      19    +11   14     +5    19    +12    22    -6     32    +4    12     =
+      Gérard Larcher         14    -3     17    +8    11     -10   10     -3    29    -6     30    -15    8     +2
+      Rachida Dati           13    -3     21    +9    16     =     10     -2    18    -9     27    -12    9     -3
+      Anne Hidalgo           12    -2     17    -7    30     -8    26     -7    13    -3     3     -3     5     =
+      Sandrine Rousseau      12    -1     26    -11   25     +1    24    -15    14    +6     4     -2     4     +1
+      Manuel Bompard         12    =      45    -3    11     -10   17     -4    10    +1     6     -1     5     +2
+      Jérôme Guedj           12    +1     17    +9    29     -2    25    +1     19    -4     5     -2     4     =
+      Carole Delga           11    -2     11    -3    18     -3    20     -5    21    -8     11    +2     4     -1
+      Clémentine Autain      11    -2     29    -5    17     -11   24    -13    9     +1     7     +2     4     +1
+      Renaud Muselier        11    =      16    +4    10     -2    13    +7     21    -5     14    -4     6     =
+      Boris Vallaud          11    +1     21    +2    22     -6    26    +3     10    -7     6     -1     3     =
+      Stéphane Sejourné      11    +2     20    +11   12     +1    15    +8     22    -6     9     -3     4     =
+      Karim Bouamrane        11    =      26    +6    18     +1    14    -13    16    -3     6     =      4     =
+      Rima Hassan            11    -1     47    -11   11     -5    13    -11    11    +2     4     =      3     =
+      Bally Bagayoko         11    -1     38    -13   14     -8    17    +5     11    +3     4     +2     4     =
+      Éric Piolle            10    +2     14    +3    19     +2    17     -7    15    +4     5     -3     3     =
+      Mathilde Panot         10    -1     30    -15   13     -2    8     -15    11    +5     6     +1     4     +1
+      Nicolas Mayer-Rossignol 10   +1     21    +7    17     =     14     -2    15    =      5     -2     4     =
+      Johanna Rolland        9     +1     15    +4    10     -11   12    +2     7     -7     6     -3     6     +2
+      Aurélien Pradié        9     =      15    +3     8     -3    12    +7     13    -3     9     -8     4     =
+      Hervé Marseille        8     +1     16    +3     5     -4    6      -1    11    -6     9     +5     5     +3
+
+    Baromètrede confiancepolitique
+
+--- page 34 ---
+
+Contact  Toluna  – Harris Interactive en France :                     Merci  de  noter que   toute diffusion de ces
+
+                                                                             résultats doit être accompagnée  des éléments
+                                                                             techniques suivants : le nom de l’institut, le nom
+       Jean-Daniel Lévy
+                                                                             du  commanditaire   de   l’étude, la méthode
+       Directeur délégué – Stratégies politiques et d’opinion
+                                                                             d’enquête, les dates de réalisation et la taille de
+       jdlevy@toluna.com
+                                                                             l’échantillon.
+
+                                                         wwwwww..ttoolluunnaaccoorrppoorraattee..ccoomm
