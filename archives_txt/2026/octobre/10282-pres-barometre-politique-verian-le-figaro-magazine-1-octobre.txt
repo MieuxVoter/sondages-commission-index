@@ -1,0 +1,1277 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10282-pres-barometre-politique-verian-le-figaro-magazine-1-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Le       baromètre
+
+     politique                   Figaro
+
+     magazine
+
+     réalisé  par  Verian
+
+     Octobre     2026
+
+    Notice   pour  le site de  la Commission       des  Sondages
+
+                                                                                                              Contact   Verian
+
+                                                                                           laure.salvaing@veriangroup.com
+
+--- page 2 ---
+
+Un     sondage                                    réalisé       pour
+
+                                                                                Publication dans Le Figaro Magazine le 2 octobre 2026
+
+     La  méthodologie                                                                      Levée d’embargo   – Jeudi 1er octobre – 8h
+
+        Echantillon                               Mode   de recueil                          Dates  de  terrain
+
+        • Enquête réalisée auprès d'un            • Les interviews ont été réalisées         • Interviews réalisées du 27
+
+          échantillon de 1000 personnes            en ligne sur Panel.                         Septembre  au 29 Octobre 2026
+          représentatif de la population
+                                                  • Questionnaire quantitatif
+          âgée  de 18 ans et plus.
+                                                   autoadministré
+        • La représentativité de
+          l’échantillon est assurée par la                                                                         Note de lecture
+          méthode  des quotas (sexe, âge,
+          profession de la personne de
+                                                                               L’enquête a fait l’objet d’un redressement sociodémographique
+          référence et région).                                                 (données INSEE). Les résultats de cette enquête sont soumis aux
+                                                                                     marges d’erreurs inhérentes aux lois statistiques, elles sont
+        • Les panélistes ayant complété le
+                                                                                                        précisées dans la page qui suit.
+          questionnaire obtiennent des
+          points cumulables pour une
+          valeur inférieure à 1 euro.
+     Verian Baromètre politique Verianpour le Figaro Magazine                                                        Octobre 2026 2
+
+--- page 3 ---
+
+Précisions           techniques            sur     les   marges         d’erreur
+
+     Les résultats de cette étude Pour cette étude sur 1000 individus, une répartition de 50 % / 50 % a une précision de ± 3,1 %. Autrement dit, il y a 95%
+     sont  soumis  aux  marges   de chances que la proportion réelle dans l’ensemble de la population soit comprise entre 50 – 3,1 % et 50 + 3,1 %, la
+     d’erreur,  comme     toute  proportion la plus probable étant 50%.
+     enquête quantitative réalisée
+                                 Pour un échantillon de 1000 individus, à 95% de confiance les intervalles de confiance selon les proportions
+     par sondage.
+                                 observées sont :
+     Les marges d’erreurs données
+     dans les sondages se basent
+     sur    l’hypothèse    d'un
+     échantillonnage aléatoire. Si
+     les marges  d’erreurs réelles                       Intervalle de confiance selon la proportion observée
+                                                                                                        96,4
+     dans  les  sondages   dont              ) 100                                                   91,9
+                                             %
+                                                                                                  87,2
+     l s ' e é l c o h n an la till m on é n t a ho g d e e e d st es co q n u s o tr t u a i s t ( e c 90 Borne inférieure de l'intervalle de 77,7 82,5 93,6
+                                             n  80          confiance                     72,8       88,1
+                                             a
+     ne   sont  pas  mesurables              if                                        68,0       82,8
+     scientifiquement, on estime en          n o 70                              58,1 63,0     77,5
+                                             c                                               72,3
+     pratique qu’elles sont proches          e  60                            53,1        67,2
+     d
+     d'
+      e
+      un
+        celles calcu
+                 é
+                 lé
+                  c
+                   e
+                   h
+                    s
+                    a
+                     d
+                     n
+                      a
+                      til
+                       n
+                        lo
+                        s
+                         n
+                          le
+                          na
+                           c
+                            g
+                             a
+                             e
+                              s
+                                             d
+                                             e lla 50                38,0 43,0
+                                                                           48,1
+                                                                                 51,9
+                                                                                    57,0
+                                                                                       62,0
+                                             v r 40               32,8        46,9
+     aléatoire.                              e                 27,7
+                                             t                             41,9
+                                             n  30          22,5        37,0
+                                             i'l
+                                                         17,2        32,0
+     La marge d’erreur dépend de             e d 20   11,9        27,2
+     la taille de la population, ainsi       e     6,4         22,3
+                                             n  10          17,5
+     que de la proportion à laquelle         r o         12,8
+                                             B   0  3,6 8,1
+     on l’applique.
+                                                    5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95
+                                                                         Proportion observée (%)
+                                                                                                                     Octobre 2026 3
+
+--- page 4 ---
+
+Un     sondage                                    réalisé       pour
+
+     La  cote  de  confiance    du  couple   exécutif                              Le  top  10 des  personnalités    politiques
+
+       Emmanuel         Total Confiance    Sébastien     Total Confiance                     Jordan BARDELLA (-1)    40
+                        18%
+        MACRON                    (+1)     LECORNU       21%      (-2)
+                                                                                                Marine LE PEN  (-2) 39
+                                                                                             Marion MARECHAL (+1)  28
+
+                                                                                              Edouard PHILIPPE  (-3) 26
+                        Total Pas                        Total Pas
+                                                                                              Bruno RETAILLEAU (+1) 24
+                        Confiance                        Confiance
+                        78%       (=)                    68%      (+2)                           Eric CIOTTI (+1) 23
+
+                                                                                              Robert MÉNARD  (+3) 22
+
+                                                                                                Gabriel ATTAL (-5) 22
+
+                                                                                                Sarah KNAFO  (+3) 20
+
+                                                                                          Raphaël GLUCKSMANN  (-3) 20
+
+     Verian Baromètre politique Verian pour le Figaro Magazine                                                     Octobre 2026 4
+
+--- page 5 ---
+
+Les        cotes          de      confiance
+
+      de      l’exécutif
+
+BaromètreV eproialintique Verian pour le Figaro Magazine                                                                       Juillet 2026
+
+--- page 6 ---
+
+La    cote     de    confiance           d’Emmanuel                Macron
+
+      Faites-vous tout à fait confiance, plutôt confiance, plutôt pas confiance ou pas du tout confiance
+      à Emmanuel Macron pour résoudre les problèmes qui se posent en France actuellement ?
+
+             Tout à fait 3 (=)   Total Confiance
+             confiance                                                                                                 84
+                                  18%                                                                                80
+                                             (+1)                       77                                      78          78
+              Plutôt                                                            73
+             confiance 15 (+1)                                                                       70
+                                                              57 57
+                                                                                                         63
+                                  Total
+                                                                                    55
+                                                                                               48
+                                  Pas Confiance                                     40         45
+                                                                                                    35
+             Plutôt pas
+             confiance 22 (+1)    78%        (=)              38 38          32                          29
+                                                                                                              25
+                                                                                                                    22
+                                                                                                                            18
+                                                                                24
+                                                                        21
+                                                                                                                17
+             Pas du tout 56 (-1)                                                                                      11
+             confiance
+                                                              777788888899999900001111112222223333334444445555566666
+                                                              111111111111111122222222222222222222222222222222222222
+                                                              000000000000000000000000000000000000000000000000000000
+                                                              222222222222222222222222222222222222222222222222222222
+                                                              n
+                                                              iu
+                                                              J
+                                                               tû
+                                                               o
+                                                               A
+                                                                e
+                                                                rb
+                                                                o tc O
+                                                                 e
+                                                                 rb
+                                                                 m e c
+                                                                 é D
+                                                                   re
+                                                                   irv
+                                                                   é F
+                                                                    lirv
+                                                                    A
+                                                                     n
+                                                                     iu
+                                                                     J
+                                                                      tû
+                                                                      o
+                                                                      A
+                                                                       e
+                                                                       rb
+                                                                       o tc O
+                                                                        e
+                                                                        rb
+                                                                        m e c
+                                                                        é D
+                                                                          re
+                                                                          irv
+                                                                          é f
+                                                                           lirv
+                                                                           A
+                                                                            n
+                                                                            iu
+                                                                            J
+                                                                             tû
+                                                                             o
+                                                                             A
+                                                                              e
+                                                                              rb
+                                                                              o tc O
+                                                                                e
+                                                                                rb
+                                                                                m e c
+                                                                                é D
+                                                                                 re
+                                                                                 irv
+                                                                                 é F
+                                                                                  te
+                                                                                  lliu
+                                                                                  J
+                                                                                   e
+                                                                                   rb
+                                                                                   m e tp
+                                                                                   e S
+                                                                                    e
+                                                                                    rb
+                                                                                    m e v
+                                                                                    o N
+                                                                                     re
+                                                                                     iv
+                                                                                     n a J
+                                                                                       s
+                                                                                       ra
+                                                                                       M
+                                                                                        ia
+                                                                                        M
+                                                                                         te
+                                                                                         lliu
+                                                                                         J
+                                                                                          e
+                                                                                          rb
+                                                                                          m e tp
+                                                                                          e S
+                                                                                           e
+                                                                                           rb
+                                                                                           m e v
+                                                                                           o N
+                                                                                             re
+                                                                                             iv
+                                                                                             n a J
+                                                                                              s
+                                                                                              ra
+                                                                                              M
+                                                                                               ia
+                                                                                               M
+                                                                                                te
+                                                                                                lliu
+                                                                                                J
+                                                                                                 e
+                                                                                                 rb
+                                                                                                 m e tp
+                                                                                                 e S
+                                                                                                  e
+                                                                                                  rb
+                                                                                                  m e v
+                                                                                                  o N
+                                                                                                    re
+                                                                                                    iv
+                                                                                                    n a J
+                                                                                                     s
+                                                                                                     ra
+                                                                                                     M
+                                                                                                      ia
+                                                                                                      M
+                                                                                                       te
+                                                                                                       lliu
+                                                                                                       J
+                                                                                                        e
+                                                                                                        rb
+                                                                                                        m e tp
+                                                                                                        e S
+                                                                                                          e
+                                                                                                          rb
+                                                                                                          m e v
+                                                                                                          o N
+                                                                                                           re
+                                                                                                           iv
+                                                                                                           n a J
+                                                                                                            s
+                                                                                                            ra
+                                                                                                            M
+                                                                                                             ia
+                                                                                                             M
+                                                                                                              te
+                                                                                                              lliu
+                                                                                                              J
+                                                                                                               e
+                                                                                                               rb
+                                                                                                               o tc O
+                                                                                                                 e
+                                                                                                                 rb
+                                                                                                                 m e c
+                                                                                                                 é D
+                                                                                                                  re
+                                                                                                                  irv
+                                                                                                                  é F
+                                                                                                                   lirv
+                                                                                                                   A
+                                                                                                                    n
+                                                                                                                    iu
+                                                                                                                    J
+                                                                                                                     e
+                                                                                                                     rb
+                                                                                                                     m e tp
+                                                                                                                     e S
+                                                                                                                       e
+                                                                                                                       rb
+                                                                                                                       m e v
+                                                                                                                       o N
+                                                                                                                        re
+                                                                                                                        iv
+                                                                                                                        n a J
+                                                                                                                         s
+                                                                                                                         ra
+                                                                                                                         M
+                                                                                                                          ia
+                                                                                                                          M
+                                                                                                                           te
+                                                                                                                           lliu
+                                                                                                                           J
+                                                                                                                            e
+                                                                                                                            rb
+                                                                                                                            o tc O
+           Sans opinion
+                 5%
+     Verian Baromètre politique Verian pour le Figaro Magazine                                                     Octobre 2026 6
+
+--- page 7 ---
+
+Verian Baromètre politique Verian pour le Figaro Magazine                                                     Octobre 2026 7
+
+--- page 8 ---
+
+La    structure          détaillée        de    la   cote     de    confiance
+
+     d’Emmanuel                Macron
+                                               (1/2)
+
+                                                     TOTAL CONFIANCE TOTAL PAS CONFIANCE
+                                                    ENSEMBLE 18% (+1)| 78% (=)
+   Sexe
+                                       Homme  (+2)              22        75               (-1)
+                                       Femme  (=)                15        80              (=)
+   Âge
+                                     18 à 24 ans (=)            29        67              (+2)
+                                     25 à 34 ans (-2)            19       76              (+6)
+                                     35 à 49 ans (+3)            14        82              (-2)
+                                     50 à 64 ans (+3)            13        83              (-5)
+                                   65 ans et plus (-1)          21        76              (+2)
+   Profession de la personne de référence
+                                       ST PCS+ (+1)              19        78              (=)
+                       Cadre, profession intellectuelle (-7)     13        82             (+4)
+                            Profession intermédiaire (+5)        17        80              (-2)
+                                        ST PCS- (=)              14        81             (+1)
+                                       Employé (+2)              14        81              (-3)
+                                        Ouvrier (-3)             12        82             (+5)
+                                 ST Inactif, retraité (+2)      22        74               (-2)
+   Préférence partisane
+                         Gauche(EXG, PC, FI, PS, EELV) (-2)      17        80              (=)
+                               La France Insoumise (-4)           11        88            (+5)
+                                    Parti socialiste (-5)        15        83             (+4)
+                             Les Ecologistes(ex EELV) (-2)        11       83              (-4)
+                Ensemble (Renaissance, MoDem, Horizons) (+10) 69      31                   (-6)
+                                    Renaissance (+7)      84        16                     (-3)
+
+                     Droite(UDI, Les Républicains, RN, R!) (=)    10        90            (+1)
+                                  Les Républicains (-8)          19        81             (+8)
+                                           RN (+1)                7         93             (=)
+                           Sans préférence partisane (+5)        15       76               (-4)
+     Verian Baromètre politique Verian pour le Figaro Magazine                                                       Octobre 2026 8
+
+--- page 9 ---
+
+La    structure          détaillée        de    la   cote     de    confiance
+
+     d’Emmanuel                Macron
+                                               (2/2)
+
+                                                     TOTAL CONFIANCE TOTAL PAS CONFIANCE
+                                                    ENSEMBLE 18% (+1)| 78% (=)
+
+    Classement Gauche / Droite
+                                   Extrême-gauche (=)             8         91             (+3)
+                                         Gauche (+4)             18        80              (-5)
+                                          Centre (+9)          33        61                (-8)
+                                           Droite (-4)          24        72               (+5)
+                                     Extrême-droite (-2)         11         88             (+2)
+                                      Sans opinion (+2)          12       75               (-3)
+    Situation professionnelle
+                                         ST Actifs (+1)          16        80               (=)
+
+                                          Salarié (=)            16        80              (+1)
+                              Salarié du secteur public (-1)     16        80              (+2)
+                               Salarié du secteur privé (+3)     16        80              (-1)
+                                        ST Inactifs (+1)        21        75               (-1)
+                                         Retraité (=)            20        77               (=)
+    Catégorie de revenu de l'interviewé
+                                   Catégorie aisée (+5)         22        76               (-3)
+                        Catégorie moyenne supérieure (-3)        17        81              (+6)
+                         Catégorie moyenne inférieure (-3)       14        79              (-2)
+                                 Catégorie modeste (+6)          20        77              (-4)
+    Niveau de diplôme
+
+      Enseignement secondaire, technique court, sans diplôme (-1) 15       77              (-4)
+                      Baccalauréat, brevet professionnel (+2)    19        79               (=)
+                              Enseignement supérieur (+1)        19        78              (+1)
+
+     Verian Baromètre politique Verian pour le Figaro Magazine                                                     Octobre 2026 9
+
+--- page 10 ---
+
+La    cote     de    confiance           de   Sébastien           Lecornu
+
+      Faites-vous tout à fait confiance, plutôt confiance, plutôt pas confiance ou pas du tout confiance
+      à Sébastien Lecornu pour résoudre les problèmes qui se posent en France actuellement ?
+
+               Tout à fait 3 (=)   Total Confiance
+               confiance
+
+                                   21%       (-2)
+                Plutôt   18  (-2)                              62   66    68   64   66   66    65   69    67   66   66   68
+               confiance
+
+                                   Total Pas
+                                   Confiance
+               Plutôt pas 24 (=)
+               confiance
+
+                                   68%       (+2)
+                                                               21   26    21   26   23   24    24   23   22    24   23   21
+
+               Pas du tout
+                         44  (+2)
+               confiance                                        5 2  5 2  5 2  6 2   6 2  6 2  6 2  6 2   6 2  6 2  6 2   6 2
+                                                                0    0    0    0     0    0    0    0     0    0    0     0
+                                                                2    2    2    2     2    2    2    2     2    2    2     2
+                                                                e rb
+                                                                o tc O
+                                                                     e rb
+                                                                     m e v
+                                                                     o N
+                                                                          e rb
+                                                                          m e c
+                                                                          é D
+                                                                               re iv
+                                                                               n a J
+                                                                                     re irv
+                                                                                     é F
+                                                                                          s ra
+                                                                                          M
+                                                                                               lirv
+                                                                                               A
+                                                                                                    ia M  n iu
+                                                                                                          J
+                                                                                                               te lliu
+                                                                                                               J
+                                                                                                                    e rb
+                                                                                                                    m e tp
+                                                                                                                    e S
+                                                                                                                          e rb
+                                                                                                                          o tc O
+             Sans opinion
+                   11%
+     Verian Baromètre politique Verian pour le Figaro Magazine                                                     Octobre 2026 10
+
+--- page 11 ---
+
+Verian Baromètre politique Verian pour le Figaro Magazine                                                     Octobre 2026 11
+
+--- page 12 ---
+
+La    structure          détaillée        de    la   cote     de    confiance
+
+     de    Sébastien           Lecornu
+                                                (1/2)
+
+                                                     TOTAL CONFIANCE TOTAL PAS CONFIANCE
+
+   Sexe                                             ENSEMBLE 21% (-2)| 69% (+2)
+                                       Homme  (-1)              26       68               (+2)
+                                       Femme  (=)                18      68               (+1)
+   Âge
+                                     18 à 24 ans (-1)            17      61               (+1)
+                                     25 à 34 ans (=)             20      66               (+4)
+                                     35 à 49 ans (-3)            16       74              (+5)
+                                     50 à 64 ans (-4)            15       74               (-3)
+                                   65 ans et plus (+1)         33        62               (+3)
+   Profession de la personne de référence
+                                       ST PCS+ (-2)              19      69                (-1)
+                       Cadre, profession intellectuelle (-8)     21       71              (+7)
+                            Profession intermédiaire (+3)        17       71               (-3)
+                                        ST PCS- (-4)             13       75              (+8)
+                                       Employé (-8)               11      75              (+7)
+                                        Ouvrier (=)              16       75              (+10)
+                                 ST Inactif, retraité (+2)      31       61                (-2)
+   Préférence partisane
+                         Gauche(EXG, PC, FI, PS, EELV) (-5)      19       73              (+3)
+                               La France Insoumise (-4)           11       80             (+3)
+                                    Parti socialiste (-8)       24        70              (+7)
+                             Les Ecologistes(ex EELV) (-1)       17       73               (=)
+                Ensemble (Renaissance, MoDem, Horizons) (=) 66        29                  (+5)
+
+                                    Renaissance (+6)       76        19                    (-4)
+                                              (-2)                                        (+2)
+                     Droite(UDI, Les Républicains, RN, R!)       15        80
+                                  Les Républicains (-12)        27       68               (+13)
+                                           RN (-3)                8        86             (+2)
+                           Sans préférence partisane (+5)        20      62                (-3)
+     Verian Baromètre politique Verian pour le Figaro Magazine                                                     Octobre 2026 12
+
+--- page 13 ---
+
+La    structure          détaillée        de    la   cote     de    confiance
+
+     de    Sébastien           Lecornu
+                                               (2/2)
+
+                                                     TOTAL CONFIANCE TOTAL PAS CONFIANCE
+
+                                                    ENSEMBLE 21% (-2)| 69% (+2)
+    Classement Gauche / Droite
+                                   Extrême-gauche (-1)            10       85              (+8)
+                                         Gauche (-3)             18       72               (+2)
+                                          Centre (+7)          38       51                 (-6)
+                                           Droite (-14)         29       60               (+16)
+                                     Extrême-droite (+1)         15        79              (-2)
+                                      Sans opinion (+3)           11     64                (-5)
+    Situation professionnelle
+                                         ST Actifs (-3)          17       72               (+3)
+
+                                          Salarié (-5)           15       74               (+6)
+                              Salarié du secteur public (-5)     16       72               (+4)
+                               Salarié du secteur privé (-2)     17       73               (+5)
+                                        ST Inactifs (+2)        30       61                (-1)
+                                         Retraité (+2)         33        61                 (=)
+    Catégorie de revenu de l'interviewé
+                                   Catégorie aisée (-3)         29       66                (+7)
+                        Catégorie moyenne supérieure (-2)        20       73               (+8)
+                         Catégorie moyenne inférieure (-2)       19       69               (-5)
+                                 Catégorie modeste (+3)          19       69               (-1)
+    Niveau de diplôme
+
+      Enseignement secondaire, technique court, sans diplôme (-2) 19      70                (=)
+                      Baccalauréat, brevet professionnel (-1)    20      68                (+3)
+                              Enseignement supérieur (-3)       23       67                (+3)
+
+     Verian Baromètre politique Verian pour le Figaro Magazine                                                       Octobre 2026 13
+
+--- page 14 ---
+
+Les        cotes          d’avenir
+
+      des       personnalités
+
+BaromètreV eproialintique Verian pour le Figaro Magazine                                                                       Juillet 2026
+
+--- page 15 ---
+
+Les     cotes      d’avenir         des    personnalités               politiques
+
+      Pour chacune des personnalités
+                                           Jordan BARDELLA (-1)    40                  Dominique DE VILLEPIN (=) 12
+      suivantes, voulez-vous me dire si vous
+      souhaitez lui voir jouer un rôle important Marine LE PEN  (-2) 39              François-Xavier BELLAMY  (+2) 11
+      au cours des mois et des années à venir ? Marion MARECHAL (+1) 28                  Bernard CAZENEUVE  (-2) 12
+                                                                                          Laurent WAUQUIEZ (-1) 11
+                                           Edouard PHILIPPE  (-3) 26
+                                                                                          Yaël BRAUN-PIVET (-1) 10
+                                           Bruno RETAILLEAU (+1) 24                          Olivier FAURE  (-2) 10
+                                               Eric CIOTTI (+1) 23                          Yannick JADOT (-4) 10
+                                            Robert MÉNARD  (+3) 22                         Manon AUBRY  (=) 9
+                                             Gabriel ATTAL  (-5) 22                      Valérie PECRESSE  (-2) 10
+                                                                                           Elisabeth BORNE (+1) 10
+                                              Sarah KNAFO  (+3) 20
+                                                                                           Ségolène ROYAL (-1) 10
+                                        Raphaël GLUCKSMANN  (-3) 20
+                                                                                         Clémentine AUTAIN (=) 9
+                                          Gérald DARMANIN  (-4) 19                       Michel BARNIER  (-3) 9
+                                        Jean-Luc MELENCHON (+1) 17                        Manuel BOMPARD  (+2) 9
+                                            François RUFFIN  (-2) 16                      Mathilde PANOT (+1) 8
+                                                                                           Gérard LARCHER (=) 8
+                                             David LISNARD  (+2) 15
+                                                                                            Bruno LE MAIRE (-5) 8
+                                           Xavier BERTRAND  (-2) 15
+                                                                                             Rachida DATI  (-2) 8
+                                      Nicolas DUPONT-AIGNAN (+1) 15                       François BAYROU (-1) 7
+                                           Nicolas SARKOZY (-1) 15                          Jérôme GUEDJ (-1) 6
+                                          François HOLLANDE (-1) 15                          Aurore BERGÉ (=) 6
+                                            Fabien ROUSSEL (=) 14                           Boris VALLAUD  (-3) 4
+                                                                                         Catherine VAUTRIN  (-2) 4
+                                             Eric ZEMMOUR (-1) 14
+                                           Marine TONDELIER (-1) 12
+     Verian Baromètre politique Verian pour le Figaro Magazine                                                       Octobre 2026 15
+
+--- page 16 ---
+
+Les     cotes      d’avenir         des    personnalités               politiques
+                                                                                                (1/2)
+
+                                                                                  Extrême                     Extrême
+                                                                                         Gauche Centre  Droite      Sans opinion
+                                                                                  gauche                       droite
+      Pour chacune des personnalités
+      suivantes, voulez-vous me dire si vous Jordan BARDELLA (-1)  40              2(-1)  10(-2) 29(+6) 42(+2) 78(-7) 27(+4)
+      souhaitez lui voir jouer un rôle important Marine LE PEN  (-2) 39           3(+1)  9(-4)  23(+2) 43(+7) 82(-4) 26(-3)
+      au cours des mois et des années à venir ?
+                                          Marion MARECHAL (+1)   28                2(+2)  4(-3)  16(+6) 31(+7) 60(-2) 14(=)
+                                           Edouard PHILIPPE  (-3) 26              10(+2) 20(-13) 45(+5) 38(-15) 18(+3) 13(+1)
+                                           Bruno RETAILLEAU (+1) 24                1(+1)  4(-3)  20(+2) 44(+5) 41(+6)  5(-2)
+                                               Eric CIOTTI (+1)  23                0(-2)  5(-1)  12(+3) 22(-2) 53(+2)  8(=)
+                                            Robert MÉNARD  (+3) 22                0(-1)  9(=)   15(+3) 26(+1) 45(+5)  5(=)
+                                             Gabriel ATTAL  (-5) 22              7(=)   17(-6) 34(-1) 34(-16) 13(-4) 14(-1)
+
+                                             Sarah KNAFO  (+3) 20                 3(=)   5(-2)  10(+4) 23(+3) 50(+11) 6(=)
+                                       Raphaël GLUCKSMANN  (-3) 20                30(+5) 46(+2) 26(-6) 17(-6)  6(-2)  5(-5)
+
+                                          Gérald DARMANIN  (-4) 19               2(=)   9(-2)  27(-1) 36(-5) 18(-6)  8(-2)
+     * Le positionnement sur l’échelle gauche-droite est Jean-Luc MELENCHON (+1) 17 67(+5) 24(+3) 10(+1) 11(+4) 5(-2)  6(-2)
+     déterminéparlesréponsesàlaquestionsuivante:
+     « D'après leurs opinions, on classe habituellement les François RUFFIN  (-2) 16 47(+4) 30(-5) 16(-1) 7(-3) 6(-2) 5(=)
+     Françaissuruneéchelleallantdelagaucheàladroite.
+     On peut se classer plus ou moins à gauche ou plus ou David LISNARD  (+2) 15  2(-3)  3(-4)  13(+3) 25(+2) 30(+6)  4(+1)
+     moins à droite [échelle en 7 positions]. Vous,
+     personnellement, où vous classeriez-vous sur cette Xavier BERTRAND  (-2) 15  10(+6) 13(-11) 21(-3) 23(-5) 15(=)  8(+4)
+     échelle?»
+                                      Nicolas DUPONT-AIGNAN (+1) 15                3(=)   4(-4)  10(+1) 20(+6) 33(+5)  8(-3)
+     Les réponses sont regroupées de la manière suivante :
+     Extrêmegauche(positions1ou2),Gauche(position3), Nicolas SARKOZY (-1) 15       2(-1)  8(+2)  12(=)  28(-1) 27(+1)  6(-4)
+     Centre (position 4), Droite (position 5), Extrême droite
+     (positions6ou7).                     François HOLLANDE (-1) 15                23(-4) 38(+5) 17(+5) 12(-4)  4(-2)  6(-3)
+     Parmi les Français qui se positionnent à l’extrême Fabien ROUSSEL (=) 14      37(+1) 27(-6) 16(+5) 11(+1)  3(-3)  6(+2)
+     gauchedel’échellegauche-droite,67%souhaitentvoir
+     Jean-Luc MELENCHON jouer un rôle important dans les Eric ZEMMOUR (-1) 14      4(+2)  3(-3)  10(+4) 14(=)  37(-3)  2(-7)
+     moisetlesannéesàvenir.
+                                           Marine TONDELIER (-1) 12                46(+3) 30(-1) 9(+1)  10(+3)  3(-3)  2(-3)
+     Verian Baromètre politique Verian pour le Figaro Magazine                                                       Octobre 2026 16
+
+--- page 17 ---
+
+Les     cotes      d’avenir         des    personnalités               politiques
+                                                                                                (2/2)
+
+                                                                                Extrême                     Extrême
+                                                                                       Gauche Centre  Droite      Sans opinion
+                                                                                gauche                       droite
+      Pour chacune des personnalités
+      suivantes, voulez-vous me dire si vous Dominique DE VILLEPIN (=) 12        27(+5) 18(-2) 13(-2) 12(-1) 11(+1)  6(=)
+      souhaitez lui voir jouer un rôle important
+                                        François-Xavier BELLAMY  (+2) 11        3(-1)  5(+1)  10(+2) 18(+1) 23(+10) 3(-2)
+      au cours des mois et des années à venir ?
+                                           Bernard CAZENEUVE  (-2) 12           10(+1) 17(-6) 24(=)  12(-11) 7(-1)  4(-2)
+                                            Laurent WAUQUIEZ (-1) 11             3(+1)  7(-1)  13(+4) 19(-8) 14(-1)  8(+2)
+                                            Yaël BRAUN-PIVET (-1) 10             10(+6) 16(-1) 16(=)  19(-2) 6(=)    2(-4)
+                                               Olivier FAURE  (-2) 10           32(+6) 24(+2) 11(-3) 8(-3)  3(-6)   4(-3)
+                                              Yannick JADOT (-4) 10            23(-5) 26(-11) 13(-3) 8(-2) 2(-3)   4(=)
+                                               Manon AUBRY (=)  9                48(+3) 22(+3) 5(-2)  4(-3)  2(-3)   2(-4)
+                                             Valérie PECRESSE  (-2) 10          4(-2)  7(=)   14(-2) 19(-3) 13(=)   5(=)
+                                             Elisabeth BORNE (+1) 10             7(+2)  10(=)  20(+5) 17(+2) 5(-3)   5(+1)
+                                             Ségolène ROYAL (-1) 10              29-    18-    10-    6-     6-      7-
+                                           Clémentine AUTAIN (=) 9               35(=)  20(-1) 6(+1)  6(+3)  4(-1)   3(-2)
+                                              Michel BARNIER  (-3) 9            5(+3)  9(-2)  13(-6) 14(-5) 11(-1)  3(-4)
+                                            Manuel BOMPARD  (+2) 9              48(+7) 12(+5) 4(+2)  6(+1)  4(=)    3(-1)
+
+                                             Mathilde PANOT (+1) 8               41(+3) 10(=)  4(-1)  9(+5)  3(-2)   2(-2)
+                                             Gérard LARCHER (=) 8                5(+2)  5(-2)  11(=)  13(-5) 13(+4)  3(-2)
+                                              Bruno LE MAIRE (-5) 8            6(+2)  5(-10) 15(-3) 16(-5) 7(-6)   2(-5)
+
+                                               Rachida DATI  (-2) 8             3(-2)  7(-2)  9(+2)  11(-4) 12(-5)  5(+2)
+                                                                7
+                                             François BAYROU (-1)                6(+3)  8(+1)  11(-2) 12(+1) 4(-5)   5(=)
+                                                                6
+                                              Jérôme GUEDJ (-1)                  10(-1) 15(-3) 8(-2)  5(-1)  5(-1)   4(+2)
+                                                                6
+                                               Aurore BERGÉ (=)                  2(-6)  9(-2)  12(+4) 9(-4)  6(+2)   2(-1)
+                                               Boris VALLAUD  (-3) 4            9(-5)  11(-6) 5(-3)  5(-1)  2(-3)   2(-1)
+                                            Catherine VAUTRIN  (-2) 4           2(-1)  5(=)   8(-3)  5(-4)  4(-3)   2(-2)
+     Verian Baromètre politique Verian pour le Figaro Magazine                                                       Octobre 2026 17
+
+--- page 18 ---
+
+L’historique                      des       cotes
+
+      d’avenir               des        personnalités
+
+BaromètreV eproialintique Verian pour le Figaro Magazine                                                                       Juillet 2026
+
+--- page 19 ---
+
+La  cote   d’avenir     des   « présidentiables        »
+                50
+
+                45
+                                                                          44
+                                                                                                   Marine LE PEN
+                           40
+                40                                                                       39        Edouard PHILIPPE
+                                                                                                   Bruno RETAILLEAU
+                                                         36
+                35
+                                                                                                   Gabriel ATTAL
+                     32
+                                                                          31                       Raphaël GLUCKSMANN
+                30   31
+                                                 28
+                                                                                                   Jean-Luc MELENCHON
+                                                                    28
+                                                                                           26      François RUFFIN
+                25
+                                                                                        24
+                                 25
+                                                               23                                  Xavier BERTRAND
+                                                                                     23
+                                                                                           22
+                                21                     20
+                                      20
+                20                                                                         20      François HOLLANDE
+                                                                          18               17
+                                                                                     16    16      Nicolas DUPONT-AIGNAN
+                                                                                           15
+                15                                                                         15      Eric ZEMMOUR
+                                                                    14                     15
+                                                                                           14
+                                                                                                   Marine TONDELIER
+                                                                                           12
+                10     10                    11
+                                                                   10                              Ségolène ROYAL
+                                                                                           10
+                                                                                           10      Olivier FAURE
+                 5
+                 0
+                     5     5     5    6     6     6    6     6     6    6     6     6    6
+                     2     2     2    2     2     2    2     2     2    2     2     2    2
+                     -     -     -    -     -     -    -     -     -    -     -     -    -
+                     t c o v o n c é d v n a j r v é f s r a m rv a ia m n iu j liu j t û o a t p e s t c o
+     Verian Baromètre politique Verian pour le Figaro Magazine                                                       Octobre 2026 19
+
+--- page 20 ---
+
+La  cote   d’avenir     des   personnalités       du   groupe     Ensemble
+
+                50
+
+                45
+
+                40
+                                                    36
+
+                35
+                     32
+                                                           31       31
+                           30
+                                     29
+                30
+                      28                      28                29
+                              27                     27                                         Edouard PHILIPPE
+                                                               28
+                                               27     26            27               26
+                25   26                                                                         Gabriel ATTAL
+                                25
+                                                         23         23               22         Gérald DARMANIN
+                                                               22
+                20
+                                                                                     19         Yaël BRAUN-PIVET
+                                         16    16
+                     15
+                                                                                                Elisabeth BORNE
+                15                   14
+                           13                                 13    13
+                                12         12       12    12                                    Bruno LE MAIRE
+                                                                                     10
+                                                                11
+                10   11 7 1 7 1     10 8  7    7 10 11   7 10   9  8 11              1 8 8 0    Rachida DATI
+                                                                                                François BAYROU
+                                                                    7                 7
+                 5    6                                                               6
+                                5         5                         5                           Aurore BERGE
+                                                                4
+                                                                                     4
+                                                                                                Catherine VAUTRIN
+                 0
+                     5    5     5    6    6    6    6     6    6    6    6    6     6
+                     2    2     2    2    2    2    2     2    2    2    2    2     2
+                     -    -     -    -    -    -    -     -    -    -    -    -     -
+                     t c o v o n c é d v n a j r v é f s r a m rv a ia m n iu j liu j t û o a t p e s t c o
+     Verian Baromètre politique Verian pour le Figaro Magazine                                                       Octobre 2026 20
+
+--- page 21 ---
+
+La  cote   d’avenir     des   personnalités       d’extrême      gauche
+
+                20
+                          19                         19
+                                18
+                                                                     18
+                                          18
+                                                                                       17
+                                                                                       16
+                                                                      15
+
+                                                                                       14
+                                     13
+
+                                                       12         12
+                                                  11
+                                     10                                                          Jean-Luc MELENCHON
+                10                                10
+                                                                                                 François RUFFIN
+                                                                                       99
+                                                                                       9
+                                 8
+                            8
+                                                                                                 Fabien ROUSSEL
+                                                                                       8
+                                                                                  7
+                                                                                                 Manon AUBRY
+                                                  6
+                                 6
+                                                                                                 Clémentine AUTAIN
+                                                                                                 Manuel BOMPARD
+                                                                                                 Mathilde PANOT
+                 0
+                     5     5    5    6     6    6    6     6    6    6     6    6    6
+                     2     2    2    2     2    2    2     2    2    2     2    2    2
+                     -tc
+                     o
+                           -v
+                           o n
+                                -c
+                                é d
+                                     -v
+                                     n a j
+                                           -rv
+                                           é f
+                                                -s
+                                                ra m
+                                                     -rv
+                                                     a
+                                                           -ia
+                                                           m
+                                                                -n
+                                                                iu j
+                                                                     -liu
+                                                                     j
+                                                                           -tû
+                                                                           o a
+                                                                                -tp
+                                                                                e s
+                                                                                     -tc
+                                                                                     o
+     Verian Baromètre politique Verian pour le Figaro Magazine                                                       Octobre 2026 21
+
+--- page 22 ---
+
+La  cote   d’avenir     des   personnalités       du   PS
+
+                     30
+
+                     25
+
+                                     21
+                                                                                                   Raphaël GLUCKSMANN
+                                                         20
+                     20                                                  19                20
+                                                                                                   François HOLLANDE
+                                         18
+                                                          17
+                                                                                                   Bernard CAZENEUVE
+                               15                                        15
+                     15                                                                    15
+                                                                                                   Olivier FAURE
+                                          14
+                          13
+                                                                                           12      Ségolène ROYAL
+                                    12
+                     10                                                                    10
+                                                                                                   Jérôme GUEDJ
+                                                                    10
+                                                                          8                10
+                                7                         7
+                                                                                                   Boris VALLAUD
+                                                    6
+                                                                                           6
+                      5                                     5
+                                                                                           4
+                      0
+                          5     5    5    6    6     6    6    6     6    6    6    6     6
+                          2     2    2    2    2     2    2    2     2    2    2    2     2
+                          -tc
+                          o
+                                -v
+                                o n
+                                     -c
+                                     é d
+                                          -v
+                                          n a j
+                                               -rv
+                                               é f
+                                                     -sra
+                                                     m
+                                                          -rv
+                                                          a
+                                                               -ia
+                                                               m
+                                                                     -n
+                                                                     iu j
+                                                                          -liu
+                                                                          j
+                                                                               -tû
+                                                                               o a
+                                                                                    -tp
+                                                                                    e s
+                                                                                          -tc
+                                                                                          o
+     Verian Baromètre politique Verian pour le Figaro Magazine                                                       Octobre 2026 22
+
+--- page 23 ---
+
+La  cote   d’avenir     des   personnalités       écologistes
+
+          30
+
+          25
+
+          20
+
+          15         14                                            14
+                                                                                 14
+                                 13               13
+                                                                                               Marine TONDELIER
+                                                                                13
+                                                                                       12
+                                                                                               Yannick JADOT
+          10                                                    10                     10
+                           10
+           5
+
+           0
+                5    5     5     6     6     6    6     6     6     6     6    6     6
+                2    2     2     2     2     2    2     2     2     2     2    2     2
+                -tc
+                o
+                     -v
+                     o n
+                           -c
+                           é d
+                                 -v
+                                 n a j
+                                       -rv
+                                       é f
+                                             -s
+                                             ra m
+                                                  -rv
+                                                  a
+                                                        -ia
+                                                        m
+                                                              -n
+                                                              iu j
+                                                                    -liu
+                                                                    j
+                                                                          -tû
+                                                                          o a
+                                                                               -tp
+                                                                               e s
+                                                                                     -tc
+                                                                                     o
+     Verian Baromètre politique Verian pour le Figaro Magazine                                                       Octobre 2026 23
+
+--- page 24 ---
+
+La  cote   d’avenir     des   personnalités       de  droite
+
+                 50
+
+                 45
+
+                 40
+
+                 35
+
+                      31
+                 30                                                                             Bruno RETAILLEAU
+                                       29
+                                                 28                                             Nicolas SARKOZY
+                 25                                                   25                        Xavier BERTRAND
+                                                                                      24
+                                                            23                                  David LISNARD
+                                                                                23
+                                      20                                                        Nicolas DUPONT-AIGNAN
+                 20
+                                      18                    19       17               16        Dominique DE VILLEPIN
+                                                         18
+                                                                                      15
+                                                                                                François-Xavier BELLAMY
+                 15                    15                                             15
+                                                                                                Laurent WAUQUIEZ
+                                                                 13                   15
+                                                                                      12
+                                                                                                Valérie PECRESSE
+                                                                                      11
+                 10                                                                   10
+                                                                      9                9        Michel BARNIER
+                                      9                          8
+                                                 7                                     8        Gérard LARCHER
+                 5
+                 0
+                      5    5    5    6     6    6    6    6    6     6    6    6    6
+                      2    2    2    2     2    2    2    2    2     2    2    2    2
+                      -tc
+                      o
+                           -v
+                           o n
+                                -c
+                                é d
+                                     -v
+                                     n a j
+                                           -rv
+                                           é f
+                                                -s
+                                                ra m
+                                                     -rv
+                                                     a
+                                                          -ia
+                                                          m
+                                                               -n
+                                                               iu j
+                                                                     -liu
+                                                                     j
+                                                                          -tû
+                                                                          o a
+                                                                               -tp
+                                                                               e s
+                                                                                    -tc
+                                                                                    o
+     Verian Baromètre politique Verian pour le Figaro Magazine                                                       Octobre 2026 24
+
+--- page 25 ---
+
+La  cote   d’avenir     des   personnalités       d’extrême      droite
+
+                50
+
+                                                                    47
+                           45
+                                                                                     41
+                                             41
+                                                                                                     Jordan BARDELLA
+                40         40                                                             40
+                                                                                          39
+                                                                                                     Marine LE PEN
+                                                 37           36
+                                                                                                     Marion MARECHAL
+                30                                                       30
+                                                                                          28         Eric CIOTTI
+                           29                            27
+                                 24                      25              25
+                          22                                                              23         Robert MENARD
+                                                                                          22
+                                                 20           21
+                20                                                  20                    20
+                                  19                                                                 Sarah KNAFO
+                                  18
+                                                              17
+                                                   16
+                                                                                                     Eric ZEMMOUR
+                                                                                          14
+                      13
+                10
+
+                 0
+                      5    5     5    6     6     6    6     6    6     6    6     6     6
+                      2    2     2    2     2     2    2     2    2     2    2     2     2
+                      -tc
+                      o
+                           -v
+                           o n
+                                 -c
+                                 é d
+                                      -v
+                                      n a j
+                                            -rv
+                                            é f
+                                                  -s
+                                                  ra m
+                                                       -rv
+                                                       a
+                                                             -ia
+                                                             m
+                                                                  -n
+                                                                  iu j
+                                                                        -liu
+                                                                        j
+                                                                             -tû
+                                                                             o a
+                                                                                   -tp
+                                                                                   e s
+                                                                                         -tc
+                                                                                         o
+     Verian Baromètre politique Verianpour le Figaro Magazine                                                        Octobre 2026 25
+
+--- page 26 ---
+
+Données                  socio-
+
+      démographiques
+
+BaromètreV eproialintique Verian pour le Figaro Magazine                                                                        Mai 2026
+
+--- page 27 ---
+
+Sexe par âge                Brut (%) Redressé
+         Hommes -18 à 34 ans          13      12,3%
+         Femmes -18 à 34 ans          14      12,3%
+         Hommes -35 à 49 ans          11      11,6%
+                                                                  Rappels de vote -1er présidentielle 2022 Brut (%) Redressé
+         Femmes -35 à 49 ans          11      12,0%
+                                                                  Nathalie Arthaud                    1         1%
+         Hommes -50 à 64 ans          12      11,8%
+         Femmes -50 à 64 ans          11      12,4%               Philippe Poutou                     1         1%
+         Hommes -65 ans et plus       16      12,0%               Fabien Roussel                      3         3%
+         Femmes -65 ans et plus       12      15,6%               Jean-Luc Mélenchon                 11         13%
+                                                                  Anne Hidalgo                        2         3%
+         PCS personne de référence
+                                                                  Yannick Jadot                       4         5%
+         Artisan, comm., chef d'entr. 3        5,5%
+         Cadre                        15      13,0%               Emmanuel Macron                    18         24%
+         Profession intermédiaire     17      15,8%               Valérie Pécresse                    4         7%
+         Employé                      15      15,6%               Jean Lassalle                       2         4%
+         Ouvrier                      14      13,9%
+                                                                  Nicolas Dupont-Aignan               2         3%
+         Inactif, retraité            35      36,2%
+                                                                  Marine Le Pen                      21         30%
+         Catégorie d'agglomération                                Éric Zemmour                        3         6%
+         Moins de 2000 habitants      20      21,1%
+         2000 à 20 000 habitants      16      18,2%               Abstention blanc, nul,sans réponses 28%       27%
+         20 000 à 100 000 habitants   13      13,9%
+         Plus de 100 000 habitants    36      30,5%
+         Agglomération parisienne     15      16,3%
+         Region -UDA 5
+         REGION PARISIENNE            16      18,4%
+         OUEST                        23      22,9%
+         NORD ET EST                  23      21,8%
+         SUD-OUEST                    12      11,8%
+         SUD-EST                      26      25,1%
+     Verian Baromètre politique Verian pour le Figaro Magazine                                                       Octobre2026 27
+
+--- page 28 ---
+
+Annexe               –     Résultats                 avant
+
+      redressement
+
+BaromètreV eproialintique Verian pour le Figaro Magazine                                                                        Mai 2026
+
+--- page 29 ---
+
+Les     cotes      de    confiance
+
+      Faites-vous tout à fait confiance, plutôt confiance, plutôt         Faites-vous tout à fait confiance, plutôt confiance, plutôt
+      pas confiance ou pas du tout confiance à Emmanuel                   pas confiance ou pas du tout confiance à Sébastien
+      Macron pour résoudre les problèmes qui se posent en                 Lecornu pour résoudre les problèmes qui se posent en
+      France actuellement ?                                               France actuellement ?
+
+     Résultats avant redressement                                        Résultats avant redressement
+
+                                                                         Tout à fait confiance                3
+
+      Tout à fait confiance                3                             Plutôt confiance                    18
+      Plutôt confiance                     16                            ST Confiance                        21
+      ST Confiance                         19
+                                                                         Plutôt pas confiance                24
+      Plutôt pas confiance                 22
+                                                                         Pas du tout confiance               44
+      Pas du tout confiance                55
+      ST Pas confiance                     77                            ST Pas confiance                    68
+      Je ne sais pas                       4                             Je ne sais pas                      11
+
+     Verian Baromètre politique Verian pour le Figaro Magazine                                                       Octobre 2026 29
+
+--- page 30 ---
+
+Les     cotes      d’avenir
+                                                      Résultats avant redressement
+
+      Pour chacune des personnalités
+      suivantes, voulez-vous me dire si vous
+                                                                                  Cote d'avenir
+      souhaitez lui voir jouer un rôle important
+      au cours des mois et des années à venir ?
+                                                         Elisabeth BORNE            9
+                                                         François BAYROU            7
+                                                         Yannick JADOT              10
+                                                         Xavier BERTRAND            15
+                                                         Bernard CAZENEUVE          12
+                                                         Nicolas DUPONT-AIGNAN      15
+                                                         Marion MARECHAL            27
+                                                         Gérald DARMANIN            19
+                                                         Catherine VAUTRIN          4
+                                                         François HOLLANDE          15
+                                                         Bruno RETAILLEAU           23
+                                                         Olivier FAURE              11
+                                                         Nicolas SARKOZY            14
+                                                         Edouard PHILIPPE           27
+                                                         Gérard LARCHER             8
+                                                         Ségolène ROYAL             10
+                                                         Michel BARNIER             9
+                                                         Gabriel ATTAL              22
+                                                         François RUFFIN            17
+                                                         Bruno LE MAIRE             9
+                                                         Jean-Luc MELENCHON         17
+                                                         Raphaël GLUCKSMANN         21
+                                                         François-Xavier BELLAMY    11
+                                                         Rachida DATI               7
+                                                         Laurent WAUQUIEZ           10
+                                                         Marine LE PEN              39
+                                                         Valérie PECRESSE           10
+                                                         David LISNARD              15
+                                                         Eric CIOTTI                22
+                                                         Eric ZEMMOUR               14
+                                                         Fabien ROUSSEL             14
+                                                         Jordan BARDELLA            39
+                                                         Clémentine AUTAIN          9
+                                                         Marine TONDELIER           13
+                                                         Aurore BERGE               6
+                                                         Mathilde PANOT             8
+                                                         Yaël BRAUN-PIVET           10
+                                                         Manon AUBRY                10
+                                                         Manuel BOMPARD             8
+                                                         Robert MÉNARD              21
+                                                         Boris VALLAUD              4
+                                                         Sarah KNAFO                20
+                                                         Dominique DE VILLEPIN      12
+                                                         Jérôme GUEDJ               6
+     Verian Baromètre politique Verian pour le Figaro Magazine                                                       Octobre 2026 30
