@@ -1,0 +1,319 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10289-pres-primaire-a-gauche-elabe-3-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+NOTICE TECHNIQUE
+
+                            Les Français et la primaire à gauche
+
+     ARTICLE 2
+
+     Organisme ayant réalisé le sondage : Elabe
+     Nom du/des commanditaire(s) : BFMTV, La Tribune Dimanche
+
+                                   Echantillon de 2 005 personnes, représentatif des résidents
+     Nombre de personnes interrogées :
+                                   de France métropolitaine âgés de 18 ans et plus.
+     Dates de réalisation de l'enquête : Du 29 septembre au 2 octobre 2026
+
+     Date et support de première publication : Le 3 octobre 2026 à 21h00 sur www.elabe.fr
+
+                                                                             1
+
+--- page 2 ---
+
+QUESTIONNAIRE
+
+     Toutes les questions sont posées à tous les répondants.
+
+     Q1.  Vous intéressez-vous à la campagne de la primaire à gauche organisée par le Parti socialiste, Place
+       publique et la "Gauche républicaine et socialiste" pour désigner leur candidat à l’élection présidentielle
+       de 2027 ? Vous diriez… ?
+       •  Beaucoup
+       •  Assez
+       •  Pas vraiment
+       •  Pas du tout
+     Question obligatoire
+     Q2. Selon vous, quels sont les sujets dont les candidats de la primaire à gauche doivent faire une priorité
+     pour la campagne présidentielle ?
+     En 1er ? En 2ème ? En 3ème ?
+     Rotation aléatoire des items
+       1. Le pouvoir d'achat
+       2. La sécurité
+       3. La dette publique
+       4. La santé
+       5. L'immigration
+       6. La lutte contre le dérèglement climatique, l'adaptation face à ses conséquences
+       7. Les inégalités, les injustices sociales
+       8. L'éducation
+       9. Les retraites
+       10. L'emploi
+       11. Les conflits internationaux (guerre en Ukraine, au Moyen-Orient)
+       12. La fiscalité
+       13. Le logement
+       14. La menace terroriste
+       15. Je n'ai pas d'avis [exclusif]
+     Q3. Les différents candidats de la primaire à gauche n'ont pas la même position à propos d'une alliance
+     potentielle avec la France Insoumise dans le cadre d'élections législatives après l'élection présidentielle de
+     2027.
+     Selon vous, la gauche socialiste doit-elle s'allier ou pas avec la France Insoumise dans le cadre des
+     prochaines élections législatives ?
+       •  Oui, tout à fait
+       •  Oui, plutôt
+       •  Non, pas vraiment
+       •  Non, pas du tout
+     Q4. Pensez-vous que le candidat désigné par la primaire à gauche a de bonnes chances d'être qualifié au
+     2nd tour de la présidentielle (en étant 1er ou 2ème au soir du 1er tour) ?
+       •  Oui, certainement
+       •  Oui, probablement
+       •  Non, probablement pas
+       •  Non, certainement pas
+
+     Q5. Dans l'histoire politique, certaines primaires ont parfois créé des divisions dans le camp concerné, alors
+     que d'autres primaires ont permis une union et un rassemblement autour du candidat désigné.
+     A propos de cette primaire à gauche, de laquelle des opinions suivantes êtes-vous le plus proche ?
+     Rotation aléatoire des items
+       •  Cette primaire va permettra à la gauche socialiste de se rassembler derrière le candidat désigné
+       •  Cette primaire risque de renforcer les divisions de la gauche socialiste et d’affaiblir le candidat désigné
+
+                                                                             2
+
+--- page 3 ---
+
+Q6. Voici des propositions faites par les candidats de la primaire à gauche. Pour chacune de ces
+     propositions, y êtes-vous favorable ou opposé ?
+     Très favorable / Plutôt favorable / Plutôt opposé / Très opposé
+     Rotation aléatoire des items
+       1. Revenir à un âge légal de départ à la retraite de 62 ans (contre 64 ans à l'issue de la réforme actuelle)
+       2. Régulariser massivement les travailleurs étrangers sans papiers
+       3. Suspendre le versement de dividendes aux actionnaires pour les entreprises qui n’ont pas fait leur
+          transformation écologique
+       4. Taxer les profits réalisés par les multinationales pétrolières dans le cadre de la hausse des prix afin de
+          financer des mesures pour le pouvoir d’achat et la transition énergétique
+       5. Augmenter le salaire net des travailleurs en taxant les 1 % des plus gros héritages
+       6. Augmenter le salaire des enseignants (de 10% à 25% selon l'avancement dans la carrière)
+       7. Permettre aux travailleurs modestes (moins de 2000 € par mois) dépendants de leur voiture d’accéder à un
+          véhicule électrique pour 100 € par mois (leasing social)
+       8. Baisser les taxes sur l’énergie pour les TPE, les PME, les artisans, les agriculteurs et les entreprises
+          industrielles
+       9. Rétablir l’impôt de solidarité sur la fortune (supprimé en 2018)
+       10. Installer des caméras de vidéosurveillance dans les espaces scolaires et périscolaires afin de mieux
+          prévenir et détecter les violences sexuelles, physiques et psychologiques faites aux enfants
+       11. Faire un grand emprunt national de 300 milliards d'€ pour financer un plan d'investissement dans la
+          rénovation énergétique des bâtiments, l'électrification des transports, la réindustrialisation, la dynamisation
+          des villes moyennes et rurales et l'économie circulaire
+       12. Indexer les salaires sur l'inflation (c’est-à-dire de faire évoluer automatiquement les salaires en fonction du
+          % de hausse générale des prix)
+       13. Baisser la TVA sur l'électricité à 5,5% (contre 20% actuellement)
+       14. Planifier l’immigration par le Parlement en fonction des capacités d’accueil et des besoins de l’économie
+
+                                                                             3
+
+--- page 4 ---
+
+NOTE SUR LES MARGES D’ERREUR
+
+     Marge d’erreur
+
+     Comme toute enquête statistique, un sondage présente une incertitude appelée « marge d’erreur » ou « marge
+     d’incertitude ». La marge d’erreur ou d’incertitude d’un sondage dépend de la taille de l’échantillon interrogé et du
+     résultat observé. Pour un échantillon de 2000 personnes interrogées, les marges d’erreur sont les suivantes avec un
+     niveau de confiance de 95 % :
+        Pour un  La marge d'erreur Le résultat réel se
+      pourcentage de : est de : situe entre :
+          5          +/- 1      4,0 et 6,0
+
+          10         +/- 1,3    8,7 et 11,3
+          15         +/- 1,6   13,4 et 16,6
+          20         +/- 1,8   18,2 et 21,8
+          25         +/- 1,9   23,1 et 26,9
+
+          30         +/- 2     28,0 et 32,0
+          35         +/- 2,1   32,9 et 37,1
+          40         +/- 2,1   37,9 et 42,1
+          45         +/- 2,2   42,8 et 47,2
+
+          50         +/- 2,2   47,8 et 52,2
+          55         +/- 2,2   52,8 et 57,2
+          60         +/- 2,1   57,9 et 62,1
+          65         +/- 2,1   62,9 et 67,1
+
+          70         +/- 2     68,0 et 72,0
+          75         +/- 1,9   73,1 et 76,9
+          80         +/- 1,8   78,2 et 81,8
+          85         +/- 1,6   83,4 et 86,6
+
+          90         +/- 1,3   88,7 et 91,3
+          95         +/- 1     94,0 et 96,0
+
+     Exemple de lecture :
+     Pour un résultat observé de 25 %, il y a 95 % de chances pour que le résultat réel soit compris entre 23,1% et 26,9%.
+
+     La notice de ce sondage peut être consultée sur le site internet de la Commission des sondages : www.commission-des-sondages.fr
+     Toute publication ou toute reprise de ce sondage doit faire figurer la méthodologie et les marges d’erreurs :
+
+     « Echantillon de 2 005 personnes, représentatif des résidents de France métropolitaine âgés de 18 ans et plus. Interrogation par
+     Internet du 29 septembre au 2 octobre 2026.
+     La représentativité de l’échantillon a été assurée selon la méthode des quotas appliquée aux variables suivantes : sexe, âge,
+     catégorie socio-professionnelle, région de résidence et catégorie d’agglomération.
+
+     Marge d’erreur comprise entre 1,0 et 2,2 pts de pourcentage. »
+
+                                                                             4
+
+--- page 5 ---
+
+ARTICLE 3
+
+     Objet du sondage :            Les Français et la primaire à gauche
+
+                                   Echantillon de 2 005 personnes, représentatif des résidents
+                                   de France métropolitaine âgés de 18 ans et plus, constitué
+     Méthode :                     d'après la méthode des quotas (sexe, âge, profession de la
+                                   personne interrogée, catégorie d’agglomération et région
+                                   de résidence).
+
+     Conditions d’interrogation :  Les répondants ont été interrogés en ligne (Internet).
+     Nombre de sans réponse :      Voir « Résultats publiés »*
+
+                                   Oui. Gratification sous la forme de points cumulables et dont
+     Existence d’une gratification : la valeur s’élève à moins de 1€ pour un questionnaire
+                                   complété.
+
+                                   L’échantillon brut a été redressé sur les variables
+                                   sociodémographiques et professionnelles utilisées comme
+                                   quotas (données Insee issues du recensement de la
+                                   population 2022) ainsi que sur le statut d’occupation du
+     Critères de redressement :    logement (données Insee issues du recensement de la
+                                   population 2022), le vote au premier tour des élections
+                                   législatives 2024, au premier tour et au second tour de
+                                   l’élection présidentielle 2022 (données du Ministère de
+                                   l’Intérieur).
+
+     (*) Nous vous présentons dans ce document le nombre de « sans-réponse » pour chacune des questions publiées.
+     Les questions de quota étant obligatoires (de façon à s’assurer de la représentativité de l’échantillon) aucune des
+     personnes interrogées ne peut ne pas avoir répondu à l’ensemble du sondage.
+
+                                                                             5
+
+--- page 6 ---
+
+QUESTIONS PUBLIEES
+
+                 Vous intéressez-vous à la campagne de la primaire à gauche
+                 organisée par le Parti socialiste, Place publique et la "Gauche
+                                                          PUBLIÉ
+                 républicaine et socialiste" pour désigner leur candidat à l’élection
+                 présidentielle de 2027 ? Vous diriez… ?
+                 Effectifs bruts
+                 Beaucoup                                   5
+                 Assez                                     20
+                 Pas vraiment                              29
+                 Pas du tout                               46
+                 Sans-réponses                              0
+                 Selon vous, quels sont les sujets dont les candidats de la primaire à
+                 gauche doivent faire une priorité pour la campagne présidentielle ? PUBLIÉ
+                 – % TOTAL DES CITATIONS
+                 Effectifs bruts
+                 Le pouvoir d'achat                        50
+                 La sécurité                               24
+                 La dette publique                         29
+                 La santé                                  27
+                 L'immigration                             22
+                 La lutte contre le dérèglement climatique, l'adaptation face à ses
+                                                           17
+                 conséquences
+                 Les inégalités, les injustices sociales   18
+                 L'éducation                               20
+                 Les retraites                             18
+                 L'emploi                                  14
+                 Les conflits internationaux (guerre en Ukraine, au Moyen-Orient) 11
+                 La fiscalité                              10
+                 Le logement                                7
+                 La menace terroriste                       6
+                 Je n'ai pas d'avis                         8
+                 Les différents candidats de la primaire à gauche n'ont pas la même
+                 position à propos d'une alliance potentielle avec la France
+                 Insoumise dans le cadre d'élections législatives après l'élection
+                                                          PUBLIÉ
+                 présidentielle de 2027. Selon vous, la gauche socialiste doit-elle
+                 s'allier ou pas avec la France Insoumise dans le cadre des
+                 prochaines élections législatives ?
+                 Effectifs bruts
+                 Oui, tout à fait                          10
+                 Oui, plutôt                               15
+                 Non, pas vraiment                         22
+                 Non, pas du tout                          52
+                 Sans-réponses                              1
+                 Pensez-vous que le candidat désigné par la primaire à gauche a de
+                 bonnes chances d'être qualifié au 2nd tour de la présidentielle (en PUBLIÉ
+                 étant 1er ou 2ème au soir du 1er tour) ?
+                 Effectifs bruts
+                 Oui, certainement                          4
+                 Oui, probablement                         23
+                 Non, probablement pas                     44
+                 Non, certainement pas                     28
+                 Sans-réponses                              1
+                 Dans l'histoire politique, certaines primaires ont parfois créé des
+                 divisions dans le camp concerné, alors que d'autres primaires ont PUBLIÉ
+                 permis une union et un rassemblement autour du candidat désigné.
+                                                                             6
+
+--- page 7 ---
+
+A propos de cette primaire à gauche, de laquelle des opinions
+                 suivantes êtes-vous le plus proche ?
+                 Effectifs bruts
+                 Cette primaire va permettra à la gauche socialiste de se rassembler
+                                                           32
+                 derrière le candidat désigné
+                 Cette primaire risque de renforcer les divisions de la gauche socialiste et
+                                                           67
+                 d'affaiblir le candidat désigné
+                 Sans-réponses                              1
+                 Voici des propositions faites par les candidats de la primaire à
+                 gauche. Pour chacune de ces propositions, y êtes-vous favorable ou PUBLIÉ
+                 opposé ? – % TOTAL FAVORABLE
+                 Effectifs bruts
+                 Revenir à un âge légal de départ à la retraite de 62 ans (contre 64 ans à
+                                                           63
+                 l'issue de la réforme actuelle)
+                 Régulariser massivement les travailleurs étrangers sans papiers 40
+                 Suspendre le versement de dividendes aux actionnaires pour les
+                                                           66
+                 entreprises qui n'ont pas fait leur transformation écologique
+                 Taxer les profits réalisés par les multinationales pétrolières dans le cadre
+                 de la hausse des prix afin de financer des mesures pour le pouvoir 79
+                 d’achat et la transition énergétique
+                 Augmenter le salaire net des travailleurs en taxant les 1 % des plus gros
+                                                           70
+                 héritages
+                 Augmenter le salaire des enseignants (de 10% à 25% selon
+                                                           65
+                 l'avancement dans la carrière)
+                 Permettre aux travailleurs modestes (moins de 2000 € par mois)
+                 dépendants de leur voiture d’accéder à un véhicule électrique pour 100 70
+                 € par mois (leasing social)
+                 Baisser les taxes sur l’énergie pour les TPE, les PME, les artisans, les
+                                                           82
+                 agriculteurs et les entreprises industrielles
+                 Rétablir l’impôt de solidarité sur la fortune (supprimé en 2018) 75
+                 Installer des caméras de vidéosurveillance dans les espaces scolaires et
+                 périscolaires afin de mieux prévenir et détecter les violences sexuelles, 76
+                 physiques et psychologiques faites aux enfants
+                 Faire un grand emprunt national de 300 milliards d'€ pour financer un
+                 plan d'investissement dans la rénovation énergétique des bâtiments,
+                                                           43
+                 l'électrification des transports, la réindustrialisation, la dynamisation des
+                 villes moyennes et rurales et l'économie circulaire
+                 Indexer les salaires sur l'inflation (c’est-à-dire de faire évoluer
+                 automatiquement les salaires en fonction du % de hausse générale des 84
+                 prix)
+                 Baisser la TVA sur l'électricité à 5,5% (contre 20% actuellement) 89
+                 Planifier l’immigration par le Parlement en fonction des capacités
+                                                           70
+                 d’accueil et des besoins de l’économie
+
+                                                                             7
