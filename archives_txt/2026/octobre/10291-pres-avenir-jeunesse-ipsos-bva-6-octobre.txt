@@ -1,0 +1,1333 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10291-pres-avenir-jeunesse-ipsos-bva-6-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+•  05    octobre       2026
+
+                                NOTICE               TECHNIQUE
+
+                                Sondage    d’opinion  « Faire  émerger    la voix de la jeunesse   »
+                                Ipsos  bva  pour  Aix-Marseille   Université  – Septembre     2026
+
+--- page 2 ---
+
+ARTICLE      2 –  INFORMATIONS           GENERALES
+
+    ▪ Organisme    ayant  réalisé  le sondage              IPSOS  bva
+
+    ▪ Commanditaires      du sondage                       Aix-Marseille   Université
+
+                                                           3030  personnes,    constituant   un  échantillon   national
+
+    ▪ Nombre    de personnes    interrogées                représentatif   de  la population  française,   âgée  de  18 ans  et
+
+                                                           plus.
+
+    ▪ Dates  de réalisation   des  interviews              Du 23  juillet au 05 août  2026
+
+    ▪ Date  de diffusion  prévue                           Mardi  6 octobre,  7h00   heures
+
+    ▪ Questionnaire                                        Présenté   intégralement     dans  le rapport  d’étude  ci-après
+
+--- page 3 ---
+
+ARTICLE      3 – INFORMATIONS            GENERALES
+
+     ▪ Objet du sondage                              Faire émerger la voix de la jeunesse - Ipsos bva pour Aix-Marseille Université
+
+                                                     3030  personnes, constituant un échantillon national représentatif de la
+                                                     population française, âgée de 18 ans à 29 ans.
+     ▪ Echantillon interrogé
+                                                     Méthode  des quotas : sexe, âge, profession de la personne interrogée,
+                                                     catégorie d’agglomération, région.
+
+                                                     Échantillon interrogé par Internet via l’Access Panel Online d’Ipsos pour la
+     ▪ Mode de recueil
+                                                     France  métropolitaine et les réseaux sociaux pour les DROM
+
+                                                     Le taux de non-réponse  (lorsqu’il est supérieur à 0) est présenté pour chaque
+     ▪ Taux de non-réponse
+                                                     question dans le rapport ci-après.
+
+                                                     Chaque  répondant  a obtenu des points cumulables pour une valeur inférieure à 1
+     ▪ Gratification des personnes interrogées
+                                                     euro.
+
+                                                     Le redressement  a été effectué à partir de la structure sociodémographique de
+                                                     la population française âgée de 18 ans et plus (sexe, âge, catégorie
+     ▪ Critères de redressement
+                                                     socioprofessionnelle de la personne interrogée, région et catégorie
+                                                     d’agglomération).
+
+--- page 4 ---
+
+FAIRE            ÉMERGER                   LA
+
+     VOIX          DE      LA       JEUNESSE
+
+     Ipsos  bva  pour  l’amU  (Université   Aix-Marseille)
+
+     Septembre     2026
+
+--- page 5 ---
+
+FICHE       MÉTHODOLOGIQUE
+
+     ÉCHANTILLON                                 DATES    DE  TERRAIN           METHODOLOGIE
+
+     3030 personnes, constituant un échantillon  Du 23 juillet au 5             Échantillon interrogé par Internet
+
+     national représentatif de la population     août 2026.                     via l’Access Panel Online d’Ipsos pour la France métropolitaine et via
+                                                                                les réseaux sociaux pour les DROM.
+     française, âgée de 18 ans à 29 ans.
+     Parmi elles, 130 personnes âgées de 18 à 29
+                                                                                Pour l’échantillon en France métropolitaine :
+     ans résidant dans les DROM suivants ont été
+     interrogées : Martinique, Guadeloupe,
+                                                                                Méthode des quotas appliquée au sexe, âge, catégorie socio-
+     Mayotte, Guyane, la Réunion                                                professionnelle du répondant, région et catégorie d’agglomération.
+                                                                                Pour l’échantillon dans les DROM :
+
+                                                                                Un minimum de 20 interviews a été réalisé dans chacun des
+                                                                                territoires. Ils ont été ramenés au traitement statistique à leur poids
+      Enquête   réalisée pour
+                                                                                réel dans l’échantillon global.
+
+            Ce rapport a été élaboré dans le respect de la norme internationale ISO 20252 «Etudes de marché, études
+            sociales et d’opinion». Ce rapport a été relu par Véronique Refalo, Directrice adjointe du Département
+            Opinion, Ipsos bva.
+
+     © Ipsos bvapour l’amU| Faire émerger la voix de la jeunesse | Septembre 2026 5
+
+--- page 6 ---
+
+L’ÉTAT                   D’ESPRIT                        DE        LA                                 #1
+
+    JEUNESSE                             :
+
+     Satisfaits            de    leur      vie,     les    jeunes          doutent
+
+     de    la   capacité            de     la   France          à   leur     offrir
+
+     un    avenir         meilleur
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 6
+
+--- page 7 ---
+
+Une    perception         positive     de   la vie   au  quotidien       : plus    de  trois   quarts     des
+
+     jeunes     se   disent    satisfaits      de  la  vie  qu’ils  mènent
+
+     D’une manière générale, diriez-vous que vous êtes satisfait de la vie que vous menez ?
+
+     Base : A tous
+
+                               Insatisfaits
+                                                                                Satisfaits
+
+                                     23%
+                                                                                     77%
+                                                                                                   Et davantage parmi les :
+                                                               3                                   • Actifs : 82%
+                                                                       21                          • CSP+ : 84%
+                                                        20
+                                                                                                   • Diplômés du supérieur : 84%
+                                                                                                   • Jeunes de droite : 82%
+                                Satisfaits
+                                  76%
+         Insatisfaits
+                         4  10
+            23%     20                                                                             Et moins parmi les :
+                                                                                                   • DROM : 57%
+                                                                                                   • Inactifs : 70%
+                                                                                                   • Diplômés d’un CAP-BEP : 68%
+                                                                56
+                                                                                                   • Jeunes de gauche : 73%
+                            66
+
+              Comparaison avec l’ensemble des
+                       Français*
+
+   *Etude Ipsos bva de juillet 2026 auprès d’un Très satisfait Plutôt satisfait Pas vraiment satisfait Pas satisfait du tout
+   échantillon représentatif de la population
+   française âgée de 18 ans et plus.
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 7
+
+--- page 8 ---
+
+Mais    des   jeunes      qui  oscillent      entre    confiance        personnelle        (sans     excès)     pour    leur
+
+     avenir     professionnel         et  pessimisme          collectif     : près    de   8 sur   10  se  disent     inquiets
+
+     s’agissant      de   l’avenir   de   la France      et  du  monde
+
+     Et plus précisément, quand vous pensez à l’avenir, diriez-vous que vous êtes confiant ou inquiet en ce qui concerne… ?
+     Base : A tous
+
+                                                                                              %               %
+
+                                                                                          Confiant          Inquiet
+
+                   Votre propre situation professionnelle
+                                                    15         50           27     8         65               35
+                                        (actifs uniquement)
+
+                       Votre propre avenir professionnel 10 42           37       11         52               48
+                                       (inactifs uniquement)
+
+                            La situation internationale 6 20      50           24            26               74
+
+                              La situation de la France 6 18      51           25            24               76
+
+                   Très confiant Plutôt confiant Plutôt inquiet Très inquiet
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 8
+
+--- page 9 ---
+
+Un   fort   sentiment        de  déclassement            générationnel          : plus   de  8  jeunes     sur   10
+
+     redoutent       une    vie  plus   difficile    que   celle   de   la génération        précédente.         Ils se
+
+     sentent      par  ailleurs    moins      écoutés      par   les  responsables         politiques
+
+     Avez-vous le sentiment que votre génération… ?
+
+     Base : A tous
+                                                                                               %            %
+                                                                                              Oui          Non
+
+   …devra travailler plus longtemps que les générations
+                                                            60             29      92         89            11
+            précédentes pour bénéficier d’une retraite
+
+   …aura plus de difficultés à accéder à la propriété que
+                                                          50             36       122         86           14
+                          la génération précédente
+
+    …aura plus de difficultés à trouver un emploi stable
+                                                         46             38       14 2         84            16
+                       que la génération précédente
+
+    …est moins écoutée par les responsables politiques
+                                                        37           41         19  3         78           22
+                         que les autres générations
+
+                                      Oui, tout à fait Oui, plutôt Non, plutôt pas Non, pas du tout
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 9
+
+--- page 10 ---
+
+La  situation      de   la  France     suscite      un  réel   malaise      au   sein   de   la  jeunesse       : près
+
+      de  6  sur   10  ne  ressentent        que   des    sentiments        négatifs,      l’inquiétude      arrivant
+
+      largement       en   tête   devant      l’impuissance        et  le  découragement
+
+      Parmi les sentiments suivants, quels sont ceux qui représentent le mieux votre état d’esprit quand vous pensez à la situation de la France
+      aujourd’hui ?
+
+      (Trois réponses possibles, résultats supérieurs à 100%)
+                                                                                             Femmes : 63%
+      Base : A tous              Inquiétude                                            55    Jeunes en difficulté financière: 61%
+                               Impuissance                             34
+                                                                             Femmes : 39%
+                            Découragement                         28
+                                                                       DROM : 46%
+                                    Colère                      25
+                                                                                                           Ressentent exclusivement des
+                                                                                              59%
+                                     Honte                    22     Jeunes en difficulté                  sentiments négatifs
+                                                                     financière: 31%
+                                    Espoir                   21                                            Et davantage parmi les :
+                                                                   18 – 19 ans : 27%
+                                                                                                           • Femmes : 65%
+                                     Fierté           13
+                                                                                                           • Jeunes en difficulté
+                                                                Hommes : 18%
+                                 Désillusion          13                                                     financière: 68%
+                                                                18 – 19 ans: 19%
+                                 Optimisme          10
+                                                                                                           Ressentent exclusivement des
+                                                                                              15%
+                                 Confiance          10                                                     sentiments positifs
+                                Résignation        8
+                                                                                                            Et davantage parmi les :
+                               Indifférence       7                                                         • Hommes : 20%
+                                                                                                            • Jeunes à l’aise
+                              Enthousiasme      5
+                                                                                                              financièrement : 21%
+                                   Sérénité     5
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 10
+
+--- page 11 ---
+
+Quitter     la France      devient      alors   une    option     pour    de   nombreux         jeunes     : près    de  8
+
+     sur   10  ont  déjà    envisagé      de   construire       leur  vie   ailleurs,    dont    un  tiers   sérieusement.
+
+     Une    aspiration      qui   touche     davantage        les  jeunes     urbains.
+
+     Avez-vous déjà envisagé de construire votre vie et votre avenir ailleurs qu’en France ?
+
+     Base : A tous
+
+                Et davantage parmi les :
+                • DROM : 30%
+                                                          21
+                • Jeunes vivant dans une zone
+                  rurale : 26%                                          34
+                                                                                  Oui
+
+                                                                                                    Et plus parmi les :
+                                                                                  79%               • Jeunes vivant dans une grande
+                                                                                                      ville : 83%
+
+                                                            45                                      • Jeunes vivant dans
+                                                                                                      l’agglomération parisienne : 85%
+
+           Oui, et j’y réfléchis sérieusement Oui, mais je ne suis pas vraiment sûr de ce choix Non, je ne l’ai jamais envisagé
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 11
+
+--- page 12 ---
+
+Des    jeunes     partagés       entre    liberté    et  égalité     : respectivement            43%    et  40%     en
+
+     font   les  valeurs     les  plus    importantes        de   la devise     républicaine,        loin   devant     la
+
+     fraternité
+
+     Quand vous pensez à la devise de la France «Liberté – Égalité – Fraternité», quelle est la valeur qui a le plus d’importance à vos yeux ?
+
+     Base : A tous
+
+              Et davantage parmi les :
+                                                                                          Et plus parmi les :
+                                                            17
+              • 18-19 ans : 22%
+                                                                                          • Hommes : 49%
+                                                                                          • Jeunes de droite : 50%
+                                                                            43
+
+                                                         40
+
+              Et plus parmi les :
+
+              • Femmes : 44%
+              • DROM : 52%
+
+                                               Liberté        Égalité        Fraternité
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 12
+
+--- page 13 ---
+
+SUJETS                      D’INTERÊT                           ET         DE                       #2
+
+    PRÉOCCUPATION                                             :
+
+     Vivre       dignement,                la   première             exigence
+
+     d’une        jeunesse            inquiète           et    pessimiste
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 13
+
+--- page 14 ---
+
+Au-delà      du   pouvoir      d’achat,     des    inquiétudes        plurielles      traversent       la  jeunesse
+
+      Parmi les sujets suivants, quels sont ceux qui vous préoccupent le plus aujourd’hui ?
+      (Trois réponses possibles, résultats supérieurs à 100%)
+      Base : A tous
+
+                        Le pouvoir d’achat et le niveau de vie                                 34
+
+                                        L’insécurité                               25
+
+                          La protection de l’environnement                        24
+
+   Les discriminations, le sexisme et les violences faites aux minorités          24
+                         Les inégalités sociales, la précarité                   23              Top 5 des préoccupations des Français*
+
+          Le système de santé (accès aux soins, hôpital public, etc.)      19
+                                                                                                Les difficultés en termes de pouvoir d'achat
+                           La santé mentale et le bien-être               18
+
+                  Les conflits internationaux et la géopolitique          18
+                                                                                                       L'avenir du système social
+                         L'emploi et les conditions de travail            18
+                                       L'immigration                  15                            La protection de l'environnement
+
+                       L'éducation et les conditions d'études        14
+                                                                                                       Le niveau de l’immigration
+                                  L'accès au logement                14
+                  Le niveau des déficits et de la dette publique 11
+                                                                                                   Le niveau de la dette et des déficits
+                        Le fonctionnement de la démocratie    9
+                                                             8
+     Les technologies et le développement de l'Intelligence Artificielle
+                                                                         *Top 5 issu du baromètre Ipsos bva / CESI École d’ingénieurs pour LA TRIBUNE DIMANCHE,
+                                                                         vague septembre 2026 sur un échantillon de 1000 personnes âgées de 18 ans et plus,
+                                                                         représentatif de la population française.
+                                                                         La comparaison stricto sensu entre les deux études n’est pas possible à cause des différences
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 14 de méthodologie et de libellés mais permettent un éclairage sur les préoccupations de ces
+                                                                         deux populations.
+
+--- page 15 ---
+
+Des    niveaux      de  préoccupations            variables       selon    les  catégories
+
+     Parmi les sujets suivants, quels sont ceux qui vous préoccupent le plus aujourd’hui ?
+     (Trois réponses possibles, résultats supérieurs à 100%)
+
+     Base : A tous
+                                                                                                     DROM : 49%
+
+                                                                                                     25-29 ans : 39%
+                        Le pouvoir d’achat et le niveau de vie                                 34
+                                                                                                     CSP -: 39%
+                                        L’insécurité                               25
+                                                                                         Femmes : 27%
+                          La protection de l’environnement                        24     CSP+: 36%
+   Les discriminations, le sexisme et les violences faites aux minorités          24
+                                                                                           18-19 ans : 31%
+                         Les inégalités sociales, la précarité                   23
+                                                                                           Femmes : 28%
+          Le système de santé (accès aux soins, hôpital public, etc.)      19              CSP+: 36%
+                           La santé mentale et le bien-être               18
+                                                                               Femmes : 21%
+                  Les conflits internationaux et la géopolitique          18
+                                                                                CSP + : 25%
+                         L'emploi et les conditions de travail            18
+                                       L'immigration                  15
+                                                                            Hommes : 18%
+                       L'éducation et les conditions d'études        14
+                                                                            Rural : 22%
+                                  L'accès au logement                14
+                                                                           DROM : 26%
+                  Le niveau des déficits et de la dette publique 11
+                        Le fonctionnement de la démocratie    9
+
+                                                             8
+     Les technologies et le développement de l'Intelligence Artificielle
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 15
+
+--- page 16 ---
+
+Les   principales        préoccupations            selon    le  positionnement           politique      des    jeunes
+
+                    Extrême Gauche               Gauche modérée                 Droite modérée                Extrême droite
+
+                        44%
+                                                       35%                           35%
+                    LES INÉGALITÉS                                                                                 46%
+       #1                                         LES INÉGALITÉS             LE POUVOIR D’ACHAT ET
+                     SOCIALES, LA                                                                              L’IMMIGRATION
+                                                   SOCIALES, LA
+                                                                             LE NIVEAU DE VIE
+                      PRÉCARITÉ
+                                                    PRÉCARITÉ
+                        44%                            34%
+                  LES DISCRIMINATIONS,          LES DISCRIMINATIONS,
+                                                                                     32%                           43%
+       #2
+                   LE SEXISME ET LES             LE SEXISME ET LES
+                                                                                 L’INSÉCURITÉ                   L’INSÉCURITÉ
+                 VIOLENCES FAITES AUX           VIOLENCES FAITES AUX
+                      MINORITÉS                     MINORITÉS
+                        40%                            33%                                                         35%
+                                                                                     21%
+       #3          LA PROT2E2%C*TION DE        LE POUVOIR D’ACHAT ET                                       LE POUVOIR D’ACHAT ET
+                                                                                 L’IMMIGRATION
+                   L’ENVIRONNEMENT             LE NIVEAU DE VIE                                            LE NIVEAU DE VIE
+
+                                                                                                                   18%
+                        28%
+                                                       33%                           19%                    LA SANTÉ MENTALE /
+       #4
+                 LE POUVOIR D’ACHAT ET           LA PROTECTION DE              LA PROTECTION DE               L’EMPLOI ET LES
+                                                 L’ENVIRONNEMENT               L’ENVIRONNEMENT                 CONDITIONS DE
+                 LE NIVEAU DE VIE
+                                                                                                                 TRAVAIL
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 16
+
+--- page 17 ---
+
+Plus   globalement,          «  Vivre    dignement        »  s’impose       comme        la préoccupation           n°1
+
+     des   jeunes      Français
+
+     Parmi les 5 thématiques suivantes, quelle est celle qui vous préoccupe le plus aujourd’hui ? (Premier choix)
+
+     Base : A tous
+
+                  1           Vivre dignement (Précarité, logement,                                          DROM : 45%
+                                                                                                       32
+                             discriminations, inégalités du quotidien)                                       Femmes : 35%
+                                                                                                             En difficulté financière : 37%
+
+                 2     Prendre soin de soi et des autres (santé / santé
+                                                                                         20
+                                   mentale et prévention, solidarité)
+
+                         Se former et trouver sa place dans le monde
+                 3
+                                 du travail (formation, orientation et               17     Hommes : 20%
+                                   travail/insertion professionnelle)                       Jeunes de droite : 20%
+
+                                Être entendu, engagé et représenté
+                 4
+                         (démocratie, représentation de la jeunesse et              16
+                                                    engagement)
+
+                             Faire face aux grandes transformations
+                 5
+                             (écologie, lutte contre le réchauffement
+                                                                                   15
+                                                                                         CSP + : 21%
+                                climatique et IA/technologie, avenir)
+                                                                                         Diplômés d’un Bac +5 et plus : 20%
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 17
+
+--- page 18 ---
+
+LES           HOMMES                         POLITIQUES                               ET             #3
+
+    LA         JEUNESSE                             :   UNE
+
+    RELATION                           À      RECONSTRUIRE
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 18
+
+--- page 19 ---
+
+#3.1
+    Une           défiance                       généralisée                             à
+
+    l’égard                 des          responsables
+
+    politiques
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 19
+
+--- page 20 ---
+
+Des    responsables          politiques      jugés     déconnectés          et  opportunistes           par  8  jeunes
+
+     sur   10.  Ces   derniers      se  sentent      par   ailleurs    globalement         incompris
+
+     Voici plusieurs affirmations concernant les responsables politiques et la jeunesse. Pour chacune, indiquez si vous êtes d’accord ou non :
+
+     Base : A tous                                                                                      %                %
+
+                                                                                                     D’accord       Pas d’accord
+
+   Les responsables politiques sont trop éloignés des réalités de la jeunesse
+                                                                   41            41        13 5         82               18
+                                         par leur âge ou parcours
+
+   Les responsables politiques s’intéressent à la jeunesse uniquement pour
+                                                                  36            43        15  6         79               21
+                               leur image et des raisons électorales
+
+         Les responsables politiques prennent des décisions qui vont dans
+                                                             7   19          49           25            26              74
+                                             l’intérêt des jeunes
+
+     Les responsables politiques comprennent les difficultés quotidiennes
+                                                             7   18         44           31             25               75
+                                                   des jeunes
+
+                               Tout à fait d’accord Plutôt d’accord Plutôt pas d’accord Pas du tout d’accord
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 20
+
+--- page 21 ---
+
+Un   réel   scepticisme         quant     à  leur  capacité       à  agir   pour    les  jeunes     : près    de   8 sur   10
+
+    estiment       que   les  responsables          politiques      actuels     ne   préparent       pas   bien    leur  avenir
+
+     D’une manière générale, avez-vous le sentiment que les responsables politiques actuels préparent bien votre avenir ?
+
+     Base : A tous
+
+                                Non                                                           Oui
+                                                                    5
+
+                               78%                       29                17                22%
+
+                                                                                                   Et davantage parmi les :
+
+                                                                                                   • Cadres supérieurs : 28%
+                                                                                                   • Habitants de l’agglomération
+                                                                    49                              parisienne : 26%
+
+                                                                                                   Et moins parmi les :
+                                                                                                   • DROM : 3%
+                                                                                                   • Etudiants : 17%
+
+                                                                                                   • Habitants des agglomérations
+                                                                                                    Moins de 20 000 habitants : 18%
+
+                                        Oui, très bien Oui, assez bien Non, assez mal Non, très mal
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 21
+
+--- page 22 ---
+
+Une    défiance       qui  n’épargne        pas   les   futurs    candidats        à l’élection      présidentielle        :
+
+     près    des   deux    tiers   des   jeunes     Français      ne   leur   font   pas   confiance       pour    prendre
+
+     en  compte       leurs    préoccupations
+
+     Et diriez-vous que vous faites confiance aux futurs candidats à la prochaine élection présidentielle pour comprendre et bien prendre en compte les
+
+     préoccupations et les difficultés de la jeunesse ?
+     Base : A tous
+
+                                                                                              Oui
+                          Non
+
+                         64%                                     8                           36%
+                                                        18
+
+                                                                         28
+
+                                                                                                Et davantage parmi les :
+                                                                                                • Hommes : 41%
+                                                                                                • Jeunes d’extrême-droite : 57%
+
+                                                        46
+                                                                                                Et moins parmi les :
+
+                                                                                                • Femmes : 31%
+                                                                                                • Etudiants : 29%
+                                                                                                • Jeunes de la gauche modérée : 27%
+                                                                                                • DROM : 25%
+
+                                        Oui, tout à fait Oui, plutôt Non, pas vraiment Non, pas du tout
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 22
+
+--- page 23 ---
+
+Plus   généralement,           la  confiance       va   aux   acteurs      de   proximité       : si  7 jeunes     sur   10
+
+     se  sentent      écoutés      par   le  monde      associatif,      ils sont    toutefois      plus   partagés
+
+     s’agissant      du   secteur     associatif      et  des    élus   locaux
+
+     Pour chacune des institutions suivantes, diriez-vous qu’elle est à l’écoute de la jeunesse et qu’elle prend en compte ses préoccupations ?
+
+     Base : A tous
+                                                                                               %            %
+                                                                                               Oui         Non
+
+                                Le monde associatif 17          53           22    8           70           30
+
+             Le secteur éducatif (université, école, etc.) 11 39         37       13           50           50
+
+      Les élus locaux (maires, conseillers régionaux, etc.) 8 41         39       12           49           51
+
+                                      Les syndicats 8     35            41        16           43           57
+
+                                    Les entreprises 7    30           45         18            37           63
+
+                              L’Assemblée nationale 6  17        46            31              23           77
+
+                                  Le Gouvernement  5  17        42            36               22           78
+
+                                      Oui, tout à fait Oui, plutôt Non, plutôt pas Non, pas du tout
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 23
+
+--- page 24 ---
+
+#3.2
+    Mais            des           jeunes                 qui         restent
+
+    mobilisés                        pour             la
+
+    Présidentielle                                 à     venir
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 24
+
+--- page 25 ---
+
+Un   réel   intérêt    pour    l’élection      présidentielle        de   2027     : les  trois   quarts     des   jeunes
+
+     déclarent      s’intéresser       au   prochain      scrutin
+
+     Diriez-vous que vous vous intéressez à l’élection présidentielle qui aura lieu en avril-mai 2027 ?
+
+     Base : A tous
+
+                                    Non
+
+                                    25%                                                       Oui
+
+                                                            8                                75%
+
+                             Oui
+                                                     17
+                            74%                                         37
+                                                                                                   Et davantage parmi les :
+    Non           8
+                                                                                                   • Cadres supérieurs : 85%
+    26%
+             18                                                                                    • Confiant sur la situation de la
+                          47                                                                        France : 80%
+                                                                                                   • 18-19 ans : 80%
+                                                                                                   • Agglomération de Paris : 79%
+                                                          38
+              27
+                                                                                                   Et moins parmi les :
+                                                                                                   • En recherche d’emploi : 68%
+       Comparaison avec l’ensemble des                                                             • CAP/BEP : 67%
+                Français*
+                                                                                                   • DROM : 67%
+     *Etude Ipsos bva pour Le Parisien de septembre
+                                        Oui, beaucoup Oui, plutôt Non, pas vraiment Non, pas du tout
+     2026 auprès d’un échantillon représentatif de la
+     population française âgée de 18 ans et plus.
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 25
+
+--- page 26 ---
+
+Et  une    forte   intention       de  participation
+
+     Avez-vous l’intention d’aller voter à la prochaine élection présidentielle qui aura lieu en avril-mai 2027 ?
+
+     Base : A tous
+
+                                                               6
+                                                            5
+
+                                                        9
+
+                                                                           55
+
+                                                       25
+
+                      Oui, certainement Oui, probablement Non, probablement pas Non, certainement pas Je ne sais pas encore
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 26
+
+--- page 27 ---
+
+Une    abstention        qui  repose      essentiellement            sur   la défiance       envers     un
+
+     processus        jugé    peu   efficace       et  représentatif         : près   d’1/3   des   jeunes     estiment
+
+     que   leur   vote    ne  changera       rien
+
+     Pour quelles raisons n'avez-vous pas l'intention d'aller voter ?
+
+     (Trois réponses possibles, résultats supérieurs à 100%)
+     Base : A ceux qui déclarent ne pas avoir l’intention d’aller voter (probablement pas/certainement pas à la question précédente)
+
+                             Je pense que mon vote ne changera rien                             32
+
+                        Je n’ai pas confiance dans le système électoral                        31
+
+                     Je ne me sens pas représenté par les programmes
+                                                                                           27
+                                                   des candidats
+
+                         Je ne me sens pas assez informé(e) pour voter                  24
+
+                       Les hommes  et les femmes politiques sont trop
+                                                                                        24
+                                    éloignés de mes préoccupations
+
+                         Je ne me sens pas concerné(e) par la politique           17
+
+                        Je préfère m’engager autrement (associations,
+                                                                             12
+                                              manifestations, etc.)
+
+                                                 Une autre raison         9
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 27
+
+--- page 28 ---
+
+Les   grandes       fractures       qui   traversent       la  jeunesse       française
+
+                     sociale    :
+     Une  fracture               jeunes   qui se  sentent  à l’aise financièrement     vs. jeunes  en difficulté  financière
+
+                                % «Satisfaits de leur vie »                                % «Confiant dans son avenir
+                                                                                             professionnel» (inactifs)
+
+                Jeunes à l’aise
+                                                       92                      Jeunes à l’aise
+               financièrement                                                                                     71
+                                                                              financièrement
+           Jeunes en difficulté
+                                               63                        Jeunes en difficultés
+                   financière                                                                            40
+                                                                                 financières
+
+                 % «Confiants dans la situation de la France                    % «Sentiment que les responsables
+
+                                                                            politiques préparent bien l’avenir des jeunes»
+
+                Jeunes à l’aise
+                                        32
+                                                                               Jeunes à l’aise
+               financièrement                                                                          31
+                                                                              financièrement
+          Jeunes en difficultés
+                                    16
+                                                                         Jeunes en difficultés
+                  financières                                                                     13
+                                                                                 financières
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 28
+
+--- page 29 ---
+
+Les   grandes       fractures       qui   traversent       la  jeunesse       française
+
+                     de  genre*
+     Une  fracture
+
+            % «Confiants dans leur situation              % «Confiant dans leur avenir            % «Confiance dans la situation
+
+                professionnelle » (actifs)                  professionnel» (inactifs)                     de la France
+
+     Hommes                          71               Hommes                      60              Hommes            29
+
+     Femmes                       60                  Femmes                  46                  Femmes         19
+
+                               % «Expriment au moins un sentiment           % «Confiance dans les futurs candidats à la
+
+                                     positif sur la France »                            présidentielle»
+
+                               Hommes                 45                     Hommes               41
+
+                               Femmes              34                         Femmes            31
+
+     * À noter que les jeunes femmes sont plus nombreuses à se déclarer en difficulté financière (54% vs. 46% des jeunes hommes)
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 29
+
+--- page 30 ---
+
+Les   grandes       fractures       qui   traversent       la  jeunesse       française
+
+                     territoriale    :
+     Une  fracture                     jeunes   vivant  dans  l’Hexagone   vs. jeunes   ultramarins   (1/2)
+
+             % «Satisfait de leur vie»          % «Confiants dans la situation de la France » % «Sentiment que les responsables
+
+                                                                                          politiques préparent bien l’avenir des
+                                                                                                       jeunes»
+
+                    78%                                   232%4%                                       23%
+
+                                                               DROM    :                                DROM    :
+                   DROM    :
+
+                                     57%                                      8%                                       3%
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 30
+
+--- page 31 ---
+
+Les   grandes       fractures       qui   traversent       la  jeunesse       française
+
+                     territoriale    :
+     Une  fracture                     jeunes   vivant  dans  l’Hexagone   vs. jeunes   ultramarins   (2/2)
+
+          % «Confiants dans leur situation              % «Confiants dans leur                   % «Choisissent l’égalité
+                 professionnelle »                      avenir professionnel»                     comme  valeur la plus
+                                                                                                      importante »
+
+                    66%                                   235%4%                                       39%
+
+                                                               DROM    :                                DROM    :
+                   DROM    :
+
+                                     51%                                      33%                                      52%
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 31
+
+--- page 32 ---
+
+LA         SÉLECTION                              DES                                               #4
+
+    PROPOSITIONS                                       ÉLABORÉES
+
+    PAR            LES            JEUNES
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 32
+
+--- page 33 ---
+
+#4.1
+    Classement                              détaillé                  des
+
+    propositions                               par          thème
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 33
+
+--- page 34 ---
+
+VIVRE     DIGNEMENT           : l’accès     au  logement        via   l’amélioration        de   la garantie
+
+     locative     est   la  proposition        qui  s’impose.
+
+      Pour chacune de ces 5 thématiques, je vais maintenant vous présenter 4 propositions qui pourraient être portées et défendues dans le cadre de la
+      prochaine élection présidentielle de 2027. Merci de les classer par ordre de priorité.
+      Thématique : Vivre dignement (Précarité, logement, discriminations, inégalités du quotidien)
+                                                                                                %
+                                                                                              TOP 2
+
+            Améliorer la garantie locative publique existante en la rendant
+           unique, plus simple et reconnue par tous les propriétaires pour 31 28 24  17        59         DROM : 77%
+                   faciliter l’accès au logement des jeunes sans garant
+
+            Créer dans chaque université un référent anti-discrimination
+           dédié à accompagner les étudiants victimes de discriminations 20 27 29   23  1      47
+                       dans leur recherche de stage ou d'alternance
+
+           Consacrer une heure de cours par semaine à la lutte contre les
+                                                         24       23      25       27   1      47        Jeunes vivant en milieu rural :
+                        discriminations, de l'école primaire au lycée
+                                                                                                         54%
+
+             Augmenter les taxes sur les logements vides, les résidences                                 Diplômés d’un Bac+5 et plus :
+          secondaires et les locations Airbnb pour financer la construction 24 22 20 33 1      46        54%
+                       et la rénovation de logements pour les jeunes                                     Jeunes de gauche : 52%
+
+                      Cité en premier  Cité en deuxième Cité en troisième    Cité en quatrième    (Non réponse)
+
+       Note de lecture : 59% des jeunes ont cité la garantie locative parmi leurs 2 priorités (En 1er ou en 2nd)
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 34
+
+--- page 35 ---
+
+PRENDRE         SOIN    DE   SOI   ET   DES    AUTRES        : les   jeunes     priorisent       une   politique      de
+
+     prévention        universelle       avec     un  bilan    de  santé     gratuit     à 20   ans
+
+      Pour chacune de ces 5 thématiques, je vais maintenant vous présenter 4 propositions qui pourraient être portées et défendues dans le cadre de la
+      prochaine élection présidentielle de 2027. Merci de les classer par ordre de priorité.
+      Thématique : Prendre soin de soi et des autres (santé / santé mentale et prévention, solidarité)
+
+                                                                                                %
+                                                                                              TOP 2
+
+            Proposer un bilan de santé gratuit à tous les jeunes de 20 ans                                Femmes : 65%
+                                                            37        25      20     17 1      62
+                 pour faire de la prévention une vraie politique publique                                 Etudiants : 66%
+
+          Mettre en place des ateliers de sensibilisation à la santé mentale
+                à chaque étape de la scolarité, avec des professionnels 24 28 26    22         52         Etudiants/élèves : 66%
+                                             spécialisés
+
+                Enrichir l'orientation scolaire grâce aux témoignages de
+          professionnels et de retraités, encouragés par des dispositifs de 22 25 26 26 1      47
+                     valorisation ou des avantages fiscaux et sociaux
+
+             Créer des "Maisons des générations" dans les territoires pour
+                                                        17     22      26         34    1      39
+                favoriser les échanges entre jeunes et personnes âgées
+
+                      Cité en premier  Cité en deuxième Cité en troisième    Cité en quatrième    (Non réponse)
+
+       Note de lecture : 62% des jeunes ont cité le bilan de santé gratuit (En 1er ou en 2nd)
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 35
+
+--- page 36 ---
+
+SE   FORMER        ET   TROUVER         SA   PLACE       DANS     LE   MONDE        DU   TRAVAIL        : les  jeunes
+
+     privilégient       les  mesures        qui  favorisent        l’insertion     sur   le  marché      comme        un   plan
+
+     national     de   formations         et  des   cours     d’orientation
+
+      Pour chacune de ces 5 thématiques, je vais maintenant vous présenter 4 propositions qui pourraient
+      être portées et défendues dans le cadre de la prochaine élection présidentielle de 2027. Merci de les
+
+      classer par ordre de priorité.
+                                                                                                %
+      Thématique : Se former et trouver sa place dans le monde du travail (Formation, orientation et
+                                                                                              TOP 2
+      travail/insertion professionnelle)
+                                                                                                           Diplômés d’un Bac+5 et plus :
+          Lancer un plan national pour adapter les formations aux besoins 30 26 25   19        56          62%
+             du marché du travail et valoriser les filières professionnelles
+                                                                                                           DROM : 67%
+              Instaurer une heure de cours d'orientation toutes les deux
+           semaines pour que tous les jeunes connaissent leurs droits, les 28 26 23 22  1      54
+                        aides disponibles et les différentes filières
+
+          Développer une plateforme nationale unique (France Avenir) pour
+          trouver une formation, un métier, un emploi, un mentor, un stage 24 27 25 23  1       51
+                                        ou une alternance
+
+           Imposer un quota de grandes écoles par métropole pour donner
+                                                                                                           CSP - : 51%
+              accès à ce type d'enseignement à un plus grand nombre de 18 21 26   34    1      39
+                                                                                                           Jeunes d’extrême gauche :
+                                                jeunes
+                                                                                                           49%
+                      Cité en premier  Cité en deuxième Cité en troisième    Cité en quatrième    (Non réponse)
+       Note de lecture : 56% des jeunes ont cité le plan national pour adapter les formations parmi leurs 2 priorités (En 1er ou en 2nd)
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 36
+
+--- page 37 ---
+
+ETRE     ENTENDU,         ENGAGÉ        ET   REPRÉSENTÉ            :  donner      un  réel   pouvoir      à  la
+
+     participation        citoyenne        est   l’idée   qui  s’impose       en   rendant      obligatoires        les
+
+     résultats      des   diverses       consultations
+
+     Pour chacune de ces 5 thématiques, je vais maintenant vous présenter 4 propositions qui pourraient être portées et défendues dans le cadre de la
+     prochaine élection présidentielle de 2027. Merci de les classer par ordre de priorité.
+
+     Thématique : Être entendu, engagé et représenté (Démocratie, représentation de la jeunesse et engagement)
+                                                                                                %
+                                                                                              TOP 2
+
+         Rendre obligatoire la prise en compte des résultats des pétitions,                              DROM : 75%
+                                                           36         25      21     18         61
+            conventions citoyennes et référendums d'initiative citoyenne                                 18-19 ans : 68%
+                                    dans la décision publique
+                                                                                                         Jeunes de gauche : 71%
+                                                         23       26       26      24   1      49
+            Prendre en compte l'engagement associatif et citoyen dans le
+                                        calcul de la retraite
+
+            Mettre en place un parcours obligatoire d'engagement citoyen
+              dès la 3ème (stages, rencontres et découvertes du monde 22 23 25     29   1      45       Jeunes de droite : 49%
+                                             associatif)
+
+          Mettre en place une chambre citoyenne nationale délibérative et
+                                                         19     26        27       27   1      45
+             représentative de la population française avec tirage au sort
+
+                      Cité en premier  Cité en deuxième Cité en troisième    Cité en quatrième    (Non réponse)
+
+       Note de lecture : 61% des jeunes ont cité de rendre obligatoire la prise en compte des résultats des pétitions parmi leurs 2 priorités (En 1er ou en 2nd)
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 37
+
+--- page 38 ---
+
+FAIRE     FACE      AUX    GRANDES          TRANSFORMATIONS                  : les  jeunes     priorisent       la
+
+     protection       du   vivant     et  le durcissement           des    marchés       publics      à l’égard     de
+
+     l’impact     environnemental             des    entreprises
+
+     Pour chacune de ces 5 thématiques, je vais maintenant vous présenter 4 propositions qui pourraient être portées et défendues dans le cadre de la
+     prochaine élection présidentielle de 2027. Merci de les classer par ordre de priorité.
+     Thématique : Faire face aux grandes transformations (écologie, lutte contre le réchauffement climatique et IA/technologie, avenir)
+                                                                                                %
+
+                                                                                               TOP 2
+
+                                                                                                          Jeunes de gauche : 64%
+          Faire de la protection du vivant une priorité nationale régalienne 32 28 22 18        60
+                        au même titre que la défense ou la sécurité
+
+                Imposer que l'impact sur le climat et la biodiversité des
+          entreprises soit un critère majeur dans l'attribution des marchés 30 30 21 18 1       60        Femmes : 64%
+              publics, puis étendre cette règle aux appels d'offres privés                                Jeunes de gauche : 67%
+
+            Intégrer aux programmes d'enseignements (primaire, collège, 21 21 24  33    1                 Jeunes de droite : 48%
+                                                                                                42
+            lycée) la matière IA et former les enseignants à cette matière
+
+          Créer une autorité indépendante de régulation de l'IA chargée de
+           contrôler les systèmes d'intelligence artificielle avant leur mise 17 22 31 29 1     39
+                                           sur le marché
+
+                      Cité en premier  Cité en deuxième Cité en troisième    Cité en quatrième    (Non réponse)
+
+       Note de lecture : 60% des jeunes ont cité de faire de la protection du vivant une priorité nationale régalienne parmi leurs 2 priorités (En 1er ou en 2nd)
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 38
+
+--- page 39 ---
+
+#4.2
+
+    Récapitulatif                               des           10
+
+    mesures                       sélectionnées
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 39
+
+--- page 40 ---
+
+TOP    10  DES    MESURES         -  1/2
+
+     Pour chacune de ces 5 thématiques, je vais maintenant vous présenter 4 propositions qui pourraient être portées et défendues dans le cadre de la
+     prochaine élection présidentielle de 2027. Merci de les classer par ordre de priorité.
+
+              «Vivre dignement  »                «Prendre soin de soi et des autres »          «Se  former et trouver sa place
+                                                                                                  dans le monde du travail »
+
+               Améliorer la garantie locative
+               publique existante en la rendant          Proposer un bilan de santé                   Lancer un plan national
+
+              unique, plus simple et reconnue par       gratuit à tous les jeunes de 20                 pour adapter les
+              tous les propriétaires pour faciliter      ans pour faire de la prévention             formations aux besoins du
+
+                l'accès au logement des jeunes            une vraie politique publique              marché du travail et valoriser
+                       sans garant                                62%                                les filières professionnelles
+                         59%                                                                                  56%
+
+               Créer dans chaque université un                                                        Instaurer une heure de
+                                                         Mettre en place des ateliers
+               référent anti-discrimination                                                         cours d'orientation toutes
+                                                          de sensibilisation à la
+              dédié à accompagner les étudiants                                                     les deux semaines pour que
+                                                          santé mentale à chaque
+               victimes de discriminations dans                                                      tous les jeunes connaissent
+                                                         étape de la scolarité, avec des
+                 leur recherche de stage ou                                                            leurs droits, les aides
+                                                          professionnels spécialisés
+              d'alternance / Consacrer une heure                                                    disponibles et les différentes
+                                                                  52%
+                de cours par semaine à la lutte                                                              filières
+                contre les discriminations […]                                                                54%
+                         47%
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 40
+
+--- page 41 ---
+
+TOP    10  DES    MESURES         -  2/2
+
+      Pour chacune de ces 5 thématiques, je vais maintenant vous présenter 4 propositions qui pourraient être portées et défendues dans le cadre de la
+      prochaine élection présidentielle de 2027. Merci de les classer par ordre de priorité.
+
+                            « Être entendu, engagé et                           « Faire face aux grandes
+                                  représenté  »                                    transformations  »
+
+                                                                                     Faire de la protection du
+                                 Rendre obligatoire la prise
+                                                                                   vivant une priorité nationale
+                                  en compte des résultats
+                                                                                    régalienne au même titre que
+                                  des pétitions, conventions
+                                                                                      la défense ou la sécurité
+                                  citoyennes et référendums
+                                                                                              60%
+                                  d'initiative citoyenne dans la
+                                      décision publique
+                                           61%
+                                                                                   Imposer que l'impact sur le climat
+                                                                                    et la biodiversité des entreprises
+                                     Prendre en compte
+                                                                                    soit un critère majeur dans
+                                l'engagement associatif et
+                                                                                     l'attribution des marchés
+                                 citoyen dans le calcul de
+                                                                                   publics, puis étendre cette règle
+                                        la retraite
+                                                                                      aux appels d'offres privés
+                                           49%
+                                                                                              60%
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 41
+
+--- page 42 ---
+
+ANNEXES
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 42
+
+--- page 43 ---
+
+Le   sentiment        d’être    à l’aise   financièrement
+
+     Vous sentez-vous à l'aise financièrement ?
+
+     Base : A tous
+
+                        En    difficulté                                               A   l’aise
+                                                              9    6
+
+                                51%                                                       49%
+
+                                                                           43
+                                                      42
+
+                   Et davantage parmi les :                                             Et plus parmi les :
+                   • Femmes : 54%                                                       • Hommes : 54%
+                   • DROM : 72%                                                         • 25-29 ans : 54%
+
+                   • Etudiants : 56%                                                    • CSP + : 62%
+
+                      Très à l’aise    Plutôt à l’aise  Plutôt en difficulté En grande difficulté
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 43
+
+--- page 44 ---
+
+La   perception        de   son   niveau     de   santé
+
+     Actuellement, diriez-vous que vous êtes en bonne santé ?
+
+     Base : A tous
+
+                                Non                                                        Oui
+                                                                2
+                                                           12
+                                14%                                                       86%
+                                                                         30
+
+                                                           56
+
+                      Oui, tout à fait Oui, plutôt      Non, plutôt pas      Non, pas du tout
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 44
+
+--- page 45 ---
+
+La   perception        de   son   niveau     de   santé     mentale
+
+     Quand vous pensez à votre santé mentale, diriez-vous que vous allez…
+
+     Base : A tous
+
+                                 Mal                                                      Bien
+                                                               5
+                                                                       19
+                                28%                                                       72%
+                                                       23
+
+                    Et davantage parmi les :
+
+                    • Femmes de 18-19 ans : 36%
+                                                                   53
+                    • Femmes de 20-24 ans : 35%
+                    • Jeunes qui ne travaillent pas : 32%
+
+                      Très bien        Plutôt bien      Plutôt mal           Très mal
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 45
+
+--- page 46 ---
+
+Le   sentiment        d’être    engagé      pour    une    cause
+
+     Vous sentez-vous personnellement engagé(e) aujourd'hui pour une cause ?
+
+     Base : A tous
+
+                                Non                                                        Oui
+                                                               7
+                                                                      16
+                                41%                                                       59%
+
+                                                     34
+
+                                                                        43
+
+                      Oui, beaucoup    Oui, plitôt      Non, plutôt pas      Non, pas du tout
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 46
+
+--- page 47 ---
+
+NOS     ENGAGEMENTS
+
+      CODES        PROFESSIONNELS,                 CERTIFICATION             QUALITE
+
+      CONSERVATION               ET   PROTECTION            DES     DONNEES
+
+           Ipsos est membre des organismes professionnels français et
+                                                                                  Ipsos France est certifiée ISO 20252 :
+           européens des études de marché et d’opinion suivants :
+                                                                                  Market Research - version 2019
+              SYNTEC (syndicat professionnel des sociétés d’études de             par AFNOR CERTIFICATION
+              marché en france ; www.Syntec-etudes.Com )
+                                                                         Ce document est élaboré dans le respect de ces codes et normes
+              ESOMAR  (European Society for Opinion and Market
+                                                                         internationales.
+              Research, www.Esomar.Org)
+
+         Ipsos France s’engage à appliquer le code ICC/Esomar des études de marché et d’opinion. Ce code définit les règles déontologiques des professionnels
+         des études de marché et établit les mesures de protection dont bénéficient les personnes interrogées.
+                Ipsos s’engage à respecter les lois applicables. Ipsos a désigné un Data Protection Officer et a mis place un plan de conformité au Règlement
+
+                Général sur la Protection des Données (Règlement (UE) 2016/679). Pour plus d’informations sur notre politique en matière de protection des
+                données personnelles : https://www.ipsos.com/fr-fr/confidentialite-et-protection-des-donnees-personnelles
+
+         A ce titre, la durée de conservation des données personnelles des personnes interviewées dans le cadre d’une étude est, à moins d’un engagement
+         contractuel spécifique :
+
+           •  de 12 mois suivant la date de fin d’une étude Ad Hoc .
+
+           •  de 36 mois suivant la date de fin de chaque vague d’une étude récurrente.
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 47
+
+--- page 48 ---
+
+Fiabilité      des    résultats
+
+     Feuille  de calcul
+
+    En l’occurrence s’agissant de cette étude :
+
+    • Intervalle de confiance : 95%
+
+    • Taille d’échantillon : 3030
+
+    Les proportions observées  sont comprises  entre :
+
+                          Borne Supérieure (%)   Proportion observée (%)  Borne Inférieure (%)
+
+                                   1% 2%  5%  10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 98% 99%
+                        Borne Supérieure (%) 1,4% 2,5% 5,8% 11,1% 16,3% 21,4% 26,5% 31,6% 36,7% 41,7% 46,8% 51,8% 56,8% 61,7% 66,7% 71,6% 76,5% 81,4% 86,3% 91,1% 95,8% 98,5% 99,4%
+                        Proportion observée (%) 1% 2% 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 98% 99%
+                        Borne Inférieure (%) 0,6% 1,5% 4,2% 8,9% 13,7% 18,6% 23,5% 28,4% 33,3% 38,3% 43,2% 48,2% 53,2% 58,3% 63,3% 68,4% 73,5% 78,6% 83,7% 88,9% 94,2% 97,5% 98,6%
+
+     © Ipsos bva pour l’amU | Faire émerger la voix de la jeunesse | Septembre 2026 48
+
+--- page 49 ---
+
+À   PROPOS       D’IPSOS                               GAME      CHANGERS
+
+         Ipsos est l’un des leaders mondiaux des études de marché et des Dans un monde qui évolue rapidement, s’appuyer sur des
+         sondages d’opinion, présent dans 90 marchés et comptant près données fiables pour prendre les bonnes décisions n’a jamais été
+
+         de 20 000 collaborateurs.                              aussi important.
+         Nos chercheurs, analystes et scientifiques sont passionnément
+         curieux et ont développé des capacités multi-spécialistes qui Chez Ipsos, nous sommes convaincus que nos clients cherchent
+         permettent de fournir des informations et des analyses poussées plus qu’un simple fournisseur de données. Ils ont besoin d’un
+         sur les actions, les opinions et les motivations des citoyens, des véritable partenaire qui leur procure des informations précises et
+         consommateurs, des patients, des clients et des employés. pertinentes, et les transforme en connaissances pour leur
+                                                                permettre de passer à l’action.
+         Nos 75 solutions s’appuient sur des données primaires provenant
+         de nos enquêtes, de notre suivi des réseaux sociaux et de Voilà pourquoi nos experts, curieux et passionnés, délivrent les
+
+         techniques qualitatives ou observationnelles.          mesures les plus exactes pour en extraire l’information qui
+                                                                permettra d’avoir une vraie compréhension de la Société, des
+         Notre signature « Game Changers » résume bien notre ambition Marchés et des Individus.
+         d’aider nos 5 000 clients à évoluer avec confiance dans un monde
+         en rapide évolution.                                   Nous mêlons notre savoir-faire au meilleur des sciences et de la
+                                                                technologie, et appliquons nos quatre principes de sécurité,
+         Créé en France en 1975, Ipsos est coté à l’Euronext Paris depuis le simplicité, rapidité et de substance à tout ce que nous
+         1er juillet 1999. L’entreprise fait partie des indices SBF 120 et Mid- produisons.
+         60 et est éligible au service de règlement différé (SRD). Pour permettre à nos clients d’agir avec plus de rapidité,
+                                                                d’ingéniosité et d’audace.
+
+         ISIN code FR0000073298, Reuters ISOS.PA, Bloomberg IPS:FP
+         www.ipsos.com                                          La clef du succès se résume par une vérité simple :
+                                                                You act better when you are sure.
+
+                                                                  49

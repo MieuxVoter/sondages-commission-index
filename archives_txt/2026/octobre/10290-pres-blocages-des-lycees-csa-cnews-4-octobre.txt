@@ -1,0 +1,318 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10290-pres-blocages-des-lycees-csa-cnews-4-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Monsieur Jean Gaeremynck
+                                          Président de la Commission des Sondages
+
+                                          Conseil d'État
+                                          Place du Palais Royal
+
+                                          75001 PARIS
+
+                                          PARIS, le 04 octobre 2026
+
+     Monsieur le Président,
+
+     Je me permets de vous faire parvenir ci-jointe la notice technique relative au sondage sur
+     « L’instrumentalisation des blocages des lycées par La France Insoumise » qui sera diffusée le 04
+
+     octobre sur CNews, Europe 1 et le Journal du Dimanche (JDD).
+
+     En vous souhaitant bonne réception, je vous prie de croire, Monsieur le Président, à l'assurance de mes
+
+     sentiments respectueusement dévoués.
+
+     Julie Gaillot
+
+     Directrice du Pôle Society de l’Institut CSA
+
+                                                                             1
+
+--- page 2 ---
+
+NOTICE TECHNIQUE
+
+     Nom du client :              CNews / Europe 1 / Le Journal du Dimanche (JDD)
+
+     Dates de l'enquête :         Du 01 au 02 octobre 2026
+
+     Date de publication :        Le 04 octobre 2026
+
+     Echantillon national représentatif de 1010 personnes âgées de 18 ans et plus, constitué d'après la méthode
+
+     des quotas (sexe, âge, profession de la personne interrogée) après stratification par région et catégorie
+     d’agglomération.
+     Pour ce sondage, les panélistes ont été dédommagés sous forme de points : 20 points, soit l’équivalent de
+
+     20 centimes.
+
+         Nombre de personnes interrogées : 1010 personnes
+
+         Mode d'administration du
+                                     Par Internet sur panel en ligne (panel CSA)
+         questionnaire :
+
+         Type de sondage :           Ad hoc
+
+                                     Socio démographiques sur critères de quotas (sexe,
+
+                                     âge, profession de la personne interrogée, région,
+         Méthode de redressement :
+                                     catégorie d’agglomération) et vote au premier tour de
+                                     l’élection présidentielle 2022
+
+         Taux de non-réponse :
+                                     1,6%
+
+     Ce document présente les résultats d’une étude respectant les principes scientifiques et déontologiques de
+     l’enquête par sondage. Comme toute étude publiée, la notice de cette enquête est consultable sur le site de
+
+     la Commission des sondages.
+     Pour citer ce sondage, il est obligatoire d’en mentionner a minima les émetteurs « Institut CSA pour CNews,
+
+     Europe 1 et le JDD », l’échantillon et le mode de recueil (cf. mentions ci-dessus).
+
+                                                                             2
+
+--- page 3 ---
+
+Marges d’erreur statistique
+
+          Pour un échantillon de 1000 personnes, les marges d’erreur sont les suivantes avec un niveau de
+          confiance de 95% :
+
+          Pour un pourcentage de : 5%  10%     20%     30%     40%    50%
+
+          La marge d’erreur est de : +/-1,4 +/-1,9 +/-2,5 +/-2,8 +/-3,0 +/-3,1
+
+          Le résultat réel se situe    8,1 et 17,5 et 27,2 et 37,0 et 46,9 et
+                              3,6 et 6,4
+          dans une fourchette entre :  11,9    22,5    32,8    43,0   53,1
+
+          Pour un pourcentage de : 60%   70%       80%      90%       95%
+
+          La marge d’erreur est de : +/-3,0 +/-2,8 +/-2,5   +/-1,9   +/-1,4
+
+          Le résultat réel se situe 57,0 et 67,2 et 77,5 et 88,1 et  93,6 et
+          dans une fourchette entre : 63,0 72,8    82,5     91,9      96,4
+
+          Exemple de lecture : pour un résultat observé de 50%, il y a 95% de chances pour que le résultat
+          réel soit compris entre 46,9% et 53,1%.
+
+                                                                             3
+
+--- page 4 ---
+
+Questionnaire :
+
+          Q1. Faut-il poursuivre en justice les responsables politiques qui encouragent la violence des lycéens
+          pendant le blocus des lycées ?
+          Base : 1 010 répondants
+
+          -  Oui
+
+          -  Non
+
+          PROXPART. Parmi les partis politiques suivants, pouvez-vous me dire duquel vous vous sentez le
+          plus proche ou disons le moins éloigné ?
+
+          -  Lutte Ouvrière
+
+          -  Le NPA, Nouveau Parti Anticapitaliste
+
+          -  Le Parti Communiste
+
+          -  La France insoumise
+
+          -  L’Après de Clémentine Autain, Raquel Garrido et Alexis Corbière
+          -  Debout ! de François Ruffin
+
+          -  Le Parti Radical de Gauche
+
+          -  Génération.s de Benoît Hamon
+
+          -  Le Parti Socialiste
+
+          -  Place Publique de Raphaël Glucksmann
+          -  Les Ecologistes (ex-Europe Ecologie / Les Verts)
+
+          -  Un autre parti écologiste
+
+          -  Le Parti Animaliste
+
+          -  Renaissance d'Emmanuel Macron (ex-En Marche)
+
+          -  Le MoDem – Mouvement Démocrate
+          -  Horizons, le parti d'Edouard Philippe
+
+          -  Les Centristes / Le Nouveau Centre d’Hervé Morin
+
+          -  L'UDI - Union des Démocrates et Indépendants
+
+          -  Les Républicains
+
+          -  Debout la France
+
+          -  L’UDR – Union des Droites pour la République, le parti d’Eric Ciotti
+          -  Les Patriotes de Florian Philippot
+
+          -  L’Union Populaire Républicaine (UPR) de François Asselineau
+
+          -  Le Rassemblement National
+
+                                                                             4
+
+--- page 5 ---
+
+-  Reconquête, le parti d’Eric Zemmour
+
+          -  Aucun
+
+          -  Ne se prononce pas
+
+          PRES2022T1. Le dimanche 10 avril 2022 avait lieu le premier tour de l'élection présidentielle. Pouvez-
+          vous me dire pour lequel des candidats suivants vous avez voté ?
+
+          -  Nathalie ARTHAUD
+
+          -  Philippe POUTOU
+
+          -  Fabien ROUSSEL
+          -  Jean-Luc MÉLENCHON
+
+          -  Anne HIDALGO
+
+          -  Yannick JADOT
+
+          -  Emmanuel MACRON
+
+          -  Valérie PÉCRESSE
+
+          -  Jean LASSALLE
+
+          -  Nicolas DUPONT-AIGNAN
+
+          -  Marine LE PEN
+
+          -  Éric ZEMMOUR
+
+          -  Vous avez voté blanc ou nul
+
+          -  Vous n'avez pas voté, vous êtes abstenu
+
+          -  Vous n'étiez pas inscrit sur les listes électorales
+
+          -  Vous ne souhaitez pas vous prononcer
+
+                                                                             5
+
+--- page 6 ---
+
+Résultats bruts et redressés :
+
+                             Brut   Redressé
+     Sexe
+     Total                  1010      1010
+     Hommes                 46,8%    47,8%
+     Femmes                 53,2%    52,2%
+     Age de l'interviewé
+     Total                  1010      1010
+     ST Moins de 35 ans     22,6%    24,9%
+     18 à 24 ans            5,8%     10,1%
+     25 à 34 ans            16,7%    14,8%
+     35 à 49 ans            23,1%    24,3%
+     ST 50 ans et plus      54,4%    50,8%
+
+     50 à 64 ans            26,6%    24,8%
+     65 ans et plus         27,7%    26,0%
+     Total                  1010      1010
+     CSP Répondants
+     Total                  1010      1010
+     CSP +                  32,5%    31,5%
+     CSP -                  28,4%    28,2%
+     Inactifs               39,1%    40,3%
+     UDA 5
+     Total                  1010      1010
+     IDF                    20,5%    18,5%
+     Nord est               20,4%    21,8%
+     Nord ouest             20,5%    22,9%
+     Sud ouest              11,4%    11,5%
+     Sud est                27,2%    25,4%
+     Taille d'Agglomération
+     Total                  1010      1010
+     Commune rurale (lt 2000) 21,9%  21,3%
+     De 2000 à plus de 100 000 60,1% 62,4%
+      De 2000 à 19 999      15,6%    17,9%
+      De 20 000 à 99 999    13,3%    13,6%
+      Plus de 100 000       31,2%    30,8%
+     Agglomération Parisienne 18,0%  16,4%
+
+     PRESID1 - 2022 - Base
+     exprimés
+     Total                   780      780
+     ST Exprimés            100,0%   100,0%
+      Nathalie ARTHAUD      1,2%      0,6%
+      Philippe POUTOU       1,4%      0,8%
+      Fabien ROUSSEL        2,8%      2,3%
+      Jean-Luc MÉLENCHON    11,5%    22,0%
+      Anne HIDALGO          3,3%      1,8%
+      Yannick JADOT         6,7%      4,6%
+      Emmanuel MACRON       26,4%    27,9%
+      Valérie PÉCRESSE      8,1%      4,8%
+      Jean LASSALLE         2,6%      3,1%
+      Nicolas DUPONT-AIGNAN 2,7%      2,1%
+      Marine LE PEN         27,8%    23,2%
+      Éric ZEMMOUR          5,5%      7,1%
+
+                                                                             6
+
+--- page 7 ---
+
+PROXIMITE PARTISANE
+     Total                                       1010     1010
+     Extrême gauche                              2,4%     2,2%
+     Lutte Ouvrière                              1,1%     1,2%
+     Le NPA, Nouveau Parti Anticapitaliste       1,3%     1,1%
+     Gauche                                     22,3%     25,5%
+     Le Parti Communiste                         1,9%     2,1%
+     La France insoumise                         4,6%     7,3%
+     L’Après de Clémentine Autain, Raquel Garrido et Alexis Corbière 0,4% 0,4%
+     Debout ! de François Ruffin                 1,1%     1,3%
+     Le Parti Radical de Gauche                  0,4%     0,3%
+     Génération.s de Benoît Hamon                0,7%     1,3%
+     Le Parti Socialiste                         7,3%     7,3%
+     Place Publique de Raphaël Glucksmann        3,8%     3,6%
+     Les Ecologistes (ex-Europe Ecologie / Les Verts) 2,2% 1,8%
+     Le Parti Animaliste                         1,2%     1,2%
+     Majorité présidentielle                     9,1%     9,2%
+     Renaissance (ex-En Marche)                  4,5%     4,7%
+     Le MoDem – Mouvement Démocrate              1,7%     1,6%
+     Horizons, le parti d'Edouard Philippe       3,0%     2,9%
+     Les Centristes / Le Nouveau Centre d’Hervé Morin 0,1% 0,1%
+     Droite                                     10,8%     9,1%
+     L'UDI - Union des Démocrates et Indépendants 1,1%    0,9%
+     Les Républicains                            8,4%     6,9%
+     Un autre parti écologiste                   0,6%     0,5%
+     Debout la France                            0,7%     0,8%
+     L’UDR – Union des Droites pour la République, le parti d’Eric
+                                                 1,0%     0,8%
+     Ciotti
+     Les Patriotes de Florian Philippot          0,5%     0,4%
+     L’Union Populaire Républicaine (UPR) de François Asselineau 0,3% 0,3%
+     Rassemblement National + Reconquête        24,0%     22,0%
+     Le Rassemblement National                  20,8%     18,2%
+     Reconquête, le parti d’Eric Zemmour         3,2%     3,8%
+     Aucun                                      23,0%     23,6%
+     Ne se prononce pas                          5,4%     5,7%
+
+     Faut-il poursuivre en justice les responsables politiques qui encouragent la violence des lycéens
+     pendant le blocus des lycées ?
+     Total                                 1010             1010
+     Oui                                   84,7%           82,6%
+     Non                                   13,8%           15,9%
+     Ne se prononce pas                    1,6%             1,5%
+
+                                                                             7
