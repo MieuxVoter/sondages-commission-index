@@ -1,0 +1,748 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10296-pres-barometre-personnalites-politiques-cluster-17-le-point-7-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+BAROMÈTRE                                    DES
+
+      PERSONNALITÉS                                             POLITIQUES
+
+     Octobre    2026                                                                      Échantillon    : 1 700  personnes
+
+--- page 2 ---
+
+MÉTHODOLOGIE
+
+             Etude  Cluster17 réalisée pour Le Point auprès  d'un échantillon de 1 700 personnes  représentatives de  la
+             population française
+
+             L'échantillon est réalisé selon la méthode des quotas, au regard des critères de sexe, d’âge et de catégorie
+             socioprofessionnelle,  de taille de commune    et  de région  de  résidence. L’enquête  a fait l’objet d’un
+
+             redressement   sociodémographique    (données  INSEE)  et d’un redressement   politique sur la base  de  la
+
+             reconstitution des  votes  suivants  : premier  tour  de  l’élection présidentielle de 2022   et élections
+             européennes   de 2024.
+
+             Les interviews ont été réalisées par questionnaire auto-administré  en ligne. Interviews réalisées du 28 au
+             30 septembre  2026.
+
+             La notice de cette enquête est consultable sur le site de la Commission des sondages.
+
+--- page 3 ---
+
+MÉTHODOLOGIE
+
+         Aucune  reprise de ce sondage  ne peut être faite sans précision de la mention relative aux marges d’erreur. En cas
+
+         de reprise de ce sondage, merci de mentionner  le nom de Cluster17.
+
+                                                   MARGES         D’ERREUR
+
+           Pour un pourcentage de   5%     10%      20%     30%     40%     50%     60%      70%     80%     90%     95%
+
+              1 700 personnes       1,0     1,4     1,9     2,2     2,3     2,4      2,3     2,2     1,9      1,4     1,0
+
+--- page 4 ---
+
+QUESTIONNAIRE
+
+                                                                                          © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 5 ---
+
+QUESTIONNAIRE
+
+        Concernant     les personnalités     politiques   suivantes,   pouvez-vous     nous   dire pour   chacune
+
+        d'entre  elles  si vous  la soutenez,   si vous  l'appréciez,   si vous  ne l'appréciez   pas,  si vous  ne  la
+        connaissez    pas  ou  si vous  n'avez  pas  d'avis sur  elle ?
+
+                                                                                            • Yaël Braun-Pivet
+             • Jordan  Bardella                      • Edouard  Philippe
+                                                                                            • Yannick  Jadot
+             • Marine  Le Pen                        • Jean-Luc Mélenchon
+                                                                                            • Xavier Bertrand
+             • Marion  Maréchal                      • Eric Zemmour
+                                                                                            • Carole Delga
+             • Dominique   de Villepin               • Raphaël Glucksmann
+                                                                                            • Sandrine Rousseau
+             • Sarah  Knafo                          • François Xavier-Bellamy
+                                                                                            • François Hollande
+             • Eric Ciotti                           • Bernard Cazeneuve
+                                                                                            • Marine  Tondelier
+             • Bruno  Retailleau                     • Fabien Roussel
+                                                                                            • Clémentine  Autain
+             • Gérald Darmanin                       • David Lisnard
+                                                                                            • Olivier Faure
+             • Jean-Philippe Tanguy                  • Michel Barnier
+                                                                                            • Valérie Pécresse
+             • François Ruffin                       • Manuel  Bompard
+                                                                                            • Christian Estrosi
+             • Gabriel Attal                         • Emmanuel   Macron
+                                                                                            • Laurent Wauquiez
+             • Sébastien  Lecornu                    • Rachida Dati
+                                                                                            • François Bayrou
+                                                                                             © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 6 ---
+
+QUESTIONNAIRE
+
+        Sur   une   échelle   de   0  à  10, comment      jugez-vous     l’action   du  Président     de  la  République,
+
+        Emmanuel      Macron    ?
+        0 signifie  que  vous   la rejetez  complètement,      10 que  vous   l’approuvez   complètement
+
+        Sur   une   échelle   de  0   à 10,  comment      jugez-vous     l’action   du  Premier     Ministre,    Sébastien
+        Lecornu    ?
+
+        0 signifie  que  vous   la rejetez  complètement,      10 que  vous   l’approuvez   complètement
+
+                                                                                             © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 7 ---
+
+QUESTIONNAIRE
+
+        Concernant      la  primaire    organisée    par   le Parti   socialiste,  Place   publique    et  de   la Gauche
+        républicaine     et  socialiste   pour   désigner    leur   candidat    à  l’élection  présidentielle     de  2027,
+
+        diriez-vous    que  :
+
+                                                        Elle vous a intéressé
+
+            Oui, tout à fait
+
+            Oui, plutôt
+            Non, plutôt pas
+
+            Non  pas du tout
+            Sans  opinion
+
+                         Elle est un bon moyen de désigner  le candidat socialiste à l’élection présidentielle :
+
+            Oui, tout à fait
+            Oui, plutôt
+
+            Non, plutôt pas
+            Non  pas du tout
+
+            Sans  opinion
+
+                                                                                             © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 8 ---
+
+QUESTIONNAIRE
+
+        Personnellement,       souhaiteriez-vous       que   le candidat    désigné    par   cette  primaire     remporte
+
+        l’élection  présidentielle    de 2027   ?
+
+            Oui, tout à fait
+
+            Oui, plutôt
+            Non, plutôt pas
+
+            Non  pas du tout
+            Sans  opinion
+
+        Selon   vous,   est-il  probable    ou   non   que   le candidat    désigné    par   cette   primaire    remporte
+        l’élection  présidentielle    de 2027   ?
+
+            Tout à fait probable
+
+            Plutôt probable
+            Plutôt pas probable
+
+            Pas  du tout probable
+            Ne  sait pas
+
+                                                                                             © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 9 ---
+
+QUESTIONNAIRE
+
+        Parmi   les candidats    à cette  primaire,   diriez-vous    qu’ils possèdent    les qualités   nécessaires    pour
+
+        exercer   la fonction   de  président   de  la République    ?
+
+        Items  de  réponse   : Oui,  tout  à fait, Oui  plutôt,  Non   plutôt  pas, Non   pas  du  tout,  vous  n’avez  pas
+        d’avis, vous  ne le / la connaissez    pas suffisamment
+
+            Jérôme  Guedj
+            Ségolène  Royal
+
+            Emmanuel   Maurel
+            Raphaël  Glucksmann
+
+            Olivier Faure
+
+                                                                                             © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 10 ---
+
+REDRESSEMENT
+
+                                                                                          © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 11 ---
+
+REDRESSEMENT                  SOCIOLOGIQUE
+
+                                                                                  Région               Brut       Redressé
+                        Sexe                     Brut    Redressé
+                                                                            Auvergne Rhône Alpes      11,2%        12,3%
+                       Hommes                   50,1%      47,7%
+                                                                           Bourgogne Franche Comté    3,7%          4,0%
+                       Femmes                   49,9%      52,3%
+                                                                                 Bretagne             5,7%          5,2%
+                        Age                      Brut    Redressé             Centre Val de Loire     4,1%          3,8%
+                      18-24 ans                 10,6%      10,2%                   Corse              0,6%          0,4%
+                      25-34 ans                 11,6%      15,0%            Français hors de France   1,2%          1,9%
+                                                                                 Grand-Est            6,8%          8,2%
+                      35-49 ans                 22,4%      24,5%
+                                                                                 Outre-mer            0,6%          1,0%
+                      50-64 ans                 26,9%      24,5%
+                                                                               Hauts-de-France        7,1%          9,0%
+                     65 ans et plus             28,5%      25,8%
+                                                                                Ile de France         20,6%        17,4%
+         Catégorie socio-professionnelle de l’individu Brut Redressé             Normandie            4,7%          5,0%
+                     Agriculteurs                0,4%      0,8%               Nouvelle Aquitaine      10,5%         9,0%
+         Artisans, commerçants, chefs d’entreprise et 4,0% 3,6%                  Occitanie            9,9%          9,0%
+                professions indépendantes
+                                                                               Pays de la Loire       6,1%          5,6%
+        Cadres et professions intellectuelles supérieures 12,6% 9,7%
+                                                                          Provence Alpes Côte d'Azur  7,2%          8,2%
+                Professions intermédiaires      14,7%      14,2%              Taille de commune        Brut       Redressé
+                      Employés                  13,7%      16,1%               Inf à 3000 hab         27,1%         29,8%
+                       Ouvriers                  8,1%      12,4%               3000-10000 hab         19,4%         19,2%
+                       Retraités                35,2%      33,8%              10000-30000 hab         16,3%         16,8%
+                                                                              30000-100000 hab        17,0%         17,4%
+                     Autres Inactifs            11,3%      9,4%
+                                                                             Plus de 100000 hab       20,2%         16,8%
+                                                                                             © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 12 ---
+
+REDRESSEMENT                  POLITIQUE
+
+                                         er
+                                         1 tour de la présidentielle 2022        Brut        Redressé
+                                                Anne Hidalgo                     1,7%         1,8%
+                                              Emmanuel Macron                   26,9%         27,8%
+
+                                               Eric Zemmour                      8,1%         7,1%
+                                               Fabien Roussel                    3,2%         2,2%
+
+                                                Jean Lassalle                    3,4%         3,1%
+                                             Jean-Luc Mélenchon                 23,2%         22,0%
+
+                                               Marine Le Pen                    20,2%         23,2%
+
+                                              Nathalie Arthaud                   0,4%         0,7%
+                                            Nicolas Dupont Aignan                2,1%         2,1%
+
+                                               Philippe Poutou                   1,0%         0,8%
+                                              Valérie Pécresse                   5,2%         4,8%
+
+                                               Yannick Jadot                     4,6%         4,4%
+
+                                                                                  %          Effectif
+                                            Abstention, Blanc, nuls             13,2%          224
+
+                                                   NSP                           0,8%          13
+
+                                                                                             © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 13 ---
+
+REDRESSEMENT                  POLITIQUE
+
+                                      Elections européennes de 2024                               Brut          Redressé
+
+                                         Autre (veuillez préciser)                               5,6%             5,8%
+              Une liste « Lutte ouvrière le camp des travailleurs » de Lutte Ouvrière conduite par Nathalie Arthaud 0,2% 0,5%
+
+             Une liste « La France insoumise - Union populaire » de la France Insoumise conduite par Manon Aubry 12,9% 9,9%
+
+         Une liste « Gauche unie pour le monde du travail soutenue par Fabien Roussel » du Parti Communiste Français,
+                                                                                                 2,3%             2,4%
+         du MRC, de la Gauche Républicaine et Socialiste et du Mouvement l'Engagement conduite par Léon Deffontaines
+           Une liste « Europe Écologie » des Ecologistes (ex-Europe Ecologie Les Verts) conduite par Marie Toussaint 4,8% 5,5%
+                         Une liste « Ecologie au centre » conduite par Jean-Marc Governatori     0,6%             1,3%
+
+            Une liste « Réveiller l'Europe » du Parti Socialiste et de Place Publique conduite par Raphaël Glucksmann 13,7% 13,8%
+           Une liste « Besoin d’Europe » de Renaissance, du Modem, de l'UDI et d’Horizons, conduite par Valérie Hayer 15,8% 14,6%
+
+              Une liste « Les animaux comptent, votre voix aussi » du Parti animaliste conduite par Hélène Thouy 2,4% 2,0%
+
+         Une liste « La droite pour faire entendre la voix de la France en Europe » des Républicains conduite par François-
+                                                                                                 8,2%             7,3%
+                                             Xavier Bellamy
+                 Une liste « La France revient ! » du Rassemblement National conduite par Jordan Bardella 27,0%  31,4%
+           Une liste « La France fière » de Reconquête, Mouvement Conservateur et du Parti de la France conduite par
+                                                                                                 6,5%             5,5%
+                                            Marion Maréchal
+                                                                                                   %             Effectif
+                                          Abstention, Blanc, nuls                                22,8%            388
+
+                                                NSP                                              1,4%             24
+
+                                                                                             © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 14 ---
+
+RÉSULTATS
+
+                                                                                          © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 15 ---
+
+RÉSULTATS
+
+        Concernant     les personnalités     politiques   suivantes,   pouvez-vous     nous   dire pour   chacune
+        d'entre  elles  si vous  la soutenez,   si vous  l'appréciez,   si vous  ne l'appréciez   pas,  si vous  ne  la
+        connaissez    pas  ou  si vous  n'avez  pas  d'avis sur  elle ?
+
+                                    BRUT                              REDRESSÉ                            PUBLIÉ
+                                               Vous n'avez pas                   Vous n'avez pas                      Vous n'avez pas
+                                                                          Vous ne
+                      Vous la           Vous ne d'avis sur elle/ Vous la Vous    d'avis sur elle/ Vous la      Vous ne d'avis sur elle/
+         Personnalité        Vous l'appréciez                            l'appréciez               Vous l'appréciez
+                     soutenez         l'appréciez pas Vous ne la soutenez l'appréciez Vous ne la soutenez    l'appréciez pas Vous ne la
+                                                                           pas
+                                               connaissez pas                    connaissez pas                       connaissez pas
+        Marine Le Pen 21,4%     12,8%    53,2%    12,6%    21,4%   12,8%   52,6%   13,2%     21%       13%      53%      13%
+      Jean-Luc Mélenchon 17,5%  9,2%     58,8%    14,5%    17,2%   9,3%    58,9%   14,6%     17%       9%       59%      15%
+        Jordan Bardella 19,1%   11,0%    57,1%    12,8%    19,0%   11,0%   56,7%   13,3%     19%       11%      57%      13%
+       Emmanuel Macron 6,2%     10,8%    67,2%    15,8%    6,1%    10,8%   67,3%   15,8%      6%       11%      67%      16%
+        Yaël Braun-Pivet 3,5%   12,0%    52,8%    31,7%    3,5%    11,6%   52,7%   32,2%      3%       12%      53%      32%
+      Dominique De Villepin 4,0% 21,3%   46,1%    28,6%    4,0%    20,9%   45,7%   29,4%      4%       21%      46%      29%
+        François Ruffin 5,1%    19,9%    35,9%    39,1%    5,0%    19,8%   35,7%   39,5%      5%       20%      36%      39%
+        Edouard Philippe 9,5%   13,5%    56,8%    20,2%    9,2%    13,4%   56,6%   20,8%      9%       13%      57%      21%
+        Christian Estrosi 1,6%  8,5%     60,7%    29,2%    1,6%    8,6%    60,4%   29,4%      2%       9%       60%      29%
+        Marion Maréchal 10,3%   11,9%    58,0%    19,8%    10,3%   11,9%   57,5%   20,3%     10%       12%      58%      20%
+        EricZemmour    7,7%     9,8%     63,8%    18,7%    7,4%    10,0%   63,7%   18,9%      7%       10%      64%      19%
+         Gabriel Attal 6,1%     13,4%    57,8%    22,7%    6,0%    13,1%   57,8%   23,1%      6%       13%      58%      23%
+        Marine Tondelier 2,2%   13,1%    55,5%    29,2%    2,2%    12,8%   55,3%   29,7%      2%       13%      55%      30%
+       Sébastien Lecornu 9,4%   17,5%    46,1%    27,0%    9,3%    17,3%   45,9%   27,5%      9%       17%      46%      28%
+        Michel Barnier 3,5%     17,7%    45,6%    33,2%    3,5%    17,4%   45,7%   33,4%      4%       17%      46%      33%
+        François Bayrou 1,6%    10,1%    62,3%    26,0%    1,6%    10,0%   62,3%   26,1%      2%       10%      62%      26%
+        Fabien Roussel 1,8%     19,8%    42,7%    35,7%    1,7%    19,4%   42,4%   36,5%      2%       19%      42%      37%
+       François Hollande 2,0%   12,7%    59,3%    26,0%    1,9%    13,2%   59,0%   25,9%      2%       13%      59%      26%
+                                                                                             © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 16 ---
+
+RÉSULTATS
+
+        Concernant     les personnalités     politiques   suivantes,   pouvez-vous     nous   dire pour   chacune
+        d'entre  elles  si vous  la soutenez,   si vous  l'appréciez,   si vous  ne l'appréciez   pas,  si vous  ne  la
+        connaissez    pas  ou  si vous  n'avez  pas  d'avis sur  elle ?
+
+                                   BRUT                               REDRESSÉ                              PUBLIÉ
+
+                                               Vous n'avez pas                   Vous n'avez pas                        Vous n'avez pas
+                                                                          Vous ne
+                    Vous la             Vous ne d'avis sur elle/ Vous la Vous     d'avis sur elle/ Vous la      Vous ne d'avis sur elle/
+       Personnalité         Vous l'appréciez                              l'appréciez               Vous l'appréciez
+                    soutenez          l'appréciez pas Vous ne la soutenez l'appréciez Vous ne la soutenez     l'appréciez pas Vous ne la
+                                                                            pas
+                                               connaissez pas                    connaissez pas                         connaissez pas
+      Xavier Bertrand 1,5%     13,6%    53,7%     31,2%    1,5%    13,4%   53,6%    31,5%     1%        13%      54%       32%
+     Raphaël Glucksmann 8,2%   13,4%    49,8%     28,6%    7,8%    13,1%   49,9%    29,2%     8%        13%      50%       29%
+    François Xavier-Bellamy 6,1% 16,7%  43,7%     33,5%    5,9%    16,3%   43,3%    34,5%     6%        16%      43%       35%
+       David Lisnard 9,3%      10,1%    34,9%     45,7%    9,1%    9,9%    34,3%    46,7%     9%        10%      34%       47%
+      Valérie Pécresse 2,8%    10,4%    56,6%     30,2%    2,8%    10,2%   56,9%    30,1%     3%        10%      57%       30%
+      Clémentine Autain 3,4%   14,1%    48,5%     34,0%    3,2%    13,6%   47,8%    35,4%     3%        14%      48%       35%
+      Gérald Darmanin 4,3%     15,9%    57,3%     22,5%    4,1%    15,4%   57,0%    23,5%     4%        15%      57%       24%
+       Sarah Knafo   12,3%     11,2%    51,8%     24,7%    12,2%   11,0%   51,3%    25,5%     12%       11%      51%       26%
+       Rachida Dati  1,9%      11,2%    68,1%     18,8%    1,9%    11,1%   68,1%    18,9%     2%        11%      68%       19%
+      Bruno Retailleau 6,8%    16,5%    52,8%     23,9%    6,7%    16,4%   52,5%    24,4%     7%        16%      53%       24%
+      Manuel Bompard 13,8%     7,3%     52,6%     26,3%    13,3%   7,1%    52,0%    27,6%     13%       7%       52%       28%
+     Sandrine Rousseau 5,5%    12,5%    65,2%     16,8%    5,2%    12,2%   65,0%    17,6%     5%        12%      65%       18%
+      Laurent Wauquiez 1,5%    9,1%     71,4%     18,0%    1,5%    9,1%    71,0%    18,4%     2%        9%       71%       18%
+     Bernard Cazeneuve 2,8%    16,6%    43,6%     37,0%    2,8%    16,6%   44,1%    36,5%     3%        17%      44%       36%
+       Yannick Jadot 2,0%      12,7%    49,9%     35,4%    2,0%    12,3%   49,8%    35,9%     2%        12%      50%       36%
+       Olivier Faure 1,9%      11,5%    58,1%     28,5%    1,9%    11,2%   57,8%    29,1%     2%        11%      58%       29%
+       Carole Delga  2,6%      10,8%    34,2%     52,4%    2,6%    10,4%   33,8%    53,2%     3%        10%      34%       53%
+        Eric Ciotti  9,8%      12,0%    59,3%     18,9%    9,8%    11,9%   58,9%    19,4%     10%       12%      59%       19%
+     Jean-Philippe Tanguy 11,4% 10,9%   48,2%     29,5%    11,2%   11,0%   47,3%    30,5%     11%       11%      47%       31%
+                                                                                             © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 17 ---
+
+RÉSULTATS
+
+        Sur   une   échelle   de   0  à  10, comment      jugez-vous     l’action   du  Président     de  la  République,
+
+        Emmanuel      Macron    ?
+        0 signifie  que  vous   la rejetez  complètement,      10 que  vous   l’approuvez   complètement
+
+                                                         Note moyenne sur 10
+
+                                           Brut               Redressé               Publié
+
+                                            2,4                  2,4                  2,4
+
+        Sur   une   échelle   de  0   à 10,  comment      jugez-vous     l’action   du  Premier     Ministre,    Sébastien
+
+        Lecornu    ?
+        0 signifie  que  vous   la rejetez  complètement,      10 que  vous   l’approuvez   complètement
+
+                                                         Note moyenne sur 10
+
+                                           Brut               Redressé               Publié
+
+                                            3,1                  3,1                  3,1
+
+                                                                                             © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 18 ---
+
+RÉSULTATS
+
+        Concernant      la  primaire    organisée    par   le Parti   socialiste,  Place   publique    et  de   la Gauche
+        républicaine     et  socialiste   pour   désigner    leur   candidat    à  l’élection  présidentielle     de  2027,
+
+        diriez-vous    que  :
+
+                                                        Elle vous a intéressé
+
+                                                                BRUT
+
+           Oui, tout à fait  Oui, plutôt    Non, plutôt pas Non, pas du tout  Sans opinion       Oui total       Non total
+
+              4,5%             16,3%           21,7%            52,8%            4,7%            20,8%            74,5%
+
+                                                              REDRESSÉ
+
+           Oui, tout à fait  Oui, plutôt    Non, plutôt pas Non, pas du tout  Sans opinion       Oui total       Non total
+
+              4,3%             15,9%           21,6%            53,1%            5,1%            20,2%            74,7%
+
+                                                               PUBLIÉ
+
+           Oui, tout à fait  Oui, plutôt    Non, plutôt pas Non, pas du tout  Sans opinion       Oui total       Non total
+
+               4%              16%              22%              53%              5%              20%              75%
+
+                                                                                             © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 19 ---
+
+RÉSULTATS
+
+        Concernant      la  primaire    organisée    par   le Parti   socialiste,  Place   publique    et  de   la Gauche
+        républicaine     et  socialiste   pour   désigner    leur   candidat    à  l’élection  présidentielle     de  2027,
+
+        diriez-vous    que  :
+
+                         Elle est un bon moyen de désigner  le candidat socialiste à l’élection présidentielle :
+
+                                                                BRUT
+
+           Oui, tout à fait  Oui, plutôt    Non, plutôt pas Non, pas du tout  Sans opinion       Oui total       Non total
+
+              7,6%             23,8%           15,1%            28,2%            25,3%           31,4%            43,3%
+
+                                                              REDRESSÉ
+
+           Oui, tout à fait  Oui, plutôt    Non, plutôt pas Non, pas du tout  Sans opinion       Oui total       Non total
+
+              7,9%             23,7%           14,7%            28,4%            25,3%           31,6%            43,1%
+
+                                                               PUBLIÉ
+
+           Oui, tout à fait  Oui, plutôt    Non, plutôt pas Non, pas du tout  Sans opinion       Oui total       Non total
+
+               8%              24%              15%              28%             25%              32%              43%
+
+                                                                                             © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 20 ---
+
+RÉSULTATS
+
+        Personnellement,       souhaiteriez-vous       que   le candidat    désigné    par   cette  primaire     remporte
+        l’élection  présidentielle    de 2027   ?
+
+                                                                BRUT
+
+           Oui, tout à fait  Oui, plutôt    Non, plutôt pas Non, pas du tout  Sans opinion       Oui total       Non total
+
+              5,4%             10,2%           16,9%            50,8%            16,7%           15,6%            67,7%
+
+                                                              REDRESSÉ
+
+           Oui, tout à fait  Oui, plutôt    Non, plutôt pas Non, pas du tout  Sans opinion       Oui total       Non total
+
+              5,2%             10,1%           16,9%            50,6%            17,2%           15,3%            67,5%
+
+                                                               PUBLIÉ
+
+           Oui, tout à fait  Oui, plutôt    Non, plutôt pas Non, pas du tout  Sans opinion       Oui total       Non total
+
+               5%              10%              17%              51%             17%              15%              68%
+
+                                                                                             © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 21 ---
+
+RÉSULTATS
+
+        Selon   vous,   est-il  probable    ou   non   que   le candidat    désigné    par   cette   primaire    remporte
+        l’élection  présidentielle    de 2027   ?
+
+                                                                BRUT
+
+         Tout à fait probable Plutôt probable Plutôt pas probable Pas du tout probable Ne sait pas Probable total Pas probable total
+
+              0,4%             3,1%            29,1%            58,9%            8,5%             3,5%            88,0%
+
+                                                              REDRESSÉ
+
+         Tout à fait probable Plutôt probable Plutôt pas probable Pas du tout probable Ne sait pas Probable total Pas probable total
+
+              0,3%             3,2%            28,9%            58,6%            9,0%             3,5%            87,5%
+
+                                                               PUBLIÉ
+
+         Tout à fait probable Plutôt probable Plutôt pas probable Pas du tout probable Ne sait pas Probable total Pas probable total
+
+               0%               3%              29%              59%              9%               3%              88%
+
+                                                                                             © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 22 ---
+
+RÉSULTATS
+
+        Parmi   les candidats    à cette  primaire,   diriez-vous    qu’ils possèdent    les qualités   nécessaires    pour
+        exercer   la fonction   de  président   de  la République    ?
+
+                                                           Jérôme  Guedj
+
+                                                                BRUT
+
+                                                               Vous n’avez pas Vous ne le/la connaissez
+         Oui, tout à fait Oui, plutôt Non, plutôt pas Non, pas du tout                              Oui total     Non total
+                                                                   d’avis      pas suffisamment
+             1,1%         10,2%        21,2%         40,4%         8,8%            18,3%             11,3%         61,6%
+
+                                                              REDRESSÉ
+
+                                                               Vous n’avez pas Vous ne le/la connaissez
+         Oui, tout à fait Oui, plutôt Non, plutôt pas Non, pas du tout                              Oui total     Non total
+                                                                   d’avis      pas suffisamment
+             1,1%         9,8%         20,4%         40,8%         8,8%            19,1%             10,9%         61,2%
+
+                                                               PUBLIÉ
+
+                                                               Vous n’avez pas Vous ne le/la connaissez
+         Oui, tout à fait Oui, plutôt Non, plutôt pas Non, pas du tout                              Oui total     Non total
+                                                                   d’avis      pas suffisamment
+             1%           10%           20%           41%           9%              19%              11%            61%
+
+                                                                                             © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 23 ---
+
+RÉSULTATS
+
+        Parmi   les candidats    à cette  primaire,   diriez-vous    qu’ils possèdent    les qualités   nécessaires    pour
+        exercer   la fonction   de  président   de  la République    ?
+
+                                                           Ségolène Royal
+
+                                                                BRUT
+
+                                                               Vous n’avez pas Vous ne le/la connaissez
+         Oui, tout à fait Oui, plutôt Non, plutôt pas Non, pas du tout                              Oui total     Non total
+                                                                   d’avis      pas suffisamment
+             4,3%         16,6%        19,7%         56,4%         2,7%             0,3%             20,9%         76,1%
+
+                                                              REDRESSÉ
+
+                                                               Vous n’avez pas Vous ne le/la connaissez
+         Oui, tout à fait Oui, plutôt Non, plutôt pas Non, pas du tout                              Oui total     Non total
+                                                                   d’avis      pas suffisamment
+             4,3%         16,3%        19,6%         56,6%         2,9%             0,3%             20,6%         76,2%
+
+                                                               PUBLIÉ
+
+                                                               Vous n’avez pas Vous ne le/la connaissez
+         Oui, tout à fait Oui, plutôt Non, plutôt pas Non, pas du tout                              Oui total     Non total
+                                                                   d’avis      pas suffisamment
+             4%           16%           20%           57%           3%              0%               20%            77%
+
+                                                                                             © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 24 ---
+
+RÉSULTATS
+
+        Parmi   les candidats    à cette  primaire,   diriez-vous    qu’ils possèdent    les qualités   nécessaires    pour
+        exercer   la fonction   de  président   de  la République    ?
+
+                                                         Emmanuel   Maurel
+
+                                                                BRUT
+
+                                                               Vous n’avez pas Vous ne le/la connaissez
+         Oui, tout à fait Oui, plutôt Non, plutôt pas Non, pas du tout                              Oui total     Non total
+                                                                   d’avis      pas suffisamment
+             0,5%         3,3%         10,9%         33,7%         12,2%           39,4%             3,8%          44,6%
+
+                                                              REDRESSÉ
+
+                                                               Vous n’avez pas Vous ne le/la connaissez
+         Oui, tout à fait Oui, plutôt Non, plutôt pas Non, pas du tout                              Oui total     Non total
+                                                                   d’avis      pas suffisamment
+             0,5%         3,2%         10,4%         33,9%         12,2%           39,8%             3,7%          44,3%
+
+                                                               PUBLIÉ
+
+                                                               Vous n’avez pas Vous ne le/la connaissez
+         Oui, tout à fait Oui, plutôt Non, plutôt pas Non, pas du tout                              Oui total     Non total
+                                                                   d’avis      pas suffisamment
+             1%            3%           10%           34%          12%              40%               4%            44%
+
+                                                                                             © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 25 ---
+
+RÉSULTATS
+
+        Parmi   les candidats    à cette  primaire,   diriez-vous    qu’ils possèdent    les qualités   nécessaires    pour
+        exercer   la fonction   de  président   de  la République    ?
+
+                                                        Raphaël Glucksmann
+
+                                                                BRUT
+
+                                                               Vous n’avez pas Vous ne le/la connaissez
+         Oui, tout à fait Oui, plutôt Non, plutôt pas Non, pas du tout                              Oui total     Non total
+                                                                   d’avis      pas suffisamment
+             6,2%         15,9%        19,2%         46,6%         9,5%             2,6%             22,1%         65,8%
+
+                                                              REDRESSÉ
+
+                                                               Vous n’avez pas Vous ne le/la connaissez
+         Oui, tout à fait Oui, plutôt Non, plutôt pas Non, pas du tout                              Oui total     Non total
+                                                                   d’avis      pas suffisamment
+             6,1%         15,9%        18,4%         46,9%         9,7%             3,0%             22,0%         65,3%
+
+                                                               PUBLIÉ
+
+                                                               Vous n’avez pas Vous ne le/la connaissez
+         Oui, tout à fait Oui, plutôt Non, plutôt pas Non, pas du tout                              Oui total     Non total
+                                                                   d’avis      pas suffisamment
+             6%           16%           18%           47%          10%              3%               22%            65%
+
+                                                                                             © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 26 ---
+
+RÉSULTATS
+
+        Parmi   les candidats    à cette  primaire,   diriez-vous    qu’ils possèdent    les qualités   nécessaires    pour
+        exercer   la fonction   de  président   de  la République    ?
+
+                                                            Olivier Faure
+
+                                                                BRUT
+
+                                                               Vous n’avez pas Vous ne le/la connaissez
+         Oui, tout à fait Oui, plutôt Non, plutôt pas Non, pas du tout                              Oui total     Non total
+                                                                   d’avis      pas suffisamment
+             1,8%         10,6%        23,4%         56,1%         5,5%             2,6%             12,4%         79,5%
+
+                                                              REDRESSÉ
+
+                                                               Vous n’avez pas Vous ne le/la connaissez
+         Oui, tout à fait Oui, plutôt Non, plutôt pas Non, pas du tout                              Oui total     Non total
+                                                                   d’avis      pas suffisamment
+             1,8%         10,4%        23,0%         56,0%         5,8%             3,0%             12,2%         79,0%
+
+                                                               PUBLIÉ
+
+                                                               Vous n’avez pas Vous ne le/la connaissez
+         Oui, tout à fait Oui, plutôt Non, plutôt pas Non, pas du tout                              Oui total     Non total
+                                                                   d’avis      pas suffisamment
+             2%           10%           23%           56%           6%              3%               12%            79%
+
+                                                                                             © Baromètre des personnalités politiques -Octobre 2026
+
+--- page 27 ---
+
+Notre       ADN       : la   rigueur
+
+      L’identité de Cluster17 est la rigueur scientifique. Fondé                 scientifique
+
+      par des universitaires, nous avons à cœur de produire des
+      données  de qualité.
+
+      Cluster17  est le résultat d’un travail en recherche et
+      développement  de plusieurs années qui a permis de créer
+
+      un outil de sondages  performant, un panel de 200  000
+      individus et une  méthode   d’analyse innovante  testée
+
+      auprès   de  dizaines de   milliers de  personnes   sur
+      l’ensemble du  territoire. Cette approche repose sur une
+      segmentation   inédite de la  société française en  16
+
+      groupes homogènes   : les Clusters.
+
+                                                                            Jean-Yves  Dormagen   est le président & fondateur
+      Fort de ce travail, Cluster17 s’est hissé sur le podium des
+      meilleurs sondeurs à chaque  élection depuis sa création              de  Cluster17, docteur  et professeur  en  science
+      en 2022.                                                              politique, représentant  en  France  de   la World
+                                                                            Association for Public Opinion Research (WAPOR).
+
+             Retrouvez   nos  performances
+
+--- page 28 ---
+
+Nos      7  engagements
+
+                          1                                                             2
+
+                                                     Cluster17s’engageàappliquerles loisapplicablesenmatière deprotectiondedonnéespersonnelles.Ellea
+        Cluster17s’engageàappliquerlescodesetlestechniques
+                                                     désignéensonseinunDPO(DataProtection Officer)etamisenplaceunPIA(PrivacyImpactAssessment)
+        des Etudes de marché et d’opinion. Elle répond aux règles
+                                                     pourêtreconstammentenconformitéavecleRèglementGénéralsurlaProtectiondeDonnées(RGPD).Pour
+        déontologiques des spécialistes des sondages et protège
+                                                     plus de renseignements sur notre politique de protection de données: https://cluster17.com/politique-de-
+        lesdroitsdesespanélistes.
+                                                     protection-des-donnees/
+                          3
+                                                                                         4
+        Sauf engagement contractuel spécifique, la durée de
+                                                     Cluster17s’engageàréaliserdesprocéduresdecontrôlequalitéàchaqueétaped’uneétude:
+        conservation des données personnelles danslecadre d’un
+                                                       • Le questionnaire est rédigé en tenant compte des standards et normes professionnelles, il est rédigé et
+        sondage est de 36 mois pour les enquêtes récurrentes et
+                                                        reluparledirecteurdesétudespuisenvoyéauclientpourvalidationfinale.
+        de24moispourlesenquêtesadhoc.
+                                                       • Laprogrammationduquestionnaireesttestéeparaumoinstroispersonnesdifférentesavantsonenvoi.
+                          5
+                                                                                         6
+        Cluster17s’imposedesrèglestrèsstrictespourchoisirses
+        panélisteseteffectuerletiragealéatoiredespersonnesqui Cluster17 suit le terrain et la collecte de manière rigoureuse (lien unique, taux de participation, durée des
+        constituerontsonéchantillonpourunsondagedonné:taux réponses, comportement des répondants, contrôle des adresses IP des répondants, suivi des
+        desollicitation,tauxderéponse,tiragealéatoire... comportementsdespanélistes,cohérencedesréponses,…).
+             7    Cluster17analyseles résultats enappliquant les méthodesstatistiques envigueur.Lesrésultats bruts sontsystématiquement contrôlés etleurcohérence
+                  interrogée.Lesrésultatspondéréssontsystématiquementcontrôlésparaumoinsdeuxpersonnesqualifiéesdontunquantitativisteconfirmé.
+
+--- page 29 ---
+
+contact@cluster17.com
+       Retrouvez  Cluster17  sur        &
+                                                                                      jean-yves.dormagen@cluster17.com

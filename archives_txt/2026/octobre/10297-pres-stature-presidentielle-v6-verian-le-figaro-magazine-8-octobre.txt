@@ -1,0 +1,2119 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10297-pres-stature-presidentielle-v6-verian-le-figaro-magazine-8-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+La     stature            présidentielle                    de
+
+     candidats                potentiels               à   la
+
+     prochaine                 élection
+
+     présidentielle
+
+     Vague     6 – Octobre     2026
+
+    Notice   pour  le site de  la Commission       des  Sondages
+
+                                                                                                              Contact   Verian
+
+                                                                                           laure.salvaing@veriangroup.com
+
+--- page 2 ---
+
+Un     sondage                                    réalisé       pour
+
+                                                                                Publication dans Le Figaro Magazine le 9 octobre 2026
+
+     La  méthodologie                                                                       Levée  d’embargo  – Jeudi 8 octobre – 8h
+
+        Echantillon                               Mode   de recueil                          Dates  de  terrain
+
+        • Enquête réalisée auprès d'un            • Les interviews ont été réalisées         • Interviews réalisées du 27
+
+          échantillon de 1000 personnes            en ligne sur Panel.                         Septembre  au 29 Septembre
+          représentatif de la population                                                       2026
+                                                  • Questionnaire quantitatif
+          âgée  de 18 ans et plus.
+                                                   autoadministré
+        • La représentativité de                                                Les évolutions dans le rapport correspondent à la comparaison avec la vague 1
+                                                                                dont le terrain a eu lieu du 29 au 31 mars 2026, la vague 2 dont le terrain a eu lieu
+          l’échantillon est assurée par la
+                                                                                du 24 au 27 avril 2026, et la vague 3 dont le terrain a été réalisé entre le 31 mai et
+          méthode  des quotas (sexe, âge,                                       le 2 juin 2026, la vague 4 dont le terrain a eu lieu du 8 au 10 juillet 2026, la vague 5
+                                                                                dont le terrain a eu lieu entre le 30 août et le 1erseptembre.
+          profession de la personne de
+          référence et région).
+                                                                                                                       Note de lecture
+        • Les panélistes ayant complété le
+          questionnaire obtiennent des                                             L’enquête a fait l’objet d’un redressement sociodémographique (données
+                                                                                      INSEE). Les résultats de cette enquête sont soumis aux marges d’erreurs
+          points cumulables pour une
+                                                                                     inhérentes aux lois statistiques, elles sont précisées dans la page qui suit.
+          valeur inférieure à 1 euro.
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 2
+
+--- page 3 ---
+
+Précisions           techniques            sur     les   marges         d’erreur
+
+     Les résultats de cette étude Pour cette étude sur 1000 individus, une répartition de 50 % / 50 % a une précision de ± 3,1 %. Autrement dit, il y a 95%
+     sont  soumis  aux  marges   de chances que la proportion réelle dans l’ensemble de la population soit comprise entre 50 – 3,1 % et 50 + 3,1 %, la
+     d’erreur,  comme     toute  proportion la plus probable étant 50%.
+     enquête quantitative réalisée
+                                 Pour un échantillon de 1000 individus, à 95% de confiance les intervalles de confiance selon les proportions
+     par sondage.
+                                 observées sont :
+     Les marges d’erreurs données
+     dans les sondages se basent
+     sur    l’hypothèse    d'un
+     échantillonnage aléatoire. Si
+     les marges  d’erreurs réelles                       Intervalle de confiance selon la proportion observée
+                                                                                                        96,4
+     dans  les  sondages   dont              ) 100                                                   91,9
+                                             %
+                                                                                                  87,2
+     l s ' e é l c o h n an la till m on é n t a ho g d e e e d st es co q n u s o tr t u a i s t ( e c 90 Borne inférieure de l'intervalle de 77,7 82,5 93,6
+                                             n  80          confiance                     72,8       88,1
+                                             a
+     ne   sont  pas  mesurables              if                                        68,0       82,8
+     scientifiquement, on estime en          n o 70                              58,1 63,0     77,5
+                                             c                                               72,3
+     pratique qu’elles sont proches          e  60                            53,1        67,2
+     d
+     d'
+      e
+      un
+        celles calcu
+                 é
+                 lé
+                  c
+                   e
+                   h
+                    s
+                    a
+                     d
+                     n
+                      a
+                      til
+                       n
+                        lo
+                        s
+                         n
+                          le
+                          na
+                           c
+                            g
+                             a
+                             e
+                              s
+                                             d
+                                             e lla 50                38,0 43,0
+                                                                           48,1
+                                                                                 51,9
+                                                                                    57,0
+                                                                                       62,0
+                                             v r 40               32,8        46,9
+     aléatoire.                              e                 27,7
+                                             t                             41,9
+                                             n  30          22,5        37,0
+                                             i'l
+                                                         17,2        32,0
+     La marge d’erreur dépend de             e d 20   11,9        27,2
+     la taille de la population, ainsi       e     6,4         22,3
+                                             n  10          17,5
+     que de la proportion à laquelle         r o         12,8
+                                             B   0  3,6 8,1
+     on l’applique.
+                                                    5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95
+                                                                         Proportion observée (%)
+                                                                                                                     Octobre 2026 3
+
+--- page 4 ---
+
+Intérêt             pour          l’élection
+
+     présidentielle
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 4
+
+--- page 5 ---
+
+Intérêt        pour      l’élection        présidentielle
+
+     Vous intéressez-vous à l’élection présidentielle qui aura lieu en avril et mai 2027 ?
+
+                                 Total  Non
+
+                                      25
+                                                          7
+
+                                                 18
+
+                                                                         41
+
+                                                                                  Total  Oui
+
+                                                                                      75
+
+                                                      34
+
+                                              Beaucoup   Assez   Peu   Pas du tout
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 5
+
+--- page 6 ---
+
+Intérêt        pour      l’élection        présidentielle
+
+                                          Beaucoup         Assez           ST Oui          Peu          Pas du tout      ST Non
+
+     TOTAL                                   41             34              75              18             7               25
+     Sexe
+     Un homme                                48             30              78              16             6               22
+     Une femme                               33             38              71              21             8               29
+     Âge
+     18 à 24 ans                             36             39              75              18             7               25
+     25 à 34 ans                             33             31              64              25             11              36
+     35 à 49 ans                             40             29              69              22             9               31
+     50 à 64 ans                             39             37              76              18             6               24
+     65 ans et plus                          49             35              84              12             4               16
+     Profession du chef de ménage
+     ST PCS+                                 42             33              75              19             6               25
+       -Commerçant, artisan, chef d'entreprise 38           32              70              21             9               30
+       -Cadre, profession intellectuelle     51             28              79              14             7               21
+       -Profession intermédiaire             36             38              74              20             6               26
+     ST PCS-                                 31             35              66              23             11              34
+       -Employé                              32             36              68              24             8               32
+       -Ouvrier                              32             33              65              22             13              35
+     ST Inactif, retraité                    49             34              83              13             4               17
+     Préférence partisane
+     Grande Gauche (EXG, PC, FI, PS, EELV)   45             36              81              16             3               19
+       -La France Insoumise                  54             34              88              12             0               12
+       -Parti socialiste                     42             37              79              17             4               21
+       -Les Ecologistes-EELV                 25             51              76              22             2               24
+     Ensemble (Renaissance, Modem, Horizons) 52             37              89              9              2               11
+       -Renaissance                          48             42              90              6              4               10
+     Droite (UDI, Les Républicains, RN, Reconquête) 58      32              90              9              1               10
+       -Les Républicains                     57             34              91              9              0               9
+       -RN                                   56             32              88              10             2               12
+     Sans préférence partisane               21             34              55              29             16              45
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 6
+
+--- page 7 ---
+
+Intérêt        pour      l’élection        présidentielle
+
+                                         Beaucoup         Assez           ST Oui          Peu          Pas du tout      ST Non
+
+    TOTAL                                   41             34              75             18              7              25
+
+    Classement Gauche / Droite
+
+    Extrême-gauche                          63             23              86              9              5              14
+    Gauche                                  29             41              70             24              6              30
+                                            33             42              75             19              6              25
+    Centre
+                                            39             37              76             20              4              24
+    Droite
+    Extrême-droite                          60             29              89              9              2              11
+    Sans opinion                            9              28              37             36              27             63
+    Vote au 1er tour de l'élection présidentielle 2022
+
+    Jean-Luc Mélenchon                      43             40              83             16              1              17
+                                            48             34              82             16              2              18
+    Emmanuel Macron
+    Marine Le Pen                           52             33              85             12              3              15
+    Abstention, blanc, nul, sans réponse    19             33              52             29              19             48
+    Taille d'unité urbaine
+
+                                            37             35              72             21              7              28
+    Rural
+                                            35             32              67             26              7              33
+    2000 à 20 000 habitants
+    20 000 à 100 000 habitants              33             43              76             18              6              24
+                                            46             31              77             15              8              23
+    Plus de 100 000 habitants
+                                            48             33              81             13              6              19
+    Agglo Paris
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 7
+
+--- page 8 ---
+
+La      stature             présidentielle                        de
+
+     candidats                  potentiels                  à    la    prochaine
+
+     présidentielle
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 8
+
+--- page 9 ---
+
+La  stature    présidentielle       de  candidats      potentiels      à la  prochaine      présidentielle
+
+      Pour chacune des personnalités suivantes, diriez-vous que :
+
+          A les compétences pour être un(e)   Représente bien la France      A une vision claire pour      Capable de prendre
+               bon(ne) Président(e) Total Oui     et les Français  Total Oui  l’avenir de la France Total Oui les décisions dont le Total Oui
+                                                                                                              pays a besoin
+
+                    Oui plutôt Oui, tout à fait
+                                         15                           15                            18                          16
+ Jean-Luc MÉLENCHON  9  6                         10 5                           12  6                       9   7
+
+                                         17                           18                            19                          16
+ Raphaël GLUCKSMANN   13 4                          15 3                          15 4                        12 4
+
+                                         20                           18                            16                          17
+   François HOLLANDE    16 4                        14 4                         13 3                         12 5
+
+        Gabriel ATTAL   16 3             19           19 4            23            18 3            21         15 4             19
+
+   Sébastien LECORNU  16  2              18           18 3            21            18 3            21           18 3           21
+
+     Edouard PHILIPPE       25  5        30             23  5         28              22 5          27             21 6         27
+
+     Bruno RETAILLEAU   16  6            22           18 5            23            19  6           25           18  7          25
+
+        Marine LE PEN     20       18    38             22       19   41             20       19    39            20        19  39
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 9
+
+--- page 10 ---
+
+La  stature    présidentielle       de  candidats      potentiels      à la  prochaine      présidentielle
+
+     Pour chacune  des personnalités suivantes, diriez-vous que :
+
+                                  Total Oui
+     A les compétences pour être un(e)                                   Représente bien la France et
+          bon(ne) Président(e)     Avril Mai  Juin Juillet Septembre Octobre   les Français      Avril Mai Juin Juillet Septembre Octobre
+                                                     16                                                           17
+                                  14     14    15          15    15         Jean-Luc MÉLENCHON 14     14    14          13    15
+                Jean-Luc MÉLENCHON
+                                   16    19    16    18    18     17                            18    19    18    19    19    18
+                                                                           Raphaël GLUCKSMANN
+               Raphaël GLUCKSMANN
+                                         21    18    22    21    20                                   21    17   24     22    18
+
+                                                                               François HOLLANDE
+                  François HOLLANDE
+
+                                  24     24     27   24    23                                   26    26    26    26    24    23
+                       Gabriel ATTAL                             19                Gabriel ATTAL
+                                                                                                                         22    21
+
+                  Sébastien LECORNU                        19     18          Sébastien LECORNU
+                                                                                                37    33    29    31    30     28
+                                   40
+                    Edouard PHILIPPE     35    34    35    34     30            Edouard PHILIPPE
+
+                                   24    24    24    24    23    22                              25    24    27    24    23    23
+                    Bruno RETAILLEAU
+                                                                                Bruno RETAILLEAU
+                                   39    36    41    44    40    38                              41    37    43    43    42   41
+                       Marine LE PEN
+                                                                                   Marine LE PEN
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 10
+
+--- page 11 ---
+
+La  stature    présidentielle       de  candidats      potentiels      à la  prochaine      présidentielle
+
+     Pour chacune  des personnalités suivantes, diriez-vous que :
+
+                                  Total Oui
+    A une vision claire pour l’avenir                                     Capable de prendre les décisions
+           de la France         Avril Mai  Juin  Juillet Septembre Octobre    dont le pays a besoin   Juillet Septembre   Octobre
+                                                                                                      17         15         16
+                                19            18     19    18     18            Jean-Luc MÉLENCHON
+                                       16
+           Jean-Luc MÉLENCHON
+                                20     20     20    19     19     19                                  17          18        16
+                                                                                Raphaël GLUCKSMANN
+          Raphaël GLUCKSMANN
+                                                                                                      21
+                                       18            17           16                                            16        17
+                                              15           15
+                                                                                   François HOLLANDE
+              François HOLLANDE
+                                                                                                      24         23
+                                26     24      27    23     25    21                                                       19
+                  Gabriel ATTAL                                                         Gabriel ATTAL
+                                                                                                                 21        21
+                                                            21     21
+             Sébastien LECORNU                                                     Sébastien LECORNU
+                                                                                                      32
+                                                                                                                 29
+                                36     31     30     31     29                                                             27
+                Edouard PHILIPPE                                   27                Edouard PHILIPPE
+                                                                                                       26        24        25
+                               25     23     27      26     25     25
+               Bruno RETAILLEAU
+                                                                                     Bruno RETAILLEAU
+                               41     37     45      44     41     39                                 43        40         39
+                  Marine LE PEN
+                                                                                        Marine LE PEN
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6         Octobre 2026 11
+
+--- page 12 ---
+
+Jean-Luc      Mélenchon
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                                      Total Non      Je ne sais pas Non pas du tout Non plutôt pas Oui plutôt Oui, tout à fait Total Oui Evol V5
+
+       A les compétencespour être un bon 78                                                                         15        =
+                                                  7                 67                  11    9   6
+                             Président
+
+    Représente bien la France et les Français 78  7                 66                  12    10  5                 15        +2
+
+      A une vision claire pour l’avenir de la 73    9                 64                 9    12   6                18        =
+                               France
+
+  Est capable de prendre les décisions dont
+                       le pays a besoin 75         9                 65                 10    9   7                 16        +1
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 12
+
+--- page 13 ---
+
+Jean-Luc      Mélenchon
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                               Extrêmegauche        Gauche
+                     Total Oui       Avril         Mai           Juin          Juillet      Septembre       Octobre
+
+                                                                  64            59             66            66
+                                     54
+                                                   43
+     A les compétences pour être un
+                                                                  27            26
+                                     22            20                                          19            20
+                    bon Président
+                                     55                           57            56                           64
+                                                   50                                          48
+     Représente bien la France et les
+                                     26                           23            25                           23
+                                                                                               19
+                        Français                   14
+                                     66                                         70             66            74
+                                                                  61
+                                                   57
+   A une vision claire pour l’avenir de 33                        35
+                                                                                29             29            29
+                       la France                   19
+
+                                                                                67             69            75
+                                                                  57
+         Est capable de prendre les
+     décisions dont le pays a besoin                              31
+                                                                                23             23            22
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 13
+
+--- page 14 ---
+
+Jean-Luc      Mélenchon
+
+                                                                                                 Est capable de prendre les
+                                      A les compétencespour Représentebien la France et A une visionclaire pour
+      Sous-Total Oui                                                                              décisionsdont le pays a
+                                       être un bon Président les Français      l’avenir de la France
+                                                                                                        besoin
+      TOTAL                                   15                 15                  18                  16
+      Sexe
+      Homme                                   17                 15                  20                  16
+      Femme                                   13                 13                  17                  14
+      Age
+      18 à 24 ans                             34                 31                  42                  31
+      25 à 34 ans                             15                 17                  20                  19
+      35 à 49 ans                             17                 17                  25                  20
+      50 à 64 ans                             10                 8                   12                  11
+      65 ans et plus                          9                  10                  11                  11
+      Profession du chef de ménage
+      ST PCS+                                 19                 18                  25                  19
+       -Commerçant, artisan, chef d'entreprise 17                20                  20                  11
+       -Cadre, profession intellectuelle      16                 15                  23                  18
+       -Profession intermédiaire              21                 21                  27                  22
+      ST PCS-                                 12                 13                  17                  14
+       -Employé                               14                 15                  15                  14
+       -Ouvrier                               11                 14                  16                  14
+      ST Inactif, retraité                    13                 12                  16                  13
+      Préférence partisane
+      Grande Gauche (EXG, PC, FI, PS, EELV)   42                 45                  51                  50
+       -La France Insoumise                   84                 81                  88                  88
+       -Parti socialiste                      13                 17                  24                  24
+       -Les Ecologistes-EELV                  25                 36                  37                  29
+      Ensemble (Renaissance, Modem, Horizons) 11                 9                   16                   4
+       -Renaissance                           16                 11                  11                   5
+      Droite (UDI, Les Républicains, RN, Reconquête) 6           3                   5                    4
+       -Les Républicains                      2                  2                   4                    3
+       -RN                                    8                  5                   5                    4
+      Sans préférence partisane               7                  7                   11                   7
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 14
+
+--- page 15 ---
+
+Jean-Luc      Mélenchon
+
+                                                                                                Est capable de prendre les
+                                   A les compétencespour être Représentebien la France et A une visionclaire pour
+      Sous-Total Oui                                                                             décisions dont le pays a
+                                       un bon Président      les Français     l’avenir de la France
+                                                                                                       besoin
+      TOTAL                                 15                  15                  18                  16
+      Classement Gauche / Droite
+      Extrême-gauche                        66                  64                  74                  75
+      Gauche                                20                  23                  29                  22
+      Centre                                7                   9                   12                  7
+      Droite                                11                  8                   12                  8
+
+      Extrême-droite                        4                   4                   7                   4
+      Sans opinion                          6                   5                   8                   7
+      Vote au 1er tour de l'élection
+      présidentielle 2022
+      Jean-Luc Mélenchon                    64                  64                  71                  73
+
+      Emmanuel Macron                       4                   7                   14                  7
+      Marine Le Pen                         6                   4                   5                   4
+      Abstention, blanc, nul, sans réponse  12                  11                  14                  11
+
+      Taille d'unité urbaine
+      Rural                                 11                  10                  13                  9
+
+      2000 à 20 000 habitants               14                  12                  14                  11
+      20 000 à 100 000 habitants            20                  19                  19                  20
+      Plus de 100 000 habitants             13                  13                  17                  13
+
+      Agglo Paris                           21                  24                  36                  29
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 15
+
+--- page 16 ---
+
+Jean-Luc      Mélenchon
+
+                                                                                                Est capable de prendre les
+                                   A les compétencespour être Représentebien la France et A une visionclaire pour
+      Sous-Total Oui                                                                             décisions dont le pays a
+                                       un bon Président      les Français     l’avenir de la France
+                                                                                                       besoin
+      TOTAL                                 15                  15                  18                  16
+      Intention de vote présidentielle 2027
+      Fabien Roussel                        21                  27                  33                  33
+      Jean-Luc Mélenchon                    82                  82                  87                  91
+      Raphaël Glucksmann                    16                  15                  19                  16
+      Edouard Philippe                      2                   5                   11                  2
+
+      Gabriel Attal                         1                   1                   2                   1
+      Bruno Retailleau                      6                   2                   2                   2
+      Marine Le Pen                         6                   5                   6                   4
+
+      EricZemmour                           0                   0                   11                  0
+      Marine Tondelier                      24                  19                  38                  35
+      Abstention, blanc, nul, sans réponse  8                   9                   13                  8
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 16
+
+--- page 17 ---
+
+Raphaël      Glucksmann
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                                         Total Non   Je ne sais pas Non pas du tout Non plutôt pas Oui plutôt Oui, tout à fait Total Oui Evol V5
+
+         A les compétencespour être un bon
+                               Président  62                                                                        17         -1
+                                                      21              44              18      13   4
+
+     Représente bien la France et les Français 61     21               43             18       15   3               18         -1
+
+        A une vision claire pour l’avenir de la
+                                          59
+                                 France                22              41             18       15   4               19
+                                                                                                                               =
+
+    Est capable de prendre les décisions dont
+                         le pays a besoin 62          22              43              19      12   4
+                                                                                                                    16
+                                                                                                                               -2
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 17
+
+--- page 18 ---
+
+Raphaël      Glucksmann
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                               Extrême gauche       Gauche      Centre                             1 / 2
+                     Total Oui     Avril       Mai         Juin        Juillet   Septembre    Octobre
+
+                                               52
+                                  45
+                                                                       42
+                                                                                    41
+                                                           39
+                                                                                                38
+                                               35
+                                                                       32
+     A les compétences pour être un
+                                                                                    29
+                                                                                                28
+                    bon Président                          25
+                                  24
+                                               20          20
+                                                                                                   23
+                                                                                    17
+                                  16
+                                                                       15
+                                  49
+                                               47
+                                                                       43           43
+                                                                                                41
+                                                           39
+     Représente bien la France et les
+                                               35
+                        Français                                       33
+                                                                                                27
+                                  26
+                                                           25
+                                                                                    24
+                                                           23
+                                               22
+                                                                                                   24
+                                  17
+                                                                       14
+                                                                                    20
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 18
+
+--- page 19 ---
+
+Raphaël      Glucksmann
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                               Extrême gauche       Gauche      Centre                             2 / 2
+                     Total Oui     Avril       Mai         Juin        Juillet   Septembre    Octobre
+
+                                   50
+                                                                        49
+                                                                                    45
+                                               44
+                                                           41
+                                                                                                40
+                                               37
+   A une vision claire pour l’avenir de
+                                                           30
+                       la France                                        28                      28
+                                                           26
+                                   25                                               25
+                                               24
+                                                                                                  27
+                                   17                                               17
+                                                                        13
+                                                          42
+                                                                                   41
+                                                                       40
+                                                                                                34
+                                                          31
+         Est capable de prendre les
+                                                                       28
+     décisions dont le pays a besoin
+                                                                                                25
+                                                                                   24
+                                                                                                  23
+                                                                                   17
+                                                          16
+                                                                       15
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 19
+
+--- page 20 ---
+
+Raphaël      Glucksmann
+
+                                          A les compétences                                         Est capable de prendre les
+                                                         Représentebien la France et A une visionclaire pour
+     Sous-Total Oui                       pour être un bon                                           décisionsdont le pays a
+                                                               les Français      l’avenir de la France
+                                             Président                                                    besoin
+     TOTAL                                     17                 18                   19                   16
+     Sexe
+     Homme                                     17                 18                   21                   18
+     Femme                                     16                 19                   17                   15
+     Age
+     18 à 24 ans                                9                 14                   17                   14
+     25 à 34 ans                               18                 18                   16                   15
+     35 à 49 ans                               11                 14                   14                   12
+     50 à 64 ans                               13                 17                   17                   12
+     65 ans et plus                            26                 25                   28                   22
+     Profession du chef de ménage
+     ST PCS+                                   19                 23                   19                   18
+       -Commerçant, artisan, chef d'entreprise 14                 30                   10                   10
+       -Cadre, profession intellectuelle       24                 26                   27                   24
+       -Profession intermédiaire               16                 19                   18                   16
+     ST PCS-                                    9                 9                    10                   9
+       -Employé                                11                 11                   13                   11
+       -Ouvrier                                 6                 8                    9                    8
+     ST Inactif, retraité                      23                 23                   26                   21
+     Préférence partisane
+     Grande Gauche (EXG, PC, FI, PS, EELV)     37                 38                   41                   36
+       -La France Insoumise                    18                 17                   20                   19
+       -Parti socialiste                       60                 59                   66                   59
+       -Les Ecologistes-EELV                   33                 37                   33                   27
+     Ensemble (Renaissance, Modem, Horizons)   25                 37                   32                   26
+       -Renaissance                            25                 42                   30                   24
+     Droite (UDI, Les Républicains, RN, Reconquête) 6             6                    6                    5
+       -Les Républicains                       12                 14                   14                   11
+       -RN                                      4                 3                    4                    2
+     Sans préférence partisane                 11                 11                   12                   8
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 20
+
+--- page 21 ---
+
+Raphaël      Glucksmann
+
+                                                                                                Est capable de prendre les
+                                   A les compétencespour être Représentebien la France et A une visionclaire pour
+      Sous-Total Oui                                                                             décisionsdont le pays a
+                                       un bon Président      les Français     l’avenir de la France
+                                                                                                       besoin
+      TOTAL                                 17                  18                  19                  16
+      Classement Gauche / Droite
+      Extrême-gauche                        28                  27                  28                  25
+      Gauche                                38                  41                  40                  34
+      Centre                                23                  24                  27                  23
+      Droite                                14                  20                  18                  14
+      Extrême-droite                        5                   6                   5                   5
+
+      Sans opinion                          5                   5                   5                   4
+      Vote au 1er tour de l'élection
+      présidentielle 2022
+      Jean-Luc Mélenchon                    32                  31                  33                  29
+
+      Emmanuel Macron                       28                  31                  34                  26
+      Marine Le Pen                         5                   5                   3                   4
+      Abstention, blanc, nul, sans réponse  9                   10                  14                  10
+      Taille d'unité urbaine
+
+      Rural                                 18                  19                  17                  14
+      2000 à 20 000 habitants               15                  18                  19                  16
+
+      20 000 à 100 000 habitants            20                  23                  21                  16
+      Plus de 100 000 habitants             16                  19                  19                  16
+
+      Agglo Paris                           16                  14                  21                  19
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 21
+
+--- page 22 ---
+
+Raphaël      Glucksmann
+
+                                                                                                Est capable de prendre les
+                                   A les compétencespour être Représentebien la France et A une visionclaire pour
+      Sous-Total Oui                                                                             décisions dont le pays a
+                                       un bon Président      les Français     l’avenir de la France
+                                                                                                       besoin
+      TOTAL                                 17                  18                  19                  16
+      Intention de vote présidentielle 2027
+      Fabien Roussel                        17                  30                  20                  13
+      Jean-Luc Mélenchon                    19                  22                  22                  19
+      Raphaël Glucksmann                    81                  78                  81                  79
+      Edouard Philippe                      24                  30                  31                  23
+      Gabriel Attal                         22                  29                  24                  19
+
+      Bruno Retailleau                      6                   11                  8                   6
+      Marine Le Pen                         4                   4                   2                   3
+
+      EricZemmour                           0                   10                  0                   0
+      Marine Tondelier                      28                  29                  32                  47
+      Abstention, blanc, nul, sans réponse  8                   9                   12                  7
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 22
+
+--- page 23 ---
+
+François     Hollande
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                                         Total Non    Je ne sais pas Non pas du tout Non plutôt pas Oui plutôt Oui, tout à fait Total Oui Evol V5
+
+        A les compétencespour être un bon
+                               Président   71                                                                       20         -1
+                                                     9             49                22        16    4
+
+     Représente bien la France et les Français 72   10             50                22        14  4                18         -4
+
+        A une vision claire pour l’avenir de la
+                                           73
+                                France             11              52                21       13   3                16         +1
+
+    Est capable de prendre les décisions dont
+                         le pays a besoin  72      11              51                21       12   5
+                                                                                                                    17         +1
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 23
+
+--- page 24 ---
+
+François     Hollande
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                               Extrême gauche       Gauche      Centre                             1 / 2
+                     Total Oui     Avril       Mai         Juin        Juillet   Septembre    Octobre
+
+                                                                          43
+                                                                                                   41
+                                                37                                    37
+                                                                          36
+                                                             34
+                                              36                                                   32
+                                                                                      31
+                                                             30
+     A les compétences pour être un             26
+                                                                          25
+                    bon Président                                                     23
+                                                                                                      24
+                                                             15
+
+                                                                        41           41
+                                                                                                 38
+                                            40                            38
+                                             37
+                                                           33                        33
+     Représente bien la France et les
+                        Français
+                                                           29           24
+                                               23                                    23          23
+                                                           16                                       20
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 24
+
+--- page 25 ---
+
+François     Hollande
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                               Extrême gauche       Gauche      Centre                             2 / 2
+                     Total Oui     Avril       Mai         Juin        Juillet   Septembre    Octobre
+
+                                                                                                43
+                                                                                    41
+                                                                                    38
+                                                                       36                       36
+                                                                       34
+                                              33
+                                                           31
+   A une vision claire pour l’avenir de       27
+                                                           25
+                                                                                    24
+                       la France
+                                                                                                  25
+                                                                       19
+                                                           17
+                                              16
+
+                                                                       38
+
+         Est capable de prendre les                                    35                       33
+                                                                                   31
+                                                          30
+     décisions dont le pays a besoin
+                                                          28
+                                                                                                27
+                                                                                   25
+                                                                       22
+                                                          17                       17
+                                                                                                  19
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 25
+
+--- page 26 ---
+
+François     Hollande
+
+                                                                                                    Est capable de prendre les
+                                       A les compétencespour Représentebien la France et A une visionclaire pour
+     Sous-Total Oui                                                                                  décisionsdont le pays a
+                                        être un bon Président  les Français      l’avenir de la France
+                                                                                                          besoin
+     TOTAL                                    20                  18                   16                   17
+     Sexe
+     Homme                                    24                  20                   17                   20
+     Femme                                    15                  16                   14                   13
+     Age
+     18 à 24 ans                              26                  22                   15                   21
+     25 à 34 ans                              25                  26                   22                   22
+     35 à 49 ans                              21                  20                   18                   18
+     50 à 64 ans                              15                  12                   10                   11
+     65 ans et plus                           18                  17                   16                   16
+     Profession du chef de ménage
+     ST PCS+                                  23                  21                   16                   18
+       -Commerçant, artisan, chef d'entreprise 27                 22                   16                   16
+       -Cadre, profession intellectuelle      19                  20                   15                   18
+       -Profession intermédiaire              27                  22                   18                   20
+     ST PCS-                                  18                  17                   16                   16
+       -Employé                               17                  16                   17                   15
+       -Ouvrier                               18                  17                   18                   17
+     ST Inactif, retraité                     19                  17                   16                   16
+     Préférence partisane
+     Grande Gauche (EXG, PC, FI, PS, EELV)    42                  38                   33                   35
+       -La France Insoumise                   31                  31                   30                   34
+       -Parti socialiste                      57                  49                   45                   42
+       -Les Ecologistes-EELV                  29                  32                   27                   24
+     Ensemble (Renaissance, Modem, Horizons)  37                  32                   28                   29
+       -Renaissance                           32                  34                   21                   23
+     Droite (UDI, Les Républicains, RN, Reconquête) 7             7                    5                    7
+       -Les Républicains                      11                  14                   8                    9
+       -RN                                     5                  5                    6                    6
+     Sans préférence partisane                13                  13                   11                   11
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 26
+
+--- page 27 ---
+
+François     Hollande
+
+                                                                                                Est capable de prendre les
+                                   A les compétencespour être Représentebien la France et A une visionclaire pour
+      Sous-Total Oui                                                                             décisionsdont le pays a
+                                       un bon Président      les Français     l’avenir de la France
+                                                                                                       besoin
+      TOTAL                                 20                  18                  16                  17
+      Classement Gauche / Droite
+      Extrême-gauche                        32                  23                  22                  27
+      Gauche                                41                  38                  35                  33
+      Centre                                24                  20                  19                  19
+      Droite                                16                  14                  14                  15
+      Extrême-droite                        8                   10                  7                   8
+
+      Sans opinion                          10                  11                  8                   7
+      Vote au 1er tour de l'élection
+      présidentielle 2022
+      Jean-Luc Mélenchon                    36                  32                  30                  32
+
+      Emmanuel Macron                       27                  24                  23                  22
+      Marine Le Pen                         7                   5                   7                   8
+      Abstention, blanc, nul, sans réponse  17                  15                  13                  14
+      Taille d'unité urbaine
+
+      Rural                                 15                  15                  14                  13
+      2000 à 20 000 habitants               22                  21                  16                  20
+
+      20 000 à 100 000 habitants            20                  15                  16                  14
+      Plus de 100 000 habitants             18                  17                  15                  16
+
+      Agglo Paris                           27                  24                  19                  23
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 27
+
+--- page 28 ---
+
+François     Hollande
+
+                                                                                                Est capable de prendre les
+                                   A les compétencespour être Représentebien la France et A une visionclaire pour
+      Sous-Total Oui                                                                             décisions dont le pays a
+                                       un bon Président      les Français     l’avenir de la France
+                                                                                                       besoin
+      TOTAL                                 20                  18                  16                  17
+      Intention de vote présidentielle 2027
+      Fabien Roussel                        33                  34                  19                  22
+      Jean-Luc Mélenchon                    34                  28                  26                  32
+      Raphaël Glucksmann                    55                  48                  46                  45
+      Edouard Philippe                      27                  25                  22                  24
+      Gabriel Attal                         26                  19                  17                  15
+
+      Bruno Retailleau                      11                  9                   3                   5
+      Marine Le Pen                         6                   6                   7                   6
+
+      EricZemmour                           0                   5                   8                   0
+      Marine Tondelier                      32                  36                  24                  27
+      Abstention, blanc, nul, sans réponse  17                  16                  13                  14
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 28
+
+--- page 29 ---
+
+Gabriel     Attal
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                                        Total Non    Je ne sais pas Non pas du tout Non plutôt pas Oui plutôt Oui, tout à fait Total Oui Evol V5
+
+         A les compétencespour être un bon
+                               Président  67                                                                        19         -4
+                                                     14             45               22        16   3
+
+     Représente bien la France et les Français 64      13            44               20        19    4             23         -1
+
+        A une vision claire pour l’avenir de la
+                                          64
+                                France                15             44               20        18   3              21         -4
+
+    Est capable de prendre les décisions dont
+                         le pays a besoin 65          16             44              21        15   4
+                                                                                                                    19
+                                                                                                                               -4
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 29
+
+--- page 30 ---
+
+Gabriel     Attal
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                                                    Gauche      Centre      Droite                 1 / 2
+                     Total Oui     Avril       Mai         Juin        Juillet   Septembre    Octobre
+
+                                                                                       43
+                                                             41
+                                                                          39
+                                        35
+                                    34
+                                                             33                        33
+                                              31 31                       31
+     A les compétences pour être un 34                                                             26 31
+                                                             25
+                                                                          30
+                    bon Président              30
+                                                                                       21
+                                                                                                   18
+
+                                    42
+                                                            39
+                                                            38
+                                    36
+                                                34                                             34
+                                                                        33
+                                    31                                              31
+                                               36
+     Représente bien la France et les        31                         28
+                                                            26
+                        Français
+                                                                        23          23
+                                                                                                  23
+                                                                                    22           20
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 30
+
+--- page 31 ---
+
+Gabriel     Attal
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                                                    Gauche      Centre      Droite                 2 / 2
+                     Total Oui     Avril       Mai         Juin        Juillet   Septembre    Octobre
+
+                                                           39           39           39
+
+                                  35  34                   36                                       39
+                                              32
+                                37                                      31           31
+                                                                                                 30
+                                                           29
+   A une vision claire pour l’avenir de
+                                                                        26           26
+                                             31
+                       la France
+                                           26
+                                                                                                 20
+                                                                                     44
+
+                                                             37          37
+                                                                         32
+         Est capable de prendre les                          31                      31
+                                                                         30
+                                                                                                29
+     décisions dont le pays a besoin
+                                                             25                                    29
+                                                                                     25
+                                                                                                  17
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 31
+
+--- page 32 ---
+
+Gabriel     Attal
+
+                                                                                                    Est capable de prendre les
+                                       A les compétencespour Représentebien la France et A une visionclaire pour
+     Sous-Total Oui                                                                                  décisionsdont le pays a
+                                        être un bon Président  les Français      l’avenir de la France
+                                                                                                          besoin
+     TOTAL                                    19                  23                   21                   19
+     Sexe
+     Homme                                    20                  23                   23                   21
+     Femme                                    19                  22                   20                   18
+     Age
+     18 à 24 ans                              27                  26                   22                   21
+     25 à 34 ans                              16                  20                   25                   18
+     35 à 49 ans                              16                  19                   15                   14
+     50 à 64 ans                              14                  17                   17                   15
+     65 ans et plus                           25                  29                   28                   27
+     Profession du chef de ménage
+     ST PCS+                                  20                  23                   23                   19
+       -Commerçant, artisan, chef d'entreprise 17                 26                   29                   22
+       -Cadre, profession intellectuelle      22                  26                   27                   21
+       -Profession intermédiaire              18                  19                   19                   18
+     ST PCS-                                  14                  17                   16                   13
+       -Employé                               16                  17                   16                   13
+       -Ouvrier                               10                  15                   15                   13
+     ST Inactif, retraité                     24                  28                   26                   24
+     Préférence partisane
+     Grande Gauche (EXG, PC, FI, PS, EELV)    15                  20                   20                   16
+       -La France Insoumise                   13                  14                   14                   12
+       -Parti socialiste                      20                  20                   20                   19
+       -Les Ecologistes-EELV                  18                  26                   25                   17
+     Ensemble (Renaissance, Modem, Horizons)  60                  65                   66                   63
+       -Renaissance                           71                  74                   77                   74
+     Droite (UDI, Les Républicains, RN, Reconquête) 15            16                   17                   15
+       -Les Républicains                      32                  32                   32                   29
+       -RN                                     8                  8                    10                   8
+     Sans préférence partisane                17                  21                   19                   16
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 32
+
+--- page 33 ---
+
+Gabriel     Attal
+
+                                                                                                Est capable de prendre les
+                                   A les compétencespour être Représentebien la France et A une visionclaire pour
+      Sous-Total Oui                                                                             décisionsdont le pays a
+                                       un bon Président      les Français     l’avenir de la France
+                                                                                                       besoin
+      TOTAL                                 19                  23                  21                  21
+      Classement Gauche / Droite
+      Extrême-gauche                        9                   7                   8                   7
+      Gauche                                18                  20                  20                  17
+      Centre                                26                  34                  30                  29
+      Droite                                31                  35                  34                  29
+      Extrême-droite                        12                  15                  18                  15
+
+      Sans opinion                          19                  19                  15                  12
+      Vote au 1er tour de l'élection
+      présidentielle 2022
+      Jean-Luc Mélenchon                    13                  16                  17                  13
+
+      Emmanuel Macron                       42                  49                  44                  42
+      Marine Le Pen                         9                   12                  12                  10
+      Abstention, blanc, nul, sans réponse  16                  16                  17                  14
+      Taille d'unité urbaine
+
+      Rural                                 15                  20                  20                  15
+      2000 à 20 000 habitants               20                  22                  21                  19
+
+      20 000 à 100 000 habitants            18                  20                  22                  19
+      Plus de 100 000 habitants             20                  25                  24                  20
+
+      Agglo Paris                           24                  23                  21                  22
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 33
+
+--- page 34 ---
+
+Gabriel     Attal
+
+                                                                                                Est capable de prendre les
+                                   A les compétencespour être Représentebien la France et A une visionclaire pour
+      Sous-Total Oui                                                                             décisions dont le pays a
+                                       un bon Président      les Français     l’avenir de la France
+                                                                                                       besoin
+      TOTAL                                 19                  23                  21                  21
+      Intention de vote présidentielle 2027
+      Fabien Roussel                        7                   14                  18                  17
+      Jean-Luc Mélenchon                    10                  14                  13                  10
+      Raphaël Glucksmann                    22                  20                  21                  19
+      Edouard Philippe                      42                  50                  48                  43
+      Gabriel Attal                         85                  89                  80                  81
+
+      Bruno Retailleau                      35                  30                  37                  37
+      Marine Le Pen                         8                   11                  11                  8
+
+      EricZemmour                           7                   7                   7                   7
+      Marine Tondelier                      24                  25                  26                  15
+      Abstention, blanc, nul, sans réponse  11                  15                  13                  10
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 34
+
+--- page 35 ---
+
+Sébastien      Lecornu
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’elle :
+
+                                            Total Non     Je ne sais pas Non pas du tout Non plutôt pas Oui plutôt Oui, tout à fait Total Oui Evol V5
+
+        A les compétencespour être un bon
+                              Président      63                                                                       18       -1
+                                                             19             42              21        16   2
+
+     Représente bien la France et les Français 60                                                                     21
+                                                              19             40             20         18   3                  -1
+
+        A une vision claire pour l’avenir de la
+                                             60
+                                                              19             40             20         18   3         21
+                                France                                                                                        =
+
+    Est capable de prendre les décisions dont
+                        le pays a besoin     61               18             41             20         18   3
+                                                                                                                      21
+                                                                                                                              =
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 35
+
+--- page 36 ---
+
+Sébastien      Lecornu
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                                                    Gauche      Centre      Droite                 1 / 2
+                     Total Oui     Avril       Mai         Juin        Juillet   Septembre    Octobre
+
+                                                                                   34
+
+                                                                                   30           30
+
+                                                                                                   26
+     A les compétences pour être un
+                    bon Président                                                  19           18
+
+                                                                                    43
+
+                                                                                               35
+                                                                                    32
+     Représente bien la France et les
+                        Français                                                                  31
+
+                                                                                    19           16
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 36
+
+--- page 37 ---
+
+Sébastien      Lecornu
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                                                    Gauche      Centre      Droite                 2 / 2
+                     Total Oui     Avril       Mai         Juin        Juillet   Septembre    Octobre
+
+                                                                                     39
+                                                                                                 37
+
+                                                                                     29
+   A une vision claire pour l’avenir de
+                                                                                     25
+                       la France
+                                                                                                    26
+                                                                                                 19
+
+                                                                                     40
+
+                                                                                                34
+                                                                                     31
+
+         Est capable de prendre les
+     décisions dont le pays a besoin                                                               28
+
+                                                                                     22           19
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 37
+
+--- page 38 ---
+
+Sébastien      Lecornu
+
+                                          A les compétences                                         Est capable de prendre les
+                                                         Représentebien la France et A une visionclaire pour
+     Sous-Total Oui                        pour être un bon                                          décisionsdont le pays a
+                                                               les Français      l’avenir de la France
+                                             Président                                                    besoin
+     TOTAL                                      18                21                   21                   21
+     Sexe
+     Homme                                      22                24                   22                   23
+     Femme                                      15                19                   19                   19
+     Age
+     18 à 24 ans                                17                20                   15                   17
+     25 à 34 ans                                14                20                   18                   15
+     35 à 49 ans                                15                19                   15                   17
+     50 à 64 ans                                13                14                   17                   15
+     65 ans et plus                             27                31                   31                   32
+     Profession du chef de ménage
+     ST PCS+                                    17                20                   18                   17
+       -Commerçant, artisan, chef d'entreprise  7                 18                   15                   7
+       -Cadre, profession intellectuelle        22                22                   19                   20
+       -Profession intermédiaire                16                16                   16                   17
+     ST PCS-                                    12                15                   15                   15
+       -Employé                                 10                13                   13                   12
+       -Ouvrier                                 14                15                   17                   18
+     ST Inactif, retraité                       26                28                   29                   29
+     Préférence partisane
+     Grande Gauche (EXG, PC, FI, PS, EELV)      20                21                   20                   20
+       -La France Insoumise                     13                11                   12                   10
+       -Parti socialiste                        25                23                   23                   25
+       -Les Ecologistes-EELV                    19                25                   22                   22
+     Ensemble (Renaissance, Modem, Horizons)    54                60                   63                   63
+       -Renaissance                             63                66                   69                   69
+     Droite (UDI, Les Républicains, RN, Reconquête) 14            17                   13                   16
+       -Les Républicains                        26                30                   24                   29
+       -RN                                      5                 10                   8                    8
+     Sans préférence partisane                  14                17                   18                   17
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 38
+
+--- page 39 ---
+
+Sébastien      Lecornu
+
+                                                                                                Est capable de prendre les
+                                   A les compétencespour être Représentebien la France et A une visionclaire pour
+      Sous-Total Oui                                                                             décisionsdont le pays a
+                                       un bon Président      les Français     l’avenir de la France
+                                                                                                       besoin
+      TOTAL                                 18                  21                  21                  21
+      Classement Gauche / Droite
+      Extrême-gauche                        10                  10                  11                  9
+      Gauche                                18                  16                  19                  19
+      Centre                                30                  35                  37                  34
+      Droite                                26                  31                  26                  28
+      Extrême-droite                        13                  18                  17                  16
+
+      Sans opinion                          9                   9                   8                   10
+      Vote au 1er tour de l'élection
+      présidentielle 2022
+      Jean-Luc Mélenchon                    12                  13                  11                  11
+
+      Emmanuel Macron                       42                  48                  48                  48
+      Marine Le Pen                         6                   10                  6                   7
+      Abstention, blanc, nul, sans réponse  14                  14                  15                  16
+      Taille d'unité urbaine
+
+      Rural                                 16                  18                  19                  21
+      2000 à 20 000 habitants               19                  22                  18                  23
+
+      20 000 à 100 000 habitants            18                  20                  18                  17
+      Plus de 100 000 habitants             19                  21                  23                  21
+
+      Agglo Paris                           19                  24                  22                  21
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 39
+
+--- page 40 ---
+
+Sébastien      Lecornu
+
+                                                                                                Est capable de prendre les
+                                   A les compétencespour être Représentebien la France et A une visionclaire pour
+      Sous-Total Oui                                                                             décisions dont le pays a
+                                       un bon Président      les Français     l’avenir de la France
+                                                                                                       besoin
+      TOTAL                                 18                  21                  21                  21
+      Intention de vote présidentielle 2027
+      Fabien Roussel                        16                  13                  9                   10
+      Jean-Luc Mélenchon                    12                  14                  12                  11
+      Raphaël Glucksmann                    22                  21                  27                  25
+      Edouard Philippe                      46                  51                  50                  55
+      Gabriel Attal                         34                  49                  46                  43
+
+      Bruno Retailleau                      30                  33                  27                  33
+      Marine Le Pen                         7                   11                  9                   11
+
+      EricZemmour                           20                  15                  15                  20
+      Marine Tondelier                      27                  39                  32                  25
+      Abstention, blanc, nul, sans réponse  14                  14                  15                  14
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 40
+
+--- page 41 ---
+
+Edouard      Philippe
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                                       Total Non     Je ne sais pas Non pas du tout Non plutôt pas Oui plutôt Oui, tout à fait Total Oui Evol V5
+
+       A les compétencespour être un bon
+                             Président  55                                                                          30          -4
+                                                  15              37              18           25        5
+
+   Représente bien la France et les Français 58                                                                     28
+                                                 14             38               20            23      5                        -2
+
+      A une vision claire pour l’avenir de la
+                                        57                                                                          27
+                                                 16              38               19          22       5
+                               France                                                                                           -2
+
+  Est capable de prendre les décisions dont
+                       le pays a besoin 57       16              40               17          21       6            27         -2
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 41
+
+--- page 42 ---
+
+Edouard      Philippe
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                                                    Gauche      Centre      Droite                 1 / 2
+                     Total Oui     Avril       Mai         Juin        Juillet   Septembre    Octobre
+
+                                                                       63
+                                                                                   58
+                               61
+                               54
+                                             49           48                                    49
+                               50                                      46          46
+                                          49
+                                                             46
+     A les compétences pour être un
+                                                                                   38
+                    bon Président           46            35           36                          42
+                                                                                                30
+
+                                                                        58
+                                    56
+                                                                                    54
+                                                51
+                                    46                      45
+     Représente bien la France et les 42                                            43         43
+                        Français                            39
+                                             41                         37                        41
+                                                                        34
+                                               42
+                                                            28
+                                                                                    34
+                                                                                                 24
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 42
+
+--- page 43 ---
+
+Edouard      Philippe
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                                                    Gauche      Centre      Droite                 2 / 2
+                     Total Oui     Avril       Mai         Juin        Juillet   Septembre    Octobre
+
+                                                                        55
+                                                                                     53
+                                      47
+                                54
+                                              43           43
+                                  41                                    41
+                                                                                     40          40
+                                                           39
+   A une vision claire pour l’avenir de
+                                           3842                         35           34             39
+                       la France
+                                                           28
+                                                                                                 23
+
+                                                                         55
+                                                                                     54
+
+                                                                                                44
+                                                             43
+                                                                                     41
+                                                                         39
+         Est capable de prendre les                         41                                     41
+     décisions dont le pays a besoin
+                                                                         35
+                                                             26
+                                                                                     33
+                                                                                                  27
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 43
+
+--- page 44 ---
+
+Edouard      Philippe
+
+                                                                                                    Est capable de prendre les
+                                        A les compétencespour Représentebien la France et A une visionclaire pour
+     Sous-Total Oui                                                                                  décisionsdont le pays a
+                                         être un bon Président les Français      l’avenir de la France
+                                                                                                          besoin
+     TOTAL                                     30                 28                   27                   27
+     Sexe
+     Homme                                     32                 29                   29                   30
+     Femme                                     27                 25                   24                   24
+     Age
+     18 à 24 ans                               32                 31                   25                   25
+     25 à 34 ans                               24                 24                   22                   26
+     35 à 49 ans                               29                 24                   25                   25
+     50 à 64 ans                               31                 25                   26                   27
+     65 ans et plus                            35                 33                   32                   32
+     Profession du chef de ménage
+     ST PCS+                                   32                 29                   29                   30
+       -Commerçant, artisan, chef d'entreprise 31                 31                   27                   29
+       -Cadre, profession intellectuelle       33                 32                   34                   34
+       -Profession intermédiaire               30                 24                   24                   27
+     ST PCS-                                   23                 22                   20                   21
+       -Employé                                21                 23                   20                   20
+       -Ouvrier                                25                 21                   19                   23
+     ST Inactif, retraité                      35                 31                   31                   30
+     Préférence partisane
+     Grande Gauche (EXG, PC, FI, PS, EELV)     31                 27                   24                   26
+       -La France Insoumise                    22                 17                   18                   18
+       -Parti socialiste                       39                 32                   32                   35
+       -Les Ecologistes-EELV                   35                 34                   25                   26
+     Ensemble (Renaissance, Modem, Horizons)   81                 77                   75                   80
+       -Renaissance                            78                 75                   69                   76
+     Droite (UDI, Les Républicains, RN, Reconquête) 24            23                   23                   22
+       -Les Républicains                       49                 48                   50                   48
+       -RN                                     13                 13                   12                   10
+     Sans préférence partisane                 24                 21                   21                   21
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 44
+
+--- page 45 ---
+
+Edouard      Philippe
+
+                                                                                                Est capable de prendre les
+                                   A les compétencespour être Représentebien la France et A une visionclaire pour
+      Sous-Total Oui                                                                             décisionsdont le pays a
+                                       un bon Président      les Français     l’avenir de la France
+                                                                                                       besoin
+      TOTAL                                 30                  28                  27                  27
+      Classement Gauche / Droite
+      Extrême-gauche                        21                  13                  13                  10
+      Gauche                                30                  24                  23                  27
+      Centre                                49                  43                  40                  44
+      Droite                                42                  41                  39                  41
+      Extrême-droite                        22                  21                  21                  19
+
+      Sans opinion                          13                  16                  15                  14
+      Vote au 1er tour de l'élection
+      présidentielle 2022
+      Jean-Luc Mélenchon                    24                  21                  19                  20
+
+      Emmanuel Macron                       65                  60                  57                  59
+      Marine Le Pen                         17                  15                  17                  15
+      Abstention, blanc, nul, sans réponse  19                  19                  18                  18
+      Taille d'unité urbaine
+
+      Rural                                 26                  25                  22                  23
+      2000 à 20 000 habitants               30                  27                  27                  29
+
+      20 000 à 100 000 habitants            29                  29                  28                  28
+      Plus de 100 000 habitants             29                  26                  25                  25
+
+      Agglo Paris                           37                  32                  33                  36
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 45
+
+--- page 46 ---
+
+Edouard      Philippe
+
+                                                                                                Est capable de prendre les
+                                   A les compétencespour être Représentebien la France et A une visionclaire pour
+      Sous-Total Oui                                                                             décisions dont le pays a
+                                       un bon Président      les Français     l’avenir de la France
+                                                                                                       besoin
+      TOTAL                                 30                  28                  27                  27
+      Intention de vote présidentielle 2027
+      Fabien Roussel                        30                  21                  20                  16
+      Jean-Luc Mélenchon                    23                  20                  18                  21
+      Raphaël Glucksmann                    38                  28                  28                  33
+      Edouard Philippe                      90                  86                  84                  89
+      Gabriel Attal                         56                  48                  53                  58
+
+      Bruno Retailleau                      43                  42                  44                  43
+      Marine Le Pen                         14                  12                  13                  13
+
+      EricZemmour                           12                  7                   7                   12
+      Marine Tondelier                      24                  17                  10                  27
+      Abstention, blanc, nul, sans réponse  17                  16                  15                  13
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 46
+
+--- page 47 ---
+
+Bruno     Retailleau
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                                                     Je ne sais pas Non pas du tout Non plutôt pas Oui plutôt Oui, tout à fait Total Oui Evol V5
+                                       Total Non
+
+        A les compétencespour être un bon
+                              Président   55                                                                        22         -1
+                                                         23             38            17       16    6
+
+    Représente bien la France et les Français 56         21             39            17        18    5             23         =
+
+       A une vision claire pour l’avenir de la
+                               France     53              22             37            16       19     6            25         =
+
+   Est capable de prendre les décisions dont
+                        le pays a besoin  52              23              37           15       18     7            25
+                                                                                                                               +1
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 47
+
+--- page 48 ---
+
+Bruno     Retailleau
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                                                                Centre      Droite   Extrême droite 1 / 2
+                     Total Oui     Avril       Mai         Juin        Juillet   Septembre    Octobre
+
+                                             46
+                                                                       42
+                                                                                   41           41
+                                                             42
+                                                          38                       38
+                               39
+                                                                       36
+                                             35
+                               39
+                                                                                                   36
+     A les compétences pour être un
+                    bon Président
+                                                          21
+                                                                                                20
+                                                                                   18
+                               18
+                                          17                           14
+                                               44             46
+                                                                        42
+                                                                                                  41
+                               43                                                    39
+                                                            38          38                           42
+                                              37
+                                                                                     36
+                                 37
+     Représente bien la France et les
+                        Français
+                                                            26
+                                                                                                  22
+                                                                                     17
+                                 17         17                          14
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 48
+
+--- page 49 ---
+
+Bruno     Retailleau
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                                                                Centre      Droite   Extrême droite 2 / 2
+                     Total Oui     Avril       Mai         Juin        Juillet   Septembre    Octobre
+
+                                                                                     45
+                                               44
+                                                               45                                 42
+                                                                         41
+                                                                         39
+                                 40
+                                 40
+                                               36           36                                       40
+                                                                                     35
+   A une vision claire pour l’avenir de
+                                                            27
+                       la France
+                                                                                                  24
+                                                                                     18
+                                                                         17
+                                 18         18
+                                                                          44
+                                                                                      41           41
+                                                                43
+                                                                          39                          43
+                                                             36                       36
+         Est capable de prendre les
+     décisions dont le pays a besoin
+                                                             26
+                                                                                                   23
+                                                                                      20
+                                                                          17
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 49
+
+--- page 50 ---
+
+Bruno     Retailleau
+
+                                                                                                    Est capable de prendre les
+                                        A les compétencespour Représentebien la France et A une visionclaire pour
+     Sous-Total Oui                                                                                  décisionsdont le pays a
+                                         être un bon Président les Français      l’avenir de la France
+                                                                                                          besoin
+     TOTAL                                     22                 23                   25                   25
+     Sexe
+     Homme                                     26                 26                   27                   28
+     Femme                                     18                 21                   20                   21
+     Age
+     18 à 24 ans                               12                 15                   12                   15
+     25 à 34 ans                               19                 23                   21                   21
+     35 à 49 ans                               17                 16                   18                   20
+     50 à 64 ans                               23                 25                   24                   24
+     65 ans et plus                            30                 32                   35                   34
+     Profession du chef de ménage
+     ST PCS+                                   22                 24                   24                   23
+       -Commerçant, artisan, chef d'entreprise 24                 23                   21                   29
+       -Cadre, profession intellectuelle       21                 24                   23                   23
+       -Profession intermédiaire               23                 25                   21                   21
+     ST PCS-                                   15                 18                   18                   19
+       -Employé                                15                 17                   20                   18
+       -Ouvrier                                16                 19                   17                   20
+     ST Inactif, retraité                      28                 29                   31                   31
+     Préférence partisane
+     Grande Gauche (EXG, PC, FI, PS, EELV)      8                 9                    9                    11
+       -La France Insoumise                     7                 2                    7                    8
+       -Parti socialiste                        7                 8                    11                   11
+       -Les Ecologistes-EELV                    9                 12                   6                    9
+     Ensemble (Renaissance, Modem, Horizons)   34                 36                   39                   40
+       -Renaissance                            30                 35                   41                   41
+     Droite (UDI, Les Républicains, RN, Reconquête) 37            42                   42                   41
+       -Les Républicains                       64                 68                   71                   70
+       -RN                                     24                 30                   29                   30
+     Sans préférence partisane                 16                 16                   16                   15
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 50
+
+--- page 51 ---
+
+Bruno     Retailleau
+
+                                                                                                Est capable de prendre les
+                                   A les compétencespour être Représentebien la France et A une visionclaire pour
+      Sous-Total Oui                                                                             décisionsdont le pays a
+                                       un bon Président      les Français     l’avenir de la France
+                                                                                                       besoin
+      TOTAL                                 22                  23                  25                  25
+      Classement Gauche / Droite
+      Extrême-gauche                        1                   1                   3                   1
+      Gauche                                7                   6                   7                   8
+      Centre                                20                  22                  24                  23
+      Droite                                41                  41                  42                  41
+      Extrême-droite                        36                  42                  40                  43
+
+      Sans opinion                          5                   5                   5                   5
+      Vote au 1er tour de l'élection
+      présidentielle 2022
+      Jean-Luc Mélenchon                    12                  10                  9                   10
+
+      Emmanuel Macron                       29                  30                  33                  33
+      Marine Le Pen                         25                  28                  29                  26
+      Abstention, blanc, nul, sans réponse  9                   9                   9                   10
+      Taille d'unité urbaine
+
+      Rural                                 23                  24                  29                  28
+      2000 à 20 000 habitants               19                  22                  18                  18
+
+      20 000 à 100 000 habitants            22                  21                  22                  23
+      Plus de 100 000 habitants             22                  25                  25                  26
+
+      Agglo Paris                           23                  24                  26                  26
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 51
+
+--- page 52 ---
+
+Bruno     Retailleau
+
+                                                                                                Est capable de prendre les
+                                   A les compétencespour être Représentebien la France et A une visionclaire pour
+      Sous-Total Oui                                                                             décisions dont le pays a
+                                       un bon Président      les Français     l’avenir de la France
+                                                                                                       besoin
+      TOTAL                                 22                  23                  25                  25
+      Intention de vote présidentielle 2027
+      Fabien Roussel                        18                  14                  15                  7
+      Jean-Luc Mélenchon                    9                   12                  8                   12
+      Raphaël Glucksmann                    6                   6                   10                  7
+      Edouard Philippe                      29                  29                  31                  31
+      Gabriel Attal                         19                  15                  19                  20
+
+      Bruno Retailleau                      95                  93                  93                  97
+      Marine Le Pen                         27                  30                  31                  30
+
+      EricZemmour                           39                  53                  48                  49
+      Marine Tondelier                      23                  18                  18                  27
+      Abstention, blanc, nul, sans réponse  6                   9                   8                   8
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 52
+
+--- page 53 ---
+
+Marine     Le   Pen
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’elle :
+
+                                            Total Non     Je ne sais pas Non pas du tout Non plutôt pas Oui plutôt Oui, tout à fait Total Oui Evol V5
+
+        A les compétencespour être un bon
+                              Président      52                                                                         38      -2
+                                                          10           41            11      20       18
+
+     Représente bien la France et les Français 51           8          39           12       22        19               41      -1
+
+        A une vision claire pour l’avenir de la
+                                             52                                                                         39
+                                                           9           38           14       20        19
+                                France                                                                                         -2
+
+    Est capable de prendre les décisions dont
+                        le pays a besoin     52            9           41            11      20        19               39     -1
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 53
+
+--- page 54 ---
+
+Marine     Le   Pen
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                                                                Centre      Droite   Extrême droite 1 / 2
+                     Total Oui     Avril       Mai         Juin        Juillet   Septembre    Octobre
+
+                                                                                    87
+                                                                        82
+                                                           80
+                                              79
+                                84
+                                                                                                    78
+                                                                        55
+     A les compétences pour être un
+                    bon Président
+                                              43
+                                                                                                 40
+                                                                                    34
+                                36                            37
+                                                           23           24                       25
+                                                                                    21
+                                22
+                                           20
+                                                                                     90
+                                                                         84
+                                                            81
+                                86             79
+                                                                                                     84
+     Représente bien la France et les
+                                                                         53
+                        Français
+                                                              44                                  46
+                                 45            40                                    39
+                                                            25                       26           27
+                                                                         22
+                                 21
+                                            18
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 54
+
+--- page 55 ---
+
+Marine     Le   Pen
+
+      Pour chacune des personnalités suivantes, diriez-vous qu’il :
+
+                                                                Centre      Droite   Extrême droite 2 / 2
+                     Total Oui     Avril       Mai         Juin        Juillet   Septembre    Octobre
+
+                                                                                     85
+                                                                         82
+                                 84            78           80
+                                                                                                     79
+
+                                                                         55
+   A une vision claire pour l’avenir de
+                       la France
+                                               44              48                                 43
+                                 42                                                  39
+                                                            28
+                                                                         26
+                                                                                     24           23
+                                 25
+                                            20
+                                                                        84           85
+                                                           82
+                                                                                                    82
+
+         Est capable de prendre les
+                                                                        53
+     décisions dont le pays a besoin
+                                                                                                 44
+                                                          42                         38
+                                                           25           26           24
+                                                                                                 22
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 55
+
+--- page 56 ---
+
+Marine     Le   Pen
+
+                                          A les compétences                                         Est capable de prendre les
+                                                         Représentebien la France et A une visionclaire pour
+     Sous-Total Oui                        pour être un bon                                          décisionsdont le pays a
+                                                               les Français      l’avenir de la France
+                                             Président                                                    besoin
+     TOTAL                                      38                41                   39                   39
+     Sexe
+     Homme                                      40                43                   41                   41
+     Femme                                      36                39                   38                   38
+     Age
+     18 à 24 ans                                28                33                   32                   27
+     25 à 34 ans                                37                41                   37                   41
+     35 à 49 ans                                40                43                   44                   41
+     50 à 64 ans                                44                50                   47                   47
+     65 ans et plus                             35                34                   33                   33
+     Profession du chef de ménage
+     ST PCS+                                    35                41                   36                   38
+       -Commerçant, artisan, chef d'entreprise  32                48                   40                   44
+       -Cadre, profession intellectuelle        33                36                   32                   32
+       -Profession intermédiaire                38                41                   40                   38
+     ST PCS-                                    47                48                   49                   48
+       -Employé                                 44                43                   46                   42
+       -Ouvrier                                 50                53                   51                   55
+     ST Inactif, retraité                       33                33                   34                   32
+     Préférence partisane
+     Grande Gauche (EXG, PC, FI, PS, EELV)      10                11                   13                   11
+       -La France Insoumise                     6                 8                    13                   8
+       -Parti socialiste                        12                8                    14                   6
+       -Les Ecologistes-EELV                    6                 8                    9                    6
+     Ensemble (Renaissance, Modem, Horizons)    7                 15                   14                   9
+       -Renaissance                             2                 7                    7                    2
+     Droite (UDI, Les Républicains, RN, Reconquête) 76            80                   76                   79
+       -Les Républicains                        43                52                   44                   52
+       -RN                                      91                94                   90                   91
+     Sans préférence partisane                  29                30                   30                   28
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 56
+
+--- page 57 ---
+
+Marine     Le   Pen
+
+                                                                                                Est capable de prendre les
+                                   A les compétencespour être Représentebien la France et A une visionclaire pour
+      Sous-Total Oui                                                                             décisionsdont le pays a
+                                       un bon Président      les Français     l’avenir de la France
+                                                                                                       besoin
+      TOTAL                                 38                  41                  39                  39
+      Classement Gauche / Droite
+      Extrême-gauche                        3                   4                   7                   4
+      Gauche                                10                  10                  14                  7
+      Centre                                25                  27                  23                  22
+      Droite                                40                  46                  43                  44
+      Extrême-droite                        78                  84                  79                  82
+
+      Sans opinion                          28                  26                  28                  29
+      Vote au 1er tour de l'élection
+      présidentielle 2022
+      Jean-Luc Mélenchon                    12                  12                  16                  10
+
+      Emmanuel Macron                       18                  22                  21                  20
+      Marine Le Pen                         88                  89                  88                  89
+      Abstention, blanc, nul, sans réponse  24                  27                  24                  24
+      Taille d'unité urbaine
+
+      Rural                                 44                  46                  42                  43
+      2000 à 20 000 habitants               36                  40                  34                  41
+
+      20 000 à 100 000 habitants            36                  41                  37                  37
+      Plus de 100 000 habitants             42                  41                  42                  40
+
+      Agglo Paris                           29                  36                  37                  30
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 57
+
+--- page 58 ---
+
+Marine     Le   Pen
+
+                                                                                                Est capable de prendre les
+                                   A les compétencespour être Représentebien la France et A une visionclaire pour
+      Sous-Total Oui                                                                             décisions dont le pays a
+                                       un bon Président      les Français     l’avenir de la France
+                                                                                                       besoin
+      TOTAL                                 38                  41                  39                  39
+      Intention de vote présidentielle 2027
+      Fabien Roussel                        24                  23                  16                  19
+      Jean-Luc Mélenchon                    6                   10                  11                  9
+      Raphaël Glucksmann                    7                   4                   11                  3
+      Edouard Philippe                      13                  18                  18                  16
+      Gabriel Attal                         17                  13                  17                  18
+
+      Bruno Retailleau                      30                  46                  38                  41
+      Marine Le Pen                         88                  91                  88                  90
+
+      EricZemmour                           62                  82                  67                  63
+      Marine Tondelier                      8                   9                   18                  18
+      Abstention, blanc, nul, sans réponse  18                  20                  17                  16
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 58
+
+--- page 59 ---
+
+Rappel     cote   d’avenir     des  personnalités        présidentiables
+
+     Souhaitez-vous voir jouer un rôle important au cours des mois et des années à venir à...
+     Source:BaromètreFigaroMagazine
+
+              50
+
+              45
+                                                                        44
+                        40
+                                                                                                  Marine LE PEN
+              40                                                                       39
+                                                       36
+              35                                                                                  Edouard PHILIPPE
+                   32
+                                                                        31
+              30   31                                                                   26        Bruno RETAILLEAU
+                                              28
+                                                                  28
+                                                                                         24
+              25
+                              25                                                                  Gabriel ATTAL
+                                                            23
+                              21                     20                            23    22
+              20                                                                         20
+                                                                                                  Raphaël GLUCKSMANN
+                                                                                   16    17
+              15
+                                                                                         15       Jean-Luc MELENCHON
+              10     10
+                                                                                                  François HOLLANDE
+               5
+               0
+                  - t c o 5 2 - v o n 5 2 - c é d 5 2 - v n a j 6 2 - r v é f 6 2 s r a m 6 2 - - r v a 6 2 - ia m 6 2 - n iu j 6 2 - liu j 6 2 - t û o a 6 2 - t p e s 6 2 - t c o 6 2
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6         Juillet 2026 59
+
+--- page 60 ---
+
+Données                  socio-
+
+      démographiques
+
+BaromètreV eproialintique Verian pour le Figaro Magazine                                                                        Mai 2026
+
+--- page 61 ---
+
+Sexe par âge                Brut (%) Redressé
+         Hommes -18 à 34 ans          13      12,3%
+         Femmes -18 à 34 ans          14      12,3%
+         Hommes -35 à 49 ans          11      11,6%
+                                                                  Rappels de vote -1er présidentielle 2022 Brut (%) Redressé
+         Femmes -35 à 49 ans          11      12,0%
+                                                                  Nathalie Arthaud                    1         1%
+         Hommes -50 à 64 ans          12      11,8%
+         Femmes -50 à 64 ans          11      12,4%               Philippe Poutou                     1         1%
+         Hommes -65 ans et plus       16      12,0%               Fabien Roussel                      3         3%
+         Femmes -65 ans et plus       12      15,6%               Jean-Luc Mélenchon                 11         13%
+                                                                  Anne Hidalgo                        2         3%
+         PCS personne de référence
+                                                                  Yannick Jadot                       4         5%
+         Artisan, comm., chef d'entr. 3        5,5%
+         Cadre                        15      13,0%               Emmanuel Macron                    18         24%
+         Profession intermédiaire     17      15,8%               Valérie Pécresse                    4         7%
+         Employé                      15      15,6%               Jean Lassalle                       2         4%
+         Ouvrier                      14      13,9%
+                                                                  Nicolas Dupont-Aignan               2         3%
+         Inactif, retraité            35      36,2%
+                                                                  Marine Le Pen                      21         30%
+         Catégorie d'agglomération                                Éric Zemmour                        3         6%
+         Moins de 2000 habitants      20      21,1%
+         2000 à 20 000 habitants      16      18,2%               Abstention blanc, nul,sans réponses 28%       27%
+         20 000 à 100 000 habitants   13      13,9%
+         Plus de 100 000 habitants    36      30,5%
+         Agglomération parisienne     15      16,3%
+         Region -UDA 5
+         REGION PARISIENNE            16      18,4%
+         OUEST                        23      22,9%
+         NORD ET EST                  23      21,8%
+         SUD-OUEST                    12      11,8%
+         SUD-EST                      26      25,1%
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 61
+
+--- page 62 ---
+
+Annexe               –     Résultats                 avant
+
+      redressement
+
+BaromètreV eproialintique Verian pour le Figaro Magazine                                                                        Mai 2026
+
+--- page 63 ---
+
+Vous intéressez-vousàl’électionprésidentiellequiauralieuenavriletmai2027 ?
+
+                                      Beaucoup  Assez   ST Oui   Peu    Pas du tout ST Non Ne sait pas
+
+                                        41       34      75       18      7       25       0
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 63
+
+--- page 64 ---
+
+Oui tout à fait Oui plutôt ST Oui Non plutôt pas Non pas du tout ST Non Je ne sais pas
+     Jean-Luc Mélenchon a les compétences pour être un bon Président (PR1) 6 9     15        11       67        78        7
+     Jean-Luc Mélenchon représente bien la France et les Français (PR1) 5 10       14        12       67        78        7
+     Jean-Luc Mélenchon a une vision claire pour l’avenir de la France (PR1) 6 12  18        9        64        73        9
+     Jean-Luc Mélenchon est capable de prendre les décisions dont le pays a besoin (PR1) 6 9 15 10    66        76        9
+     Raphaël Glucksmann a les compétences pour être un bon Président (PR2) 3 14    17        18       44        62        21
+     Raphaël Glucksmann représente bien la France et les Français (PR2) 3 16       19        17       42        60        21
+     Raphaël Glucksmann a une vision claire pour l’avenir de la France (PR2) 4 16  19        18       41        58        22
+     Raphaël Glucksmann est capable de prendre les décisions dont le pays a besoin (PR2) 4 12 17 19   42        61        23
+     Gabriel Attal a les compétences pour être un bon Président (PR3) 3  16        20        22       45        66        14
+     Gabriel Attal représente bien la France et les Français (PR3) 4     19        22        20       44        64        13
+     Gabriel Attal a une vision claire pour l’avenir de la France (PR3) 3 19       22        20       44        63        15
+     Gabriel Attal est capable de prendre les décisions dont le pays a besoin (PR3) 4 15 19  21       44        65        15
+     Edouard Philippe a les compétences pour être un bon Président (PR4) 6 24      30        18       37        55        15
+     Edouard Philippe représente bien la France et les Français (PR4) 5  23        28        19       39        58        14
+     Edouard Philippe a une vision claire pour l’avenir de la France (PR4) 5 22    26        19       38        57        16
+     Edouard Philippe est capable de prendre les décisions dont le pays a besoin (PR4) 6 21 28 17     40        57        15
+     Bruno Retailleau a les compétences pour être un bon Président (PR5) 6 16      22        16       39        55        23
+     Bruno Retailleau représente bien la France et les Français (PR5) 5  18        24        16       39        55        21
+     Bruno Retailleau a une vision claire pour l’avenir de la France (PR5) 5 19    24        16       37        53        23
+     Bruno Retailleau est capable de prendre les décisions dont le pays a besoin (PR5) 6 17 24 16     37        53        23
+     Marine Le Pen a les compétences pour être une bonne Présidente (PR7) 18 20    38        11       41        52        10
+     Marine Le Pen représente bien la France et les Français (PR7) 19    21        41        12       39        51        8
+     Marine Le Pen a une vision claire pour l’avenir de la France (PR7) 19 20      39        14       38        52        9
+     Marine Le Pen est capable de prendre les décisions dont le pays a besoin (PR7) 20 19 39 11       41        52        9
+     François Hollande a les compétences pour être un bon Président (PR8) 4 16     20        22       49        70        9
+     François Hollande représente bien la France et les Français (PR8) 4 14        18        22       49        71        10
+     François Hollande a une vision claire pour l’avenir de la France (PR8) 3 13   16        21       51        72        11
+     François Hollande est capable de prendre les décisions dont le pays a besoin (PR8) 5 12 17 21    51        72        11
+     Sébastien Lecornu a les compétences pour être un bon Président (PR9) 2 16     19        21       42        63        18
+     Sébastien Lecornu représente bien la France et les Français (PR9) 3 18        21        20       40        61        18
+     Sébastien Lecornu a une vision claire pour l’avenir de la France (PR9) 3 18   21        20       41        61        18
+     Sébastien Lecornu est capable de prendre les décisions dont le pays a besoin (PR9) 3 18 21 21    40        61        18
+
+     Verian La stature présidentielle de candidats potentiels à la prochaine élection présidentielle -VAGUE 6        Octobre 2026 64
+
+--- page 65 ---
+
+Votre             équipe               Verian
+
+     Laure Salvaing
+     Directrice générale
+     laure.salvaing@veriangroup.com
+
+     Guillaume Caline
+     Directeur adjoint
+     guillaume.caline@veriangroup.com
+
+     Eddy Vautrin Dumaine
+
+     Directeur – Stratégies d’opinion et de confiance
+     eddy.Vautrin-dumaine@veriangroup.com
+
+     Verian

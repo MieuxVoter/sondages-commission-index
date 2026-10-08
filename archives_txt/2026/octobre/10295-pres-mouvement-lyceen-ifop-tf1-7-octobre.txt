@@ -1,0 +1,277 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10295-pres-mouvement-lyceen-ifop-tf1-7-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Les  Français    et le mouvement       des  lycéens
+
+        Notice   technique      détaillée
+
+                                                                  FD N° 122185
+                                                                CONTACT IFOP :
+                                                                   Frédéric Dabi
+                                                              Département Opinion
+                                                            et Stratégies d'Entreprise
+                                                             prénom.nom@ifop.com
+                                                                SEPTEMBRE 2026
+
+--- page 2 ---
+
+1
+
+                                                  La  méthodologie
+
+        Ifop pour LCI                                                     1
+
+        Les Français et le mouvement des lycéens  Septembre 2026
+
+--- page 3 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Etude réalisée par Ifop pour LCI
+
+         Echantillon
+                            L’enquête a été menée auprès d’un échantillon de 1 000 personnes
+                            représentatif de la population française âgée de 18 ans et plus.
+
+                            La représentativité de l’échantillon a été assurée par la méthode des
+         Méthodologie
+                            quotas au regard de critères :
+                            - sociodémographiques (sexe, âge de l’individu) ;
+
+                            - socioprofessionnels (profession de l’individu) ;
+
+                            - géographiques (région, taille d’unité urbaine).
+
+            Mode de recueil
+
+                            Les interviews ont été réalisées par questionnaire auto-administré
+                            en ligne du 6 au 7 octobre 2026.
+
+        L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2022) et d’un redressement
+        politique sur la base de la reconstitution des votes suivants : présidentielle 2022 1er tour, législatives 2024 1er
+        tour.
+        La présente notice est consultable sur le site de la commission des sondages.
+
+        Ifop pour LCI                                                    2
+
+        Les Français et le mouvement des lycéens  Septembre 2026
+
+--- page 4 ---
+
+Précision  relative  aux marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+        comme le montre le tableau ci-dessous :
+
+                    INTERVALLE DE CONFIANCE   A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 1 000 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 1,8. Le vrai pourcentage est donc compris entre 8,2% et 11,%.
+
+        Ifop pour LCI                                                    3
+
+        Les Français et le mouvement des lycéens  Septembre 2026
+
+--- page 5 ---
+
+Structure  de l’échantillon
+
+                                                 Brut   Redressé
+                                                  %        %
+        SEXE
+           Un homme                              45,8     47,7
+           Une femme                             54,2     52,3
+
+        AGE
+           De18a24ans
+           De25a34ans                            11,7     10,3
+           De35a49ans                            12,7     14,8
+           De50a64ans                            26,9     24,0
+           De65a74ans                            24,5     24,4
+           A75ansetplus                          12,7     14,0
+
+        REGION
+           GrandEst                               8,8     8,5
+           NouvelleAquitaine                      8,0     9,5
+           AuvergneRhoneAlpes1                   13,8     12,3
+           BourgogneFrancheComte1                 3,1     4,3
+           Bretagne2                              4,7     5,2
+
+           CentreValDeLoire1                      4,1     3,9
+           IleDeFrance2                          19,9     18,4
+           Occitanie                              9,0     9,4
+           HautsdeFrance                          9,0     8,9
+           Normandie1                             4,7     5,1
+           PaysDeLaLoire2                         6,5     5,8
+           PACACorse                              8,4     8,5
+
+        AGGLO
+           Commune rurale                        22,5     21,1
+           Unité urbaine de 2 000 à 19 999 hab.  16,2     18,2
+           Unité urbaine de 20 000 à 99 999 hab. 13,6     13,9
+           Unité urbaine de 100 000 à 199 999 hab. 31,9   30,6
+           Agglomération parisienne              15,8     16,3
+
+        PROFESSION
+           Agriculteurs1                          0,6     0,7
+           Artisans1                              3,3     3,8
+           Cadres1                               11,1     11,2
+           Intermediaires1                       14,8     15,0
+           Employes1                             17,7     15,8
+           Ouvriers1                             13,7     12,1
+
+           Inactifs                              38,8     41,3
+        PRESIDENTIELLE 2022 1er tour (Ne se prononce pas =
+        25,5%)
+           Nathalie Arthaud                       1,0     0,6
+           Philippe Poutou                        1,9     0,8
+           Fabien Roussel                         4,1     2,3
+           Jean-Luc Mélenchon                    15,1     21,5
+
+        Ifop pour LCI                                                    4
+
+        Les Français et le mouvement des lycéens  Septembre 2026
+
+--- page 6 ---
+
+Anne Hidalgo                           3,2     1,7
+           Yannick Jadot                          4,9     4,6
+           Emmanuel Macron                       25,7     27,8
+           Valérie Pécresse                       6,3     4,8
+           Nicolas Dupont-Aignan                  3,3     2,1
+           Marine Le Pen                         26,5     23,5
+           Éric Zemmour                           3,8     7,1
+
+           Jean Lassalle                          4,0     3,2
+        LEGISLATIVE 2024 1er tour (Ne se prononce pas = 28,7%)
+           Extrême gauche                         1,8     1,2
+           NFP                                   28,0     28,7
+           Divers gauche                          0,9     1,0
+           ENS Ensemble !                        21,3     22,4
+
+           Divers centre                          0,8     0,8
+           LR & DVD                               9,8     9,5
+           RN & alliés                           34,4     34,0
+           Droite souverainiste, divers EXD - Reconquête 1,2 1,1
+           DIVERS                                 1,9     1,3
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        Ifop pour LCI                                                    5
+
+        Les Français et le mouvement des lycéens  Septembre 2026
+
+--- page 7 ---
+
+Les  sentiments   associés  au  mouvement     lycéen
+
+        Question : Personnellement, quels sentiments éprouvez-vous principalement
+                   face au mouvement de contestation des lycéens ?
+                   En premier ? En second ?
+
+                        Brut  Poids                    Brut  Poids
+        Total          100,0 100,0      Total          100,0 100,0
+        De l’espoir     13,1  13,1      De l’espoir    15,7  16,6
+        De la fierté    7,8   8,0       De la fierté    9,4  10,2
+        De l’inquiétude 35,8  34,3      De l’inquiétude 26,9 25,9
+        De l’incompréhension 16,2 16,5  De l’incompréhension 23,2 23,6
+        De la colère    19,7  19,5      De la colère   19,9  18,9
+        De l’indifférence 7,4 8,6       De l’indifférence 4,9 4,7
+
+        Ifop pour LCI                                                    6
+        Les Français et le mouvement des lycéens  Septembre 2026
+
+--- page 8 ---
+
+Le soutien  au  mouvement     de  contestation   des  lycéens
+
+        Question : Et concernant ce mouvement de contestation des lycéens, quelle est
+                   votre attitude à son égard ?
+
+                                Brut  Poids
+        Total                   100,0 100,0
+        Vous le soutenez        25,0  27,4
+        Vous avez de la sympathie pour lui 23,1 20,6
+        Vous y êtes indifférent 15,6  17,2
+        Vous y êtes opposés     24,1  22,6
+        Vous y êtes hostile     12,2  12,2
+
+        Ifop pour LCI                                                    7
+        Les Français et le mouvement des lycéens  Septembre 2026
+
+--- page 9 ---
+
+Les acteurs  jugés  responsables   des  violences
+
+  Question : Pour chacun des acteurs suivants, diriez-vous qu’il est responsable ou
+            pas responsable des débordements et des violences qui émaillent le
+
+            mouvement de protestation des lycéens ?
+
+                   Certains lycéens   La police    La France insoumise Le gouvernement
+                   Brut    Poids   Brut    Poids    Brut    Poids   Brut    Poids
+ Total            100,0   100,0    100,0   100,0   100,0   100,0    100,0   100,0
+ Tout à fait responsable 35,2 35,2 15,6    16,2     44,1    44,8    39,7    40,7
+ Plutôt responsable 43,5   43,1    24,5    23,8     27,6    26,0    37,4    36,9
+ Plutôt pas responsable 14,4 13,9  33,8    32,1     13,8    12,7    16,4    14,4
+
+ Pas du tout responsable 6,9 7,7   26,0    27,9     14,4    16,4     6,5     8,0
+
+        Ifop pour LCI                                                    8
+        Les Français et le mouvement des lycéens  Septembre 2026
+
+--- page 10 ---
+
+Le recours  à la violence  pour  faire avancer  ses  idées
+
+        Question : D'une manière générale, et diriez-vous qu’il faut parfois en passer par
+                   un certain degré de violence pour faire avancer ses idées dans la
+
+                   société ?
+
+                        Brut    Poids
+        Total          100,0    100,0
+        Oui, tout à fait 8,5     9,4
+        Oui, plutôt     25,2    22,5
+        Non, plutôt pas 34,6    33,7
+        Non, pas du tout 31,6   34,4
+
+        Ifop pour LCI                                                    9
+        Les Français et le mouvement des lycéens  Septembre 2026

@@ -1,0 +1,361 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10294-pres-colere-des-lyceens-elabe-7-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+NOTICE TECHNIQUE
+
+                           Les Français et la colère des lycéens
+
+     ARTICLE 2
+
+                                   Elabe
+     Organisme ayant réalisé le sondage :
+                                   BFMTV
+     Nom du/des commanditaire(s) :
+                                   Echantillon de 1 001 personnes, représentatif des résidents
+     Nombre de personnes interrogées : de France métropolitaine âgés de 18 ans et plus.
+
+                                   Du 6 au 7 octobre 2026
+     Dates de réalisation de l'enquête :
+                                   Le 7 octobre 2026 à 16h50 sur www.elabe.fr
+     Date et support de première publication :
+
+                                                                             1
+
+--- page 2 ---
+
+QUESTIONNAIRE
+
+     Toutes les questions sont posées à tous les répondants.
+
+     Q1. Parmi les mots suivants, quels sont ceux qui décrivent le mieux votre état d'esprit quand vous pensez à
+     ce qu'il se passe en France aujourd'hui ?
+     En 1er ? En 2ème ? En 3ème ? Jusqu'à 3 réponses possibles à prioriser
+     Rotation aléatoire des items
+       1. La colère
+       2. L'inquiétude
+       3. L'exaspération
+       4. La lassitude
+       5. La peur
+       6. La tristesse
+       7. La fatigue
+       8. La nostalgie
+       9. L'espoir
+       10. La résilience
+       11. L'optimisme
+       12. L'indifférence
+       13. La confiance
+       14. La sérénité
+       15. La satisfaction
+     Q2. Depuis la mi-septembre, des lycéens se mobilisent dans plusieurs régions. Cette mobilisation prend la
+     forme de blocages ou de perturbations de lycées, de rassemblements et de manifestations.
+     Les revendications portent notamment sur les moyens accordés à l’Éducation nationale, le remplacement
+     des enseignants, l’état des établissements, les conditions d’étude et Parcoursup.
+     La mobilisation est également marquée par des violences, des dégradations et des blessures parmi les
+     jeunes, les personnels éducatifs et les forces de l’ordre.
+     Ce mardi 6 octobre, une nouvelle journée de mobilisation est organisée partout en France à l’appel des
+     organisations lycéennes et étudiantes, et avec le soutien de syndicats et de personnels de l’Éducation
+     nationale en grève.
+     Quelle est votre attitude à l’égard de la mobilisation des lycéens ?
+       1. Vous la soutenez
+       2. Vous avez de la sympathie
+       3. Vous y êtes opposé
+       4. Vous y êtes hostile
+       5. Vous y êtes indifférent
+     Q3. Selon vous, les revendications portées par les lycéens dans le cadre de cette mobilisation sont-elles… ?
+       1. Tout à fait légitimes
+       2. Plutôt légitimes
+       3. Plutôt pas légitimes
+       4. Pas du tout légitimes
+     Q4. Concernant notre système scolaire, diriez-vous que chacun de ces aspects fonctionne bien ou mal ?
+     Très bien / Plutôt bien / Plutôt mal / Très mal
+     Rotation aléatoire des items
+       1. Le remplacement des enseignants absents
+       2. Le nombre d'élèves par classe
+       3. Les conditions matérielles d’enseignement (état des infrastructures, chauffage, adaptation aux fortes
+          chaleurs...)
+       4. L’organisation des journées de cours (nombre d’heures de cours par jour, durée des pauses, heures
+          creuses et durée des vacances scolaires)
+       5. L'orientation des élèves
+       6. L'égalité des chances entre les élèves issus de milieux sociaux et territoires différents
+       7. L'attractivité du métier d'enseignant (conditions de travail, rémunération...)
+
+                                                                             2
+
+--- page 3 ---
+
+8. Parcoursup (la plateforme en ligne sur laquelle les lycéens formulent leurs vœux pour poursuivre leurs
+          études après le bac et reçoivent les réponses des établissements)
+
+     Rotation aléatoire entre les questions Q5 et Q6
+     Q5. Concernant les violences commises par des manifestants à l'encontre de personnels éducatifs
+     (proviseurs, enseignants...), vous diriez que... ?
+     Oui / Non
+     Rotation aléatoire des items
+       1. Vous les comprenez
+       2. Vous les condamnez
+     Q6. Concernant les violences commises par des manifestants à l'encontre de policiers, vous diriez que... ?
+     Oui / Non
+     Rotation aléatoire des items
+       1. Vous les comprenez
+       2. Vous les condamnez
+
+     Q7. Globalement, concernant les interventions des forces de l'ordre depuis le début de cette mobilisation,
+     diriez-vous que l’usage de la force par la police a été ?
+     Rotation aléatoire des items
+       1. Excessif
+       2. Adapté
+       3. Insuffisant
+
+     Q8. De manière générale, avez-vous le sentiment que le gouvernement est à l’écoute des revendications et
+     contestations du mouvement des lycéens ?
+       1. Oui, tout à fait
+       2. Oui, plutôt
+       3. Non, pas vraiment
+       4. Non, pas du tout
+     Q9. Le gouvernement souhaite instaurer le principe dit du « casseur-payeur », selon lequel les personnes
+     responsables de violences ou de dégradations pourraient être obligées de financer la réparation des
+     dommages causés. Êtes-vous favorable ou opposé à ce principe ?
+       1. Très favorable
+       2. Plutôt favorable
+       3. Plutôt opposé
+       4. Très opposé
+
+     Q10. Concernant la mobilisation des lycéens, de laquelle des opinions suivantes êtes-vous le plus proche ?
+     Rotation aléatoire des items
+       1. La mobilisation doit se durcir, s'accentuer (blocages plus importants, plus nombreux)
+       2. La mobilisation doit continuer de la même façon qu'actuellement
+       3. La mobilisation doit s'arrêter
+     Q11. Selon vous, la mobilisation actuelle des lycéens sera-t-elle le début d’un mouvement social de grande
+     ampleur qui s'étendra à d'autres catégories de la population ?
+       1. Oui, certainement
+       2. Oui, probablement
+       3. Non, probablement pas
+       4. Non, certainement pas
+
+                                                                             3
+
+--- page 4 ---
+
+NOTE SUR LES MARGES D’ERREUR
+
+     Comme toute enquête statistique, un sondage présente une incertitude appelée « marge d’erreur » ou « marge
+     d’incertitude ». La marge d’erreur ou d’incertitude d’un sondage dépend de la taille de l’échantillon interrogé et du
+     résultat observé. Pour une base de 1 000 personnes interrogées, les marges d’erreur sont les suivantes avec un
+     niveau de confiance de 95 % :
+
+        Pour un  La marge d'erreur Le résultat réel se
+      pourcentage de : est de : situe entre :
+          5          +/- 1,4    3.6 et 6.4
+          10         +/- 1,9    8.1 et 11.9
+          15         +/- 2,2   12.8 et 17.2
+          20         +/- 2,5   17.5 et 22.5
+
+          25         +/- 2,7   22.3 et 27.7
+          30         +/- 2,8   27.2 et 32.8
+          35         +/- 3      32 et 38
+          40         +/- 3      37 et 43
+
+          45         +/- 3,1   41.9 et 48.1
+          50         +/- 3,1   46.9 et 53.1
+          55         +/- 3,1   51.9 et 58.1
+          60         +/- 3      57 et 63
+
+          65         +/- 3      62 et 68
+          70         +/- 2,8   67.2 et 72.8
+          75         +/- 2,7   72.3 et 77.7
+          80         +/- 2,5   77.5 et 82.5
+
+          85         +/- 2,2   82.8 et 87.2
+          90         +/- 1,9   88.1 et 91.9
+          95         +/- 1,4   93.6 et 96.4
+
+     Exemple de lecture :
+
+     Pour un résultat observé de 25 %, il y a 95 % de chances pour que le résultat réel soit compris entre 22,3% et 27,7%.
+     La notice de ce sondage peut être consultée sur le site internet de la Commission des sondages : www.commission-des-sondages.fr
+
+     Toute publication ou toute reprise de ce sondage doit faire figurer la méthodologie et les marges d’erreurs :
+     « Echantillon de 1 001 personnes, représentatif des résidents de France métropolitaine âgés de 18 ans et plus. Interrogation par
+     Internet du 6 au 7 octobre 2026.
+
+     La représentativité de l’échantillon a été assurée selon la méthode des quotas appliquée aux variables suivantes : sexe, âge,
+     catégorie socio-professionnelle, région de résidence et catégorie d’agglomération.
+     Marge d’erreur comprise entre 1,4 et 3,1 pts de pourcentage. »
+
+                                                                             4
+
+--- page 5 ---
+
+ARTICLE 3
+
+                                   Les Français et la colère des lycéens
+     Objet du sondage :
+                                   Echantillon de 1 001 personnes, représentatif des résidents
+                                   de France métropolitaine âgés de 18 ans et plus, constitué
+                                   d’après la méthode des quotas (sexe, âge, profession de la
+     Méthode :                     personne interrogée, catégorie d’agglomération et région
+                                   de résidence).
+                                   Voir la composition de l’échantillon page suivante.
+
+     Conditions d’interrogation :  Les répondants ont été interrogés en ligne (Internet).
+
+     Nombre de sans réponse :      Voir « Résultats publiés »*
+
+                                   Oui. Gratification sous la forme de points cumulables et dont
+     Existence d’une gratification : la valeur s’élève à moins de 1€ pour un questionnaire
+                                   complété.
+
+                                   L’échantillon brut a été redressé sur les variables
+                                   sociodémographiques et professionnelles utilisées comme
+                                   quotas (données Insee issues du recensement de la
+                                   population 2022) ainsi que sur le statut d’occupation du
+     Critères de redressement :    logement (données Insee issues du recensement de la
+                                   population 2022), le vote au premier tour des élections
+                                   législatives 2024, au premier tour et au second tour de
+                                   l’élection présidentielle 2022 (données du Ministère de
+                                   l’Intérieur).
+
+     (*) Nous vous présentons dans ce document le nombre de « sans-réponse » pour chacune des questions publiées.
+     Les questions de quota étant obligatoires (de façon à s’assurer de la représentativité de l’échantillon) aucune des
+     personnes interrogées ne peut ne pas avoir répondu à l’ensemble du sondage.
+
+                                                                             5
+
+--- page 6 ---
+
+QUESTIONS PUBLIEES
+
+     En raison de l’arrondi à 100, un décalage d’1 point maximum peut exister entre les colonnes redressées et publiées.
+
+                 Parmi les mots suivants, quels sont ceux qui décrivent le mieux
+                 votre état d'esprit quand vous pensez à ce qu'il se passe en France PUBLIÉ
+                 aujourd'hui ? – % TOTAL DES CITATIONS
+                 L'inquiétude                              63
+                 La colère                                 44
+                 L'exaspération                            44
+                 La peur                                   25
+                 La tristesse                              24
+                 La lassitude                              23
+                 La fatigue                                20
+                 La nostalgie                              10
+                 L'espoir                                  10
+                 La résilience                              6
+                 L'optimisme                                6
+                 L'indifférence                             4
+                 La confiance                               4
+                 La sérénité                                3
+                 La satisfaction                            2
+                 Quelle est votre attitude à l’égard de la mobilisation des lycéens ? PUBLIÉ
+                 TOTAL SOUTIEN / SYMPATHIE                 55
+                  Vous la soutenez                         26
+                  Vous avez de la sympathie                29
+                 TOTAL OPPOSE / HOSTILE                    35
+                  Vous y êtes opposé                       18
+                  Vous y êtes hostile                      17
+                 Vous y êtes indifférent                   10
+                 Sans-réponses                              0
+                 Selon vous, les revendications portées par les lycéens dans le cadre
+                                                          PUBLIÉ
+                 de cette mobilisation sont-elles… ?
+                 TOTAL LEGITIMES                           72
+                  Tout à fait légitimes                    28
+                  Plutôt légitimes                         44
+                 TOTAL PAS LEGITIMES                       28
+                  Plutôt pas légitimes                     19
+                  Pas du tout légitimes                     9
+                 Sans-réponses                              0
+                 Concernant notre système scolaire, diriez-vous que chacun de ces
+                                                          PUBLIÉ
+                 aspects fonctionne bien ou mal ? – % TOTAL MAL
+                 Le remplacement des enseignants absents   88
+                 Les conditions matérielles d’enseignement (état des infrastructures,
+                                                           79
+                 chauffage, adaptation aux fortes chaleurs...)
+                 L'attractivité du métier d'enseignant (conditions de travail,
+                                                           77
+                 rémunération...)
+                 Le nombre d'élèves par classe             74
+                 Parcoursup (la plateforme en ligne sur laquelle les lycéens formulent
+                 leurs vœux pour poursuivre leurs études après le bac et reçoivent les 74
+                 réponses des établissements)
+                 L'orientation des élèves                  72
+                 L'égalité des chances entre les élèves issus de milieux sociaux et
+                                                           69
+                 territoires différents
+                 L’organisation des journées de cours (nombre d’heures de cours par
+                                                           54
+                 jour, durée des pauses, heures creuses et durée des vacances scolaires)
+                                                                             6
+
+--- page 7 ---
+
+Concernant les violences commises par des manifestants à
+                 l'encontre de personnels éducatifs (proviseurs, enseignants...), vous PUBLIÉ
+                 diriez que... ? – % OUI
+                 Vous les comprenez                        10
+                 Vous les condamnez                        89
+                 Concernant les violences commises par des manifestants à
+                                                          PUBLIÉ
+                 l'encontre de policiers, vous diriez que... ? – % OUI
+                 Vous les comprenez                        20
+                 Vous les condamnez                        85
+                 Globalement, concernant les interventions des forces de l'ordre
+                                                          PUBLIÉ
+                 depuis le début de cette mobilisation, diriez-vous que l’usage de la
+                 force par la police a été ?
+                 Adapté                                     41
+                 Excessif                                   34
+                 Insuffisant                                24
+                 Sans-réponses                              1
+                 De manière générale, avez-vous le sentiment que le gouvernement
+                                                          PUBLIÉ
+                 est à l’écoute des revendications et contestations du mouvement
+                 des lycéens ?
+                 TOTAL OUI                                  35
+                  Oui, tout à fait                          6
+                  Oui, plutôt                               29
+                 TOTAL NON                                  65
+                  Non, pas vraiment                         43
+                  Non, pas du tout                          22
+                 Sans-réponses                              0
+                 Le gouvernement souhaite instaurer le principe dit du « casseur-
+                 payeur », selon lequel les personnes responsables de violences ou
+                                                          PUBLIÉ
+                 de dégradations pourraient être obligées de financer la réparation
+                 des dommages causés. Êtes-vous favorable ou opposé à ce principe
+                 ?
+                 TOTAL FAVORABLE                            87
+                  Très favorable                            58
+                  Plutôt favorable                          29
+                 TOTAL OPPOSE                               13
+                  Plutôt opposé                             8
+                  Très opposé                               5
+                 Sans-réponses                              0
+                 Concernant la mobilisation des lycéens, de laquelle des opinions PUBLIÉ
+                 suivantes êtes-vous le plus proche ?
+                 La mobilisation doit s'arrêter             55
+                 La mobilisation doit continuer de la même façon qu'actuellement 27
+                 La mobilisation doit se durcir, s'accentuer (blocages plus importants,
+                                                            17
+                 plus nombreux)
+                 Sans-réponses                              1
+                 Selon vous, la mobilisation actuelle des lycéens sera-t-elle le début
+                                                          PUBLIÉ
+                 d’un mouvement social de grande ampleur qui s'étendra à d'autres
+                 catégories de la population ?
+                 TOTAL OUI                                  64
+                  Oui, certainement                         15
+                  Oui, probablement                         49
+                 TOTAL NON                                  36
+                  Non, probablement pas                     30
+                  Non, certainement pas                     6
+                                                                             7
+
+--- page 8 ---
+
+Sans-réponses                              0
+
+                                                                             8
