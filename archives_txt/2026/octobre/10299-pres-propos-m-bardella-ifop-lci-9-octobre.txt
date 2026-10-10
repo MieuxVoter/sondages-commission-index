@@ -1,0 +1,256 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10299-pres-propos-m-bardella-ifop-lci-9-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Les  Français    et l’affaire Bardella
+
+        Notice   technique
+
+                                                                  FD N° 122185
+                                                                CONTACT IFOP :
+                                                                   Frédéric Dabi
+                                                              Département Opinion
+                                                            et Stratégies d'Entreprise
+                                                             prénom.nom@ifop.com
+                                                                 OCTOBRE 2026
+
+--- page 2 ---
+
+1
+
+                                                  La  méthodologie
+
+        Ifop pour LCI                                                     1
+
+        Les Français et l’affaire Bardella  Octobre 2026
+
+--- page 3 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Etude réalisée par Ifop pour LCI
+
+         Echantillon
+                            L’enquête a été menée auprès d’un échantillon de 1 000 personnes
+                            représentatif de la population française âgée de 18 ans et plus.
+
+                            La représentativité de l’échantillon a été assurée par la méthode des
+         Méthodologie
+                            quotas au regard de critères :
+                            - sociodémographiques (sexe, âge de l’individu) ;
+
+                            - socioprofessionnels (profession de l’individu) ;
+
+                            - géographiques (région, taille d’unité urbaine).
+
+            Mode de recueil
+
+                            Les interviews ont été réalisées par questionnaire auto-administré
+                            en ligne du 6 au 7 octobre 2026.
+
+        L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2022) et d’un redressement
+        politique sur la base de la reconstitution des votes suivants : présidentielle 2022 1er tour, législatives 2024 1er
+        tour.
+        La présente notice est consultable sur le site de la commission des sondages.
+
+        Ifop pour LCI                                                    2
+
+        Les Français et l’affaire Bardella  Octobre 2026
+
+--- page 4 ---
+
+Précision  relative  aux marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+        comme le montre le tableau ci-dessous :
+
+                    INTERVALLE DE CONFIANCE   A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 1 000 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 1,8. Le vrai pourcentage est donc compris entre 8,2% et 11,8%.
+
+        Ifop pour LCI                                                    3
+
+        Les Français et l’affaire Bardella  Octobre 2026
+
+--- page 5 ---
+
+Structure  de l’échantillon
+
+                                                 Brut   Redressé
+                                                  %        %
+        SEXE
+           Un homme                              45,8     47,7
+           Une femme                             54,2     52,3
+
+        AGE
+           De18a24ans                            11,7     10,3
+           De25a34ans                            12,7     14,8
+           De35a49ans                            26,9     24,0
+           De50a64ans                            24,5     24,4
+           De65a74ans                            12,7     14,0
+           A75ansetplus                          11,5     12,5
+
+        REGION
+           GrandEst                               8,8     8,5
+           NouvelleAquitaine                      8,0     9,5
+           AuvergneRhoneAlpes1                   13,8     12,3
+           BourgogneFrancheComte1                 3,1     4,3
+           Bretagne2                              4,7     5,2
+
+           CentreValDeLoire1                      4,1     3,9
+           IleDeFrance2                          19,9     18,4
+           Occitanie                              9,0     9,4
+           HautsdeFrance                          9,0     8,9
+           Normandie1                             4,7     5,1
+           PaysDeLaLoire2                         6,5     5,8
+           PACACorse                              8,4     8,5
+
+        AGGLO
+           Commune rurale                        22,5     21,1
+           Unité urbaine de 2 000 à 19 999 hab.  16,2     18,2
+           Unité urbaine de 20 000 à 99 999 hab. 13,6     13,9
+           Unité urbaine de 100 000 à 199 999 hab. 31,9   30,6
+           Agglomération parisienne              15,8     16,3
+
+        PROFESSION
+           Agriculteurs1                          0,6     0,7
+           Artisans1                              3,3     3,8
+           Cadres1                               11,1     11,2
+           Intermediaires1                       14,8     15,0
+           Employes1                             17,7     15,8
+           Ouvriers1                             13,7     12,1
+
+           Inactifs                              38,8     41,3
+        PRESIDENTIELLE 2022 1er tour (Ne se prononce pas =
+        25,5%)
+           Nathalie Arthaud                       1,0     0,6
+           Philippe Poutou                        1,9     0,8
+           Fabien Roussel                         4,1     2,3
+           Jean-Luc Mélenchon                    15,1     21,5
+
+        Ifop pour LCI                                                    4
+
+        Les Français et l’affaire Bardella  Octobre 2026
+
+--- page 6 ---
+
+Anne Hidalgo                           3,2     1,7
+           Yannick Jadot                          4,9     4,6
+           Emmanuel Macron                       25,7     27,8
+           Valérie Pécresse                       6,3     4,8
+           Nicolas Dupont-Aignan                  3,3     2,1
+           Marine Le Pen                         26,5     23,5
+           Éric Zemmour                           3,8     7,1
+
+           Jean Lassalle                          4,0     3,2
+        LEGISLATIVE 2024 1er tour (Ne se prononce pas = 28,7%)
+           Extrême gauche                         1,8     1,2
+           NFP                                   28,0     28,7
+           Divers gauche                          0,9     1,0
+           ENS Ensemble !                        21,3     22,4
+
+           Divers centre                          0,8     0,8
+           LR & DVD                               9,8     9,5
+           RN & alliés                           34,4     34,0
+           Droite souverainiste, divers EXD - Reconquête 1,2 1,1
+           DIVERS                                 1,9     1,3
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        Ifop pour LCI                                                    5
+
+        Les Français et l’affaire Bardella  Octobre 2026
+
+--- page 7 ---
+
+La gravité  perçue  des  propos  attribués  à Jordan   Bardella
+
+        Question : Le journal Mediapart a révélé des écrits antisémites attribués à Jordan
+                   Bardella datant de 2013. Si ces propos, attribués à Jordan Bardella,
+                   sont avérés, diriez-vous qu’ils sont graves ou pas graves ?
+
+                        Brut    Poids
+        Total           100,0   100,0
+        Très graves     38,8     38,5
+        Plutôt graves   34,3     35,3
+        Plutôt pas graves 16,3   15,3
+        Pas graves du tout 10,6  10,8
+
+        Ifop pour LCI                                                    6
+        Les Français et l’affaire Bardella  Octobre 2026
+
+--- page 8 ---
+
+L'évolution  de  l'opinion  sur Jordan  Bardella  à la suite de
+
+                                     l'affaire
+
+        Question : À la suite de cette affaire, diriez-vous que votre opinion à l’égard de
+                   Jordan Bardella s’est… ?
+
+                        Brut    Poids
+        Total           100,0   100,0
+        Plutôt améliorée 5,9     6,6
+
+        N’a pas changé  73,5     72,3
+        Plutôt détériorée 20,6   21,1
+
+        Ifop pour LCI                                                    7
+        Les Français et l’affaire Bardella  Octobre 2026
+
+--- page 9 ---
+
+Le sentiment   d'avoir  été convaincu    par les interventions
+
+                       médiatiques    de Jordan   Bardella
+
+        Question : Et Jordan Bardella vous a-t-il convaincu lors de ses interventions
+                   médiatiques récentes pour se défendre des accusations de
+                   Médiapart ?
+
+        *               Brut    Poids
+        Total           100,0   100,0
+        Tout à fait convaincu 13,4 13,6
+        Plutôt convaincu 25,4    25,2
+        Plutôt pas convaincu 23,9 21,9
+        Pas du tout convaincu 37,3 39,3
+
+        Ifop pour LCI                                                    8
+        Les Français et l’affaire Bardella  Octobre 2026
