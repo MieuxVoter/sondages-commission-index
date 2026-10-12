@@ -1,0 +1,1955 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10303-pres-barometre-ipsos-bva-la-tribune-dimanche-10-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+•  9  octobre        2026
+
+                                NOTICE               TECHNIQUE
+
+                                Baromètre    politique  Ipsos  bva  Cesi  Ecole  d’ingénieurs   pour  la
+                                Tribune   Dimanche    – Octobre   2026
+
+--- page 2 ---
+
+ARTICLE      2 –  INFORMATIONS           GENERALES
+
+    ▪ Organisme    ayant  réalisé  le sondage              IPSOS  bva
+
+    ▪ Commanditaires      du sondage                       La Tribune   Dimanche
+
+                                                           1000  personnes,
+
+    ▪ Nombre    de personnes    interrogées                constituant   un  échantillon  national   représentatif   de la
+
+                                                           population   française,  âgée   de 18 ans  et plus.
+
+    ▪ Dates  de réalisation   des  interviews              Du 7 au  8 octobre   2026
+
+    ▪ Date  de diffusion  prévue                           Le samedi   10  octobre  2026   à 23H
+
+    ▪ Questionnaire                                        Présenté   intégralement     dans  le rapport  d’étude  ci-après
+
+--- page 3 ---
+
+PRÉCISIONS             SUR     L’INTERVALLE             DE    CONFIANCE
+
+    L’intervalle de confiance (appelé aussi marge d’erreur) est l’intervalle dans lequel se trouve la valeur recherchée avec une probabilité fixée (le niveau
+
+    de confiance). L’amplitude de cet intervalle dépend du niveau de confiance, de la valeur observée et de la taille de l’échantillon. Le calcul n’est
+    justifié que pour les sondages aléatoires. Il ne peut pas être déterminé dans le cas de sondages par quotas mais on considère qu’il est proche de
+    celui des sondages aléatoires.
+
+                             INTERVALLE   DE CONFIANCE
+
+                         (avec un niveau de confiance de 95%)
+                                      SCORES OBTENUS (P)                      Note de lecture : pour un échantillon de 1000 personnes, si le score
+        Taille                                                                mesuré est de 20%, il y a 95% de chances pour que la valeur réelle
+     d'échantillon 2% ou 5% ou 10% ou 15% ou 20% ou 25% ou 30% ou 35% ou 40% ou 45% ou se situe aujourd’hui entre 17,5% et 22,5% (plus ou moins 2,5
+                                                                        50%
+         (N)    98%   95%  90%   85%  80%   75%  70%   65%   60%  55%         points).
+
+        100      2,7  4,3   5,9  7,0   7,8  8,5   9,0  9,3   9,6   9,8  9,8
+        500      1,2  1,9   2,6  3,1   3,5  3,8   4,0  4,2   4,3   4,4  4,4
+
+        1 000    0,9  1,4   1,9  2,2   2,5  2,7   2,8  3,0   3,0   3,1  3,1
+        2 500    0,5  0,9   1,2  1,4   1,6  1,7   1,8  1,9   1,9   2,0  2,0
+        6 000    0,4  0,6   0,8  0,9   1,0  1,1   1,2  1,2   1,2   1,3  1,3
+
+       10 000    0,3  0,4   0,6  0,7   0,8  0,8   0,9  0,9   1,0   1,0  1,0
+       15 000    0,2  0,3   0,5  0,6   0,6  0,7   0,7  0,8   0,8   0,8  0,8
+
+                                                                 3
+
+--- page 4 ---
+
+ARTICLE      3 – INFORMATIONS            GENERALES
+
+     ▪ Objet du sondage                              Baromètre  politique Ipsos bva Cesi école d’ingénieurs pour la Tribune Dimanche
+
+                                                     1000 personnes,  constituant un échantillon national représentatif de la
+                                                     population française, âgée de 18 ans et plus.
+     ▪ Echantillon interrogé
+                                                     Méthode  des quotas : sexe, âge, profession de la personne interrogée,
+                                                     catégorie d’agglomération, région.
+
+     ▪ Mode de recueil                               En ligne
+
+                                                     Le taux de non-réponse  (lorsqu’il est supérieur à 0) est présenté pour chaque
+     ▪ Taux de non-réponse
+                                                     question dans le rapport ci-après.
+
+                                                     Chaque  répondant  a obtenu des points cumulables pour une valeur inférieure à 1
+     ▪ Gratification des personnes interrogées
+                                                     euro.
+
+                                                     Le redressement  a été effectué à partir de la structure sociodémographique de
+
+                                                     la population française âgée de 18 ans et plus (sexe, âge, catégorie
+     ▪ Critères de redressement                      socioprofessionnelle de la personne interrogée, région et catégorie
+
+                                                     d’agglomération), du souvenir de vote aux élections européennes de 2024 et du
+                                                     souvenir de vote au 1er tour de l’élection présidentielle de 2022.
+
+--- page 5 ---
+
+Baromètre
+
+   IPSOS            BVA          /    CESI         École
+
+   d’ingénieurs                       pour
+
+   LA       TRIBUNE                  DIMANCHE
+
+     Octobre   2026
+
+--- page 6 ---
+
+LES        PRINCIPALES
+      LES         PRINCIPALES
+
+     PRÉOCCUPATIONS                                    DES
+      PRÉOCCUPATIONS                                     DES
+
+     FRANÇAIS
+      FRANÇAIS
+
+     ©Ipsos - Baromètre politique Ipsos / CESI Ecole
+     d’ingénieurs - La Tribune Dimanche – Mars 2025               66
+
+--- page 7 ---
+
+7 ‒
+
+    Les     principales            préoccupations                  des     Français
+
+     Parmi les enjeux suivants, quels sont les trois qui vous préoccupent le plus à titre personnel ?
+     (A tous, Total supérieur à 100% car 3 réponses possibles)
+                                                                                                                   Rappel 09/26
+
+           Les difficultés en termes de pouvoir d'achat (hausse des prix, salaires, impôts, etc.) 54                    54
+
+                                     L'avenir du système social (santé, retraites...)        44                         40
+
+                                            Le niveau de la dette et des déficits      33                               30
+
+                                                  Le niveau de la délinquance         29                                26
+
+      La protection de l'environnement (réchauffement climatique, biodiversité, pollution, etc.) 27                     31
+
+                                                   Le niveau de l'immigration        27                                 31
+
+                                Les crises internationales (Ukraine, Proche-Orient…) 20                                 21
+
+                                              La montée des inégalités sociales 17                                      21
+
+                                                  L'avenir du système scolaire 15                                       14
+
+                                                       Le taux de chômage   8                                           9
+
+                                                       La menace terroriste 8                                           7
+
+                                     Les risques d'épidémies (Covid 19, grippe, etc.) 3                                 2
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 7
+
+--- page 8 ---
+
+8 ‒
+
+    Les     principales            préoccupations                  des     Français
+
+     Parmi les enjeux suivants, quels sont les trois qui vous préoccupent le plus à titre personnel ?
+     (A tous, Total supérieur à 100% car 3 réponses possibles)
+
+      55            55
+                                                                                                    54
+                                                                                                        Le pouvoir d’achat
+
+                               44                                 44 44                             44
+                                                         42                42                           L’avenir du système social
+                                                      40
+
+              35                                         35
+        34                                                                                              Le niveau de la dette et
+                                                               33                                     33
+                                                                                                        des déficits
+                                                               30                            32
+                                                                                                      29Le niveau de la délinquance
+                                                 31                                               26
+                                                                                                        La protection de
+                                                                                                      27
+                                                                         26           26                l’environnement
+                                              26
+                                                                                                      27
+                                                                                                        Le niveau de l’immigration
+                                                                           20            20
+      12
+      4  4  4 4  4  4  4  4  4  4  4 4  5  5  5  5  5  5  5 5  5  5  5  5  6  6  6  6 6  6  6  6  6  6
+      2  2  2 2  2  2  2  2  2  2  2 2  2  2  2  2  2  2  2 2  2  2  2  2  2  2  2  2 2  2  2  2  2  2
+      -  -  - -  -  -  -  -  -  -  - -  -  -  -  -  -  -  - -  -  -  -  -  -  -  -  - -  -  -  -  -  -
+      v  r  s r  i  n  l  t  t  t  v c  v  r  s  r  i  n  l t  t  t  v  c  v  r  s  r i  n  l  t  t  t
+      n  v  r v  a  i  i u û p  c  o é  n  v  r  v  a  i  i u û p c  o  é  n  v  r  v a  i  i u û p  c
+      a  é  a a  m  u  j  o  e  o  n d  a  é  a  a  m  u  j o  e  o  n  d  a  é  a  a m  u  j  o  e  o
+      j  f  m       j     a  s          j  f  m        j    a  s           j  f  m       j     a  s
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 8
+
+--- page 9 ---
+
+9 ‒
+
+    Les     principales            préoccupations                  des     Français
+
+    selon       la  proximité           partisane
+
+     Parmi les enjeux suivants, quels sont les trois qui vous préoccupent le plus à titre personnel ?
+     (A tous, Total supérieur à 100% car 3 réponses possibles)
+                                                                                                      Symp. Ren.-
+                                                                           Symp.     Symp.    Symp.              Symp.     Symp.
+                                                                Ensemble                              Horizons-
+                                                                             FI      EELV     PS / PP            LR-UDI     RN
+                                                                                                       MoDem
+      Les difficultés en termes de pouvoir d'achat (hausse des prix, salaires, impôts, etc.) 54 58 31 65 36       48        63
+
+                                L'avenir du système social (santé, retraites...) 44 49 48       55       30       44        34
+
+                                       Le niveau de la dette et des déficits 33 9     22       20        55       52        36
+
+                                             Le niveau de la délinquance 29  10       8         13       28        41       44
+
+ La protection de l'environnement (réchauffement climatique, biodiversité, pollution, etc.) 27 43 63 41  24        15       12
+
+                                              Le niveau de l'immigration 27  3         7        8        20       33        58
+
+                           Les crises internationales (Ukraine, Proche-Orient…) 20 18 20        26       36       22        12
+
+                                        La montée des inégalités sociales 17 54       31        21       7         11       6
+
+                                            L'avenir du système scolaire 15  24       31        11       21        7        6
+                                                  Le taux de chômage 8       12       16        10       4         5        10
+
+                                                 La menace terroriste 8      1        4         9        12        11       9
+
+                                Les risques d'épidémies (Covid 19, grippe, etc.) 3 5   -        2        6         4        3
+
+         Préoccupations les plus citées
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 9
+
+--- page 10 ---
+
+LE      JUGEMENT                      PORTÉ              SUR
+      LE      JUGEMENT                       PORTÉ              SUR
+
+     L’ACTION                  DU       PRÉSIDENT                      DE
+      L’ACTION                   DU      PRÉSIDENT                       DE
+
+     LA      RÉPUBLIQUE                         ET      DU
+      LA       RÉPUBLIQUE                         ET      DU
+
+     PREMIER                  MINISTRE
+      PREMIER                  MINISTRE
+
+     ©Ipsos - Baromètre politique Ipsos / CESI Ecole
+     d’ingénieurs - La Tribune Dimanche – Mars 2025               1100
+
+--- page 11 ---
+
+11 ‒
+
+    La    popularité           du    président           de    la  République
+
+     Quel jugement portez-vous sur l'action d’Emmanuel Macron en tant que président de la République ?
+     (A tous)
+     OCTOBRE    2026                                 DEPUIS   MAI 2017
+
+                                                      90%
+                           3
+                Très              15%
+                          12            (-1)                                                                         82%
+            favorable                                 80%                                                                  (+1)
+                                  Favorable                                                                          Défavorable
+                                                      70%
+               Plutôt
+            favorable     28
+                                                      60%
+
+                                                      50%46%
+               Plutôt
+                                                      40%
+          défavorable
+
+                                                      30%
+                          54
+                                                          27%
+                Très                                  20%                                                             15%
+                                                                                                                           (-1)
+          défavorable
+                                  82%                                                                                 Favorable
+                                         (+1)
+                                                      10%
+                                  Défavorable
+               Ne se
+        prononce pas
+                           3                           0%
+                                                      Avant janvier 2024, les données sont issues du baromètre de l’action politique Ipsos pour le Point
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 11
+
+--- page 12 ---
+
+12 ‒
+
+    La    popularité           du    président           de    la  République             selon      la
+
+    proximité           partisane
+
+     Quel jugement portez-vous sur l'action d’Emmanuel Macron en tant que président de la République ?
+     (A tous)
+                                                                         SYMPATHISANTS
+                 SYMPATHISANTS      SYMPATHISANTS     SYMPATHISANTS                         SYMPATHISANTS      SYMPATHISANTS
+                                                                         RENAISSANCE-
+                 FI                 LES ÉCOLOGISTES   PS-PLACE PUBLIQUE*                    LR-UDI             RN
+                                                                         MODEM-HORIZONS
+            Très   4                  2                                                                           2
+                                                        6                   8                                     4
+        favorable                     7                                                       11
+                   8   12%   (-8)         9%  (-6)           19%  (+1)          53%  (=)           11%  (-8)          6%  (=)
+                       Favorable          Favorable     13   Favorable          Favorable          Favorable      15  Favorable
+           Plutôt
+                   24
+        favorable
+                                     39                                                       36
+                                                                           45
+                                                        45
+           Plutôt
+      défavorable
+                                                                                                                  78
+                   63
+                                                                           34
+                                     47                                                       50
+            Très
+      défavorable      87%                86%           35   80%                47%                86%                93%
+                             (+8)               (+2)               (=)               (+2)                (+6)               (+1)
+                       Défavorable        Défavorable        Défavorable        Défavorable        Défavorable        Défavorable
+                                                                           13
+           Ne se
+    prononce pas   1                  5                 1                                      3                  1
+    *Lors de la vague précédente, les résultats étaient présentés sur les sympathisants PS uniquement
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 12
+
+--- page 13 ---
+
+13 ‒
+
+    La    popularité           des     présidents            de    la  Vème      République
+
+     Quel jugement portez-vous sur l'action de […] en tant que président de la République ?
+
+     (A tous)
+
+                        Jacques Chirac                  Nicolas Sarkozy    François Hollande       Emmanuel Macron
+  90
+                                                                                                                          82%
+                                                                                                                                (+1)
+  80
+                                                                                                                          Défavorable
+  70
+
+  60
+
+  50
+
+  40
+
+  30
+
+  20                                                                                                                      15%
+                                                                                                                               (-1)
+                                                                                                                          Favorable
+  10
+    0
+       6 6 6 7 7 7 8 8 8 9 9 9 0 0 0 1 1 1 2 2 2 3 3 3 4 4 4 5 5 5 6 6 6 7 7 7 8 8 8 9 9 9 0 0 0 1 1 1 2 2 2 3 3 3 4 4 4 5 5 5 6 6 6 7 7 8 8 8 9 9 9 0 0 1 1 2 2 2 3 3 4 4 5 5 5 6 6
+       9 9 9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+       .n
+       a J
+        .ia
+        M
+         .p
+         e S
+           .n
+           a J
+            .ia
+            M
+             .p
+             e S
+               .n
+               a J
+                .ia
+                M
+                 .p
+                 e S
+                  .n
+                  a J
+                    .ia
+                    M
+                     .p
+                     e S
+                      .n
+                      a J
+                        .ia
+                        M
+                         .p
+                         e S
+                          .n
+                          a J
+                            .ia
+                            M
+                             .p
+                             e S
+                              .n
+                              a J
+                               .ia
+                               M
+                                 .p
+                                 e S
+                                  .n
+                                  a J
+                                   .ia
+                                   M
+                                     .tp
+                                     e S
+                                      .n
+                                      a J
+                                       .ia
+                                       M
+                                        .tp
+                                        e S
+                                          .n
+                                          a J
+                                           .ia
+                                           M
+                                            .tp
+                                            e S
+                                              .n
+                                              a J
+                                               .ia
+                                               M
+                                                .tp
+                                                e S
+                                                  .n
+                                                  a J
+                                                   .ia
+                                                   M
+                                                    .tp
+                                                    e S
+                                                     .n
+                                                     a J
+                                                       .ia
+                                                       M
+                                                        .tp
+                                                        e S
+                                                         .n
+                                                         a J
+                                                           .ia
+                                                           M
+                                                            .tp
+                                                            e S
+                                                             .n
+                                                             a J
+                                                               .ia
+                                                               M
+                                                                .tp
+                                                                e S
+                                                                 .n
+                                                                 a J
+                                                                  .ia
+                                                                  M
+                                                                    .tp
+                                                                    e S
+                                                                     .n
+                                                                     a J
+                                                                      .ia
+                                                                      M
+                                                                        .tp
+                                                                        e S
+                                                                         .n
+                                                                         a J
+                                                                          .ia
+                                                                          M
+                                                                           .tp
+                                                                           e S
+                                                                             .n
+                                                                             a J
+                                                                              .ia
+                                                                              M
+                                                                               .tp
+                                                                               e S
+                                                                                 .n
+                                                                                 a J
+                                                                                  .ia
+                                                                                  M
+                                                                                   .tc
+                                                                                   O
+                                                                                     .sra
+                                                                                     M
+                                                                                      .tû
+                                                                                      o A
+                                                                                       .c
+                                                                                       é D
+                                                                                        .rvA .tp
+                                                                                          e S
+                                                                                           .n
+                                                                                           a J
+                                                                                            .ia
+                                                                                            M
+                                                                                              .tc
+                                                                                              O
+                                                                                               .ra
+                                                                                               M
+                                                                                                .liu
+                                                                                                J
+                                                                                                  .c
+                                                                                                  é D
+                                                                                                   .rvA .tc
+                                                                                                    O
+                                                                                                     .ra
+                                                                                                     M
+                                                                                                       .tp
+                                                                                                       e S
+                                                                                                        .n
+                                                                                                        a J
+                                                                                                         .liu
+                                                                                                         J
+                                                                                                           .c
+                                                                                                           é D
+                                                                                                            .ia
+                                                                                                            M
+                                                                                                             .vo
+                                                                                                             N
+                                                                                                               .ra
+                                                                                                               M
+                                                                                                                -tp
+                                                                                                                e s
+                                                                                                                 -rvé
+                                                                                                                 f
+                                                                                                                  -n
+                                                                                                                  iu j
+                                                                                                                    -vo
+                                                                                                                    n
+                                                                                                                     -sra
+                                                                                                                     m
+                                                                                                                      -liu
+                                                                                                                      j
+       Avant janvier 2024, les données sont issues du baromètre de l’action politique Ipsos pour le Point
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 13
+
+--- page 14 ---
+
+14 ‒
+
+    La    popularité           du    Premier         ministre
+
+     Quel jugement portez-vous sur l'action de Sébastien Lecornu en tant que Premier ministre ?
+     (A tous)
+
+     OCTOBRE    2026                                 DEPUIS   MAI 2017
+                                                    90%
+                                                                 Edouard          Jean     Elisabeth la r e s io u o Sébastien
+            favor
+                T
+                a
+                 r
+                  b
+                  è
+                   le
+                   s      4
+                                                                 Philippe        Castex      Borne
+                                                                                                    t
+                                                                                                    t A
+                                                                                                      in
+                                                                                                      r a
+                                                                                                        ç
+                                                                                                        n a
+                                                                                                          r
+                                                                                                          y a Lecornu
+                          18
+                                  22%
+                                         (+2)
+                                                    80%
+                                                                 72%                       72%
+                                                                                                    le
+                                                                                                    ir
+                                                                                                    b
+                                                                                                      B
+                                                                                                      le
+                                                                                                      h 7
+                                                                                                        r
+                                                                                                        F
+                                                                                                         4%
+                                                                                                          B
+                                  Favorable                                                         a c
+                                                                                                    G iM
+                                                    70%
+               Plutôt
+                                                                               62%
+            favorable
+                                                                                                                     69%
+                                                                                                                           (-1)
+                                                    60%                                           55%
+                                                                                                                     Défavorable
+                          30
+                                                    50%
+                                                                        46%
+               Plutôt
+                                                                                    39%           40%
+          défavorable                               40%                                 35%
+                                                    30%
+                                                                                                                     22%
+                                                                                                                           (+2)
+                          39      69%
+                                        (-1)                                                                         Favorable
+                Très
+                                  Défavorable       20%
+          défavorable
+                                                                                                        17%
+                                                    10%
+               Ne se      9
+        prononce pas
+                                                     0%
+                                                        7 7 7 8 8 8 8 9 9 9 9 0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6
+                                                        1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+                                                        0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+                                                        2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+                                                        rva liu
+                                                          j
+                                                           tc
+                                                           o
+                                                             vn
+                                                             a j
+                                                              rva liu
+                                                                j
+                                                                 tc
+                                                                 o
+                                                                   vn
+                                                                   a j
+                                                                    rva liu
+                                                                      j
+                                                                        tc
+                                                                        o
+                                                                         vn
+                                                                         a j
+                                                                           rva liu
+                                                                            j
+                                                                              tc
+                                                                              o
+                                                                               vn
+                                                                               a j
+                                                                                 rva liu
+                                                                                  j
+                                                                                    tc
+                                                                                    o
+                                                                                     vn
+                                                                                     a j
+                                                                                       rva liu
+                                                                                        j
+                                                                                          tc
+                                                                                          o
+                                                                                           vn
+                                                                                           a j
+                                                                                             rva liu
+                                                                                              j
+                                                                                                tc
+                                                                                                o
+                                                                                                 vn
+                                                                                                 a j
+                                                                                                   rva liu
+                                                                                                    j
+                                                                                                      tc
+                                                                                                      o
+                                                                                                       vn
+                                                                                                       a j
+                                                                                                         rva liu
+                                                                                                          j
+                                                                                                            tc
+                                                                                                            o
+                                                                                                             vn
+                                                                                                             a j
+                                                                                                               rva liu
+                                                                                                                 j
+                                                     Avant janvier 2024, les données sont issues du baromètre de l’action politique Ipsos pour le Point
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 14
+
+--- page 15 ---
+
+15 ‒
+
+    La    popularité           du    Premier         ministre
+
+    selon       la  proximité           partisane
+
+     Quel jugement portez-vous sur l'action de Sébastien Lecornu en tant que Premier ministre ?
+     (A tous)                                                            SYMPATHISANTS
+                 SYMPATHISANTS      SYMPATHISANTS     SYMPATHISANTS                         SYMPATHISANTS      SYMPATHISANTS
+                                                                         RENAISSANCE-
+                 FI                 LES ECOLOGISTES   PS-PLACE PUBLIQUE*                    LR-UDI             RN
+                                                                         MODEM-HORIZONS
+            Très                                        2                                      1                  1
+                   5
+        favorable                                                                                                 9
+                   7   12%   (+3)    14   14%  (-13)         26%  (+7)     15   72%  (+8)          34%   (-5)         10%  (+4)
+                       Favorable          Favorable     24   Favorable          Favorable          Favorable          Favorable
+                                                                                               33
+           Plutôt
+        favorable  23                                                                                             27
+                                     43
+
+                                                                           57
+                                                        40
+           Plutôt
+      défavorable
+                                                                                               42
+                   58                                                                                             56
+                                     27
+            Très
+      défavorable
+                       81%                70%           27   67%           16   23%                62%                83%
+                            (-2)                (+1)              (+1)               (-7)                (+5)               (-3)
+                                                                                               20
+                       Défavorable        Défavorable        Défavorable        Défavorable        Défavorable        Défavorable
+           Ne se                     16                                     7
+    prononce pas
+                   7                                    7                   5                  4                  7
+    *Lors de la vague précédente, les résultats étaient présentés sur les sympathisants PS uniquement
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 15
+
+--- page 16 ---
+
+16 ‒
+
+    La    popularité           des     Premiers           ministres
+
+    de    la  Vème      République
+
+     Quel jugement portez-vous sur l'action de […] en tant que Premier ministre ?
+     (A tous)
+                                                                   e                                        r u
+                    François Fillon    Jean-Marc Ayrault Manuel Valls v u e n E P d h o il u ip a p r e d C J a e s a te n x El B is o a r b n e e th la t t A e in r a o r y a S L é e b c a o s r t n ie u n
+ 90                                                                e
+                                                                   z
+                                                                   a
+                                                                                                          .G B
+                                                                                                            .M
+                                                                                                              B
+                                                                                                              .F
+                                                                   C
+ 80
+                                                                   .B
+ 70
+                                                                                                                          69%
+                                                                                                                               (-1)
+ 60                                                                                                                       Défavorable
+ 50
+ 40
+ 30
+                                                                                                                          22%
+                                                                                                                               (+2)
+ 20
+                                                                                                                         Favorable
+ 10
+  0
+      777788888899999900000011111122222233333344444455555666666777778888889999900000111122222333344444555556666
+      000000000000000011111111111111111111111111111111111111111111111111111111122222222222222222222222222222222
+      .ia
+      M
+       .liu
+       J
+        .tp
+        e S
+         .vo
+         N
+          .n
+          a J
+           .sra
+           M
+            .ia
+            M
+              .liu
+              J
+               .tp
+               e S
+                .vo
+                N
+                 .n
+                 a J
+                  .sra
+                  M
+                   .ia
+                   M
+                    .liu
+                    J
+                     .tp
+                     e S
+                      .vo
+                      N
+                       .n
+                       a J
+                        .sra
+                        M
+                         .ia
+                         M
+                          .liu
+                          J
+                            .tp
+                            e S
+                             .vo
+                             N
+                              .n
+                              a J
+                               .sra
+                               M
+                                .ia
+                                M
+                                 .liu
+                                 J
+                                  .tp
+                                  e S
+                                   .vo
+                                   N
+                                    .n
+                                    a J
+                                     .sra
+                                     M
+                                      .ia
+                                      M
+                                       .liu
+                                       J
+                                        .tp
+                                        e S
+                                          .vo
+                                          N
+                                           .n
+                                           a J
+                                            .sra
+                                            M
+                                             .ia
+                                             M
+                                              .liu
+                                              J
+                                               .tp
+                                               e S
+                                                .vo
+                                                N
+                                                 .n
+                                                 a J
+                                                  .sra
+                                                  M
+                                                   .ia
+                                                   M
+                                                    .liu
+                                                    J
+                                                     .tp
+                                                     e S
+                                                      .vo
+                                                      N
+                                                        .n
+                                                        a J
+                                                         .sra
+                                                         M
+                                                          .ia
+                                                          M
+                                                           .liu
+                                                           J
+                                                            .tc
+                                                            O
+                                                             .n
+                                                             a J
+                                                              .sra
+                                                              M
+                                                               .ia
+                                                               M
+                                                                .liu
+                                                                J
+                                                                 .tc
+                                                                 O
+                                                                  .c
+                                                                  é D
+                                                                   .ve
+                                                                   F
+                                                                    .lirvA .n
+                                                                      iu J
+                                                                       .tp
+                                                                       e S
+                                                                        .vo
+                                                                        N
+                                                                         .n
+                                                                         a J
+                                                                          .sra
+                                                                          M
+                                                                           .ia
+                                                                           M
+                                                                            .liu
+                                                                            J
+                                                                             .tc
+                                                                             O
+                                                                              .c
+                                                                              é D
+                                                                               .ra
+                                                                               M
+                                                                                .ia
+                                                                                m
+                                                                                 .liu
+                                                                                 J
+                                                                                  .tc
+                                                                                  O
+                                                                                   .c
+                                                                                   é D
+                                                                                     .vé
+                                                                                     F
+                                                                                      .rvA .liu
+                                                                                       J
+                                                                                        .tc
+                                                                                        O
+                                                                                         .c
+                                                                                         é D
+                                                                                          .ra
+                                                                                          M
+                                                                                           .ia
+                                                                                           M
+                                                                                            .tp
+                                                                                            e S
+                                                                                             .vo
+                                                                                             N
+                                                                                              .n
+                                                                                              a J
+                                                                                               .ra
+                                                                                               M
+                                                                                                .liu
+                                                                                                J
+                                                                                                 .tc
+                                                                                                 O
+                                                                                                   .c
+                                                                                                   é D
+                                                                                                    .vé
+                                                                                                    F
+                                                                                                     .ia
+                                                                                                     M
+                                                                                                      .tp
+                                                                                                      e S
+                                                                                                       .vo
+                                                                                                       N
+                                                                                                        .vn
+                                                                                                        a J
+                                                                                                         .ra
+                                                                                                         M
+                                                                                                          -ia
+                                                                                                          m
+                                                                                                           -tp
+                                                                                                           e s
+                                                                                                            -vo
+                                                                                                            n
+                                                                                                             -rvé
+                                                                                                             f
+                                                                                                              -rva -n
+                                                                                                               iu j
+                                                                                                                 -tp
+                                                                                                                 e s
+                                                                                                                  -vo
+                                                                                                                  n
+                                                                                                                   -vn
+                                                                                                                   a j
+                                                                                                                    -sra
+                                                                                                                    m
+                                                                                                                     -ia
+                                                                                                                     m
+                                                                                                                      -liu
+                                                                                                                      j
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 16
+
+--- page 17 ---
+
+L’OPINION                   VIS-À-VIS                   DES
+      L’OPINION                    VIS-À-VIS                   DES
+
+     MEMBRES                    DU
+      MEMBRES                     DU      GOUVERNEMENT
+
+     GOUVERNEMENT
+
+     ©Ipsos - Baromètre politique Ipsos / CESI Ecole
+     d’ingénieurs - La Tribune Dimanche – Mars 2025               1177
+
+--- page 18 ---
+
+18 ‒
+
+    Les     membres             du    gouvernement                 considérés             comme           les   meilleurs
+
+     Parmi les différents ministres du Gouvernement, lesquels sont selon vous les deux meilleurs ?
+     (A tous, Total supérieur à 100% car 2 réponses possibles)
+                                                                                          Rappel 09/26
+
+                                 Gérald Darmanin                                34            38
+
+                                   Laurent Nunez                     22                       25
+
+                                    Aurore Bergé            13                                 11
+                                 Jean-Noël Barrot          12                                 12
+
+                                 Catherine Vautrin        11                                   9
+
+                                  Roland Lescure         10                                    11
+
+                                     Serge Papin         10                                    8
+                                   Maud Bregeon         9                                      7
+
+                                 Catherine Pégard      8                                       6
+
+                                  Edouard Geffray     7                                        8
+                                Vincent Jeanbrun      7                                        7
+
+                             Jean-Pierre Farandou     7                                        7
+
+                                  Annie Genevard     6                                         6
+                                  Monique Barbut     6                                         7
+
+                                     David Amiel     6                                         6
+
+                               Jean-Didier Berger  4                                           4
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 18
+
+--- page 19 ---
+
+19 ‒
+
+    Les     membres             du    gouvernement                 considérés             comme           les   meilleurs
+
+    –  Top      3  selon       la  proximité           partisane
+
+     Parmi les différents ministres du Gouvernement, lesquels sont selon vous les deux meilleurs ?
+
+     (A tous, Total supérieur à 100% car 2 réponses possibles)
+
+          #1
+                     M. Barbut         A. Bergé        G. Darmanin      G. Darmanin      G. Darmanin       G. Darmanin
+                       (20%)            (36%)            (19%)            (52%)             (68%)            (44%)
+
+         #2
+                     C. Pégard         C. Pégard        L.Nunez           L.Nunez          L.Nunez          L.Nunez
+                       (19%)            (19%)            (16%)            (39%)             (38%)            (24%)
+
+                                                       J-N. Barrot
+          #3          A. Bergé
+                                      G. Darmanin       S. Papin        J-N. Barrot        A. Bergé        R. Lescure
+                     C. Vautrin
+                                        (16%)           C. Vautrin         (21%)            (12%)            (13%)
+                       (17%)
+                                                         (15%)
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 19
+
+--- page 20 ---
+
+BAROMÈTRE                         DES
+
+     POTENTIELS                         SUCCESSEURS
+
+     D’EMMANUEL                          MACRON                   EN
+
+     2027
+
+     ©Ipsos - Baromètre politique Ipsos / CESI Ecole
+     d’ingénieurs - La Tribune Dimanche – Mars 2025               2200
+
+--- page 21 ---
+
+La   satisfaction             vis-à-vis         de    l’accession           à   la  présidence             de    la
+
+     République            –  1/2
+
+      Pour chacune des personnalités politiques suivantes, diriez-vous que si elle devenait président(e) de la République en
+
+                                                                                             %                   %
+      2027, vous seriez satisfait(e) ou mécontent(e) ?
+                                                 (A tous)
+                                                                                                      Sept.                Sept.
+                                                                                         «Satisfait»        «Mécontent»
+                                                                                                       2026                2026
+                         Jordan Bardella      19      14    14     11         39         3   33        36        50         50
+                          Marine Le Pen       19     13     14    10          41         3   32        36        51         52
+                        Edouard Philippe   5   15       23        20            34       3   20        19        54         57
+
+                            Sarah Knafo    7   11       26        14          39         3   18        17        53         58
+
+                       François Hollande  3   15       22         23            34       3   18        18        57         59
+
+                        Bruno Retailleau  4   13        29          22           29      3   17        16        51         53
+
+                            Gabriel Attal 3   14       26          21           34       2   17        18        55         60
+
+                    Jean-Luc  Mélenchon    7   10   11    13              56             3   17        19        69         70
+
+                           David Lisnard   6  10         36            20         25     3   16        12        45         50
+
+                    Raphaël Glucksmann    3   13        29          21           31      3   16        17        52         52
+
+                          Eric Zemmour     6  10    14     13              54            3   16        17        67         71
+
+        Très satisfait Plutôt satisfait Ni satisfait, ni mécontent Plutôt mécontent Très mécontent Ne se prononce pas
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 21
+
+--- page 22 ---
+
+La   satisfaction             vis-à-vis         de    l’accession           à   la  présidence             de    la
+
+     République            selon       la  proximité           partisane
+
+      Pour chacune des personnalités politiques suivantes, diriez-vous que si elle devenait président(e) de la République en
+                                                                                                                   %  « Satisfait »
+      2027, vous seriez satisfait(e) ou mécontent(e) ?
+                                                 (A tous)
+                SYMPATHISANTS       SYMPATHISANTS      SYMPATHISANTS      SYMPATHISANTS       SYMPATHISANTS      SYMPATHISANTS
+                LFI           Sept. ECOLOGISTES   Sept. PS-PP*       Sept. RENAISSANCE – Sept. LR-UDI       Sept. RN            Sept.
+                              2026                2026               2026 MODEM – HORIZONS 2026             2026                2026
+
+     Jordan Bardella 9         13    7             5     12           5     9             16       36        33             86  90
+
+      Marine Le Pen 7          13    6             6     11           4      12           16       37        30             87  93
+
+    Edouard Philippe 12         9      20          19     19          12           72     67      32         34    6             7
+
+       Sarah Knafo 8            5    5             8     5            0     9             8      25          27        37       30
+
+    François Hollande 31       28      22          33        51       45      21          18   5             7     6             6
+
+     Bruno Retailleau 8         2     12           8    3             3      19           17         60      58     17          20
+
+       Gabriel Attal 16        14     13           15     19          13         51       58     25          24    5             7
+
+  Jean-Luc Mélenchon      93   84      21          30     23          16    2             5    4             2     1             7
+
+       David Lisnard 7          3    7             8     9            3       21          8       26         29      19          14
+
+  Raphaël Glucksmann 18        14       36         50         55      67      26          19    11           14    1             4
+
+      Eric Zemmour 4            3     9            7    4              1    8             2     9            10        39       35
+
+    *Lors de la vague précédente, les résultats étaient présentés sur les sympathisants PS uniquement
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 22
+
+--- page 23 ---
+
+23 ‒
+     La   satisfaction             vis-à-vis         de    l’accession           à   la  présidence             de    la
+
+     République            –  2/2
+
+     Pour chacune des personnalités politiques suivantes, diriez-vous que si elle devenait président(e) de la République en 2027, vous
+     seriez satisfait(e) ou mécontent(e) ?
+                                                                                               %                  %
+     (A tous)
+                                                                                                       Sept.                Sept.
+                                                                                          «Satisfait»        «Mécontent»
+                                                                                                       2026                 2026
+                 Nicolas Dupont Aignan   4  10      25         19            39         3     14        12        58         61
+                        François Ruffin 3  10        31            25           28      3      13       14        53         57
+
+                    Sébastien Lecornu   3  10        29          22            33       3      13       13        55        60
+
+                        Fabien Roussel  2  10        32           24            29      3     12        12        53         55
+
+                      Marine Tondelier  3  9        29          20            36        3     12        12        56         61
+
+                  Dominique de Villepin 2  10       29            26           30       3     12        12        56         58
+
+                    Bernard Cazeneuve   1 10         35            24           27      3      11       11        51         57
+
+                       Xavier Bertrand  1 9         33            23           31       3     10        10        54        60
+
+                          Olivier Faure 1 9         32           24            31       3     10        11        55         55
+
+                        Bruno Le Maire  2 7       28           24             36        3      9        6         60         65
+
+                     Laurent Wauquiez   3  6      27           26             35        3      9        6         61         63
+
+       Très satisfait Plutôt satisfait Ni satisfait, ni mécontent Plutôt mécontent Très mécontent Ne se prononce pas
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 23
+
+--- page 24 ---
+
+La   satisfaction             vis-à-vis         de    l’accession           à   la  présidence             de    la
+
+     République            selon       la  proximité           partisane
+
+      Pour chacune des personnalités politiques suivantes, diriez-vous que si elle devenait président(e) de la République en
+                                                                                                                   %  « Satisfait »
+      2027, vous seriez satisfait(e) ou mécontent(e) ?
+                                                 (A tous)
+                SYMPATHISANTS       SYMPATHISANTS      SYMPATHISANTS      SYMPATHISANTS       SYMPATHISANTS      SYMPATHISANTS
+                LFI           Sept. ECOLOGISTES   Sept. PS-PP*       Sept. RENAISSANCE – Sept. LR-UDI       Sept. RN            Sept.
+                              2026                2026               2026 MODEM – HORIZONS 2026             2026                2026
+
+ Nicolas Dupont Aignan 10       5     13           3    4             2     5             2      17          19      21          21
+
+      François Ruffin 31       33      28          40      31         27     12           6    4             6     2             3
+
+   Sébastien Lecornu 11         5    11            19    10           8         47        45     15          24    7             3
+
+      Fabien Roussel 25        22     18           24      26         24    8             5     6            5     4             1
+
+     Marine Tondelier 30       28        47        47     22          21    7             4     5            4     2             1
+
+  Dominique de Villepin 18     34     20           15    12           11      21          13    14           17    2             4
+
+   Bernard Cazeneuve 8          6    9             28     22          17      30          26    14           14    4             2
+
+     Xavier Bertrand 8          6    8             8     9            8       22          27      25         24    6             6
+
+       Olivier Faure 26        16     15           32      32         35    6             9     7            6     1             2
+
+      Bruno Le Maire 12         4    4             3     8             1       32         21    13           18    5             1
+
+    Laurent Wauquiez 5          5    4             6     6            3      14           5       26         19    9             4
+
+    *Lors de la vague précédente, les résultats étaient présentés sur les sympathisants PS uniquement
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 24
+
+--- page 25 ---
+
+25 ‒
+     La   satisfaction             vis-à-vis         de    l’accession           à   la  présidence             de    la
+
+     République
+
+     Pour chacune des personnalités politiques suivantes, diriez-vous que si elle devenait président(e) de la République en 2027, vous
+     seriez satisfait(e) ou mécontent(e) ?
+
+     (A tous)
+                                                         %Satisfait
+
+          36    36       36
+
+                                                                                                          33 Jordan Bardella
+                                                                                                          32 Marine Le Pen
+                                    29
+                                    28
+
+                   20    20
+                                                                                                          20 Edouard Philippe
+                                                                            18            18
+                                                                                                          18 Sarah Knafo
+                                                                                                           18 François Hollande
+                                                                      14    14
+                                                                         13 13
+
+           4  4 4  4  4  4  4  4  4 4  4  4  5  5  5 5  5  5  5  5  5  5 5  5  6  6  6  6  6 6  6  6  6  6
+           2  2 2  2  2  2  2  2  2 2  2  2  2  2  2 2  2  2  2  2  2  2 2  2  2  2  2  2  2 2  2  2  2  2
+           -  - -  -  -  -  -  -  - -  -  -  -  -  - -  -  -  -  -  -  - -  -  -  -  -  -  - -  -  -  -  -
+           .  . s  .  i  n  .  t  . .  .  .  .  .  s .  i  n  .  t  .  . .  .  .  .  s  .  i n  .  t  .  .
+           v n a j r v é f r a m r v a a m i u j l i u j û o a t p e s t c o v o n c é d v n a j r v é f r a m r v a a m i u j l i u j û o a t p e s t c o v o n c é d v n a j r v é f r a m r v a a m i u j l i u j û o a t p e s t c o
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 25
+
+--- page 26 ---
+
+QUESTIONS                      ÉCONOMIQUES
+     LA      PERCEPTION                          DE      LA
+
+     SITUATION                     ÉCONOMIQUE
+
+                                                                  2266
+
+--- page 27 ---
+
+27 ‒
+
+    L’optimisme               à  propos         de   la   situation         économique
+
+     Diriez-vous que vous êtes optimiste ou pessimiste concernant… ?
+     (A tous)
+
+                                                                               %                         %
+                                                                                      05 02  10 05 02            05  02  10  05   02
+                                                                            Optimiste                 Pessimiste
+                                                                                     2026 2026 2025 2025 2025   2026 2026 2025 2025 2025
+
+      La situation économique mondiale  1 13         58            28
+                                                                               14     12 18 19  17 18    86     88   82  81  83  82
+
+       La situation économique du pays  27       42             49
+                                                                               9      9  12 12  14 15    91      91  88  88  86  85
+
+     Votre propre situation économique  2    28           51         19
+                                                                               30     31 34 33  32 39    70      69  66  67  68   61
+
+       Très optimiste  Plutôt optimiste Plutôt pessimiste  Très pessimiste
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 27
+
+--- page 28 ---
+
+28 ‒
+    L’optimisme               à  propos         de   la   situation         économique               selon      la
+
+    proximité           partisane
+
+     Diriez-vous que vous êtes optimiste ou pessimiste concernant… ?
+     (A tous)
+
+                                                                             SYMPATHISANTS
+    Optimiste Pessimiste SYMPATHISANTS   SYMPATHISANTS     SYMPATHISANTS     RENAISSANCE-     SYMPATHISANTS     SYMPATHISANTS
+                        FI               LES ÉCOLOGISTES   PS /              MODEM-HORIZONS   LR-UDI            RN
+                                                           PLACE PUBLIQUE
+
+       La situation
+       économique        14     86        23      77       14     86         18      82        16     84        10     90
+
+         mondiale
+
+       La situation
+
+       économique       12      88        19     81        9      91         12     88         8     92         4     96
+         du  pays
+
+      Votre  propre
+
+        situation         37      63      30      70        34      66         45      55       35      65      26      74
+       économique
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 28
+
+--- page 29 ---
+
+29 ‒
+
+    La    perception             du   futur      économique
+
+     D’après ce que vous en savez, la situation de ces différents éléments va-t-elle s’améliorer, se détériorer ou rester la même au cours
+     des mois à venir… ?
+
+     (A tous)
+
+                                 Le pouvoir d'achat 4                87                 9
+
+                      Le niveau de la dette publique 4               86                 10
+
+                             Le niveau de l'inflation 4              84                12
+
+                            Le niveau de la fiscalité 4             80                 16
+
+                                          L'emploi  4              76                 20
+
+                                   Va s’améliorer Va se détériorer Va rester la même  Ne se prononce pas
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 29
+
+--- page 30 ---
+
+30 ‒
+
+    La    perception             du   futur      économique
+
+     D’après ce que vous en savez, la situation de ces différents éléments va-t-elle s’améliorer, se détériorer ou rester la même au cours
+     des mois à venir… ?
+
+     (A tous)
+                   %Va    se  détériorer
+       90
+                                                                                                      87 Le pouvoir d’achat
+                                                                              84
+                                                                                                      86 Le niveau de la dette publique
+       85
+                                                                                                      84 Le niveau de l'inflation
+                                                                 79         83  82
+       80                                      78                                                     80 Le niveau de la fiscalité
+                         77
+           76
+                                                                 76
+                                                                                                      76 L’emploi
+                                               77
+       75 74                                                                  73
+                          75                                     72
+          73             71                   71
+           70
+                                                                 69
+       70
+                         70
+                                              70
+                                                                              66
+                                                 66
+                         68
+       65                                                        67
+           66
+       60
+       55
+       50
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 30
+
+--- page 31 ---
+
+31 ‒
+
+    La    perception             du   futur      économique               selon       la  proximité           partisane
+
+     D’après ce que vous en savez, la situation de ces différents éléments va-t-elle s’améliorer, se détériorer ou rester la même au cours
+     des mois à venir… ?
+
+     (A tous)                                  Va s’améliorer Va se détériorer  Va rester la même Ne se prononce pas
+                                                                             SYMPATHISANTS
+
+                        SYMPATHISANTS    SYMPATHISANTS     SYMPATHISANTS     RENAISSANCE-     SYMPATHISANTS     SYMPATHISANTS
+                        FI               LES ÉCOLOGISTES   PS /              MODEM-HORIZONS   LR-UDI            RN
+                                                           PLACE PUBLIQUE
+
+       Le pouvoir d'achat 6   79     15  4     82     14   5    81     14    5     83     12   3     92     5   2     91      7
+
+     Le niveau de la dette
+               publique 8     84     8    9     87     4   5    81     14    3    80      17  5      90     5   1    88      11
+
+    Le niveau de l'inflation 6 78    16  1    83     16    4    84     12    4    74     22    3    84     13   2     89     9
+
+   Le niveau de la fiscalité
+                        6    65    29    6     81     13   5    71    24     6    73     21    4    82     14        85      15
+
+                L'emploi
+                        5    69     26   5     81     14   3    77     20    10   68     22    4    83     13   1   75      24
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 31
+
+--- page 32 ---
+
+QUESTIONS                      D’ACTUALITÉ
+     LA      PERCEPTION                          DE      LA
+
+     SITUATION                     ÉCONOMIQUE
+
+                                                                  3322
+
+--- page 33 ---
+
+33 ‒
+
+    La    perception             du   mouvement                des     lycéens
+
+     Depuis le 18 septembre 2026, un certain nombre de lycées en France sont bloqués par des lycéens pour protester contre leurs
+     conditions d’éducation. Par rapport à ce mouvement, diriez-vous que…?
+                                                                                                                               %
+                                                                                                                       %
+     (A tous)                                                                                                               Désapprouve
+                                                                                                                    Approuve
+      %   Désapprouve:                        %  Approuve:
+                                                                                   Moins de 35 ans 30   32    18 12 8 62       30
+      40                                      54
+                                                                                       35-59 ans 25    32   16  20  7 57       36
+                                6
+                                                                                     60 ans et plus
+                                                                                                12  31    26    27  4 43       53
+                                           22
+                      20
+                                                                                            LFI      65        27  422 92      6
+                                                                                   Les Ecologistes 46        45    63  91      9
+
+                                                                                 PS / Place Publique 26 42     23  63 68       29
+
+                       20                                               Renaissance-MoDem-Horizons3 30   38      29   33       67
+                                            32
+                                                                                         LR-UDI 8 24    29     36   3 32       65
+
+                                                                                            RN  13  29    23    31  4 42       54
+
+                                                                                                17    34   16  15 18   51      31
+                                                                                      Aucun parti
+   Vous l’approuvez tout à fait  Vous l’approuvez plutôt  Vous ne l’approuvez plutôt pas  Vous ne l’approuvez pas du tout  Vous n’avez pas d’opinion
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 33
+
+--- page 34 ---
+
+34 ‒
+
+    La    perception             des     violences
+
+     A propos des violences suivantes, diriez-vous qu’elles sont… ?
+     (A tous)
+             Les violences  de certains  lycéens contre  le            Les  violences de  certains policiers envers
+
+         personnel  éducatif  ou des équipements    publics au           des  lycéens lors de manifestations   ou
+
+                      cours  des manifestations                                      d’interpellations
+
+                                      4
+                                                                                                    17
+                                             17
+
+                                                                                47
+
+                                                                                                       36
+
+                            79
+
+                         … justifiées    … pas justifiées, mais compréhensibles    … inacceptables
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 34
+
+--- page 35 ---
+
+35 ‒
+
+    La    perception             des     violences
+
+     A propos des violences suivantes, diriez-vous qu’elles sont… ?
+     (A tous)
+
+     Les  violences de certains  lycéens  contre le                      Les  violences  de certains policiers envers  des
+     personnel  éducatif  ou des équipements    publics au               lycéens  lors de manifestations   ou
+
+     cours  des manifestations                                           d’interpellations
+
+                               LFI  13       54           33                             LFI 4 13           83
+
+                      Les Ecologistes 11 19         70                          Les Ecologistes 4 35            61
+
+                   PS / Place Publique 2 17        81                        PS / Place Publique 5 28          67
+
+           Renaissance-MoDem-Horizons 1 12        87                 Renaissance-MoDem-Horizons 21      45          34
+
+                            LR-UDI 8             92                                   LR-UDI   24         52         24
+
+                               RN  5 7            88                                     RN     31         44        25
+
+                         Aucun parti 2 16          82                              Aucun parti 9   34           57
+
+                         … justifiées    … pas justifiées, mais compréhensibles    … inacceptables
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 35
+
+--- page 36 ---
+
+36 ‒
+
+    La    perception             de   la   longévité          du    mouvement
+
+      Selon vous, ce mouvement va-t-il durer dans le temps ?
+     (A tous)
+                                                                                                                     %  Oui
+
+                                                                                   Moins de 35 ans 33    37    13 17   70
+
+                                                  %  Oui   : 59
+                                                                                       35-59 ans 29    27    21  23    56
+
+                                                                                     60 ans et plus 39   17 15   29    56
+                        24
+                                              33
+
+                                                                                            LFI  23      56      7 14   79
+
+                                                                                   Les Ecologistes 34    32   15  19   66
+
+                                                                                 PS / Place Publique 31 32    16  21   63
+                      17
+                                                                        Renaissance-MoDem-Horizons 47      20  17 16   67
+
+                                                                                         LR-UDI   38     19  24   19   57
+                                      26
+
+                                                                                            RN    32   20   22   26    52
+
+                                                                                                 29    19  17   35     48
+                                                                                      Aucun parti
+   Oui, et cela vous inquiète  Oui, mais cela ne vous inquiète pas  Non  Vous n’en savez vraiment rien
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 36
+
+--- page 37 ---
+
+37 ‒
+
+    L’opinion          à  l’égard        des     revendications                des     lycéens
+
+      Pour chacune des revendications suivantes mises en avant par le mouvement de lycéens, diriez-vous que vous êtes d’accord ou non
+     avec sa mise en place ?
+
+     (A tous)
+                                                                                                  %               %
+                                                                                               D’accord      Pas d’accord
+
+               Garantir un nombre limité d’élève par classe
+                                                            38             44         9 4 5      82               13
+
+     Investir davantage d’argent public dans la rénovation des
+                                                            38             41        10 5 6       79              15
+                               établissements scolaires
+
+      Investir davantage d’argent public pour l’adaptation des
+                                                           32            43        12  5  8       75              17
+        établissements scolaires au changement climatique
+
+  Supprimer Parcoursup, le site web destiné à gérer les vœux
+        d'affectation des futurs étudiants de l'enseignement 25   23      16   10     26         48              26
+                                            supérieur
+
+        Réduire le nombre d’heures de cours pour les lycéens 13 21     28        27      11      34              55
+
+     Tout à fait d’accord  Plutôt d’accord  Plutôt pas d’accord  Pas du tout d’accord  Vous n’en savez vraiment rien
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 37
+
+--- page 38 ---
+
+38 ‒
+
+    L’opinion          à  l’égard        des     revendications                des     lycéens
+
+      Pour chacune des revendications suivantes mises en avant par le mouvement de lycéens, diriez-vous que vous êtes d’accord ou non
+     avec sa mise en place ?
+
+     (A tous)
+                                                                   Symp.             Symp. Ren.-
+                                                         Symp.               Symp.              Symp.     Symp.     Aucun
+                                              Ensemble              Les              Horizons-
+                         %                                 FI                PS/PP              LR-UDI     RN        parti
+                                                                 Ecologistes          MoDem
+                      D’accord
+         Garantir un nombre limité d’élève par classe 82  96        94        88        75        83       78        78
+
+ Investir davantage d’argent public dans la rénovation
+                                                 79       92        92        86        84        74       73        74
+                     des établissements scolaires
+
+  Investir davantage d’argent public pour l’adaptation
+       des établissements scolaires au changement 75       91       92        81        82        77       62        69
+                                    climatique
+
+Supprimer Parcoursup, le site web destiné à gérer les
+                                                48        74        49        51        34        46       44        43
+          vœux d'affectation des futurs étudiants de
+                        l'enseignement supérieur
+
+                                                34         73       59        30        27        22       22        31
+ Réduire le nombre d’heures de cours pour les lycéens
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 38
+
+--- page 39 ---
+
+39 ‒
+
+    La    priorité        du   gouvernement
+
+     Selon vous, quelle devrait être la priorité du gouvernement face à ce mouvement ?
+     (A tous)
+
+    Mettre  fin au                                 Discuter  avec  les             Moins de 35 ans 25       75
+
+    mouvement     afin                             lycéens  pour
+                                                                                       35-59 ans  31        69
+    d'arrêter  les                                 trouver  des
+                                                                                     60 ans et plus
+                                                                                                  36         64
+    violences   et les                             solutions  à leurs
+    dégradations                                   revendications
+                                                                                            LFI
+                                                                                               7          93
+                       31
+                                                                                   Les Ecologistes 15      85
+
+                                                                                 PS / Place Publique 18    82
+
+                                                                        Renaissance-MoDem-Horizons 34        66
+
+                                             69                                          LR-UDI    43         57
+
+                                                                                            RN      51         49
+
+                                                                                                 27         73
+                                                                                      Aucun parti
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 39
+
+--- page 40 ---
+
+40 ‒
+
+    La    perception             des     différentes            personnalités               politiques
+
+     Diriez-vous que vous approuvez ou non les prises de positions de chacune des personnalités politiques suivantes par rapport à cette
+     crise des lycéens ?
+
+     (A tous)
+                                                                                                     %               %
+                                                                                                 Approuve      Désapprouve
+
+     Marine Le Pen, la candidate du Rassemblement National 13 20    10       35          22          33             45
+
+   Sébastien Lecornu, le Premier ministre Sébastien Lecornu 4 18   26          33         19         22             59
+
+    Jean-Luc Mélenchon, le candidat de la France Insoumise 8 12 11           58            11        20             69
+
+       Edouard Geffray, le ministre de l'Education Nationale 4 15 24        29          28           19             53
+
+           Emmanuel Macron, le président de la République 3 12 22            46           17         15             68
+
+   Vous l’approuvez tout à fait  Vous approuvez plutôt  Vous n’approuvez plutôt pas  Vous n’approuvez pas du tout  Vous n’avez pas d’opinion
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 40
+
+--- page 41 ---
+
+41 ‒
+
+    La    perception             des     différentes            personnalités               politiques
+
+     Diriez-vous que vous approuvez ou non les prises de positions de chacune des personnalités politiques suivantes par rapport à cette
+     crise des lycéens ?
+
+     (A tous)
+                                                                   Symp.             Symp. Ren.-
+                                                         Symp.               Symp.              Symp.     Symp.     Aucun
+                                              Ensemble              Les              Horizons-
+                         %                                 FI                PS/PP              LR-UDI     RN        parti
+                                                                 Ecologistes          MoDem
+                      Approuve
+     Marine Le Pen, la candidate du Rassemblement National 33 9     15        10        15        42       77        18
+
+   Sébastien Lecornu, le Premier ministre Sébastien Lecornu 22 11   18        19        62        41        13       12
+
+    Jean-Luc Mélenchon, le candidat de la France Insoumise 20 88    32        26        3         7         3        11
+
+       Edouard Geffray, le ministre de l'Education Nationale 19 8   23        17        52        32        15       14
+
+          Emmanuel Macron, le président de la République 15 14      18        16        44        16        4         9
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 41
+
+--- page 42 ---
+
+ANNEXES
+
+--- page 43 ---
+
+Méthodologie
+
+         ÉCHANTILLON                              DATES    DE  TERRAIN                METHODOLOGIE
+
+                                                  Du 7 au 8 octobre 2026
+         1000 personnes,                                                              Échantillon interrogé par Internet via
+         constituant un échantillon                                                   l’Access Panel Online d’Ipsos.
+         national représentatif de la
+                                                                                      Méthode  des quotas :
+         population française, âgée de 18
+                                                                                      sexe, âge, profession de la personne
+         ans et plus.
+                                                                                      interrogée, catégorie
+                                                                                      d’agglomération, région.
+
+                                                                           Note de lecture : tous les résultats sont exprimés en pourcentages (%)
+
+       Ce rapport a été réalisé pour :
+
+            Ce rapport a été élaboré dans le respect de la norme internationale ISO 20252E t«udes de marché, études sociales et d’opinio»n.
+
+            Ce rapport a été relu par Brice Teinturier, Directeur Général délégué d’Ipsos.
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 43
+
+--- page 44 ---
+
+NOS     ENGAGEMENTS
+
+      CODES        PROFESSIONNELS,                 CERTIFICATION             QUALITE
+
+      CONSERVATION               ET   PROTECTION            DES     DONNEES
+
+           Ipsos est membre des organismes professionnels français et
+                                                                                  Ipsos France est certifiée ISO 20252 :
+           européens des études de marché et d’opinion suivants :
+                                                                                  Market Research - version 2019
+              SYNTEC (syndicat professionnel des sociétés d’études de             par AFNOR CERTIFICATION
+              marché en france ; www.Syntec-etudes.Com )
+                                                                         Ce document est élaboré dans le respect de ces codes et normes
+              ESOMAR  (European Society for Opinion and Market
+                                                                         internationales.
+              Research, www.Esomar.Org)
+
+         Ipsos France s’engage à appliquer le code ICC/Esomar des études de marché et d’opinion. Ce code définit les règles déontologiques des professionnels
+         des études de marché et établit les mesures de protection dont bénéficient les personnes interrogées.
+                Ipsos s’engage à respecter les lois applicables. Ipsos a désigné un Data Protection Officer et a mis place un plan de conformité au Règlement
+
+                Général sur la Protection des Données (Règlement (UE) 2016/679). Pour plus d’informations sur notre politique en matière de protection des
+                données personnelles : https://www.ipsos.com/fr-fr/confidentialite-et-protection-des-donnees-personnelles
+
+         A ce titre, la durée de conservation des données personnelles des personnes interviewées dans le cadre d’une étude est, à moins d’un engagement
+         contractuel spécifique :
+
+           •  de 12 mois suivant la date de fin d’une étude Ad Hoc .
+
+           •  de 36 mois suivant la date de fin de chaque vague d’une étude récurrente.
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 44
+
+--- page 45 ---
+
+Fiabilité   des  résultats    :
+
+        Études        auto-administrées                     online
+
+         La fiabilité globale d’une enquête est le résultat du contrôle de toutes les composantes d’erreurs, c’est pourquoi Ipsos
+         impose des contrôles et des procédures strictes à toutes les phases de l’étude.
+
+                                                                        Suivi du terrain: La collecte est suivie et contrôlée (pénétration,
+         EN AMONT DU RECUEIL
+                                                                        durée d’interview, cohérence des réponses, suivi du comportement
+        • Echantillon : structure et représentativité                   du répondant, taux de participation, nombre de relances,…).
+        • Questionnaire : le questionnaire est rédigé en suivant un process de
+          rédaction comprenant 12 standards obligatoires. Il est relu et validé par un
+                                                                    EN AVAL DU RECUEIL
+          niveau senior puis envoyé au client pour validation finale. La
+          programmation (ou script du questionnaire) est testée par au moins 2
+                                                                   • Les résultats sont analysés en respectant les méthodes d’analyses
+          personnes puis validée.
+                                                                     statistiques (intervalle de confiance versus taille d’échantillon, tests de
+                                                                     significativité). Les premiers résultats sont systématiquement contrôlés
+                                                                     versus les résultats bruts issus de la collecte. La cohérence des résultats
+         LORS DU RECUEIL
+                                                                     est aussi contrôlée (notamment les résultats observés versus les sources de
+                                                                     comparaison en notre possession).
+        • Echantillonnage: Ipsos impose des règles d’exploitation très strictes de
+          ses bases de tirages afin de maximiser le caractère aléatoire de la
+                                                                   • Dans le cas d’une pondération de l’échantillon (méthode de calage sur
+          sélection de l’échantillon: tirage aléatoire, taux de sollicitation, taux de
+                                                                     marges), celle-ci est contrôlée par les équipes de traitement (DP) puis
+          participation, abandon en cours, hors cible…
+                                                                     validée par les équipes études.
+        • Suivi du terrain: La collecte est suivie et contrôlée (pénétration, durée
+          d’interview, cohérence des réponses, suivi du comportement du
+          répondant, taux de participation, nombre de relances,…).
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 45
+
+--- page 46 ---
+
+FIABILITÉ         DES    RÉSULTATS
+
+     Feuille   de  calcul
+
+     En  l’occurrence       s’agissant      de  cette    étude    :
+
+     • Intervalle de confiance : 95%
+
+     • Taille d’échantillon : 1000
+
+     Les   proportions       observées       sont   comprises       entre     :
+
+                     Borne Supérieure (%)
+                     Proportion observée (%)
+
+                     Borne Inférieure (%)
+
+                                  1%  2%  5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 98% 99%
+                     Borne Supérieure (%) 1,6% 2,9% 6,4% 11,9% 17,2% 22,5% 27,7% 32,8% 38,0% 43,0% 48,1% 53,1% 58,1% 63,0% 68,0% 72,8% 77,7% 82,5% 87,2% 91,9% 96,4% 98,9% 99,6%
+                     Proportion observée (%) 1% 2% 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 98% 99%
+                     Borne Inférieure (%) 0,4% 1,1% 3,6% 8,1% 12,8% 17,5% 22,3% 27,2% 32,0% 37,0% 41,9% 46,9% 51,9% 57,0% 62,0% 67,2% 72,3% 77,5% 82,8% 88,1% 93,6% 97,1% 98,4%
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 46
+
+--- page 47 ---
+
+FICHE      TECHNIQUE
+
+         Étude  CAWI  sur  panel IIS
+
+          ÉCHANTILLON                               COLLECTE  DE DONNÉES                     TRAITEMENTS   DES DONNÉES
+
+          Population cible : 1000 personnes,          Dates de terrain : Du 7 au 8 octobre 2026 Echantillon pondéré
+          constituant un échantillon national
+                                                      Taille de l’échantillon final : 1 000 individus Méthode de pondération utilisée :
+          représentatif de la population française, âgée de
+                                                                                                méthode de calage sur marges par
+          18 ans et plus                              Mode de recueil : On line sur panel IIS
+                                                                                                itération
+          Tirage de l’échantillon : échantillon constitué Type d’incentive : Programme de fidélisation
+                                                                                                Critères de pondération : sexe, âge,
+          par tirage aléatoire dans la base des panélistes avec système de récompense par cumul de
+                                                                                                profession de la personne interrogée,
+          éligibles pour l’étude.                     points pour les panélistes
+                                                                                                catégorie d’agglomération, région,
+          Critères et sources de représentativité : sexe, Méthodes de contrôle de la qualité des
+                                                                                                vote lors du premier tour de l’élection
+          âge, profession de la personne interrogée,  réponses: surveillance des comportements de
+                                                                                                présidentielle de 2022, vote lors des
+          catégorie d’agglomération, région           réponse des panélistes (Repérage des réponses
+                                                                                                élections européennes 2024.
+                                                      trop rapides ou négligées (cochées en ligne
+                                                      droite ou zig zag par exemple)
+                                                      Contrôle de l’IP et cohérence des données
+                                                      démographiques.
+                                                                                         Compléments d’informations
+                                                                                        méthodologiques disponibles sur
+                                                      Les données seront conservées 2 ans
+                                                                                               demande
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 47
+
+--- page 48 ---
+
+FICHE      TECHNIQUE
+
+         Organisation  (Étude  sur  panel online)
+
+          LES ACTIVITÉS CONDUITES OU COORDONNÉES       LES ACTIVITÉS RÉALISÉES PAR LES           LES ACTIVITÉS CONFIÉES À NOS
+          PAR LES ÉQUIPES IPSOS EN FRANCE              ÉQUIPES IPSOS LOCALES EXPERTES            PARTENAIRES RÉFÉRENCÉS
+                                                       DE L’ACTIVITÉ
+           Design et méthodologie
+                                                        Scripting                                Aucune dans le cadre de cette étude
+           Elaboration du questionnaire / validation du
+           scripting                                    Echantillonnage
+           Coordination de la collecte
+                                                        Emailing
+           Traitement des données
+                                                        Collecte des données en France
+           Validation des analyses statistiques
+           Elaboration du rapport d’étude
+           Conception de la présentation des résultats
+           Mise en forme des résultats
+           Présentation orale
+
+           Analyses et synthèse
+
+     ©Ipsos bva - Baromètre politique Ipsos bva / CESI Ecole d’ingénieurs - La Tribune Dimanche – Octobre 2026 48
+
+--- page 49 ---
+
+À   PROPOS       D’IPSOS                               GAME      CHANGERS
+
+         Ipsos est l’un des leaders mondiaux des études de marché et des Dans un monde qui évolue rapidement, s’appuyer sur des
+         sondages d’opinion, présent dans 90 marchés et comptant près données fiables pour prendre les bonnes décisions n’a jamais été
+         de 20 000 collaborateurs.                              aussi important.
+
+         Nos chercheurs, analystes et scientifiques sont passionnément Chez Ipsos, nous sommes convaincus que nos clients cherchent
+
+         curieux et ont développé des capacités multi-spécialistes qui plus qu’un simple fournisseur de données. Ils ont besoin d’un
+         permettent de fournir des informations et des analyses poussées véritable partenaire qui leur procure des informations précises et
+         sur les actions, les opinions et les motivations des citoyens, des pertinentes, et les transforme en connaissances pour leur
+         consommateurs, des patients, des clients et des employés. permettre de passer à l’action.
+
+         Nos 75 solutions s’appuient sur des données primaires provenant Voilà pourquoi nos experts, curieux et passionnés, délivrent les
+         de nos enquêtes, de notre suivi des réseaux sociaux et de mesures les plus exactes pour en extraire l’information qui
+         techniques qualitatives ou observationnelles.          permettra d’avoir une vraie compréhension de la Société, des
+                                                                Marchés et des Individus.
+
+         Notre signature « Game Changers » résume bien notre ambition
+         d’aider nos 5 000 clients à évoluer avec confiance dans un monde Nous mêlons notre savoir-faire au meilleur des sciences et de la
+         en rapide évolution.                                   technologie, et appliquons nos quatre principes de sécurité,
+                                                                simplicité, rapidité et de substance à tout ce que nous
+         Créé en France en 1975, Ipsos est coté à l’Euronext Paris depuis le produisons.
+         1er juillet 1999. L’entreprise fait partie des indices SBF 120, Mid- Pour permettre à nos clients d’agir avec plus de rapidité,
+         60, STOXX Europe 600 et est éligible au service de règlement d’ingéniosité et d’audace.
+         différé (SRD).
+         ISIN code FR0000073298, Reuters ISOS.PA, Bloomberg IPS:FP La clef du succès se résume par une vérité simple :
+                                                                You act better when you are sure.
+
+         www.ipsos.com
+         35 rue du Val de Marne
+         75 628 Paris, Cedex 13 France
+         Tel. +33 1 41 98 90 00
+
+                                                                  49
