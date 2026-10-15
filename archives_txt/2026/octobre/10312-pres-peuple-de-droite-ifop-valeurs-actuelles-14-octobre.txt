@@ -1,0 +1,351 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10312-pres-peuple-de-droite-ifop-valeurs-actuelles-14-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Radioscopie    du peuple   de droite
+
+        Notice   technique      détaillée
+
+                                                                  FD N° 122804
+                                                                CONTACT IFOP :
+                                                                   Frédéric Dabi
+                                                              Département Opinion
+                                                            et Stratégies d'Entreprise
+                                                             prénom.nom@ifop.com
+                                                                 OCTOBRE 2026
+
+--- page 2 ---
+
+1
+
+                                                  La  méthodologie
+
+        Ifop pour Valeurs Actuelles                                       1
+
+        Radioscopie du peuple de droite  Octobre 2026
+
+--- page 3 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Etude réalisée par Ifop pour Valeurs Actuelles
+
+         Echantillon
+                            L’enquête a été menée auprès d’un échantillon de 3 000 personnes
+                            représentatif de la population française âgée de 18 ans et plus, dont
+                            1 764 personnes se positionnant idéologiquement à droite.
+
+                            La représentativité de l’échantillon a été assurée par la méthode des
+         Méthodologie
+                            quotas au regard de critères :
+                            - sociodémographiques (sexe, âge de l’individu) ;
+
+                            - socioprofessionnels (profession de l’individu) ;
+
+                            - géographiques (région, taille d’unité urbaine).
+
+            Mode de recueil
+
+                            Les interviews ont été réalisées par questionnaire auto-administré
+                            en ligne du 2 au 5 octobre 2026.
+
+        L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2022) et d’un redressement
+        politique sur la base de la reconstitution des votes suivants : présidentielle 2022 1er tour, législatives 2024 1er
+        tour.
+        La présente notice est consultable sur le site de la commission des sondages.
+
+        Ifop pour Valeurs Actuelles                                      2
+
+        Radioscopie du peuple de droite  Octobre 2026
+
+--- page 4 ---
+
+Précision  relative  aux marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+        comme le montre le tableau ci-dessous :
+
+                    INTERVALLE DE CONFIANCE   A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 3 000 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 1,1. Le vrai pourcentage est donc compris entre 8,9% et 11,1%.
+
+        Ifop pour Valeurs Actuelles                                      3
+
+        Radioscopie du peuple de droite  Octobre 2026
+
+--- page 5 ---
+
+Structure  de l’échantillon
+
+                                                 Brut   Redressé
+                                                  %        %
+        SEXE
+           Un homme                              47,9     47,7
+           Une femme                             52,1     52,3
+
+        AGE
+           De18a24ans                             9,5     10,3
+           De25a34ans                            14,0     14,8
+           De35a49ans                            25,2     24,0
+           De50a64ans                            24,8     24,4
+           De65a74ans                            13,9     14,0
+           A75ansetplus                          12,6     12,5
+
+        REGION
+           GrandEst                               8,6     8,5
+           NouvelleAquitaine                      9,5     9,5
+           AuvergneRhoneAlpes1                   12,8     12,3
+           BourgogneFrancheComte1                 4,1     4,3
+           Bretagne2                              4,8     5,2
+
+           CentreValDeLoire1                      3,6     3,9
+           IleDeFrance2                          19,6     18,4
+           Occitanie                              9,5     9,4
+           HautsdeFrance                          9,2     8,9
+           Normandie1                             4,9     5,1
+           PaysDeLaLoire2                         5,9     5,8
+           PACACorse                              7,5     8,5
+
+        AGGLO
+           Commune rurale                        22,7     21,1
+           Unité urbaine de 2 000 à 19 999 hab.  16,8     18,2
+           Unité urbaine de 20 000 à 99 999 hab. 13,8     13,9
+           Unité urbaine de 100 000 à 199 999 hab. 31,3   30,6
+           Agglomération parisienne              15,4     16,3
+
+        PROFESSION
+           Agriculteurs1                          0,8     0,7
+           Artisans1                              4,1     3,8
+           Cadres1                               10,9     11,2
+           Intermediaires1                       16,2     15,0
+           Employes1                             17,1     15,8
+           Ouvriers1                             12,1     12,1
+
+           Inactifs                              38,8     41,3
+        PRESIDENTIELLE 2022 1er tour (Ne se prononce pas =
+        28,2%)
+           Nathalie Arthaud                       1,9     0,6
+           Philippe Poutou                        1,8     0,8
+           Fabien Roussel                         3,7     2,3
+           Jean-Luc Mélenchon                    15,3     21,5
+
+        Ifop pour Valeurs Actuelles                                      4
+
+        Radioscopie du peuple de droite  Octobre 2026
+
+--- page 6 ---
+
+Anne Hidalgo                           2,6     1,7
+           Yannick Jadot                          5,0     4,6
+           Emmanuel Macron                       25,7     27,8
+           Valérie Pécresse                       6,8     4,8
+           Nicolas Dupont-Aignan                  3,1     2,1
+           Marine Le Pen                         26,6     23,5
+           Éric Zemmour                           4,0     7,1
+
+           Jean Lassalle                          3,6     3,2
+        LEGISLATIVE 2024 1er tour (Ne se prononce pas = 31,2%)
+           Extrême gauche                         2,0     1,2
+           NFP                                   24,2     28,7
+           Divers gauche                          1,2     1,0
+           ENS Ensemble !                        21,4     22,4
+
+           Divers centre                          0,9     0,8
+           LR & DVD                              11,5     9,5
+           RN & alliés                           35,5     34,0
+           Droite souverainiste, divers EXD - Reconquête 1,7 1,1
+           DIVERS                                 1,4     1,3
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        Ifop pour Valeurs Actuelles                                      5
+
+        Radioscopie du peuple de droite  Octobre 2026
+
+--- page 7 ---
+
+L'autopositionnement      sur l'axe gauche-droite
+
+        Question : Vous-même, diriez-vous que vous vous situez… ?
+
+        Ifop pour Valeurs Actuelles                                      6
+        Radioscopie du peuple de droite  Octobre 2026
+
+--- page 8 ---
+
+L’adhésion   à différentes  affirmations   (1/2)
+
+        Question : Pour chacune des affirmations suivantes, pouvez-vous me dire si vous
+                   êtes tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas
+
+                   du tout d'accord ?
+
+        Ifop pour Valeurs Actuelles                                      7
+        Radioscopie du peuple de droite  Octobre 2026
+
+--- page 9 ---
+
+L’adhésion   à différentes  affirmations   (2/2)
+
+        Question : Pour chacune des affirmations suivantes, pouvez-vous me dire si vous
+                   êtes tout à fait d'accord, plutôt d'accord, plutôt pas d'accord ou pas
+
+                   du tout d'accord ?
+
+        Ifop pour Valeurs Actuelles                                      8
+        Radioscopie du peuple de droite  Octobre 2026
+
+--- page 10 ---
+
+La perception   du  montant   des  impôts   payés
+
+                               personnellement
+
+        Question : Diriez-vous que le montant des impôts et des taxes que vous payez
+                   est… ?
+
+        Ifop pour Valeurs Actuelles                                      9
+        Radioscopie du peuple de droite  Octobre 2026
+
+--- page 11 ---
+
+La qualification  politique  de différentes   notions
+
+        Question : Pour chacune des notions ou valeurs suivantes, diriez-vous qu’elle
+                   relève plutôt de la droite, plutôt de la gauche, ou ni de l’une ni de
+
+                   l’autre ?
+
+        Base : Personnes de droite
+
+        Ifop pour Valeurs Actuelles                                      10
+        Radioscopie du peuple de droite  Octobre 2026
+
+--- page 12 ---
+
+L'adhésion   à une  « coalition  des  droites »
+
+        Question : Seriez-vous favorable ou opposé(e) à ce que Les Républicains, l’UDR
+                   d’Éric Ciotti, le Rassemblement national et Reconquête gouvernent
+
+                   ensemble après les prochaines élections nationales ?
+
+        Base : Personnes de droite
+
+        Ifop pour Valeurs Actuelles                                      11
+        Radioscopie du peuple de droite  Octobre 2026
+
+--- page 13 ---
+
+Le sentiment   d'appartenance     à une  même    famille
+
+                                    politique
+
+        Question : Avez-vous le sentiment d'appartenir à la même famille politique que
+                   les électeurs de chacun des partis suivants ?
+
+        Base : Personnes de droite
+
+        Ifop pour Valeurs Actuelles                                      12
+        Radioscopie du peuple de droite  Octobre 2026
+
+--- page 14 ---
+
+L'incarnation  de  la droite
+
+        Question : Pour chacune des personnalités suivantes, diriez-vous qu'elle incarne
+                   bien ou mal la droite aujourd'hui ?
+
+        Ifop pour Valeurs Actuelles                                      13
+        Radioscopie du peuple de droite  Octobre 2026
+
+--- page 15 ---
+
+Les  raisons du  vote  pour  Bruno  Retailleau   en 2027
+
+        Question : Pour quelles raisons parmi les suivantes voteriez-vous pour Bruno
+
+                   Retailleau à l'élection présidentielle de 2027 ?
+
+        Base : Personnes de droite
+        En premier
+
+        En deuxième
+
+        En troisième
+
+        Ifop pour Valeurs Actuelles                                      14
+        Radioscopie du peuple de droite  Octobre 2026
+
+--- page 16 ---
+
+Les raisons  du vote  pour  Marine   Le Pen  en  2027
+
+        Question : Pour quelles raisons parmi les suivantes voteriez-vous pour Marine Le
+
+                   Pen à l'élection présidentielle de 2027 ?
+
+        Base : Personnes de droite
+        En premier
+
+        En deuxième
+
+        En troisième
+
+        Ifop pour Valeurs Actuelles                                      15
+        Radioscopie du peuple de droite  Octobre 2026
+
+--- page 17 ---
+
+Les raisons  du  vote pour  Éric Zemmour     en  2027
+
+        Question : Pour quelles raisons parmi les suivantes voteriez-vous pour Éric
+
+                   Zemmour à l'élection présidentielle de 2027 ?
+
+        Base : Personnes de droite
+        En premier
+
+        En deuxième
+
+        En troisième
+
+        Ifop pour Valeurs Actuelles                                      16
+        Radioscopie du peuple de droite  Octobre 2026

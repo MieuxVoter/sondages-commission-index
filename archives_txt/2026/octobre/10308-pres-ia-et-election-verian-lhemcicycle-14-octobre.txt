@@ -1,0 +1,1011 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10308-pres-ia-et-election-verian-lhemcicycle-14-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+L’IA   et  l’élection      présidentielle           de   2027
+
+                                                     Rapport    de  résultats
+
+                                                             Octobre 2026
+
+                                     Notice   pour   le site de la Commission       des  Sondages
+
+--- page 2 ---
+
+Méthodologie
+
+                                                                    Publics        interrogés
+         Etude
+
+         en   ligne                                                 Echantillon    de    1020   personnes
+                                                                    âgées   de 18 ans et plus
+
+         Réalisée entre le 30 août et le 1er septembre 2026
+                                                                    La représentativité  de  l’échantillon est
+
+                                                                    assurée   par  la méthode    des  quotas
+         Les interviews ont été réalisées en ligne sur Panel.
+                                                                    (sexe, âge,  profession  de  l’individu et
+                                                                    région).
+         Questionnaire  quantitatif autoadministré
+                                                                     Note de lecture
+         Les panélistes ayant  complété  le questionnaire
+
+         obtiennent  des points cumulables   pour  une               L’enquête a fait l’objet d’un redressement sociodémographique
+                                                                     (données INSEE). Les résultats de cette enquête sont soumis aux
+         valeur inférieure à 1 euro.
+                                                                     marges d’erreurs inhérentes aux lois statistiques, elles sont précisées
+                                                                     dans la page qui suit.
+
+--- page 3 ---
+
+Précisions    techniques     sur  les marges    d’erreur
+
+                                                                       Les résultats de cette étude sont soumis aux marges d’erreur, comme
+      La théorie statistique permet d’évaluer le degré d’incertitude associé à
+                                                                       toute enquête quantitative réalisée par sondage.
+      chaque résultat d’enquête. Cette incertitude se traduit par un intervalle de
+      confiance, défini autour de la valeur mesurée, dans lequel la valeur réelle a
+                                                                       Les marges d’erreurs données dans les sondages se basent sur
+      une probabilité donnée de se situer. Couramment désignée sous le terme
+                                                                       l’hypothèse d'un échantillonnage aléatoire.
+      de « marge d’erreur », cette incertitude dépend à la fois de la taille de
+      l’échantillon et du pourcentage obtenu, comme l’illustre le tableau ci-
+                                                                       Si les marges d’erreurs réelles dans les sondages dont l'échantillonnage
+      dessous.
+                                                                       est construit selon la méthode des quotas ne sont pas mesurables
+      Pour un échantillon de 1020 individus, à 95% de confiance, les intervalles scientifiquement, on estime en pratique qu’elles sont proches de celles
+      de confiance selon les proportions observées sont :              calculées dans le cas d'un échantillonnage aléatoire.
+                                                                       La marge d’erreur dépend de la taille de la population, ainsi que de la
+                                                                       proportion à laquelle on l’applique.
+
+                  Taille de Si le pourcentage trouvé est…
+                 l’échantillon
+                          5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+
+                   1020     1,4     1,9     2,5      2,8     3,0      3,1
+
+--- page 4 ---
+
+À   quel    moment        pensez-vous        commencer         à   suivre    sérieusement        la   campagne
+       présidentielle    de  2027  ?
+
+        En %
+
+                                               J'ai déjà commencé                       37
+
+                 Dans  les prochains mois, avant la fin de l'année 2026  14
+                                                                                                 ST Suit/suivra  la
+                                                                                                   campagne
+
+                                          Au début de  l'année 2027     13                             74%
+
+               Quelques  semaines ou quelques mois avant le premier
+                                                                      10
+                                                               tour
+
+                      Je ne pense pas suivre la campagne  de façon
+                                                                            19
+                                                        particulière
+
+                                                      Je ne sais pas  7
+
+    Base: Ensemble
+
+--- page 5 ---
+
+À quel   moment     pensez-vous       commencer       à suivre   sérieusement      la campagne       présidentielle    de
+
+      2027  ?
+
+                                                                    Quelques semaines ou         Je ne pense pas suivre la
+      En %                           Dans les prochains mois,
+                       J'ai déjà commencé           Au début de l'année 2027 quelques mois avant le ST Suit ou suivra campagne de façon Je ne sais pas
+                                    avant la fin de l'année 2026
+                                                                       premier tour                  particulière
+      Total                 37             14             13             10             74             19              7
+      Sexe
+      Un homme              46             14             11             10             81             14              5
+      Une femme             28             14             16             10             68             23              9
+      Âge
+      18 à 24 ans           32             23             16              5             76             17              7
+      25 à 34 ans           30             14             18             11             73             18              9
+      35 à 49 ans           33             13             13             12             71             19              10
+      50 à 64 ans           42             9              11              9             71             23              6
+      65 ans et plus        40             15             13             11             79             16              5
+      Profession de la personne de référence
+      ST PCS+               39             15             15              8             77             16              7
+      - Commerçant, artisan,
+                            35             26             10              3             74             18              8
+      chef d'entreprise
+      - Cadre, profession
+                            47             11             16              7             81             15              4
+      intellectuelle
+      - Profession intermédiaire 34        14             16             11             75             17              8
+      ST PCS-               33             12             13             11             69             23              8
+      - Employé             40             14             14             10             78             17              5
+      - Ouvrier             28             9              11             11             59             29              12
+      ST Inactif, retraité  37             15             13             12             77             17              6
+      - Retraité PCS+       49             12             11             11             83             14              3
+      - Retraité PCS-       20             19             18             12             69             22              9
+     Base : ensemble
+
+--- page 6 ---
+
+À quel   moment     pensez-vous       commencer       à suivre   sérieusement      la campagne       présidentielle    de
+
+      2027  ?
+
+         En %
+                                                                    Quelques semaines ou          Je ne pense pas suivre la
+      En %                           Dans les prochains mois,
+                       J'ai déjà commencé           Au début de l'année 2027 quelques mois avant le ST Suit ou suivra campagne de façon Je ne sais pas
+                                    avant la fin de l'année 2026
+                                                                       premier tour                  particulière
+      Total                 37             14             13             10              74             19             7
+      Préférence partisane
+      Grande gauche (EXG, PC,
+                            43             19             17             10              89             8              3
+      FI, PS, EELV)
+      - La France Insoumise 52             25             10              4              91             4              5
+      - Parti socialiste    35             21             21              8              85             12             3
+      - Les Ecologistes     34             15             26             17              92             6              2
+      Ensemble (Renaissance,
+                            51             14             17              6              88             12             0
+      Modem, Horizons)
+      - Renaissance (ex La
+                            54             19             13              3              89             11             0
+      République En Marche)
+      Droite (UDI, Les
+      Républicains, RN,     43             18             13              9              83             13             4
+      Reconquête)
+      - Les Républicains    40             24             12             10              86             10             4
+      - Le Rassemblement
+                            45             16             13              9              83             14             3
+      national
+      Sans préférence partisane 24         7              11             12              54             32             14
+      Positionnement politique
+      Extrême-gauche        51             14             13              4              82             15             3
+      Gauche                39             18             21              9              87             10             3
+      Centre                28             14             17             10              69             22             9
+      Droite                43             18             13             13              87             9              4
+      Extrême-droite        46             13             12             10              81             15             4
+      Sans opinion          12             4               5             12              33             46             21
+     Base : ensemble
+
+--- page 7 ---
+
+À quel   moment     pensez-vous       commencer       à suivre   sérieusement      la campagne       présidentielle    de
+      2027  ?
+
+         En %
+                                                                     Quelques semaines ou          Je ne pense pas suivre la
+                                      Dans les prochains mois,
+      En %             J'ai déjà commencé            Au début de l'année 2027 quelques mois avant le ST Suit ou suivra campagne de façon Je ne sais pas
+                                     avant la fin de l'année 2026
+                                                                        premier tour                  particulière
+      Total                 37              14             13             10             74              19             7
+      Vote au 1er tour législatives juin 2024
+      Un(e) candidat(e) du
+                            52              15             13              9             89              8              3
+      Nouveau Front Populaire
+      Un(e) candidat(e) de la
+                            48              14             18             10             90              9              1
+      majorité présidentielle
+      Un(e) candidat(e) Les
+                            47              19             20              5             91              7              2
+      Républicains
+      Un(e) candidat(e) du
+                            47              16             12              9             84              13             3
+      Rassemblement national
+      Abstention, blanc, nul,
+                            19              12             13             10             54              32             14
+      sans réponse
+      Vote au 1er tour de l’élection présidentielle 2022
+      Jean-Luc Mélenchon    52              17             10              6             85              11             4
+      Emmanuel Macron       45              16             17             11             89              9              2
+      Marine Le Pen         43              15             10             10              78             18             4
+      Abstention, blanc, nul,
+                            19              10             14             10             53              30             17
+      sans réponse
+
+     Base : ensemble
+
+--- page 8 ---
+
+Pour   chacune      des   sources    suivantes,    quel   rôle  pensez-vous       qu'elle   jouera    dans   votre
+       décision    de  voter   pour   un  candidat    plutôt   qu'un   autre   lors  de  l'élection  présidentielle     de
+
+       2027  ?
+                                                                                                                        ST
+                                                   Un rôle déterminant Un rôle important Un rôle limité Aucun rôle Je ne sais pas
+                                                                                                                    A un rôle
+        En %
+               Les programmes et propositions des candidats 29               39             15      12   5             83
+
+                           Les débats entre les candidats 13       37                27           17    6              77
+
+                      Les médias d’information traditionnels 8 28              32              26       6              68
+
+                        Les discussions avec mes proches 3 23             36                 32         6              62
+
+                                                                                                                       57
+                    Les experts, chercheurs ou universitaires 5 19      33                 35           8
+              Les discussions avec mes collègues ou relations                                                          48
+                                                   3   12          33                    46             6
+                                      professionnelles
+                                                                                                                       37
+                                   Les réseaux sociaux 4 12     21                     58                5
+
+                                                                                                                       33
+          Les personnalités publiques ou influenceurs que je suis 4 11 18            60                 7
+
+           Les outils d’intelligence artificielle (ChatGPT, Copilot,                                                   28
+                                                   3  9      16                     66                  6
+                                        Claude, etc.)
+
+    Base: Ensemble
+
+--- page 9 ---
+
+Pour   chacune     des  sources    suivantes,    quel  rôle  pensez-vous       qu'elle  jouera   dans   votre   décision
+      de  voter  pour   un candidat     plutôt  qu'un   autre  lors de  l'élection  présidentielle    de  2027  ?
+
+                                            Les médias                                                             Les outils
+                                                                             Les discussions avec    Les personnalités
+                   Les programmes et        d'information Les discussions avec Les experts,                      d'intelligence
+       En %                    Les débats entre les                           mes collègues ou        publiques ou
+                    propositions des        traditionnels mes proches (famille, chercheurs ou Les réseaux sociaux artificielle (ChatGPT,
+                                 candidats                                      relations           influenceurs que je
+                      candidats            (télévision, radio, amis) universitaires                              Copilot, Claude,
+       ST A un rôle                                                           professionnelles          suis
+                                              presse)                                                               etc.)
+       Total            83         77          68         62          57          48         37          33         28
+       Sexe
+       Un homme         86         81          73         67          62          55         40          39         31
+       Une femme        81         74          64         58          53          42         33          29         24
+       Âge
+       18 à 24 ans      84         76          66         84          63          63         60          52         46
+       25 à 34 ans      86         78          72         74          66          64         60          50         40
+       35 à 49 ans      79         74          64         59          52          47         35          30         27
+       50 à 64 ans      84         79          69         57          53          43         25          24         20
+       65 ans et plus   83         79          70         57          58          40         27          30         23
+       Profession de la personne de référence
+       ST PCS+          87         78          73         70          63          57         43          38         35
+       - Commerçant,
+       artisan, chef    82         71          74         76          62          51         34          41         40
+       d'entreprise
+       - Cadre, profession
+                        93         85          74         71          70          60         45          39         32
+       intellectuelle
+       - Profession
+                        82         75          71         67          59          55         42          36         32
+       intermédiaire
+       ST PCS-          78         74          63         57          50          48         36          30         25
+       - Employé        83         78          66         63          53          50         40          30         27
+       - Ouvrier        72         69          59         50          47          45         32          32         24
+       ST Inactif, retraité 83     79          70         59          58          39         30          32         23
+       - Retraité PCS+  87         83          77         61          64          42         26          29         18
+       - Retraité PCS-  78         75          59         53          43          33         30          30         27
+     Base : ensemble
+
+--- page 10 ---
+
+Pour   chacune     des  sources    suivantes,    quel  rôle  pensez-vous       qu'elle  jouera   dans   votre   décision
+      de  voter  pour   un candidat     plutôt  qu'un   autre  lors de  l'élection  présidentielle    de  2027  ?
+
+                                             Les médias
+                                                                              Les discussions avec      Les personnalités Les outils
+      En %        Les programmes et         d'information Les discussions avec Les experts,
+                              Les débats entre les                             mes collègues ou          publiques ou d'intelligence
+                   propositions des         traditionnels mes proches (famille, chercheurs ou Les réseaux sociaux
+         En %                    candidats                                        relations            influenceurs que je artificielle (ChatGPT,
+      ST A un rôle   candidats             (télévision, radio, amis) universitaires professionnelles       suis    Copilot, Claude, etc.)
+                                              presse)
+     Total             83          77          68          62          57          48          37           33          28
+     Préférence partisane
+     Grande gauche
+                       94          84          77          74          76          58          45           41          32
+     (EXG, PC, FI, PS, EELV)
+     - La France Insoumise 90      80          78          72          72          56          60           52          39
+     - Parti socialiste 94         90          76          75          79          62          39           36          31
+     - Les Ecologistes 96          82          76          77          79          58          28           27          17
+     Ensemble
+     (Renaissance,     92          90          91          72          77          56          39           40          28
+     Modem, Horizons)
+     - Renaissance (ex La
+     République En     91          85          91          69          67          46          39           35          22
+     Marche)
+     Droite (UDI, Les
+     Républicains, RN, 88          82          68          64          51          48          36           38          34
+     Reconquête)
+     - Les Républicains 97         93          80          72          57          48          35           41          36
+     - Le Rassemblement
+                       85          81          65          61          49          48          35           34          33
+     national
+     Sans préférence
+                       70          64          57          51          45          40          31           23          20
+     partisane
+     Positionnement
+     politique
+     Extrême-gauche    93          85          73          73          73          54          50           37          22
+     Gauche            91          80          76          74          72          53          40           33          29
+     Centre            81          78          73          61          61          50          36           36          26
+     Droite            91          87          80          72          66          57          37           39          32
+     Extrême-droite    84          80          65          59          48          47          37           36          34
+     Sans opinion      58          46          41          39          30          26          21           16          13
+     Base : ensemble
+
+--- page 11 ---
+
+Pour   chacune     des  sources    suivantes,    quel  rôle  pensez-vous       qu'elle  jouera   dans   votre   décision
+      de  voter  pour   un candidat     plutôt  qu'un   autre  lors de  l'élection  présidentielle    de  2027  ?
+
+                                             Les médias
+        En %       Les programmes et         d'information Les discussions avec Les experts, Les discussions avec Les personnalités Les outils
+                               Les débats entre les                             mes collègues ou         publiques ou d'intelligence
+                    propositions des         traditionnels mes proches (famille, chercheurs ou Les réseaux sociaux
+                                  candidats                                       relations             influenceurs que je artificielle (ChatGPT,
+        ST A un rôle  candidats             (télévision, radio, amis) universitaires
+                                                                                professionnelles            suis   Copilot, Claude, etc.)
+                                               presse)
+      Total             83          77          68          62          57          48          37          33          28
+      Vote au 1er tour des élections législatives en juin 2024
+      Un(e) candidat(e)
+      du Nouveau Front  98          89          78          75          74          55          45          31          23
+      Populaire
+      Un(e) candidat(e)
+      de la majorité    92          88          88          69          81          51          35          40          26
+      présidentielle
+      Un(e) candidat(e) 93          93          87          76          65          60          51          49          40
+      Les Républicains
+      Un(e) candidat(e)
+      du Rassemblement  86          82          66          59          46          45          33          33          28
+      national
+      Abstention, blanc, 70         63          55          54          47          43          32          28          25
+      nul, sans réponse
+      Vote au 1er tour de l'élection présidentielle 2022
+      Jean-Luc
+                        92          81          74          70          69          55          53          42          38
+      Mélenchon
+                        93          87          88          69          72          57          34          37          27
+      Emmanuel Macron
+      Marine Le Pen     84          82          64          58          46          43          35          32          29
+      Abstention, blanc, 65         60          51          54          47          41          36          28          26
+      nul, sans réponse
+     Base : ensemble
+
+--- page 12 ---
+
+Pensez-vous       utiliser concrètement        des  outils  d'intelligence    artificielle  (comme      ChatGPT,
+       Copilot,    Claude    ou   d'autres    assistants     conversationnels)        pour   vous    informer     sur  les
+
+       candidats,    leurs  propositions     ou  les enjeux   de  l'élection  présidentielle    de  2027  ?
+
+        En %
+
+             Oui certainement    Oui probablement     Non probablement pas     Non certainement pas    Je ne sais pas
+
+                                                                            ST  OUI
+
+                                                           7    4             18%
+                                                                       14
+
+                                                                           18
+
+                                                   57
+                                  ST  NON
+
+                                    75%
+
+    Base: Ensemble
+
+--- page 13 ---
+
+Pensez-vous       utiliser   concrètement        des   outils   d'intelligence     artificielle   (comme       ChatGPT,
+
+      Copilot,   Claude   ou  d'autres    assistants    conversationnels)       pour   vous   informer   sur  les  candidats,
+      leurs  propositions     ou les enjeux    de l'élection  présidentielle     de 2027   ?
+
+      En %
+                        Oui, certainement Oui, probablement ST Oui  Non, probablement pas Non, certainement pas ST Non Je ne sais pas
+
+      Total                  4              14             18             18             57              75             7
+      Sexe
+      Un homme               6              15             21             17              57             74             5
+      Une femme              2              13             15             19              57             76             9
+      Âge
+      18 à 24 ans            7              32             39             20             30              50             11
+      25 à 34 ans            4              26             30             23             41              64             6
+      35 à 49 ans            6              13             19             13              57             70             11
+      50 à 64 ans            2              7              9              19             68              87             4
+      65 ans et plus         2              8              10             18             66              84             6
+      Profession de la personne de référence
+      ST PCS+                5              18             23             23             47              70             7
+
+      - Commerçant, artisan, 4              19             23             24              48             72             5
+      chef d'entreprise
+      - Cadre, profession
+                             8              14             22             28             43              71             7
+      intellectuelle
+                             3              20             23             20              50             70             7
+      - Profession intermédiaire
+      ST PCS-                3              15             18             13              60             73             9
+      - Employé              2              15             17             15              59             74             9
+      - Ouvrier              6              15             21             10              60             70             9
+      ST Inactif, retraité   0              10             10             18             66              84             6
+      - Retraité PCS+        1              8              9              17             71              88             3
+      - Retraité PCS-        1              8              9              18              64             82             9
+
+     Base : ensemble
+
+--- page 14 ---
+
+Pensez-vous       utiliser   concrètement        des   outils   d'intelligence     artificielle   (comme       ChatGPT,
+     Copilot,   Claude    ou  d'autres   assistants    conversationnels)       pour   vous   informer   sur  les  candidats,
+
+     leurs  propositions     ou les  enjeux   de l'élection   présidentielle    de 2027   ?
+
+     En %              Oui, certainement Oui, probablement ST Oui   Non, probablement pas Non, certainement pas ST Non Je ne sais pas
+
+     Total                  4              14             18              18             57              75             7
+     Préférence partisane
+     Grande gauche (EXG,
+                            5              18             23              20             53              73             4
+     PC, FI, PS, EELV)
+     - La France Insoumise  2              37             39              11             42              53             8
+     - Parti socialiste     2              20             22              18             56              74             4
+     - Les Ecologistes      4              6              10              28             59              87             3
+     Ensemble (Renaissance,
+                            5              11             16              21             60              81             3
+     Modem, Horizons)
+     - Renaissance (ex La
+                            5              8              13              22             63              85             2
+     République En Marche)
+     Droite (UDI, Les
+     Républicains, RN,      5              17             22              20             54              74             4
+     Reconquête)
+     - Les Républicains     3              19             22              25             49              74             4
+     - Le Rassemblement
+                            5              17             22              18             56              74             4
+     national
+     Sans préférence
+                            1              9              10              15             62              77             13
+     partisane
+     Positionnement politique
+     Extrême-gauche         4              16             20              9              62              71             9
+     Gauche                 2              16             18              20             56              76             6
+     Centre                 0              12             12              17             64              81             7
+     Droite                 4              18             22              22             51              73             5
+     Extrême-droite         7              16             23              19             52              71             6
+     Sans opinion           0              5               5              17             64              81             14
+     Base : ensemble
+
+--- page 15 ---
+
+Pensez-vous       utiliser   concrètement        des   outils   d'intelligence     artificielle   (comme       ChatGPT,
+
+      Copilot,   Claude   ou  d'autres    assistants    conversationnels)       pour   vous   informer   sur  les  candidats,
+      leurs  propositions     ou les enjeux    de l'élection  présidentielle     de 2027   ?
+
+      En %
+      En %              Oui, certainement Oui, probablement ST Oui  Non, probablement pas Non, certainement pas ST Non Je ne sais pas
+
+      Total                  4              14             18             18             57              75             7
+      Vote au 1er tour des élections législatives en juin 2024
+
+      Un(e) candidat(e) du   3              12             15             20              61             81             4
+      Nouveau Front Populaire
+      Un(e) candidat(e) de la 4             9              13             19              62             81             6
+      majorité présidentielle
+      Un(e) candidat(e) Les
+                             5              18             23             21              49             70             7
+      Républicains
+      Un(e) candidat(e) du   5              15             20             18              59             77             3
+      Rassemblement national
+      Abstention, blanc, nul,
+                             1              14             15             18              55             73             12
+      sans réponse
+      Vote au 1er tour de l'élection présidentielle 2022
+      Jean-Luc Mélenchon     5              21             26             16              50             66             8
+      Emmanuel Macron        4              15             19             17              58             75             6
+      Marine Le Pen          6              12             18             17              61             78             4
+      Abstention, blanc, nul,
+                             2              15             17             18              51             69             14
+      sans réponse
+
+     Base : ensemble
+
+--- page 16 ---
+
+Plus   précisément,       quelle    confiance     accordez-vous        à   des   informations      ou   analyses
+
+       produites     par  des   outils  d'intelligence     artificielle  (comme      ChatGPT,     Copilot,   Claude     ou
+       d'autres    assistants    conversationnels)        pour   vous   aider   à  comprendre       les  enjeux    ou  les
+
+       programmes        ?
+
+        En %
+
+          Je ne sais pas  Je n'utilise pas ces outils Pas du tout confiance Plutôt pas confiance Plutôt confiance Tout à fait confiance
+
+                     8                26                        24                      22                  17         3
+
+                                                                                                         ST Confiance
+
+                                                                                                              20%
+
+    Base: Ensemble
+
+--- page 17 ---
+
+Plus  précisément,      quelle   confiance     accordez-vous       à  des   informations     ou  analyses     produites
+
+      par   des   outils   d'intelligence     artificielle  pour    vous   aider    à  comprendre        les  enjeux    ou   les
+      programmes       ?
+
+         En %
+
+                     Tout à fait confiance Plutôt confiance ST Confiance Plutôt pas confiance Pas du tout confiance ST Pas confiance Je n’utilise pas ces outils Je ne sais pas
+
+      Total               3            17            20            22           24            46           26            8
+      Sexe
+      Un homme            3            18            21            21           26            47           25            7
+      Une femme           2            17            19            22           22            44           27            10
+      Âge
+      18 à 24 ans         3            34            37            27           17            44            6            13
+      25 à 34 ans         5            28            33            27           20            47            9            11
+      35 à 49 ans         5            18            23            21           21            42           25            10
+      50 à 64 ans         1            12            13            21           29            50           33            4
+      65 ans et plus      1            10            11            18           26            44           38            7
+      Profession de la personne de référence
+      ST PCS+             4            23            27            26           23            49           17            7
+      - Commerçant,
+      artisan, chef       5            27            32            15           30            45           18            5
+      d'entreprise
+      - Cadre, profession
+                          5            18            23            30           25            55           16            6
+      intellectuelle
+      - Profession
+                          3            24            27            26           22            48           17            8
+      intermédiaire
+      ST PCS-             3            19            22            18           23            41           27            10
+      - Employé           2            19            21            17           20            37           31            11
+      - Ouvrier           4            20            24            18           26            44           23            9
+      ST Inactif, retraité 0           10            10            21           25            46           36            8
+      - Retraité PCS+     0             6            6             20           28            48           38            8
+      - Retraité PCS-     1            11            12            18           25            43           38            7
+     Base : ensemble
+
+--- page 18 ---
+
+Plus  précisément,      quelle   confiance     accordez-vous       à  des   informations     ou  analyses     produites
+     par   des   outils   d'intelligence     artificielle  pour    vous   aider    à  comprendre        les  enjeux    ou   les
+
+     programmes       ?
+
+      En %           Tout à fait confiance Plutôt confiance ST Confiance Plutôt pas confiance Pas du tout confiance ST Pas confiance Je n’utilise pas ces outils Je ne sais pas
+
+      Total               3            17            20           22            24           46            26           8
+      Préférence partisane
+
+      Grande gauche
+                          5            19            24           24            24           48            25           3
+      (EXG, PC, FI, PS, EELV)
+      - La France Insoumise 3          30            33           26            23           49            13           5
+      - Parti socialiste  3            20            23           28            18           46            30           1
+      - Les Ecologistes   0            14            14           16            33           49            32           5
+      Ensemble
+      (Renaissance,       2            23            25           21            19           40            30           5
+      Modem, Horizons)
+      - Renaissance (ex La
+      République En       0            25            25           24            14           38            33           4
+      Marche)
+      Droite (UDI, Les
+      Républicains, RN,   4            20            24           19            25           44            25           7
+      Reconquête)
+      - Les Républicains  1            26            27           15            25           40            24           9
+      - Le Rassemblement
+                          4            20            24           19            26           45            25           6
+      national
+      Sans préférence
+                          0            13            13           22            24           46            28           14
+      partisane
+      Positionnement politique
+      Extrême-gauche      1            11            12           24            31           55            25           8
+      Gauche              2            17            19           31            21           52            24           5
+      Centre              1            14            15           23            24           47            30           8
+      Droite              2            24            26           18            24           42            24           8
+      Extrême-droite      7            22            29           18            24           42            23           6
+      Sans opinion        1            7             8            21            21           42            34           16
+     Base : ensemble
+
+--- page 19 ---
+
+Plus  précisément,      quelle   confiance     accordez-vous       à  des   informations     ou  analyses     produites
+
+      par   des   outils   d'intelligence     artificielle  pour    vous   aider    à  comprendre        les  enjeux    ou   les
+      programmes       ?
+
+      En %
+                    Tout à fait confiance Plutôt confiance ST Confiance Plutôt pas confiance Pas du tout confiance ST Pas confiance Je n’utilise pas ces outils Je ne sais pas
+
+      Total               3            17           20           22           24            46           26            8
+      Vote au 1er tour des élections législatives en juin 2024
+
+      Un(e) candidat(e) du
+      Nouveau Front       1            13           14           25           32            57           23            6
+      Populaire
+      Un(e) candidat(e) de
+      la majorité         2            15           17           24           27            51           27            5
+      présidentielle
+      Un(e) candidat(e)
+                          4            25           29           19           19            38           25            8
+      Les Républicains
+      Un(e) candidat(e) du
+      Rassemblement       4            16           20           20           27            47           28            5
+      national
+      Abstention, blanc,
+                          0            19           19           21           21            42           26           13
+      nul, sans réponse
+      Vote au 1er tour de l'élection présidentielle 2022
+                          4            19           23           31           25            56           14            7
+      Jean-Luc Mélenchon
+      Emmanuel Macron     1            21           22           20           23            43           29            6
+      Marine Le Pen       3            14           17           21           28            49           28            6
+      Abstention, blanc,
+                          2            17           19           20           20            40           27           14
+      nul, sans réponse
+     Base : ensemble
+
+--- page 20 ---
+
+Selon   vous,  pendant     la prochaine     campagne       présidentielle,    l'intelligence   artificielle aura-
+       t-elle  pour  effet…
+
+                                             Ne sait pas Non pas du tout Non plutôt pas   Oui plutôt   Oui tout à fait
+
+                                                       ST Non                                              ST Oui
+
+                De faciliter la diffusion de fausses informations 20%     10  10  16      36        28       64%
+
+        De faciliter la comparaison des propositions des différents
+                                                        40%          20    20    19      34     7            41%
+                                           candidats
+
+       De donner un avantage aux candidats ou partis disposant 35%   19   16    24       33     8            41%
+                         des meilleurs outils technologiques
+
+                                                        57%      29       28     18    20   5                25%
+            D'améliorer la qualité de l'information des électeurs
+
+    Base: Ensemble
+
+--- page 21 ---
+
+Selon   vous,  pendant     la prochaine     campagne      présidentielle,    l'intelligence   artificielle  aura-t-elle
+      pour   effet…
+
+       En %
+                                                                               De donner un avantage aux candidats ou
+       ST Oui                    De faciliter la diffusion de fausses De faciliter la comparaison des propositions D'améliorer la qualité de l'information des
+                                                                                 partis disposant des meilleurs outils
+                                       informations         des différents candidats                            électeurs
+                                                                                      technologiques
+      Total                              64                       41                      41                      25
+      Sexe
+      Un homme                            67                      40                      43                      26
+      Une femme                           63                      42                      39                      23
+      Âge
+      18 à 24 ans                        56                       54                      53                      37
+      25 à 34 ans                         70                      57                      51                      38
+      35 à 49 ans                        54                       44                      38                      26
+      50 à 64 ans                         67                      34                      38                      17
+      65 ans et plus                      70                      30                      38                      17
+      Profession de la personne de référence
+      ST PCS+                             67                      51                      49                      30
+      - Commerçant, artisan, chef
+                                          67                      39                      53                      17
+      d'entreprise
+      - Cadre, profession intellectuelle  71                      52                      48                      26
+      - Profession intermédiaire          63                      54                      48                      35
+      ST PCS-                             57                      39                      37                      26
+      - Employé                           59                      37                      34                      30
+      - Ouvrier                           56                      41                      38                      20
+      ST Inactif, retraité                68                      31                      38                      18
+      - Retraité PCS+                    73                       29                      42                      15
+      - Retraité PCS-                     61                      29                      23                      19
+
+     Base : ensemble
+
+--- page 22 ---
+
+Selon   vous,  pendant     la prochaine     campagne      présidentielle,    l'intelligence   artificielle  aura-t-elle
+     pour   effet…
+
+     ?
+      En %
+                                                                             De donner un avantage aux candidats ou
+                                De faciliter la diffusion de fausses De faciliter la comparaison des propositions D'améliorer la qualité de l'information des
+      ST Oui                                                                   partis disposant des meilleurs outils
+                                     informations         des différents candidats                           électeurs
+                                                                                    technologiques
+     Total                              64                      41                     41                      25
+     Préférence partisane
+     Grande gauche (EXG, PC, FI, PS, EELV) 71                   49                     49                      27
+
+     - La France Insoumise              66                      54                     56                      40
+     - Parti socialiste                 68                      52                     49                      27
+     - Les Ecologistes                  75                      40                     41                      12
+     Ensemble (Renaissance, Modem,
+                                        83                      49                     52                      28
+     Horizons)
+     - Renaissance (ex La République En
+                                        82                      56                     48                      26
+     Marche)
+     Droite (UDI, Les Républicains, RN,
+                                        64                      43                     39                      28
+     Reconquête)
+     - Les Républicains                 70                      54                     50                      36
+     - Le Rassemblement national        61                      41                     38                      28
+     Sans préférence partisane          55                      31                     34                      17
+     Positionnement politique
+     Extrême-gauche                     72                      36                     47                      20
+     Gauche                             72                      44                     52                      21
+     Centre                             63                      37                     39                      22
+     Droite                             68                      47                     39                      31
+     Extrême-droite                     67                      46                     45                      29
+     Sans opinion                       39                      26                     25                      15
+     Base : ensemble
+
+--- page 23 ---
+
+Selon   vous,  pendant     la prochaine     campagne      présidentielle,    l'intelligence   artificielle  aura-t-elle
+      pour   effet…
+
+      En %
+                                                                               De donner un avantage aux candidats ou
+                                 De faciliter la diffusion de fausses De faciliter la comparaison des propositions D'améliorer la qualité de l'information des
+      ST Oui                           informations         des différents candidats partis disposant des meilleurs outils électeurs
+                                                                                      technologiques
+      Total                              64                       41                      41                      25
+      Vote au 1er tour des élections
+      législatives en juin 2024
+      Un(e) candidat(e) du Nouveau Front
+                                         80                       40                      55                      18
+      Populaire
+      Un(e) candidat(e) de la majorité
+                                         77                       45                      49                      24
+      présidentielle
+      Un(e) candidat(e) Les Républicains 73                       50                      58                      32
+      Un(e) candidat(e) du Rassemblement
+                                         61                       42                      37                      26
+      national
+      Abstention, blanc, nul, sans réponse 53                     38                      33                      24
+
+      Vote au 1er tour de l'élection
+      présidentielle 2022
+      Jean-Luc Mélenchon                 69                       42                      46                      25
+
+      Emmanuel Macron                    76                       46                      49                      28
+      Marine Le Pen                      58                       41                      38                      24
+      Abstention, blanc, nul, sans réponse 55                     35                      36                      23
+
+     Base : ensemble
+
+--- page 24 ---
+
+Données                     socio-
+
+                                     démographiques
+
+--- page 25 ---
+
+Sexe par âge               Brut (%) Redressé
+              Hommes - 18 à 34 ans        12      12,3%
+              Femmes - 18 à 34 ans        12      12,3%
+              Hommes - 35 à 49 ans        12      11,6%
+              Femmes - 35 à 49 ans        13      12,0%
+              Hommes - 50 à 64 ans        12      11,8%
+              Femmes - 50 à 64 ans        13      12,4%
+              Hommes - 65 ans et plus     12      12,0%
+              Femmes - 65 ans et plus     14      15,6%
+
+              PCS personne de référence
+              Artisan, comm., chef d'entr. 3       5,5%
+              Cadre                       15      13,0%
+              Profession intermédiaire    18      15,8%
+              Employé                     18      15,6%
+              Ouvrier                     10      13,9%
+              Inactif, retraité           36      36,2%
+              Catégorie d'agglomération
+              Moins de 2000 habitants     20      21,1%
+              2000 à 20 000 habitants     16      18,2%
+              20 000 à 100 000 habitants  13      13,9%
+              Plus de 100 000 habitants   36      30,5%
+              Agglomération parisienne    15      16,3%
+              Region - UDA 5
+              REGION PARISIENNE           18      18,4%
+              OUEST                       23      22,9%
+              NORD ET EST                 22      21,8%
+              SUD-OUEST                   12      11,8%
+              SUD-EST                     25      25,1%
+                                                                      R
+                                                                      N
+                                                                      P
+                                                                      F
+                                                                      J
+                                                                      A
+                                                                      Y
+                                                                      E
+                                                                      V
+                                                                      J
+                                                                      N
+                                                                      M
+                                                                      É
+                                                                      A
+                                                                       a p p e ls d e v o t e
+                                                                       a t h a lie A r t h a u
+                                                                       h ilip p e P o u t o u
+                                                                      a b ie n R o u s s e l
+                                                                      e a n - L u c M é le n
+                                                                       n n e H id a lg o
+                                                                       a n n ic k J a d o t
+                                                                       m m a n u e l M a c
+                                                                       a lé r ie P é c r e s s e
+                                                                      e a n L a s s a lle
+                                                                       ic o la s D u p o n t -
+                                                                       a r in e L e P e n
+                                                                       r ic Z e m m o u r
+                                                                       b s t e n t io n b la n
+                                                                                  - 1 e r p
+                                                                                 d
+                                                                                  c h o n
+                                                                                  r o n
+                                                                                 A ig n a n
+                                                                                 c , n u l,s a
+                                                                                       r é
+                                                                                       n
+                                                                                        s
+                                                                                        s
+                                                                                         id
+                                                                                         r é
+                                                                                          e
+                                                                                           p
+                                                                                           n t
+                                                                                            o
+                                                                                             ie
+                                                                                             n
+                                                                                              lle
+                                                                                              s e
+                                                                                                2
+                                                                                               s
+                                                                                                 0 2 2 B r u
+                                                                                                        2
+                                                                                                         t (
+                                                                                                         1
+                                                                                                         1
+                                                                                                         4
+                                                                                                         9
+                                                                                                         1
+                                                                                                         4
+                                                                                                        1 8
+                                                                                                         4
+                                                                                                         2
+                                                                                                         2
+                                                                                                        2 3
+                                                                                                         3
+                                                                                                         8 %
+                                                                                                          % )    R e d
+                                                                                                                   1
+                                                                                                                   2
+                                                                                                                   3
+                                                                                                                   2
+                                                                                                                   r1
+                                                                                                                   1
+                                                                                                                   3
+                                                                                                                    3
+                                                                                                                   3
+                                                                                                                   5
+                                                                                                                    4
+                                                                                                                   7
+                                                                                                                   4
+                                                                                                                   3
+                                                                                                                    0
+                                                                                                                   6
+                                                                                                                    7
+                                                                                                                    e%
+                                                                                                                    %
+                                                                                                                    %
+                                                                                                                     %
+                                                                                                                    %
+                                                                                                                    %
+                                                                                                                     %
+                                                                                                                    %
+                                                                                                                    %
+                                                                                                                    %
+                                                                                                                     %
+                                                                                                                    %
+                                                                                                                     %
+                                                                                                                     s s é
+
+--- page 26 ---
+
+Annexe                  –     Résultats
+
+                                 avant              redressement
+
+--- page 27 ---
+
+À quel moment pensez-vous commencer à suivre sérieusement la campagne
+      présidentielle de 2027 ?
+
+                                        Quelques
+                                                           Je ne pense pas
+                 Dans les prochains    semaines ou
+         J'ai déjà           Au début de                     suivre la
+                 mois, avant la fin    quelques mois ST Suit ou suivra Je ne sais pas
+        commencé             l'année 2027                   campagne de
+                 de l'année 2026      avant le premier
+                                                           façon particulière
+                                          tour
+          37         14         14        10         75        18         7
+      Pour chacune des sources suivantes, quel rôle pensez-vous qu'elle jouera dans votre décision de voter pour un candidat plutôt qu'un autre lors de l'élection
+      présidentielle de 2027 ?
+                                Les médias
+                                                                              Les personnalités         Les outils
+                                d'information Les discussions avec Les discussions avec    Les experts,          Les programmes et
+                  Les débats entre les                              Les réseaux publiques ou          d'intelligence
+                                traditionnels mes proches (famille, mes collègues ou      chercheurs ou          propositions des
+                     candidats                                       sociaux influenceurs que je     artificielle (ChatGPT,
+                               (télévision, radio, amis) relations professionnelles        universitaires          candidats
+                                                                                 suis               Copilot, Claude, etc.)
+                                 presse)
+      ST Jouera un rôle 78         69         63           49          38         34          58         28          84
+      Jouera un rôle
+                       14          8           4           3           4          4           5           3          30
+      déterminant
+      Pensez-vous utiliser concrètement des outils d'intelligence artificielle (comme ChatGPT,
+      Copilot, Claude ou d'autres assistants conversationnels) pour vous informer sur les
+      candidats, leurs propositions ou les enjeux de l'élection présidentielle de 2027 ?
+                                         Non,   Non, certainement
+      Oui, certainement Oui, probablement ST Oui              ST Non  Je ne sais pas
+                                      probablement pas pas
+           3         14         17        19         57        76         7
+
+--- page 28 ---
+
+Plus précisément, quelle confiance accordez-vous à des informations ou analyses produites par des outils
+      d'intelligence artificielle (comme ChatGPT, Copilot, Claude ou d'autres assistants conversationnels) pour vous
+      aider à comprendre les enjeux ou les programmes ?
+
+         Tout à fait                    Plutôt pas Pas du tout       Je n’utilise pas ces
+                 Plutôt confiance ST Confiance             ST Pas confiance      Je ne sais pas
+         confiance                      confiance confiance              outils
+
+           2         17         19        22         24        46        26         9
+
+      Selon vous, pendant la prochaine campagne présidentielle, l'intelligence artificielle aura-t-elle pour effet…
+
+                                                                          De donner un avantage aux
+                                                         De faciliter la comparaison
+                         D'améliorer la qualité de De faciliter la diffusion de candidats ou partis disposant
+                                                         des propositions des différents
+                        l'information des électeurs fausses informations    des meilleurs outils
+                                                              candidats
+                                                                             technologiques
+      ST Oui                   26              64               41               41
+      Oui tout à fait          5               28               7                8
+
+--- page 29 ---
+
+Merci             !
+
+      Laure  SALVAING
+
+      Directrice générale  Verian  France
+
+      laure.salvaing@veriangroup.com
+      06 28  76 49 47

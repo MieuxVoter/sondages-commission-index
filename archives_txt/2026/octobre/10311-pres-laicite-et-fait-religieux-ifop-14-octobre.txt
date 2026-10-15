@@ -1,0 +1,332 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10311-pres-laicite-et-fait-religieux-ifop-14-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Les Français face aux enjeux de laïcité et de fait religieux dans la
+
+        campagne  présidentielle
+
+        Notice   technique      détaillée
+
+                                                                  FK N° 122804
+                                                                CONTACT IFOP :
+                                                                  François Kraus
+                                                              Département Opinion
+                                                            et Stratégies d'Entreprise
+                                                             prénom.nom@ifop.com
+                                                                 OCTOBRE 2026
+
+--- page 2 ---
+
+1
+
+                                                  La  méthodologie
+
+        Ifop pour Marianne                                                1
+
+        Les Français face aux enjeux de laïcité et de fait religieux dans la campagne présidentielle  Octobre 2026
+
+--- page 3 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Etude réalisée par Ifop pour Marianne
+
+         Echantillon
+                            L’enquête a été menée auprès d’un échantillon de 9 689 personnes
+                            représentatif de la population française âgée de 18 ans et plus.
+
+                            La représentativité de l’échantillon a été assurée par la méthode des
+         Méthodologie
+                            quotas au regard de critères :
+                            - sociodémographiques (sexe, âge de l’individu) ;
+
+                            - socioprofessionnels (profession de l’individu) ;
+
+                            - géographiques (région, taille d’unité urbaine).
+
+            Mode de recueil
+
+                            Les interviews ont été réalisées par questionnaire auto-administré
+                            en ligne du 25 au 30 septembre 2026.
+
+        Les données brutes ont fait l’objet d’un redressement a postériori sur la base
+        -    … de critères sociodémographiques, professionnels et géographiques (sexe, âge, diplôme, CSP, région, catégorie d’agglomération) définis
+        à partir des données de l’INSEE pour la population âgée de 18 ans et plus résidant en métropole (RP-INSEE 2022) ;
+        -    … de critères politiques (votes antérieurs à l’élection présidentielle de 2022 et aux élections législatives de 2024) définis à partir des résultats
+        électoraux fournis par le ministère de l’Intérieur;
+        -    … de critères religieux (affiliation religieuse) à partir des données de l’enquête Ifop-EDV réalisée par téléphone du 8 août au 2 septembre
+        2025 auprès d’un échantillon national représentatif de 14 244 personnes âgées de 15 ans et plus résidant en France métropolitaine. Données pour les
+        personnes âgées de 18 ans et plus.
+        La présente notice est consultable sur le site de la commission des sondages.
+        Ifop pour Marianne                                               2
+
+        Les Français face aux enjeux de laïcité et de fait religieux dans la campagne présidentielle  Octobre 2026
+
+--- page 4 ---
+
+Précision relative aux marges d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+
+        comme le montre le tableau ci-dessous :
+
+                    INTERVALLE DE CONFIANCE   A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+           4 000     0,7       0,7      1,3      1,5       1,6      1,6
+
+           5 000     0,6       0,6      1,1      1,3       1,4      1,4
+           6 000     0,6       0,6      1,1      1,3       1,4      1,4
+           8 000     0,5       0,5      0,9      1,0       1,1      1,1
+           10 000    0,4       0,4      0,8      0,9       0,9      1,0
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 10 000 personnes, si le pourcentage
+        mesuré est de 10%, la marge d’erreur est égale à 0,4. Le vrai pourcentage est donc compris entre 9,6% et
+        10,4%.
+
+        Ifop pour Marianne                                               3
+
+        Les Français face aux enjeux de laïcité et de fait religieux dans la campagne présidentielle  Octobre 2026
+
+--- page 5 ---
+
+Structure  de l’échantillon
+
+                                                 Brut   Redressé
+                                                  %        %
+        SEXE
+           Un homme                              47,2     47,7
+           Une femme                             52,8     52,3
+
+        AGE
+           De18a24ans                             9,5     10,3
+           De25a34ans                            13,5     14,8
+           De35a49ans                            24,0     24,0
+           De50a64ans                            25,0     24,4
+           De65a74ans                            16,3     14,0
+           A75ansetplus                          11,6     12,5
+
+        REGION
+           GrandEst                               7,7     8,5
+           NouvelleAquitaine                      9,1     9,5
+           AuvergneRhoneAlpes1                   12,4     12,3
+           BourgogneFrancheComte1                 4,0     4,3
+           Bretagne2                              5,5     5,2
+
+           CentreValDeLoire1                      4,1     3,9
+           IleDeFrance2                          18,8     18,4
+           Occitanie                              9,5     9,4
+           HautsdeFrance                          9,2     8,9
+           Normandie1                             5,3     5,1
+           PaysDeLaLoire2                         6,1     5,8
+           PACACorse                              8,3     8,5
+
+        AGGLO
+           Commune rurale                        21,1     21,1
+           Unité urbaine de 2 000 à 19 999 hab.  16,6     18,2
+           Unité urbaine de 20 000 à 99 999 hab. 13,9     13,9
+           Unité urbaine de 100 000 à 199 999 hab. 32,3   30,6
+           Agglomération parisienne              16,1     16,3
+
+        PROFESSION
+           Agriculteurs1                          0,3     0,7
+           Artisans1                              3,1     3,8
+           Cadres1                               11,8     11,2
+           Intermediaires1                       13,4     15,0
+           Employes1                             17,8     15,8
+           Ouvriers1                             11,3     12,1
+
+           Inactifs                              42,2     41,3
+        PRESIDENTIELLE 2022 1er tour
+           Nathalie Arthaud                       1,6     0,6
+           Philippe Poutou                        1,7     0,8
+           Fabien Roussel                         3,8     2,3
+           Jean-Luc Mélenchon                    15,2     21,5
+
+           Anne Hidalgo                           2,4     1,7
+        Ifop pour Marianne                                               4
+
+        Les Français face aux enjeux de laïcité et de fait religieux dans la campagne présidentielle  Octobre 2026
+
+--- page 6 ---
+
+Yannick Jadot                          4,6     4,6
+           Emmanuel Macron                       25,1     27,8
+           Valérie Pécresse                       5,7     4,8
+           Nicolas Dupont-Aignan                  2,4     2,1
+           Marine Le Pen                          31      23,5
+           Éric Zemmour                           3,8     7,1
+           Jean Lassalle                          2,6     3,2
+
+        LEGISLATIVE 2024 1er tour
+           Extrême gauche                         2,7     1,2
+           NFP                                   26,4     28,7
+           Divers gauche                          1,1     1,0
+           ENS Ensemble !                        19,0     22,4
+           Divers centre                          1,0     0,8
+
+           LR & DVD                              10,5     9,5
+           RN & alliés                           35,8     34,0
+           Droite souverainiste, divers EXD - Reconquête 1,8 1,1
+           DIVERS                                 1,7     1,3
+        AFFILIATION RELIGIEUSE
+           Catholique                            49,9     43,0
+           Protestant(e) ou évangélique           1,9     4,0
+
+           Musulman(e)                            3,8     7,0
+           Juif, juive                            0,5     1,0
+           D’une autre religion                   1,4     5,0
+           Sans religion                         38,8     37,0
+           Vous ne souhaitez pas répondre         3,7     3,0
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        Ifop pour Marianne                                               5
+
+        Les Français face aux enjeux de laïcité et de fait religieux dans la campagne présidentielle  Octobre 2026
+
+--- page 7 ---
+
+Le  jugement   sur le port du  voile dans  la rue
+
+        Question : Personnellement, êtes-vous favorable, opposé ou indifférent au port
+                   du voile pour les musulmanes qui le souhaitent dans la rue ?
+
+        Ifop pour Marianne                                               6
+        Les Français face aux enjeux de laïcité et de fait religieux dans la campagne présidentielle  Octobre 2026
+
+--- page 8 ---
+
+L’adhésion   aux  propositions   des  candidats  relatives  à la
+
+                    visibilité du voile dans  l’espace  public
+
+        Question : Personnellement, êtes-vous favorable ou opposé aux mesures
+                   suivantes ?
+
+        Ifop pour Marianne                                               7
+        Les Français face aux enjeux de laïcité et de fait religieux dans la campagne présidentielle  Octobre 2026
+
+--- page 9 ---
+
+L’adhésion   aux  autres  propositions   des candidats
+
+                   relatives  à la laïcité et au fait religieux
+
+        Question : Personnellement, êtes-vous favorable ou opposé aux mesures
+                   suivantes ?
+
+        Ifop pour Marianne                                               8
+        Les Français face aux enjeux de laïcité et de fait religieux dans la campagne présidentielle  Octobre 2026
+
+--- page 10 ---
+
+Le candidat  populiste   perçu  comme    le plus gros danger
+
+                                 pour  la laïcité
+
+        Question : A vos yeux, lequel ou laquelle des candidat(e)s suivant(e)s constitue le
+                   plus un danger pour la laïcité s’il/elle accédait à la Présidence de la
+                   République en 2027 ?
+
+        Ifop pour Marianne                                               9
+        Les Français face aux enjeux de laïcité et de fait religieux dans la campagne présidentielle  Octobre 2026
+
+--- page 11 ---
+
+Le pronostic  d’une   remise  en cause   de la législation laïque
+
+               en cas  d’une  victoire des  candidats  populistes
+
+        Question : Et d'après vous, la législation actuelle encadrant la laïcité et la place
+                   des religions en France peut-elle être remise en cause en cas
+                   d’élection… ?
+
+        Ifop pour Marianne                                               10
+        Les Français face aux enjeux de laïcité et de fait religieux dans la campagne présidentielle  Octobre 2026
+
+--- page 12 ---
+
+Les craintes  de  discriminations   religieuses  suscitées  par la
+
+                          victoire  de Marine   Le Pen
+
+        Question : Et plus précisément, en cas d’élection de Marine Le Pen à la
+                   Présidence de la République, craignez-vous… ?
+
+        Base : Personnes appartenant à une minorité religieuse
+
+        Ifop pour Marianne                                               11
+        Les Français face aux enjeux de laïcité et de fait religieux dans la campagne présidentielle  Octobre 2026
+
+--- page 13 ---
+
+L’impact  d’une  éventuelle   victoire de  Marine   Le Pen  en
+
+                        matière  de  visibilité religieuse
+
+        Question : Imaginez que Marine Le Pen soit élue Présidente de la République en
+                   mai 2027.
+
+                   Dans ce contexte, pourriez-vous … ?
+
+        Base : Personnes appartenant à une minorité religieuse
+
+        Ifop pour Marianne                                               12
+        Les Français face aux enjeux de laïcité et de fait religieux dans la campagne présidentielle  Octobre 2026
+
+--- page 14 ---
+
+Les  réactions  et mobilités  que  pourraient   susciter une
+
+                          victoire  de Marine   Le Pen
+
+        Question : Imaginez que Marine Le Pen soit élue Présidente de la République en
+                   mai 2027.
+
+                   Dans ce contexte, pourriez-vous … ?
+
+                                                     *
+
+                                                     **
+
+        * Posée seulement aux personnes ayant une activité professionnelle
+        ** Posée seulement aux parents d’enfants à charge
+
+        Ifop pour Marianne                                               13
+        Les Français face aux enjeux de laïcité et de fait religieux dans la campagne présidentielle  Octobre 2026
