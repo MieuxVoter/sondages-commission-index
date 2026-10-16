@@ -1,0 +1,592 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10316-pres-soiree-marine-le-pen-csa-cnews-15-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Monsieur Jean Gaeremynck
+                                          Président de la Commission des Sondages
+
+                                          Conseil d'État
+                                          Place du Palais Royal
+
+                                          75001 PARIS
+
+                                          PARIS, le 15 octobre 2026
+
+     Monsieur le Président,
+
+     Je me permets de vous faire parvenir ci-jointe la notice technique relative au sondage sur « Les attentes
+     des Français envers le futur président de la République » qui sera diffusée le soir du 15 octobre sur
+
+     CNews, Europe 1 et le Journal du Dimanche (JDD).
+
+     En vous souhaitant bonne réception, je vous prie de croire, Monsieur le Président, à l'assurance de mes
+
+     sentiments respectueusement dévoués.
+
+     Julie Gaillot
+
+     Directrice du Pôle Society de l’Institut CSA
+
+                                                                             1
+
+--- page 2 ---
+
+NOTICE TECHNIQUE
+
+     Nom du client :              CNews / Europe 1 / Le Journal du Dimanche (JDD)
+
+     Dates de l'enquête :         Du 13 au 14 octobre 2026
+
+     Date de publication :        Le 15 octobre 2026
+
+     Echantillon national représentatif de 1011 personnes âgées de 18 ans et plus, constitué d'après la méthode
+
+     des quotas (sexe, âge, profession de la personne interrogée) après stratification par région et catégorie
+     d’agglomération.
+     Pour ce sondage, les panélistes ont été dédommagés sous forme de points : 20 points, soit l’équivalent de
+
+     20 centimes.
+
+         Nombre de personnes interrogées : 1011 personnes
+
+         Mode d'administration du
+                                     Par Internet sur panel en ligne (panel CSA)
+         questionnaire :
+
+         Type de sondage :           Ad hoc
+
+                                     Socio démographiques sur critères de quotas (sexe,
+
+                                     âge, profession de la personne interrogée, région,
+         Méthode de redressement :
+                                     catégorie d’agglomération) et vote au premier tour de
+                                     l’élection présidentielle 2022
+
+                                     Entre 0,2% et 1,2% pour la Q2 / Entre 0,4% et 0,9%
+         Taux de non-réponse :
+                                     pour la Q3
+
+     Ce document présente les résultats d’une étude respectant les principes scientifiques et déontologiques de
+     l’enquête par sondage. Comme toute étude publiée, la notice de cette enquête est consultable sur le site de
+
+     la Commission des sondages.
+     Pour citer ce sondage, il est obligatoire d’en mentionner a minima les émetteurs « Institut CSA pour CNews,
+
+     Europe 1 et le JDD », l’échantillon et le mode de recueil (cf. mentions ci-dessus).
+
+                                                                             2
+
+--- page 3 ---
+
+Marges d’erreur statistique
+
+          Pour un échantillon de 1000 personnes, les marges d’erreur sont les suivantes avec un niveau de
+          confiance de 95% :
+
+          Pour un pourcentage de : 5%  10%     20%     30%     40%    50%
+
+          La marge d’erreur est de : +/-1,4 +/-1,9 +/-2,5 +/-2,8 +/-3,0 +/-3,1
+
+          Le résultat réel se situe    8,1 et 17,5 et 27,2 et 37,0 et 46,9 et
+                              3,6 et 6,4
+          dans une fourchette entre :  11,9    22,5    32,8    43,0   53,1
+
+          Pour un pourcentage de : 60%   70%       80%      90%       95%
+
+          La marge d’erreur est de : +/-3,0 +/-2,8 +/-2,5   +/-1,9   +/-1,4
+
+          Le résultat réel se situe 57,0 et 67,2 et 77,5 et 88,1 et  93,6 et
+          dans une fourchette entre : 63,0 72,8    82,5     91,9      96,4
+
+          Exemple de lecture : pour un résultat observé de 50%, il y a 95% de chances pour que le résultat
+          réel soit compris entre 46,9% et 53,1%.
+
+                                                                             3
+
+--- page 4 ---
+
+Questionnaire :
+
+          Q1. Parmi les thématiques suivantes, quelle devrait être la priorité absolue pour le prochain président
+          de la République ? En premier ? En deuxième ? En troisième ?
+          Base : 1 010 répondants
+
+          -  L’insécurité
+
+          -  L’immigration
+
+          -  L’emploi
+          -  La santé
+
+          -  L’école
+
+          -  Le pouvoir d’achat
+
+          -  Le logement
+
+          -  L’environnement
+          -  La pauvreté
+
+          -  Les inégalités femmes-hommes
+
+          -  Le montant du déficit public
+
+          -  La politique étrangère et la défense
+
+          -  La fiscalité
+          -  Les retraites
+
+          -  L’économie et les entreprises
+
+          -  La justice
+
+          -  Le rapport de la France à l’Union européenne
+
+          -  L’impact de l’IA
+
+          Q2. En matière d’immigration, êtes-vous favorable ou opposé à la proposition suivante :
+
+          Base : 1 010 répondants
+            •  Instauration de la « priorité nationale »*, notamment pour l’accès à certaines prestations sociales, à
+               l’emploi et au logement
+               * c’est-à-dire le fait de réserver certaines prestations uniquement aux personnes de nationalité
+               française
+
+            •  Organisation d’un référendum sur l’immigration afin de modifier la Constitution
+
+            •  Fin du regroupement familial*
+               *le fait qu’un étranger qui a un titre de séjour en France peut être rejoint par son époux.se et ses
+               enfants
+            •  Expulsion des étrangers condamnés pour des crimes ou délits graves
+
+                                                                             4
+
+--- page 5 ---
+
+•  Rétablissement des contrôles aux frontières nationales pour lutter contre l'immigration clandestine et
+               sécuriser le territoire
+
+            •  Durcissement du droit d’asile*
+               *Le droit d’asile est la protection juridique accordée par un État à une personne qui fuit son pays
+               d'origine parce que sa vie ou sa liberté y est menacée
+            •  Suppression du droit du sol*
+               *Le droit du sol permet à un enfant né sur le sol français de deux parents étrangers de devenir
+               Français à sa majorité
+
+          -  Favorable
+          -  Opposé
+
+          Q3. En matière de grandes réformes de société, êtes-vous favorable ou opposé à chacune des
+          propositions suivantes :
+          Base : 1 010 répondants
+
+            •  Interdiction du port du voile islamique dans l’espace public (dans la rue, les parcs publics, les lieux
+               publics, …)
+
+            •  Relance du nucléaire et soutien à la construction de nouveaux réacteurs
+
+            •  Arrêter les nouvelles constructions d'éoliennes et d'engager le démantèlement progressif des parcs
+               éoliens existants
+
+            •  La privatisation de l’audiovisuel public*
+               *L’ensemble des chaînes de télévision, des stations de radio et des médias numériques dont la
+               mission principale est un service public d'intérêt général, détenus ou financés en majeure partie par
+               l'État
+            •  Permis de conduire gratuit pour les jeunes de moins de 25 ans ayant un casier judiciaire vierge
+
+            •  Suppression de l’impôt sur le revenu pour les moins de 30 ans
+
+            •  Suppression de Parcoursup*
+               *Parcoursup est la plateforme nationale de préinscription en première année de l'enseignement
+               supérieur en France.
+            •  Réserver les aides personnalisées au logement (APL) destinées aux étudiants aux seuls citoyens
+               français
+
+            •  Prêt à taux zéro (PTZ) de l'État pouvant aller jusqu'à 100 000 € à un taux d'intérêt de 0 %, destiné à
+               faciliter l'achat d'un premier logement pour les jeunes ménages
+
+            •  Réformer le baccalauréat avec un retour à des séries plus lisibles (type L, ES, S),
+
+            •  Valorisation des filières professionnelles et manuelles (CAP, apprentissage, bac professionnel)
+
+          -  Favorable
+
+          -  Opposé
+
+                                                                             5
+
+--- page 6 ---
+
+PROXPART. Parmi les partis politiques suivants, pouvez-vous me dire duquel vous vous sentez le
+
+          plus proche ou disons le moins éloigné ?
+
+          -  Lutte Ouvrière
+
+          -  Le NPA, Nouveau Parti Anticapitaliste
+          -  Le Parti Communiste
+
+          -  La France insoumise
+
+          -  L’Après de Clémentine Autain, Raquel Garrido et Alexis Corbière
+
+          -  Debout ! de François Ruffin
+
+          -  Le Parti Radical de Gauche
+
+          -  Génération.s de Benoît Hamon
+          -  Le Parti Socialiste
+
+          -  Place Publique de Raphaël Glucksmann
+
+          -  Les Ecologistes (ex-Europe Ecologie / Les Verts)
+
+          -  Un autre parti écologiste
+
+          -  Le Parti Animaliste
+          -  Renaissance d'Emmanuel Macron (ex-En Marche)
+
+          -  Le MoDem – Mouvement Démocrate
+
+          -  Horizons, le parti d'Edouard Philippe
+
+          -  Les Centristes / Le Nouveau Centre d’Hervé Morin
+
+          -  L'UDI - Union des Démocrates et Indépendants
+          -  Les Républicains
+
+          -  Debout la France
+
+          -  L’UDR – Union des Droites pour la République, le parti d’Eric Ciotti
+
+          -  Les Patriotes de Florian Philippot
+
+          -  L’Union Populaire Républicaine (UPR) de François Asselineau
+          -  Le Rassemblement National
+
+          -  Reconquête, le parti d’Eric Zemmour
+
+          -  Aucun
+
+          -  Ne se prononce pas
+
+                                                                             6
+
+--- page 7 ---
+
+PRES2022T1. Le dimanche 10 avril 2022 avait lieu le premier tour de l'élection présidentielle. Pouvez-
+
+          vous me dire pour lequel des candidats suivants vous avez voté ?
+
+          -  Nathalie ARTHAUD
+
+          -  Philippe POUTOU
+
+          -  Fabien ROUSSEL
+
+          -  Jean-Luc MÉLENCHON
+
+          -  Anne HIDALGO
+
+          -  Yannick JADOT
+
+          -  Emmanuel MACRON
+
+          -  Valérie PÉCRESSE
+
+          -  Jean LASSALLE
+          -  Nicolas DUPONT-AIGNAN
+
+          -  Marine LE PEN
+
+          -  Éric ZEMMOUR
+
+          -  Vous avez voté blanc ou nul
+
+          -  Vous n'avez pas voté, vous êtes abstenu
+
+          -  Vous n'étiez pas inscrit sur les listes électorales
+
+          -  Vous ne souhaitez pas vous prononcer
+
+                                                                             7
+
+--- page 8 ---
+
+Résultats bruts et redressés :
+
+                             Brut   Redressé
+     Sexe
+     Total                   1011     1011
+     Hommes                  46,5%   47,8%
+     Femmes                  53,5%   52,2%
+     Age de l'interviewé
+     Total                   1011     1011
+     ST Moins de 35 ans      22,6%   24,9%
+     18 à 24 ans             5,3%    10,1%
+     25 à 34 ans             17,2%   14,8%
+     35 à 49 ans             23,6%   24,3%
+     ST 50 ans et plus       53,8%   50,8%
+     50 à 64 ans             26,3%   24,8%
+     65 ans et plus          27,5%   26,0%
+
+     CSP Répondants
+     Total                   1011     1011
+     CSP +                   33,8%   31,5%
+     CSP -                   29,7%   28,2%
+     Inactifs                36,5%   40,3%
+     UDA 5
+     Total                   1011     1011
+     IDF                     20,5%   18,5%
+     Nord est                18,0%   21,8%
+     Nord ouest              22,9%   22,9%
+     Sud ouest               12,0%   11,5%
+     Sud est                 26,6%   25,4%
+     Taille d'Agglomération
+     Total                   1011     1011
+     Commune rurale (lnf. à 2000
+                             21,7%   21,3%
+     hab.)
+     De 2000 à 19 999 hab.   16,6%   17,9%
+     De 20 000 à 99 999 hab. 14,5%   13,6%
+     Plus de 100 000 hab.    29,8%   30,8%
+     Agglomération Parisienne 17,4%  16,4%
+     PRESID1 - 2022 - Base
+     exprimés
+     Total                   780      780
+     ST Exprimés            100,0%   100,0%
+      Nathalie ARTHAUD       1,3%     0,6%
+      Philippe POUTOU        1,2%     0,8%
+      Fabien ROUSSEL         4,2%     2,3%
+      Jean-Luc MÉLENCHON     11,0%   22,0%
+      Anne HIDALGO           4,1%     1,8%
+      Yannick JADOT          6,4%     4,6%
+      Emmanuel MACRON        30,4%   27,9%
+      Valérie PÉCRESSE       6,7%     4,8%
+      Jean LASSALLE          2,8%     3,1%
+      Nicolas DUPONT-AIGNAN  2,4%     2,1%
+      Marine LE PEN          24,9%   23,2%
+      Éric ZEMMOUR           4,6%     7,1%
+
+                                                                             8
+
+--- page 9 ---
+
+Brut    Redressé
+     Parmi les thématiques suivantes, quelle devrait être la priorité absolue pour le prochain
+     président de la République ? En premier ? En deuxième ? En troisième ? (Au total)
+     Total                                       1011       1011
+     Le pouvoir d'achat                          45,9%     46,4%
+     Le montant du déficit public                28,3%     27,2%
+     La santé                                    28,2%     28,1%
+     L'insécurité                                27,9%     28,0%
+     L'immigration                               25,2%     25,2%
+     L'école                                     20,5%     21,0%
+     L'environnement                             20,5%     19,9%
+     Les retraites                               12,3%     11,7%
+     L'économie et les entreprises               11,8%     12,1%
+     La justice                                  11,8%     12,5%
+     La pauvreté                                 11,6%     13,4%
+     L'emploi                                    11,0%     10,5%
+     La politique étrangère et la défense        9,7%       9,0%
+     La fiscalité                                8,7%       8,3%
+     Le logement                                 8,3%       7,7%
+     Le rapport de la France à l'Union européenne 5,9%      6,1%
+     Les inégalités femmes-hommes                4,5%       4,8%
+     L'impact de l'IA                            4,5%       4,0%
+     Parmi les thématiques suivantes, quelle devrait être la priorité absolue pour le prochain
+     président de la République ? En premier ? En deuxième ? En troisième ? (En 1e)
+     Total                                       1011       1011
+     Le pouvoir d'achat                          23,1%     23,6%
+     Le montant du déficit public                15,3%     14,8%
+     L'immigration                               10,3%     10,5%
+     L'environnement                             7,5%       7,9%
+     L'insécurité                                7,4%       6,9%
+     La santé                                    6,3%       6,0%
+     L'école                                     5,1%       5,4%
+     La pauvreté                                 4,5%       5,1%
+     Les retraites                               3,0%       2,6%
+     La politique étrangère et la défense        2,8%       2,5%
+     L'économie et les entreprises               2,8%       3,3%
+     L'emploi                                    2,4%       2,4%
+     La fiscalité                                2,2%       2,0%
+     La justice                                  2,1%       2,5%
+     Le logement                                 2,0%       1,7%
+     Le rapport de la France à l'Union européenne 1,5%      1,2%
+     Les inégalités femmes-hommes                1,0%       1,0%
+     L'impact de l'IA                            0,8%       0,9%
+
+                                                                             9
+
+--- page 10 ---
+
+Brut       Redressé
+     En matière d'immigration, êtes-vous favorable ou opposé à chacune des propositions
+     suivantes :
+     Instauration de la « priorité nationale »*, notamment pour l’accès à certaines prestations
+     sociales, à l’emploi et au logement * c’est-à-dire le fait de réserver certaines prestations
+     uniquement aux personnes de nationalité française
+     Total                                    1011         1011
+     Favorable                                67,7%       65,5%
+     Opposé                                   32,0%       34,3%
+     Ne se prononce pas                       0,3%         0,2%
+     Organisation d’un référendum sur l’immigration afin de modifier la Constitution
+     Total                                    1011         1011
+     Favorable                                63,9%       63,4%
+     Opposé                                   35,5%       35,9%
+     Ne se prononce pas                       0,6%         0,6%
+     Fin du regroupement familial**le fait qu’un étranger qui a un titre de séjour en France peut
+     être rejoint par son époux.se et ses enfants
+     Total                                    1011         1011
+     Favorable                                64,0%       62,0%
+     Opposé                                   35,0%       36,8%
+     Ne se prononce pas                       1,0%         1,2%
+     Expulsion des étrangers condamnés pour des crimes ou délits graves
+     Total                                    1011         1011
+     Favorable                                90,5%       89,0%
+     Opposé                                   8,9%        10,3%
+     Ne se prononce pas                       0,6%         0,7%
+     Rétablissement des contrôles aux frontières nationales pour lutter contre l'immigration
+     clandestine et sécuriser le territoire
+     Total                                    1011         1011
+     Favorable                                74,8%       73,4%
+     Opposé                                   24,7%       26,1%
+     Ne se prononce pas                       0,5%         0,6%
+     Durcissement du droit d’asile**Le droit d’asile est la protection juridique accordée par un
+     État à une personne qui fuit son pays d'origine parce que sa vie ou sa liberté y est menacée
+     Total                                    1011         1011
+     Favorable                                64,3%       63,4%
+     Opposé                                   35,3%       36,2%
+     Ne se prononce pas                       0,4%         0,4%
+     Suppression du droit du sol**Le droit du sol permet à un enfant né sur le sol français de
+     deux parents étrangers de devenir Français à sa majorité
+     Total                                    1011         1011
+     Favorable                                60,9%       58,1%
+     Opposé                                   38,7%       41,5%
+     Ne se prononce pas                       0,4%         0,4%
+
+                                                                            10
+
+--- page 11 ---
+
+Brut       Redressé
+     En matière de grandes réformes de société, êtes-vous favorable ou opposé à chacune des
+     propositions suivantes :
+     Interdiction du port du voile islamique dans l’espace public (dans la rue, les parcs publics,
+     les lieux publics, …)
+     Total                                    1011         1011
+     Favorable                                67,0%       64,2%
+     Opposé                                   32,3%       35,1%
+     Ne se prononce pas                       0,7%         0,7%
+     Relance du nucléaire et soutien à la construction de nouveaux réacteurs
+     Total                                    1011         1011
+     Favorable                                72,0%       70,8%
+     Opposé                                   27,5%       28,6%
+     Ne se prononce pas                       0,5%         0,6%
+     Arrêter les nouvelles constructions d'éoliennes et d'engager le démantèlement progressif
+     des parcs éoliens existants
+     Total                                    1011         1011
+     Favorable                                40,6%       41,0%
+     Opposé                                   58,9%       58,5%
+     Ne se prononce pas                       0,6%         0,5%
+     La privatisation de l’audiovisuel public**L’ensemble des chaînes de télévision, des stations
+     de radio et des médias numériques dont la mission principale est un service public d'intérêt
+     général, détenus ou financés en majeure partie par l'État
+     Total                                    1011         1011
+     Favorable                                46,2%       46,6%
+     Opposé                                   53,1%       52,7%
+     Ne se prononce pas                       0,7%         0,6%
+     Permis de conduire gratuit pour les jeunes de moins de 25 ans ayant un casier judiciaire
+     vierge
+     Total                                    1011         1011
+     Favorable                                48,0%       50,1%
+     Opposé                                   51,2%       49,0%
+     Ne se prononce pas                       0,8%         0,9%
+     Suppression de l’impôt sur le revenu pour les moins de 30 ans
+     Total                                    1011         1011
+     Favorable                                29,4%       31,1%
+     Opposé                                   70,1%       68,1%
+     Ne se prononce pas                       0,5%         0,8%
+     Suppression de Parcoursup**Parcoursup est la plateforme nationale de préinscription en
+     première année de l'enseignement supérieur en France.
+     Total                                    1011         1011
+     Favorable                                65,0%       65,8%
+     Opposé                                   34,4%       33,6%
+     Ne se prononce pas                       0,6%         0,6%
+     Réserver les aides personnalisées au logement (APL) destinées aux étudiants aux seuls
+     citoyens français
+     Total                                    1011         1011
+     Favorable                                68,2%       67,0%
+     Opposé                                   31,5%       32,6%
+     Ne se prononce pas                       0,4%         0,4%
+
+                                                                            11
+
+--- page 12 ---
+
+Brut       Redressé
+     En matière de grandes réformes de société, êtes-vous favorable ou opposé à chacune des
+     propositions suivantes :
+     Prêt à taux zéro (PTZ) de l'État pouvant aller jusqu'à 100 000 € à un taux d'intérêt de 0 %,
+     destiné à faciliter l'achat d'un premier logement pour les jeunes ménages
+     Total                                    1011         1011
+     Favorable                                81,0%       81,0%
+     Opposé                                   18,4%       18,4%
+     Ne se prononce pas                       0,6%         0,6%
+     Réformer le baccalauréat avec un retour à des séries plus lisibles (type L, ES, S)
+     Total                                    1011         1011
+     Favorable                                83,3%       82,7%
+     Opposé                                   16,1%       16,6%
+     Ne se prononce pas                       0,6%         0,7%
+     Valorisation des filières professionnelles et manuelles (CAP, apprentissage, bac
+     professionnel)
+     Total                                    1011         1011
+     Favorable                                92,2%       91,9%
+     Opposé                                   7,3%         7,5%
+     Ne se prononce pas                       0,5%         0,6%
+
+                                                                            12
+
+--- page 13 ---
+
+Brut Redressé
+     PROXIMITE PARTISANE
+     Total                                     1011  1011
+     Extrême gauche                            1,4%  1,5%
+     Lutte Ouvrière                            0,7%  0,7%
+     Le NPA, Nouveau Parti Anticapitaliste     0,7%  0,8%
+     Gauche                                   24,1% 25,4%
+     Le Parti Communiste                       3,0%  2,8%
+     La France insoumise                       4,3%  7,7%
+     L’Après de Clémentine Autain, Raquel Garrido et Alexis Corbière 0,5% 0,3%
+     Debout ! de François Ruffin               1,2%  1,2%
+     Le Parti Radical de Gauche                0,3%  0,3%
+     Génération.s de Benoît Hamon              0,6%  1,0%
+     Le Parti Socialiste                       7,8%  6,6%
+     Place Publique de Raphaël Glucksmann      3,7%  2,9%
+     Les Ecologistes (ex-Europe Ecologie / Les Verts) 2,9% 2,7%
+     Le Parti Animaliste                       0,4%  0,4%
+     Majorité présidentielle                  10,8% 10,1%
+     Renaissance (ex-En Marche)                5,7%  5,4%
+     Le MoDem – Mouvement Démocrate            1,8%  1,6%
+     Horizons, le parti d'Edouard Philippe     3,3%  3,1%
+     Les Centristes / Le Nouveau Centre d’Hervé Morin 0,2% 0,2%
+     Droite                                    9,4%  8,8%
+     L'UDI - Union des Démocrates et Indépendants 0,5% 0,8%
+     Les Républicains                          7,5%  6,4%
+     Un autre parti écologiste                 0,7%  0,8%
+     Debout la France                          0,7%  0,9%
+     L’UDR – Union des Droites pour la République, le parti d’Eric
+                                               1,2%  1,2%
+     Ciotti
+     Les Patriotes de Florian Philippot        0,4%  0,4%
+     L’Union Populaire Républicaine (UPR) de François Asselineau 1,0% 0,9%
+     Rassemblement National + Reconquête      21,4% 21,8%
+     Le Rassemblement National                18,4% 17,7%
+     Reconquête, le parti d’Eric Zemmour       3,0%  4,0%
+     Aucun                                    24,8% 24,0%
+     Ne se prononce pas                        4,9%  5,4%
+
+                                                                            13

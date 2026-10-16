@@ -1,0 +1,519 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10315-pres-la-fete-de-l-entreprise-ifop-15-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Ifop   pour   « J’aime     ma    boîte   » –  La  fête   de
+
+                                                         l’entreprise
+
+                                                  Notice    technique
+
+           FD / BB N° 122783
+           Contacts Ifop :
+           Frédéric Dabi / Bastien Bichet
+           Département Opinion et Stratégies d'Entreprise
+           TEL : 01 45 84 14 44
+           prenom.nom@ifop.com
+           1 OCTOBRE 2026
+
+--- page 2 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage.
+
+        Les enseignements qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et
+
+        non pas une prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Etude réalisée par Ifop pour J’aime ma  boîte
+
+             Echantillon
+                            L’enquête a été menée auprès d’un échantillon de 944 salariés issu
+                            d’un échantillon de 2525 personnes représentatif de la population
+
+                            française âgée de 18 ans et plus.
+
+            Méthodologie
+
+                            La représentativité de l’échantillon a été assurée par la méthode des
+                            quotas (sexe, âge, profession de la personne interrogée) après
+                            stratification par région et catégorie d'agglomération.
+
+            Mode de recueil
+                            Les interviews ont été réalisées par questionnaire auto-administré en ligne
+                            du 23 au 29 septembre 2026.
+
+        Conditions d’interrogation : Les questions ont été placées à la suite des questions permettant d’établir les
+        quotas. Tout interviewé ayant complété un questionnaire a obtenu des points cumulables pour une valeur
+        inférieure à 1 euro. L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2020).
+
+        NOTICE TECHNIQUE : Ifop                                           2
+
+        Ifop pour « J’aime ma boîte » – La fête de l’entreprise  1 octobre 2026
+
+--- page 3 ---
+
+Précision  relative  aux marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+        comme le montre le tableau ci-dessous :
+
+                    INTERVALLE DE CONFIANCE   A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 900 personnes, si le pourcentage mesuré est
+        de 10%, la marge d’erreur est égale à 2. Le vrai pourcentage est donc compris entre 8% et 12%.
+
+        NOTICE TECHNIQUE : Ifop                                           3
+
+        Ifop pour « J’aime ma boîte » – La fête de l’entreprise  1 octobre 2026
+
+--- page 4 ---
+
+Structure  de l’échantillon
+
+                                                      Brut       Redressé
+                                                       (%)         (%)
+
+         SEXE DE L'INTERVIEWÉ(E)
+          Homme                                       49,2        47,7
+          Femme                                       50,8        52,3
+
+         AGE DE L'INTERVIEWÉ(E)
+          18 à 24 ans                                 11,2        10,3
+          25 à 34 ans                                 16,6        14,8
+          34 à 49 ans                                 24,5        24,0
+          50 à 64 ans                                 24,8        24,4
+
+          65 ans et plus                              22,9        26,5
+         PROFESSION DE L'INTERVIEWÉ(E)
+          Travailleur indépendant                      3,7         4,5
+          Cadre et prof. int. supérieure              11,1        11,2
+
+          Profession intermédiaire                    14,0        15,0
+          Employé                                     18,4        15,8
+          Ouvrier                                     14,0        12,1
+
+          Retraité                                    28,8        29,4
+          Autre inactif                               10,0        12,0
+         CATEGORIE D’AGGLOMERATION
+          Communes rurales                            23,9        21,1
+
+          Communes urbaines de province               59,6        60,7
+          Agglomération parisienne                    16,5        18,2
+         REGION
+
+          Grand-Est                                    8,8         8,5
+          Nouvelle-Aquitaine                           8,2         9,5
+          Auvergne-Rhône-Alpes                        12,0        12,3
+          Bourgogne-Franche-Comté                      3,7         4,3
+
+          Bretagne                                     5,1         5,3
+          Centre-Val-De-Loire                          3,7         3,9
+          Ile-De-France                               21,3        18,4
+
+          Occitanie                                    8,9         9,4
+          Hauts-de-France                              9,6         8,9
+          Normandie                                    4,2         5,1
+
+          Pays de la Loire                             6,0         5,9
+          PACA, Corse                                  8,5         8,5
+         TOTAL                                        100,0       100,0
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE : Ifop                                           4
+
+        Ifop pour « J’aime ma boîte » – La fête de l’entreprise  1 octobre 2026
+
+--- page 5 ---
+
+L'attachement    à son  entreprise
+
+        Question : Aujourd’hui, diriez-vous « J’aime ma boîte » ?
+
+        Base : Ensemble             Brut               Redressé
+                                    (%)                  (%)
+
+        . Oui, tout à fait ...................... 13,9  13,5
+
+        . Oui, plutôt ............................ 52,4 53,5
+
+        . Non, plutôt pas ..................... 18,0    17,8
+
+        . Non, pas du tout ................... 8,4       8,0
+
+        Vous ne savez pas ................... 7,3        7,2
+
+        NOTICE TECHNIQUE : Ifop                                           5
+
+        Ifop pour « J’aime ma boîte » – La fête de l’entreprise  1 octobre 2026
+
+--- page 6 ---
+
+L'importance   de  l'entreprise  comme    repère  dans  la
+
+                                     société
+
+        Question : Diriez-vous qu’aujourd’hui les entreprises représentent un repère
+                   important… ?
+
+       Base : Ensemble            Oui, tout à fait          Oui, plutôt
+                               Brut       Redressé      Brut      Redressé
+
+                               (%)         (%)          (%)         (%)
+       • Pour la France        28,2        27,9        50,1         50,8
+
+       • Pour vous personnellement 19,5    19,2        50,4         51,1
+
+       • Pour le personnel politique 12,5  12,6        35,7         35,6
+
+        NOTICE TECHNIQUE : Ifop                                           6
+
+        Ifop pour « J’aime ma boîte » – La fête de l’entreprise  1 octobre 2026
+
+--- page 7 ---
+
+Les  raisons  qui constituent   l'entreprise comme    un  repère
+
+                                   important
+
+        Question : Pour  quelle(s) raison(s) considérez-vous que les entreprises
+                   constituent un repère important ? En premier ? En second ?
+
+        Base : question posée aux personnes qui considèrent
+                                              En premier         En second
+        que l’entreprise constitue un repère pour eux
+        personnellement, soit 70% de l'échantillon.
+                                             Brut   Redressé  Brut    Redressé
+                                             (%)      (%)      (%)      (%)
+        Parce que les entreprises jouent un rôle structurant
+                                             39,2    40,6     34,1      33,2
+        essentiel dans l’économie et la vie des Français ........
+        Parce qu’une partie importante du pouvoir d’achat
+        des Français et de leur niveau de vie dépend de 32,7 32,0 36,5  37,4
+        l’activité des entreprises ............................................
+        Parce que le travail constitue un ancrage dans la vie
+                                             27,6    26,9     26,7      26,8
+        des individus ...............................................................
+        Une autre raison ......................................................... 0,5 0,5 0,2 0,1
+        Aucune autre raison ................................................... - - 2,6 2,5
+
+        NOTICE TECHNIQUE : Ifop                                           7
+
+        Ifop pour « J’aime ma boîte » – La fête de l’entreprise  1 octobre 2026
+
+--- page 8 ---
+
+L'attention  portée   par les dirigeants  d'entreprise   à
+
+                        l’épanouissement     des  salariés
+
+        Question : D’une manière générale, avez-vous le sentiment que les dirigeants
+                   d’entreprise s’appliquent à ce que leurs salariés soient plus épanouis
+
+                   ?
+
+        Base : Ensemble                      Brut             Redressé
+                                             (%)                (%)
+
+        . Oui, tout à fait ................................................ 6,5 6,1
+
+        . Oui, plutôt ...................................................... 41,5 42,1
+
+        . Non, plutôt pas ............................................... 38,7 38,7
+
+        . Non, pas du tout ............................................. 13,3 13,1
+
+        NOTICE TECHNIQUE : Ifop                                           8
+
+        Ifop pour « J’aime ma boîte » – La fête de l’entreprise  1 octobre 2026
+
+--- page 9 ---
+
+L'évolution  de  la perception  de  l'entreprise  comme
+
+            institution rassurante   face aux  bouleversements      du
+                                     monde
+
+        Question : Face aux bouleversements que connaît actuellement le monde, telles
+                   que  les  incertitudes économiques ou les transformations
+
+                   technologiques, diriez-vous que votre entreprise vous rassure
+                   aujourd’hui… ?
+
+        Base : Ensemble              Brut          Redressé
+                                      (%)            (%)
+
+        Davantage qu’auparavant .............. 8,5   8,2
+
+        Moins qu’auparavant ..................... 31,0 30,9
+
+        Autant qu’auparavant .................... 41,2 41,2
+
+        Elle ne vous rassure pas ................. 19,3 19,6
+
+        NOTICE TECHNIQUE : Ifop                                           9
+
+        Ifop pour « J’aime ma boîte » – La fête de l’entreprise  1 octobre 2026
+
+--- page 10 ---
+
+La satisfaction  à l'égard  de sa rémunération
+
+        Question : La rémunération perçue dans le cadre de votre travail salarié en
+                   entreprise vous paraît-elle suffisante ?
+
+        Base : Ensemble               Brut             Redressé
+                                       (%)               (%)
+
+        . Oui, tout à fait ........................... 4,9 4,9
+
+        . Oui, plutôt ................................. 31,3 30,7
+
+        . Non, plutôt pas .......................... 44,0 44,6
+
+        . Non, pas du tout ........................ 19,9 19,8
+
+        NOTICE TECHNIQUE : Ifop                                           10
+
+        Ifop pour « J’aime ma boîte » – La fête de l’entreprise  1 octobre 2026
+
+--- page 11 ---
+
+Les raisons  de l’insatisfaction  à l’égard de  sa
+
+                                 rémunération
+
+        Question : Pour quelles raisons estimez-vous que votre rémunération est
+                   insuffisante ? En premier ? En second ?
+
+        Base : question posée aux personnes qui estiment que
+                                              En premier       En second
+        leur rémunération est insuffisante, soit 64% de
+        l'échantillon
+                                            Brut   Redressé  Brut  Redressé
+                                            (%)      (%)     (%)     (%)
+        Elle ne correspond pas suffisamment au travail que
+                                            27,7    28,4     19,7    20,0
+        vous fournissez et à votre niveau de compétences ...
+        Elle n’a pas suffisamment progressé ces dernières
+                                            20,7    20,9     18,6    18,9
+        années ........................................................................
+        Elle ne permet pas de faire face aussi facilement
+                                            16,7    15,8     17,4    17,2
+        que vous le souhaiteriez à vos dépenses courantes ..
+        Les cotisations et prélèvements obligatoires
+                                            14,1    13,9     19,4    19,0
+        réduisent trop fortement votre salaire net ................
+        Elle est inférieure à ce que vous pourriez percevoir
+        pour un emploi comparable dans une autre 11,6 11,5   11,4    11,4
+        entreprise ...................................................................
+        Votre entreprise ne dispose pas, d’après ce que
+        vous en savez, de marges financières suffisantes 7,6 8,1 8,8 8,9
+        pour augmenter davantage les salaires .....................
+        Une autre raison ......................................................... 1,5 1,4 1,3 1,4
+        Aucune autre raison ................................................... - - 3,3 3,1
+
+        NOTICE TECHNIQUE : Ifop                                           11
+
+        Ifop pour « J’aime ma boîte » – La fête de l’entreprise  1 octobre 2026
+
+--- page 12 ---
+
+La fréquence    du sentiment   de  manque    éprouvé   en
+
+                       l'absence   de son  lieu de travail
+
+        Question : Après plusieurs jours sans vous rendre sur votre lieu de travail (par
+                   exemple lors de vos congés ou d’une absence pour maladie ou après
+
+                   plusieurs jours consécutifs de télétravail), celui-ci vous manque-t-il ?
+
+        Base : Ensemble               Brut             Redressé
+                                      (%)                (%)
+
+        . Oui, souvent .............................. 6,9 6,7
+
+        . Oui, de temps en temps ............ 30,2       30,6
+
+        . Non, rarement ........................... 31,1 31,3
+
+        . Non, jamais ................................ 31,8 31,4
+
+        NOTICE TECHNIQUE : Ifop                                           12
+
+        Ifop pour « J’aime ma boîte » – La fête de l’entreprise  1 octobre 2026
+
+--- page 13 ---
+
+La perception    de l'utilité de son entreprise  pour   la France
+
+        Question : Estimez-vous que votre entreprise, quelle que soit sa taille et son
+                   secteur, est utile à la France en ce moment ?
+
+        Base : Ensemble              Brut                 Redressé
+                                      (%)                   (%)
+
+        . Oui, tout à fait ...................... 30,9      32,4
+
+        . Oui, plutôt ............................ 50,4     49,3
+
+        . Non, plutôt pas ..................... 14,1        14,0
+
+        . Non, pas du tout ................... 4,6          4,3
+
+        NOTICE TECHNIQUE : Ifop                                           13
+
+        Ifop pour « J’aime ma boîte » – La fête de l’entreprise  1 octobre 2026
+
+--- page 14 ---
+
+La détention   d’actions  de  son entreprise
+
+        Question : Détenez-vous actuellement des actions de l’entreprise dans laquelle
+                   vous travaillez, directement ou par l’intermédiaire d’un dispositif
+
+                   d’actionnariat salarié ?
+
+        Base : Ensemble              Brut              Redressé
+                                     (%)                 (%)
+
+        Oui ............................................. 16,8 17,1
+
+        Non ............................................ 77,9 77,8
+
+        Vous ne savez pas ...................... 5,3     5,0
+
+        NOTICE TECHNIQUE : Ifop                                           14
+
+        Ifop pour « J’aime ma boîte » – La fête de l’entreprise  1 octobre 2026
+
+--- page 15 ---
+
+L'impact  potentiel  de  l’actionnariat  salarié sur
+
+                       l’attachement    à son  entreprise
+
+        Question : Si vous deveniez actionnaire de l’entreprise dans laquelle vous
+                   travaillez, pensez-vous que cela renforcerait votre attachement à
+
+                   votre boîte ?
+
+        Base : question posée aux personnes qui
+        ne détiennent pas d’actions dans   Brut               Redressé
+        l’entreprise dans laquelle ils travaillent, (%)         (%)
+        soit 78% de l'échantillon
+
+        . Oui, certainement .................................. 9,5 9,5
+
+        . Oui, probablement ................................. 42,4 42,3
+
+        . Non, probablement pas .......................... 29,9 29,8
+
+        . Non, certainement pas ........................... 18,1 18,3
+
+        NOTICE TECHNIQUE : Ifop                                           15
+
+        Ifop pour « J’aime ma boîte » – La fête de l’entreprise  1 octobre 2026
+
+--- page 16 ---
+
+L'opinion  sur l’organisation  d’une  journée   dédiée  aux
+
+                   entreprises   comme    "J'aime  ma  boîte"
+
+        Question : Que pensez-vous de l’idée d’organiser chaque année une journée
+                   dédiée aux entreprises, à l’occasion de laquelle les salariés sont
+
+                   notamment invités à exprimer leur attachement à leur entreprise,
+                   comme  avec l’initiative « J’aime ma boîte » ? Diriez-vous qu’il s’agit
+                   d’une… ?
+
+        Base : Ensemble               Brut               Redressé
+                                       (%)                 (%)
+
+        . Très bonne idée ......................... 10,9   10,8
+
+        . Assez bonne idée ....................... 50,7    50,6
+
+        . Assez mauvaise idée .................. 25,2      25,5
+
+        . Très mauvaise idée .................... 13,1     13,1
+
+        NOTICE TECHNIQUE : Ifop                                           16
+
+        Ifop pour « J’aime ma boîte » – La fête de l’entreprise  1 octobre 2026
+
+--- page 17 ---
+
+Les candidats   à l’élection présidentielle  de  2027  perçus
+
+                  comme    les plus attachés   aux entreprises
+
+        Question : Parmi les personnalités suivantes, candidat(e)s potentiel(le)s ou
+                   déclaré(e)s à l’élection présidentielle de 2027, laquelle vous semble
+                   aimer le plus les entreprises ? En premier ? En second ?
+
+       Base : Ensemble             En premier               En second
+
+                               Brut       Redressé      Brut      Redressé
+
+                               (%)         (%)          (%)         (%)
+       • Nathalie Arthaud      2,0         2,0          2,6         2,5
+
+       • Jean-Luc Mélenchon    7,4         7,3          3,8         3,4
+
+       • Fabien Roussel        2,2         2,3          3,8         3,7
+       • Marine Tondelier      2,4         2,2          3,3         3,1
+
+       • François Hollande     5,6         5,4          8,4         8,7
+
+       • Raphaël Glucksman     3,1         3,2          5,5         5,6
+       • Gabriel Attal         7,4         7,3         14,9         15,5
+
+       • Édouard Philippe      18,5        19,4        14,6         14,7
+
+       • Dominique de Villepin 4,3         4,7          6,1         5,7
+       • Bruno Retailleau      7,5         7,6         11,7         11,8
+
+       • David Lisnard         5,4         5,9          5,4         5,5
+
+       • Marine Le Pen         31,3        29,7         8,4         8,5
+       • Éric Zemmour          2,8         2,9         11,4         11,3
+
+        NOTICE TECHNIQUE : Ifop                                           17
+
+        Ifop pour « J’aime ma boîte » – La fête de l’entreprise  1 octobre 2026

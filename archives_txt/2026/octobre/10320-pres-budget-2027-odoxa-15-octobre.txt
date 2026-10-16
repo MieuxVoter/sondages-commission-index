@@ -1,0 +1,148 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10320-pres-budget-2027-odoxa-15-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Notice
+
+                                 SONDAGE D’ACTUALITE
+
+                    LES FRANÇAIS, LE BUDGET 2027 ET LES COUPES ENVISAGEES
+
+                   SONDAGE RÉALISÉ PAR ODOXA POUR BACKBONE ET LE FIGARO
+
+                Première publication sur le site www.odoxa.fr, le 15 octobre 2026 à 17h
+
+          Article 2 :
+
+           ✓  Organisme ayant réalisé le sondage : Odoxa
+
+           ✓  Commanditaire(s) : Backbone et Le Figaro
+
+           ✓  Nombre de personnes interrogées : échantillon représentatif de 1 005 Français âgés de
+              18 ans et plus
+
+           ✓  Dates de réalisation : du 14 au 15 octobre 2026
+
+          Article 3 :
+
+            ✓  Le pourcentage de personnes n’ayant pas répondu à chacune des questions est indiqué
+               sur le rapport de l’enquête disponible sur le site www.odoxa.fr
+
+            ✓  Gratification : Gratification sous la forme de points cumulables et dont la valeur s’élève
+
+               à 0,675 € pour un questionnaire complété.
+
+            ✓  Redressement : l’échantillon brut a été redressé sur les variables
+               sociodémographiques et professionnelles utilisées comme quotas ainsi que sur le vote
+               au premier et au second tours de l’élection présidentielle de 2022
+
+--- page 2 ---
+
+Questions posées
+
+          Q1. Dans le cadre du budget 2027, le gouvernement propose des mesures impliquant un effort pour
+          les retraités. Personnellement, êtes-vous favorable ou opposé à chacune des mesures suivantes ?
+
+          1. Abaisser le plafond pour la déduction de 10 % appliquée aux pensions de retraite, ce qui
+          augmenterait l’impôt sur le revenu des foyers percevant plus de 30 000 euros de pensions par an.
+          2. Augmenter la plupart des pensions de retraite moins vite que l'inflation, sauf pour les plus
+          petites pensions.
+
+          •    Tout à fait favorable
+          •    Plutôt favorable
+          •    Plutôt opposé
+          •    Tout à fait opposé
+
+          Q2. Pour ce budget 2027, le gouvernement propose aussi des mesures concernant l’école, les
+          étudiants et les lycéens ; êtes-vous favorable ou opposé aux mesures suivantes ?
+
+          1. Ne pas revaloriser les aides personnalisées au logement (APL) en fonction de l'inflation en 2027.
+          2. Ne pas revaloriser l'allocation de rentrée scolaire en fonction de l'inflation en 2027.
+          3. Augmenter de 1,1 à 1,2 milliards d’euros le budget de l'Éducation nationale
+
+          •    Tout à fait favorable
+          •    Plutôt favorable
+          •    Plutôt opposé
+          •    Tout à fait opposé
+
+          Q3. La France contribue chaque année au budget de l'Union européenne, qui finance notamment
+          des politiques agricoles, économiques et régionales. Cette année notre contribution s’élèvera à près
+          de 31 milliards d’euros ; elle était de 21,6 milliards en 2024.
+          Selon vous, pensez-vous que la France peut parvenir à négocier une réduction de sa contribution au
+          budget européen ?
+
+          •    Oui, tout à fait
+          •    Oui, plutôt
+          •    Non, plutôt pas
+          •    Non, pas du tout
+
+          Q4. Pour répondre à la crise financière qui s’annonce, faut-il imposer une règle d’or imposant
+          l'équilibre des comptes publics…
+
+          1.   Par référendum
+          2.   Par un vote de l’Assemblée nationale et du Sénat réunis en Congrès
+
+          •    Oui
+          •    Non
+
+--- page 3 ---
+
+Q5. Vous-même, si vous étiez député(e), voteriez-vous en faveur de l’adoption du budget
+          2027 ?
+
+          •    Oui, certainement
+          •    Oui, probablement
+          •    Non, probablement pas
+          •    Non, certainement pas
+
+--- page 4 ---
+
+Tout sondage est affecté de marges d’erreurs
+
+          Avec ces effectifs, la marge d’erreur des résultats s'établit selon le score visé, entre plus ou
+          moins 1,4 et 3,1 points
+
+--- page 5 ---
+
+Structure
+
+                                         Base non % non Coefficient Base % pondéré
+                                         pondérée pondéré Pondératio pondérée
+                                                     n
+                 Total                    1 005 100,0%    1 005 100,0%
+                 Sexe
+                 Un homme                  478 47,6% 1,00  478 47,6%
+                 Une femme                 527 52,4% 1,00  527 52,4%
+                 Age
+                 18-24 ans                 107 10,6% 0,96  103 10,2%
+                 25-34 ans                 147 14,6% 1,01  148 14,7%
+                 35-49 ans                 235 23,4% 1,04  244 24,3%
+                 50-64 ans                 253 25,2% 0,97  245 24,4%
+                 65 ans et +               263 26,2% 1,01  265 26,3%
+                 CSP/Profession de l'interviewé
+                 Agriculteur, indépendant, chef d'entreprise 48 4,8% 0,94 45 4,5%
+                 Cadre et profession intellectuelle supérieure 99 9,9% 0,98 97 9,7%
+                 Profession intermédiaire  131 13,0% 1,13  148 14,7%
+                 Employé                   181 18,0% 0,94  170 16,9%
+                 Ouvrier                   120 11,9% 1,06  128 12,7%
+                 Retraité                  269 26,8% 1,05  282 28,1%
+                 Elève / étudiant           69  6,9% 0,76  52  5,2%
+                 Autre inactif              88  8,8% 0,94  82  8,2%
+                 Catégorie d'agglomération
+                 Rural                     222 22,1% 0,94  209 20,8%
+                 Moins de 20 000 hab       159 15,8% 1,13  180 17,9%
+                 De 20 000 à 99 999 hab    134 13,3% 1,07  143 14,2%
+                 100 000 hab et plus       339 33,7% 0,92  311 30,9%
+                 Agglomération parisienne  151 15,0% 1,08  163 16,2%
+                 Région UDA9
+                 Région Parisienne         179 17,8% 1,04  186 18,5%
+                 Nord                       65  6,5% 0,94  61  6,1%
+                 Est                        89  8,9% 0,95  84  8,4%
+                 Bassin Parisien Est        81  8,1% 0,93  75  7,5%
+                 Bassin Parisien Ouest      98  9,8% 0,93  91  9,1%
+                 Ouest                     113 11,2% 1,23  139 13,8%
+                 Sud Ouest                 118 11,7% 0,98  115 11,5%
+                 Sud Est                   128 12,7% 0,97  124 12,3%
+                 Méditerranée              134 13,3% 0,97  130 13,0%
