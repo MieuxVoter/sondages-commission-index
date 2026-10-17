@@ -1,0 +1,261 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10322-pres-mobilisations-sociales-elabe-16-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+NOTICE TECHNIQUE
+
+                            Les Français et les mobilisations sociales
+
+        ARTICLE 2
+
+                                     Elabe
+         Organisme ayant réalisé le sondage :
+                                     BFMTV
+         Nom du/des commanditaire(s) :
+                                     Echantillon de 1506 personnes, représentatif des résidents
+         Nombre de personnes interrogées : de France métropolitaine âgés de 18 ans et plus.
+
+                                     Du 14 au 16 octobre 2026
+         Dates de réalisation de l'enquête :
+                                     Le 16 octobre 2026 à 16h50 sur www.elabe.fr
+         Date et support de première publication :
+
+                                                                            1
+
+--- page 2 ---
+
+QUESTIONNAIRE
+        Toutes les questions sont posées à tous les répondants.
+
+        Q1. Des appels à une mobilisation ce samedi 17 octobre circulent en France, notamment pour protester
+        contre la hausse des prix des carburants et du coût de la vie. Ces appels sont relayés par différents
+        collectifs, et notamment des anciens "gilets jaunes".
+        Quelle est votre attitude à l'égard de cette mobilisation ?
+            Vous la soutenez
+            Vous avez de la sympathie
+            Vous y êtes opposé
+            Vous y êtes hostile
+            Vous y êtes indifférent
+
+        Q2. Le Gouvernement a annoncé le déblocage de 10 millions de barils de gazole issus des stocks
+        stratégiques français (réserves pour garantir l’approvisionnement du pays en cas de crise comme des
+        guerres, etc.)
+        Ces barils de gazole, achetés avant la hausse des prix, doit être mis à disposition des distributeurs à un
+        prix inférieur au prix actuel. Le Gouvernement estime que cette mesure permettra une baisse de 12 à 18
+        centimes par litre, pendant environ trois mois. Les principaux distributeurs se sont engagés à répercuter
+        cette baisse, et TotalEnergies a annoncé une baisse de 8 à 12 centimes par litre dans ses stations-service
+        dans les semaines à venir.
+        Selon vous, cette baisse…
+        Rotation aléatoire des items
+            Va réellement soulager le pouvoir d’achat des automobilistes
+            Est une bonne chose, mais ne soulagera pas vraiment le pouvoir d’achat
+
+        Q3. A propos des inquiétudes sur le pouvoir d'achat, selon vous, quelle est la meilleure stratégie
+        pour améliorer les choses ?
+        Rotation aléatoire des items
+            Il faut se mobiliser dès maintenant par des manifestations et ne pas attendre la prochaine élection
+             présidentielle, le problème de pouvoir d'achat est urgent et doit être réglé maintenant
+            Il vaut mieux attendre la prochaine élection présidentielle en mai 2027, cela sera plus efficace
+             pour améliorer les choses concernant le pouvoir d'achat
+
+        Q4. Depuis la mi-septembre, des lycéens se mobilisent dans plusieurs régions, rejoints par des étudiants
+        ces derniers jours. Cette mobilisation prend la forme de blocages ou de perturbations de lycées et
+        universités, de rassemblements et de manifestations.
+        Les revendications portent notamment sur les moyens accordés à l’Éducation nationale, le
+        remplacement des enseignants, l’état des établissements, les conditions d’étude et Parcoursup.
+        La mobilisation est également marquée par des violences, des dégradations et des blessures parmi les
+        jeunes, les personnels éducatifs et les forces de l’ordre.
+        Ces derniers jours, la mobilisation s'est poursuivie, et de nouvelles journées de mobilisation sont
+        prévues.
+        Quelle est votre attitude à l’égard de la mobilisation des lycéens et étudiants ?
+            Vous la soutenez
+            Vous avez de la sympathie
+            Vous y êtes opposé
+            Vous y êtes hostile
+            Vous y êtes indifférent
+
+                                                                            2
+
+--- page 3 ---
+
+Q5. De manière générale, à propos des violences qui peuvent avoir lieu pendant des
+        mobilisations sociales, de laquelle des opinions suivantes êtes-vous le plus proche ?
+        Rotation aléatoire des items
+            La violence n’est jamais une manière acceptable d’exprimer une revendication, même lorsque les
+             autres moyens d’action semblent ne pas fonctionner
+            Dans certaines situations, des actions violentes peuvent être compréhensibles pour faire
+             entendre une revendication qui n’est pas prise en compte
+
+                                                                            3
+
+--- page 4 ---
+
+NOTE SUR LES MARGES D’ERREUR
+
+        Comme toute enquête statistique, un sondage présente une incertitude appelée « marge d’erreur » ou « marge
+        d’incertitude ». La marge d’erreur ou d’incertitude d’un sondage dépend de la taille de l’échantillon interrogé et du
+        résultat observé. Pour une base de 1 500 personnes interrogées, les marges d’erreur sont les suivantes avec un
+        niveau de confiance de 95 % :
+
+            Pour un La marge d'erreur Le résultat réel se
+         pourcentage de : est de : situe entre :
+             5         +/- 1,1    3.9 et 6.1
+             10        +/- 1,5   8.5 et 11.5
+             15        +/- 1,8   13.2 et 16.8
+             20         +/- 2     18 et 22
+
+             25        +/- 2,2   22.8 et 27.2
+             30        +/- 2,3   27.7 et 32.3
+             35        +/- 2,4   32.6 et 37.4
+             40        +/- 2,5   37.5 et 42.5
+             45        +/- 2,5   42.5 et 47.5
+             50        +/- 2,5   47.5 et 52.5
+
+             55        +/- 2,5   52.5 et 57.5
+             60        +/- 2,5   57.5 et 62.5
+             65        +/- 2,4   62.6 et 67.4
+             70        +/- 2,3   67.7 et 72.3
+             75        +/- 2,2   72.8 et 77.2
+             80         +/- 2     78 et 82
+
+             85        +/- 1,8   83.2 et 86.8
+             90        +/- 1,5   88.5 et 91.5
+             95        +/- 1,1   93.9 et 96.1
+
+        Exemple de lecture :
+        Pour un résultat observé de 25 %, il y a 95 % de chances pour que le résultat réel soit compris entre 22,8% et 27,2%.
+
+        La notice de ce sondage peut être consultée sur le site internet de la Commission des sondages : www.commission-des-sondages.fr
+        Toute publication ou toute reprise de ce sondage doit faire figurer la méthodologie et les marges d’erreurs :
+
+        « Echantillon de 1 506 personnes, représentatif des résidents de France métropolitaine âgés de 18 ans et plus. Interrogation par
+        Internet du 14 au 16 octobre 2026.
+        La représentativité de l’échantillon a été assurée selon la méthode des quotas appliquée aux variables suivantes : sexe, âge,
+        catégorie socio-professionnelle, région de résidence et catégorie d’agglomération.
+        Marge d’erreur comprise entre 1,1 et 2,5 pts de pourcentage. »
+
+                                                                            4
+
+--- page 5 ---
+
+ARTICLE 3
+                                     Les Français et les mobilisations sociales
+         Objet du sondage :
+                                     Echantillon de 1 506 personnes, représentatif des résidents
+                                     de France métropolitaine âgés de 18 ans et plus, constitué
+                                     d’après la méthode des quotas (sexe, âge, profession de la
+         Méthode :                   personne interrogée, catégorie d’agglomération et région
+                                     de résidence).
+                                     Voir la composition de l’échantillon page suivante.
+
+         Conditions d’interrogation : Les répondants ont été interrogés en ligne (Internet).
+
+         Nombre de sans réponse :    Voir « Résultats publiés »*
+
+                                     Oui. Gratification sous la forme de points cumulables et dont
+         Existence d’une gratification : la valeur s’élève à moins de 1€ pour un questionnaire
+                                     complété.
+                                     L’échantillon brut a été redressé sur les variables
+                                     sociodémographiques et professionnelles utilisées comme
+                                     quotas (données Insee issues du recensement de la
+                                     population 2022) ainsi que sur le statut d’occupation du
+         Critères de redressement :  logement (données Insee issues du recensement de la
+                                     population 2022), le vote au premier tour des élections
+                                     législatives 2024, au premier tour et au second tour de
+                                     l’élection présidentielle 2022 (données du Ministère de
+                                     l’Intérieur).
+
+        (*) Nous vous présentons dans ce document le nombre de « sans-réponse » pour chacune des questions publiées.
+        Les questions de quota étant obligatoires (de façon à s’assurer de la représentativité de l’échantillon) aucune des
+        personnes interrogées ne peut ne pas avoir répondu à l’ensemble du sondage.
+
+                                                                            5
+
+--- page 6 ---
+
+QUESTIONS PUBLIEES
+
+                               PUBLIE
+
+         Quelle est votre
+         attitude à l'égard
+         de cette
+         mobilisation ?
+         Effectif brut
+         Vous la soutenez       36
+         Vous avez de la sympathie 33
+         Vous y êtes opposé     10
+         Vous y êtes hostile     7
+         Vous y êtes indifférent 14
+         Sans-réponses           0
+
+                               PUBLIE
+
+         Selon vous, cette baisse…
+         Effectif brut
+         Ne soulagera pas vraiment le
+         pouvoir d’achat, même si cela 88
+         va dans le bon sens
+         Va réellement soulager le
+         pouvoir d’achat des    12
+         automobilistes
+         Sans-réponses           0
+
+         A propos des inquiétudes sur le
+         pouvoir d'achat, selon vous,
+                                 PUBLIE
+         quelle est la meilleure stratégie
+         pour améliorer les choses ?
+         Effectif brut
+         Il faut se mobiliser dès maintenant
+         par des manifestations et ne pas
+         attendre la prochaine élection
+                                   65
+         présidentielle, le problème de
+         pouvoir d'achat est urgent et doit
+         être réglé maintenant
+         Il vaut mieux attendre la prochaine
+         élection présidentielle en mai 2027,
+         cela sera plus efficace pour 33
+         améliorer les choses concernant le
+         pouvoir d'achat
+         Sans-réponses             2
+
+                                                                            6
+
+--- page 7 ---
+
+Quelle est votre attitude à
+         l’égard de la mobilisation des PUBLIE
+         lycéens et étudiants ?
+         Effectif brut
+         Vous la soutenez       24
+         Vous avez de la sympathie 31
+         Vous y êtes opposé     20
+         Vous y êtes hostile    15
+         Vous y êtes indifférent 10
+         Sans-réponses           0
+
+         De manière générale, à propos
+         des violences qui peuvent avoir
+         lieu pendant des mobilisations
+                                 PUBLIE
+         sociales, de laquelle des
+         opinions suivantes êtes-vous le
+         plus proche ?
+         Effectif brut
+         La violence n’est jamais une
+         manière acceptable d’exprimer une
+         revendication, même lorsque les 82
+         autres moyens d’action semblent
+         ne pas fonctionner
+         Dans certaines situations, des
+         actions violentes peuvent être
+         compréhensibles pour faire 17
+         entendre une revendication qui
+         n’est pas prise en compte
+         Sans-réponses             1
+
+                                                                            7

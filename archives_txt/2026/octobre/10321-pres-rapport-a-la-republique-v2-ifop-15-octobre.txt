@@ -1,0 +1,1235 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10321-pres-rapport-a-la-republique-v2-ifop-15-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Le  rapport   des   Français    à la  République      :
+
+               représentations,      confiance     institutionnelle    et
+
+           incarnation     politique   des   valeurs   républicaines
+
+                                                            (vague     2)
+
+                                                  Notice    technique
+
+           FD / MAD N° 122647
+           Contacts Ifop :
+           Frédéric Dabi / Marie-Agathe Deffain
+           Département Opinion et Stratégies d'Entreprise
+           TEL : 01 45 84 14 44
+           prenom.nom@ifop.com
+           15 OCTOBRE 2026
+
+--- page 2 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Ifop pour l’Institut de la Fondation Robert de Sorbon
+
+             Echantillon
+
+                            L’enquête a été menée auprès d’un échantillon de 2 000 personnes
+                            représentatif de la population française âgée de 18 ans et plus.
+
+            Méthodologie
+
+                            La représentativité de l’échantillon a été assurée par la méthode des
+                            quotas (sexe, âge, profession de la personne interrogée) après
+
+                            stratification par région et catégorie d'agglomération.
+
+            Mode de recueil
+                            Les interviews ont été réalisées par questionnaire auto-administré en ligne
+
+                            du 15 au 21 septembre 2026.
+
+        Conditions d’interrogation : Les questions ont été placées à la suite des questions permettant d’établir les
+        quotas.
+
+        Tout interviewé ayant complété un questionnaire a obtenu des points cumulables pour une valeur inférieure
+        à 1 euro. L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2022) et d’un
+        redressement politique sur la base de la reconstitution des votes suivants : présidentielle 2022, 1er tour et
+        législatives 2024, 1er tour.
+
+        NOTICE TECHNIQUE : Ifop                                           2
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 3 ---
+
+Précision  relative  aux marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+        comme le montre le tableau ci-dessous :
+
+                    INTERVALLE DE CONFIANCE   A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 2 000 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 1,3. Le vrai pourcentage est donc compris entre 8,7% et 11,3%.
+
+        NOTICE TECHNIQUE : Ifop                                           3
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 4 ---
+
+Structure  de l’échantillon
+
+                                                      Brut       Redressé
+                                                       (%)         (%)
+
+         SEXE DE L'INTERVIEWÉ(E)
+          Homme                                       48,0        47,7
+          Femme                                       52,0        52,3
+
+         AGE DE L'INTERVIEWÉ(E)
+          18 à 24 ans                                 10,9        10,3
+          25 à 34 ans                                 14,4        14,8
+          34 à 49 ans                                 23,8        24,0
+          50 à 64 ans                                 23,3        24,4
+
+          65 ans et plus                              27,6        26,6
+         PROFESSION DE L'INTERVIEWÉ(E)
+          Travailleur indépendant                      4,5         4,6
+          Cadre et prof. int. supérieure              11,5        11,2
+
+          Profession intermédiaire                    15,1         15
+          Employé                                     16,9        15,8
+          Ouvrier                                     12,4        12,1
+
+          Retraité                                    28,5        29,3
+          Autre inactif                               11,1         12
+         CATEGORIE D’AGGLOMERATION
+          Communes rurales                            22,9        21,1
+
+          Communes urbaines de province               62,2        62,6
+          Agglomération parisienne                    14,9        16,3
+         REGION
+
+          Grand-Est                                    8,4         8,5
+          Nouvelle-Aquitaine                           8,2         9,5
+          Auvergne-Rhône-Alpes                        13,1        12,3
+          Bourgogne-Franche-Comté                      3,8         4,3
+
+          Bretagne                                     5,2         5,2
+          Centre-Val-De-Loire                          4,3         3,9
+          Ile-De-France                               19,5        18,4
+
+          Occitanie                                    9,6         9,4
+          Hauts-de-France                              9,5         8,9
+          Normandie                                    4,5         5,1
+
+          Pays de la Loire                             5,8         5,8
+          PACA, Corse                                  8,1         8,5
+         TOTAL                                        100,0       100,0
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE : Ifop                                           4
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 5 ---
+
+Reconstitution    du 1er  tour de  l’élection présidentielle
+
+                                      2022
+
+                                                      Brut       Redressé
+                                                       (%)        (%)
+
+         • Nathalie Arthaud ......................................................................... 1,2 0,6
+         • Philippe Poutou ........................................................................... 1,7 0,8
+
+         • Fabien Roussel ............................................................................. 4,5 2,3
+
+         • Jean-Luc Mélenchon .................................................................... 18,7 21,5
+         • Anne Hidalgo................................................................................ 2,0 1,7
+
+         • Yannick Jadot ............................................................................... 3,9 4,6
+         • Emmanuel Macron ...................................................................... 25,6 27,8
+
+         • Valérie Pécresse ........................................................................... 6,9 4,8
+
+         • Nicolas Dupont-Aignan ................................................................ 2,4 2,1
+         • Marine Le Pen .............................................................................. 24,9 23,5
+
+         • Éric Zemmour............................................................................... 4,4 7,1
+         • Jean Lassalle ................................................................................. 3,8 3,2
+
+           TOTAL ......................................................................................... 100 100
+
+            - Ne se prononcent pas ......................................................... 28,5
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE : Ifop                                           5
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 6 ---
+
+Reconstitution   du  1er tour  des élections  législatives  2024
+
+                                                      Brut       Redressé
+                                                       (%)         (%)
+
+           Extrême gauche ......................................................................... 1,5 1,2
+           NFP ............................................................................................. 25,5 28,7
+
+           Divers gauche ............................................................................. 0,6 1,0
+
+           ENS Ensemble ! ......................................................................... 21,0 22,4
+           Divers centre .............................................................................. 0,6 0,8
+
+           LR & Divers droite ...................................................................... 12,5 9,5
+           RN & alliés .................................................................................. 35,6 34,0
+
+           Droite souverainiste, divers extrême droite, Reconquête ........ 1,0 1,1
+
+           Divers ......................................................................................... 1,7 1,3
+           TOTAL ......................................................................................... 100 100
+
+          Ne se prononcent pas                        31,6
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE : Ifop                                           6
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 7 ---
+
+La qualification  de  la "République"
+
+        Question :  Parmi les qualificatifs suivants, quel est celui qui selon vous définit
+                    aujourd’hui le mieux la République ? En premier ? Et en second ?
+
+      Base : Ensemble                    En premier         Total des citations
+
+                                      Brut     Redressé    Brut     Redressé
+
+                                      (%)        (%)        (%)       (%)
+
+      La devise « liberté, égalité, fraternité » ......... 35 35 54    54
+
+      Un statut de citoyen qui donne des droits et
+                                       28        26         56         53
+      des devoirs .....................................................
+      Le droit de vote .............................................. 15 15 37 36
+
+      Un Président de la République plutôt qu’un
+                                       13        14         24         27
+      roi ...................................................................
+
+      La défense de la laïcité ................................... 6 6 19 19
+
+      L’école et l’ascension sociale ......................... 3 4 10  11
+
+      Total ............................................................... 100 100 (*) (*)
+
+               (*) Le total est supérieur à 100, les interviewés ayant pu donner plusieurs réponses.
+
+        NOTICE TECHNIQUE : Ifop                                           7
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 8 ---
+
+Les représentations    associées  au  mot  "République"
+
+        Question : Quand vous entendez le mot « République », est-ce que cela évoque
+                   quelque chose… ?
+
+            Base : Ensemble                        Brut       Redressé
+
+                                                    %           %
+            De positif ........................................................................ 78 76
+
+            De négatif ....................................................................... 22 24
+            Total ......................................................................... 100 100
+
+            Qui est concret ............................................................... 60 59
+
+            Qui est abstrait ............................................................... 40 41
+            Total ......................................................................... 100 100
+
+            Qui rassemble les Français ............................................. 68 66
+
+            Qui divise les Français ..................................................... 32 34
+
+            Total ......................................................................... 100 100
+
+            Qui constitue un modèle pour l’avenir........................... 68 65
+
+            Qui appartient au passé ................................................. 32 35
+
+            Total ......................................................................... 100 100
+
+            Qui ne constitue qu’une partie de l’Histoire de France . 65 63
+
+            Qui résume toute l’histoire de France............................ 35 37
+
+            Total ......................................................................... 100 100
+
+            Qui appartient à tout le monde ...................................... 75 75
+            Qui n’appartient qu’à quelques-uns............................... 25 25
+
+            Total ......................................................................... 100 100
+
+        NOTICE TECHNIQUE : Ifop                                           8
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 9 ---
+
+L'attachement    aux valeurs  de  la République   française
+
+        Question : Vous personnellement, diriez-vous que vous êtes attaché aux valeurs
+
+                   de la République française… ?
+
+        Base : Ensemble
+                                                   Brut         Redressé
+
+                                                    (%)           (%)
+        TOTAL Attaché(e) ................................................................... 85 82
+
+        . Très attaché(e) ..................................................................... 40 37
+
+        . Assez attaché(e) ................................................................... 45 45
+
+        TOTAL Pas attaché(e) ............................................................. 15 18
+
+        . Peu attaché(e) ...................................................................... 11 12
+
+        . Pas du tout attaché(e) .......................................................... 4 6
+
+        Total ....................................................................................... 100 100
+
+        NOTICE TECHNIQUE : Ifop                                           9
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 10 ---
+
+Le sentiment    d'appartenance
+
+        Question : Aujourd’hui, comment vous définissez-vous principalement ?
+
+        Base : Ensemble
+                                                   Brut          Redressé
+
+                                                    (%)            (%)
+
+        Avant tout comme Français(e) ............................................. 54 55
+
+        Avant tout comme Européen(ne) ........................................ 4 3
+
+        Français(e) et Européen(ne) ................................................. 19 19
+
+        Avant tout comme citoyen(ne) du monde ........................... 7 7
+
+        Français(e) et citoyen(ne) du monde ................................... 12 12
+
+        Vous ne vous reconnaissez dans aucune de ces réponses... 4 4
+
+        Total ............................................................................... 100 100
+
+        NOTICE TECHNIQUE : Ifop                                           10
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 11 ---
+
+Le territoire auquel   les Français se sentent   le plus
+
+                                   appartenir
+
+        Question : Et vous sentez-vous avant tout comme un habitant … ?
+
+          Base : Ensemble
+                                               Brut           Redressé
+                                               (%)              (%)
+
+          De votre quartier .................................................. 13 13
+
+          De votre commune, de votre ville ........................ 49 49
+
+          De votre département .......................................... 12 11
+
+          De votre région ..................................................... 26 27
+
+          Total ...................................................................... 100 100
+
+        NOTICE TECHNIQUE : Ifop                                           11
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 12 ---
+
+La confiance   dans  divers  acteurs  et institutions pour
+
+                    défendre   les valeurs de  la République
+
+        Question : Pour chacun des acteurs ou institutions suivants, diriez-vous que vous
+                   lui faites confiance ou pas confiance pour défendre les valeurs de la
+                   République ?
+
+    Base : Ensemble           TOTAL Confiance Tout à fait confiance Plutôt confiance
+
+                              Brut   Redressé  Brut   Redressé  Brut   Redressé
+
+                              (%)      (%)     (%)      (%)     (%)      (%)
+    Les services d’incendie et de
+                              91       90       51      49       41      41
+    secours .............................................
+    L’armée ............................................ 81 81 32 32 49  49
+    Les petites et moyennes
+                              77       76       12      12       65      64
+    entreprises .......................................
+    L’école .............................................. 72 72 15 15 57 57
+    Les maires ........................................ 74 72 17 15 57   57
+
+    La police ........................................... 73 72 24 23 50 49
+
+    Les associations ................................ 67 67 11 11 56     56
+
+    Les universités publiques ................. 64 64 11 10      53      54
+    Les Grandes écoles (commerce,
+                              58       57       9        8       49      49
+    sciences politiques, ingénieur…) ......
+    Les préfets ........................................ 52 50 9 8 43    42
+    Le Conseil Constitutionnel ............... 48 46 11 10       37      36
+
+    La Justice .......................................... 46 46 10 10 36 36
+
+    Les grandes entreprises ................... 46 45 7  7       39      38
+
+    Les syndicats .................................... 41 42 7 7 34      35
+    La présidence de la République ....... 35 34 8       8       27      26
+
+    Les médias ........................................ 29 29 3 3 26     26
+
+    Les députés et les sénateurs ............ 30 28 4    5       25      23
+    Les réseaux sociaux .......................... 16 18 3 3     13      15
+
+    Les partis politiques ......................... 17 18 3 3    15      15
+
+        NOTICE TECHNIQUE : Ifop                                           12
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 13 ---
+
+La confiance   dans  divers  acteurs  et institutions pour
+
+                    défendre   les valeurs de  la République
+
+        Question : Pour chacun des acteurs ou institutions suivants, diriez-vous que vous
+                   lui faites confiance ou pas confiance pour défendre les valeurs de la
+                   République ?
+
+    Base : Ensemble          TOTAL Pas confiance Plutôt pas confiance Pas du tout confiance
+
+                              Brut   Redressé  Brut   Redressé  Brut   Redressé
+
+                              (%)      (%)     (%)      (%)     (%)      (%)
+    Les services d’incendie et de
+                               9       10       5        5       4        5
+    secours .............................................
+    L’armée ............................................ 19 19 12 12 7    7
+    Les petites et moyennes
+                              23       24       17      18       6        6
+    entreprises .......................................
+    L’école .............................................. 28 28 20 20 8  8
+    Les maires ........................................ 26 28 18 20 8     8
+
+    La police ........................................... 27 28 16 16 11 12
+
+    Les associations ................................ 33 33 23 23 10     10
+
+    Les universités publiques ................. 36 36 23 24      13      12
+    Les Grandes écoles (commerce,
+                              42       43       29      30       13      13
+    sciences politiques, ingénieur…) ......
+    Les préfets ........................................ 48 50 31 31 17  19
+    Le Conseil Constitutionnel ............... 52 54 31 33       22      21
+
+    La Justice .......................................... 54 54 32 32 22 22
+
+    Les grandes entreprises ................... 54 55 37 36      17      19
+
+    Les syndicats .................................... 59 58 37 34 23    24
+    La présidence de la République ....... 65 66 29     29       37      37
+
+    Les médias ........................................ 71 71 43 42 29   29
+
+    Les députés et les sénateurs ............ 70 72 42  42       28      30
+    Les réseaux sociaux .......................... 84 82 37 37   48      45
+
+    Les partis politiques ......................... 83 82 42 40  41      42
+
+        NOTICE TECHNIQUE : Ifop                                           13
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 14 ---
+
+Le jugement   sur  le fonctionnement     de la Justice
+
+        Question : Estimez-vous qu’en France, à l’heure actuelle, la Justice fonctionne
+
+                   globalement très bien, assez bien, assez mal ou très mal ?
+
+        Base : Ensemble
+                                                   Brut         Redressé
+
+                                                    (%)           (%)
+
+        TOTAL Bien ............................................................................ 24 23
+
+        Très bien ................................................................................ 2 2
+
+        Assez bien .............................................................................. 22 21
+
+        TOTAL Mal ............................................................................. 76 77
+
+        Assez mal ............................................................................... 43 45
+
+        Très mal ................................................................................. 33 32
+
+        Total ....................................................................................... 100 100
+
+        NOTICE TECHNIQUE : Ifop                                           14
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 15 ---
+
+La confiance   à l'égard de  la Justice française  et des
+
+                                   Magistrats
+
+        Question : D’une manière générale, diriez-vous que vous avez tout à fait
+                   confiance, plutôt confiance, plutôt pas confiance ou pas du tout
+                   confiance dans… ?
+
+    Base : Ensemble           TOTAL Confiance Tout à fait confiance Plutôt confiance
+                              Brut   Redressé  Brut   Redressé  Brut   Redressé
+
+                              (%)      (%)     (%)      (%)     (%)      (%)
+    Les magistrats .................................. 43 43 7 8  36      35
+
+    La Justice française ........................... 39 39 6 7   32      32
+
+    Base : Ensemble          TOTAL Pas confiance Plutôt pas confiance Pas du tout confiance
+
+                              Brut   Redressé  Brut   Redressé  Brut   Redressé
+
+                              (%)      (%)     (%)      (%)     (%)      (%)
+
+    Les magistrats .................................. 57 57 34 35 23     22
+    La Justice française ........................... 61 61 37 36 25      25
+
+        NOTICE TECHNIQUE : Ifop                                           15
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 16 ---
+
+Les  raisons de  la défiance  à l'égard de  la Justice français
+
+        Question : Parmi les raisons suivantes, lesquelles expliquent le mieux votre
+
+                   défiance à l’égard de la Justice ? En premier ? En second ? Et en
+                   troisième ?
+
+      Base : Posé à ceux qui déclarent ne pas avoir         Total des citations
+                                         En premier
+      confiance dans la Justice française.
+                                      Brut     Redressé    Brut     Redressé
+                                      (%)        (%)        (%)       (%)
+
+      La Justice n’est pas la même pour tous.......... 24 23 61        61
+
+      La Justice est trop lente .................................. 15 15 60 58
+
+      La Justice est trop laxiste ................................ 25 25 55 54
+
+      La Justice n’est pas adaptée aux évolutions
+                                       9          9         34         34
+      de la société ...................................................
+      La Justice est injuste ....................................... 12 12 26 27
+
+      La Justice n’est pas indépendante ................. 7 6 23       21
+
+      La Justice se trompe trop souvent ................. 4 4 12       15
+
+      La Justice est trop compliquée ....................... 3 3 14    14
+
+      La Justice coûte cher ...................................... 2 2 11 11
+
+      La Justice est trop sévère ............................... - - 1 1
+
+      Autre raison (précisez).................................... 1 1 2 2
+
+      Total ............................................................... 100 100 (*) (*)
+
+                 (*) Le total est supérieur à 100, les interviewés ayant pu donner trois réponses.
+
+        NOTICE TECHNIQUE : Ifop                                           16
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 17 ---
+
+Les formations   politiques  perçues   comme    les plus
+
+                   attachées  aux  valeurs  de  la République
+
+        Question : Parmi les formations politiques suivantes, lesquelles vous semblent
+
+                   aujourd’hui les plus attachées aux valeurs de la République, d’après
+                   l’idée que vous vous en faites ? En premier ? En deuxième ?
+
+      Base : Ensemble.                   En premier         Total des citations
+                                      Brut     Redressé    Brut     Redressé
+
+                                      (%)        (%)        (%)       (%)
+
+      Le Rassemblement national (RN) ................... 23 20 28      25
+
+      Les Républicains (LR) ...................................... 10 8 18 15
+
+      Le Parti socialiste (PS) ..................................... 8 8 13 12
+
+      La France insoumise (LFI) ............................... 7 8 9  11
+
+      Renaissance (ex- La République en marche) .. 5 6      9          9
+
+      Reconquête ! .................................................. 2 2 8 7
+
+      Horizons.......................................................... 2 3 7 7
+
+      Les Écologistes (ex-EELV) ................................ 2 2 7 7
+
+      Debout la France (DLF) ................................... 1 1 4 5
+
+      Le Parti communiste français (PCF) ................ 2 1 5        5
+
+      Place publique ................................................ 2 2 4 4
+
+      Lutte Ouvrière (LO) ......................................... 1 1 3 4
+
+      Le MoDem ...................................................... 1 2 3 3
+
+      Une autre formation politique (précisez) ....... 1 1  3          3
+      Aucune formation politique (réponse
+                                       32        35         32         35
+      exclusive) ........................................................
+      Total ............................................................... 100 100 (*) (*)
+
+                 (*) Le total est supérieur à 100, les interviewés ayant pu donner trois réponses.
+
+        NOTICE TECHNIQUE : Ifop                                           17
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 18 ---
+
+La formation   politique  jugée  la plus crédible  sur différents
+
+                               enjeux  de  société
+
+        Question : À quelle formation politique accordez-vous le plus de crédibilité pour
+
+                   la défense et la promotion de chacun des domaines suivants ?
+
+                        – La lutte contre les discriminations –
+
+           Base : Ensemble.
+                                                   Brut       Redressé
+
+                                                   (%)          (%)
+           Lutte Ouvrière (LO) ......................................................... 3 3
+
+           La France insoumise (LFI) ................................................ 11 13
+
+           Le Parti communiste français (PCF) ................................ 3 3
+
+           Le Parti socialiste (PS) ..................................................... 11 10
+
+           Place publique .................................................................. 2 2
+
+           Les Écologistes (ex-EELV) ................................................ 2 1
+           Renaissance (ex- La République en marche) ................... 5 5
+
+           Horizons ........................................................................... 2 2
+
+           Le MoDem ........................................................................ 1 2
+
+           Les Républicains (LR) ....................................................... 6 5
+
+           Debout la France (DLF) .................................................... 1 1
+
+           Le Rassemblement national (RN) .................................... 17 14
+
+           Reconquête ! ................................................................... 2 3
+
+           Une autre formation politique (précisez)......................... - -
+           Aucune formation politique (réponse exclusive) ............. 35 36
+
+           Total ................................................................................. 100 100
+
+        NOTICE TECHNIQUE : Ifop                                           18
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 19 ---
+
+La formation   politique  jugée  la plus crédible  sur différents
+
+                               enjeux  de  société
+
+        Question : À quelle formation politique accordez-vous le plus de crédibilité pour
+
+                   la défense et la promotion de chacun des domaines suivants ?
+
+                         – La conquête de nouveaux droits –
+
+           Base : Ensemble.
+                                                   Brut       Redressé
+
+                                                   (%)          (%)
+           Lutte Ouvrière (LO) ......................................................... 3 3
+
+           La France insoumise (LFI) ................................................ 11 12
+
+           Le Parti communiste français (PCF) ................................ 2 2
+
+           Le Parti socialiste (PS) ..................................................... 7 7
+
+           Place publique .................................................................. 3 3
+
+           Les Écologistes (ex-EELV) ................................................ 2 2
+           Renaissance (ex- La République en marche) ................... 4 4
+
+           Horizons ........................................................................... 2 2
+
+           Le MoDem ........................................................................ 1 1
+
+           Les Républicains (LR) ....................................................... 5 5
+
+           Debout la France (DLF) .................................................... 1 1
+
+           Le Rassemblement national (RN) .................................... 20 18
+
+           Reconquête ! ................................................................... 2 3
+
+           Une autre formation politique (précisez)......................... - -
+           Aucune formation politique (réponse exclusive) ............. 37 37
+
+           Total ................................................................................. 100 100
+
+        NOTICE TECHNIQUE : Ifop                                           19
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 20 ---
+
+La formation   politique  jugée  la plus crédible  sur différents
+
+                               enjeux  de  société
+
+        Question : À quelle formation politique accordez-vous le plus de crédibilité pour
+
+                   la défense et la promotion de chacun des domaines suivants ?
+
+                    – L’égalité entre les femmes et les hommes –
+
+           Base : Ensemble.
+                                                   Brut       Redressé
+
+                                                   (%)          (%)
+           Lutte Ouvrière (LO) ......................................................... 3 3
+
+           La France insoumise (LFI) ................................................ 9 11
+
+           Le Parti communiste français (PCF) ................................ 2 1
+
+           Le Parti socialiste (PS) ..................................................... 10 10
+
+           Place publique .................................................................. 2 2
+
+           Les Écologistes (ex-EELV) ................................................ 3 3
+           Renaissance (ex- La République en marche) ................... 5 6
+
+           Horizons ........................................................................... 2 2
+
+           Le MoDem ........................................................................ 1 1
+
+           Les Républicains (LR) ....................................................... 7 6
+
+           Debout la France (DLF) .................................................... 1 1
+
+           Le Rassemblement national (RN) .................................... 18 15
+
+           Reconquête ! ................................................................... 2 3
+
+           Une autre formation politique (précisez)......................... - -
+           Aucune formation politique (réponse exclusive) ............. 35 36
+
+           Total ................................................................................. 100 100
+
+        NOTICE TECHNIQUE : Ifop                                           20
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 21 ---
+
+La formation   politique  jugée  la plus crédible  sur différents
+
+                               enjeux  de  société
+
+        Question : À quelle formation politique accordez-vous le plus de crédibilité pour
+
+                   la défense et la promotion de chacun des domaines suivants ?
+
+                   – La lutte contre le racisme et l’antisémitisme –
+
+           Base : Ensemble.
+                                                   Brut       Redressé
+
+                                                   (%)          (%)
+           Lutte Ouvrière (LO) ......................................................... 2 2
+
+           La France insoumise (LFI) ................................................ 11 13
+
+           Le Parti communiste français (PCF) ................................ 2 2
+
+           Le Parti socialiste (PS) ..................................................... 11 9
+
+           Place publique .................................................................. 2 2
+
+           Les Écologistes (ex-EELV) ................................................ 2 2
+           Renaissance (ex- La République en marche) ................... 5 5
+
+           Horizons ........................................................................... 2 2
+
+           Le MoDem ........................................................................ 1 1
+
+           Les Républicains (LR) ....................................................... 7 6
+
+           Debout la France (DLF) .................................................... 1 1
+
+           Le Rassemblement national (RN) .................................... 18 16
+
+           Reconquête ! ................................................................... 2 3
+
+           Une autre formation politique (précisez)......................... - -
+           Aucune formation politique (réponse exclusive) ............. 34 36
+
+           Total ................................................................................. 100 100
+
+        NOTICE TECHNIQUE : Ifop                                           21
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 22 ---
+
+La formation   politique  jugée  la plus crédible  sur différents
+
+                               enjeux  de  société
+
+        Question : À quelle formation politique accordez-vous le plus de crédibilité pour
+
+                   la défense et la promotion de chacun des domaines suivants ?
+
+                                   – La laïcité –
+
+           Base : Ensemble.
+                                                   Brut       Redressé
+
+                                                   (%)          (%)
+           Lutte Ouvrière (LO) ......................................................... 1 1
+
+           La France insoumise (LFI) ................................................ 8 10
+
+           Le Parti communiste français (PCF) ................................ 2 2
+
+           Le Parti socialiste (PS) ..................................................... 10 10
+
+           Place publique .................................................................. 2 2
+
+           Les Écologistes (ex-EELV) ................................................ 1 1
+           Renaissance (ex- La République en marche) ................... 5 6
+
+           Horizons ........................................................................... 3 3
+
+           Le MoDem ........................................................................ 2 1
+
+           Les Républicains (LR) ....................................................... 9 8
+
+           Debout la France (DLF) .................................................... 1 1
+
+           Le Rassemblement national (RN) .................................... 21 18
+
+           Reconquête ! ................................................................... 2 3
+
+           Une autre formation politique (précisez)......................... - -
+           Aucune formation politique (réponse exclusive) ............. 31 34
+
+           Total ................................................................................. 100 100
+
+        NOTICE TECHNIQUE : Ifop                                           22
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 23 ---
+
+Les  traits d'image  détaillés du  Rassemblement      National
+
+        Question : Diriez-vous que le Rassemblement National (RN) … ?
+
+    Base : Ensemble             TOTAL Oui       Oui, tout à fait  Oui, plutôt
+
+                              Brut   Redressé  Brut   Redressé  Brut   Redressé
+
+                              (%)      (%)     (%)      (%)     (%)      (%)
+    Est un parti d’extrême droite ........... 64 62 43  43       20      19
+
+    Est un parti qui vous inquiète .......... 48 50 33  34       16      16
+    Est un défenseur des valeurs de la
+                              48       46       22      19       26      27
+    République .......................................
+    Est capable de trouver des alliés
+    (partis, personnalités) pour former 45 44   13      13       32      31
+    une majorité .....................................
+
+    A une vision d’avenir pour la France 46 43  19      17       27      26
+    Est attaché aux valeurs
+                              46       43       19      17       26      26
+    démocratiques .................................
+    Est capable de réformer le pays....... 44 42 18     16       26      26
+
+    Est proche des préoccupations des
+                              43       40       19      16       24      24
+    gens comme vous ............................
+    Est capable de gouverner la France . 42 39  20      18       22      21
+
+    Est doté de responsables politiques
+                              40       38       15      13       26      25
+    compétents ......................................
+    Lutte contre l’antisémitisme ............ 38 34 15  14       23      20
+
+    Est honnête ...................................... 34 33 12 11 22    22
+
+    Evitera la faillite financière de la
+                              33       31       12      11       20      20
+    France...............................................
+    Lutte contre toutes les formes de
+                              32       30       13      11       20      19
+    racisme .............................................
+
+        NOTICE TECHNIQUE : Ifop                                           23
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 24 ---
+
+Les  traits d'image  détaillés du  Rassemblement      National
+
+        Question : Diriez-vous que le Rassemblement National (RN) … ?
+
+    Base : Ensemble             TOTAL Non      Non, plutôt pas  Non, pas du tout
+
+                              Brut   Redressé  Brut   Redressé  Brut   Redressé
+
+                              (%)      (%)     (%)      (%)     (%)      (%)
+    Est un parti d’extrême droite ........... 27 62 15  43       12      19
+
+    Est un parti qui vous inquiète .......... 43 50 16  34       27      16
+    Est un défenseur des valeurs de la
+                              43       46       15      19       28      27
+    République .......................................
+    Est capable de trouver des alliés
+    (partis, personnalités) pour former 42 44   20      13       22      31
+    une majorité .....................................
+
+    A une vision d’avenir pour la France 45 43  15      17       30      26
+    Est attaché aux valeurs
+                              44       43       16      17       28      26
+    démocratiques .................................
+    Est capable de réformer le pays....... 44 42 14     16       30      26
+
+    Est proche des préoccupations des
+                              47       40       14      16       33      24
+    gens comme vous ............................
+    Est capable de gouverner la France . 47 39  15      18       32      21
+
+    Est doté de responsables politiques
+                              47       38       16      13       31      25
+    compétents ......................................
+    Lutte contre l’antisémitisme ............ 49 34 17  14       32      20
+
+    Est honnête ...................................... 53 33 18 11 35    22
+
+    Evitera la faillite financière de la
+                              52       31       17      11       35      20
+    France...............................................
+    Lutte contre toutes les formes de
+                              57       30       19      11       38      19
+    racisme .............................................
+
+        NOTICE TECHNIQUE : Ifop                                           24
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 25 ---
+
+Les  traits d'image  détaillés du  Rassemblement      National
+
+        Question : Diriez-vous que le Rassemblement National (RN) … ?
+
+            Base : Ensemble                         Vous ne savez pas
+
+                                                    Brut      Redressé
+
+                                                    (%)        (%)
+            Est un parti d’extrême droite .......................................... 9 12
+
+            Est un parti qui vous inquiète .......................................... 9 10
+
+            Est un défenseur des valeurs de la République............... 10 11
+
+            Est capable de trouver des alliés (partis, personnalités)
+                                                    13          14
+            pour former une majorité ...............................................
+            A une vision d’avenir pour la France ............................... 10 11
+
+            Est attaché aux valeurs démocratiques .......................... 10 12
+
+            Est capable de réformer le pays ...................................... 12 13
+
+            Est proche des préoccupations des gens comme vous ... 10 11
+
+            Est capable de gouverner la France ................................ 11 13
+
+            Est doté de responsables politiques compétents ........... 12 14
+
+            Lutte contre l’antisémitisme ........................................... 14 16
+
+            Est honnête ..................................................................... 13 14
+
+            Evitera la faillite financière de la France ......................... 16 17
+
+            Lutte contre toutes les formes de racisme ..................... 11 13
+
+        NOTICE TECHNIQUE : Ifop                                           25
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 26 ---
+
+Les  traits d'image  détaillés de  la France  Insoumise
+
+        Question : Diriez-vous que la France Insoumise (LFI) … ?
+
+    Base : Ensemble             TOTAL Oui       Oui, tout à fait  Oui, plutôt
+
+                              Brut   Redressé  Brut   Redressé  Brut   Redressé
+
+                              (%)      (%)     (%)      (%)     (%)      (%)
+    Est un parti qui vous inquiète .......... 63 59 46  43       17      16
+
+    Est un parti d’extrême gauche ......... 64 58 48    44       15      14
+    Est capable de trouver des alliés
+    (partis, personnalités) pour former 27 29   7        8       21      21
+    une majorité .....................................
+
+    Lutte contre toutes les formes de
+                              26       28       9       10       17      18
+    racisme .............................................
+    Est attaché aux valeurs
+                              24       25       8        9       17      16
+    démocratiques .................................
+    Est proche des préoccupations des
+                              22       24       8        9       14      15
+    gens comme vous ............................
+    Est un défenseur des valeurs de la
+                              22       24       7        9       15      15
+    République .......................................
+    Lutte contre l’antisémitisme ............ 22 23 7    8       14      15
+    A une vision d’avenir pour la France 21 24  8       10       13      14
+    Est capable de réformer le pays....... 20 23 7       8       13      15
+
+    Est capable de gouverner la France . 18 21  7        8       12      13
+
+    Est doté de responsables politiques
+                              19       21       7        8       12      13
+    compétents ......................................
+    Est honnête ...................................... 18 20 5 6 13      14
+
+    Evitera la faillite financière de la
+                              14       16       5        6       9       10
+    France...............................................
+
+        NOTICE TECHNIQUE : Ifop                                           26
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 27 ---
+
+Les  traits d'image  détaillés de  la France  Insoumise
+
+        Question : Diriez-vous que la France Insoumise (LFI) … ?
+
+    Base : Ensemble             TOTAL Non      Non, plutôt pas  Non, pas du tout
+
+                              Brut   Redressé  Brut   Redressé  Brut   Redressé
+
+                              (%)      (%)     (%)      (%)     (%)      (%)
+    Est un parti qui vous inquiète .......... 27 29 9    9       18      20
+
+    Est un parti d’extrême gauche ......... 24 26 9      9       14      17
+    Est capable de trouver des alliés
+    (partis, personnalités) pour former 60 56   21      20       39      36
+    une majorité .....................................
+
+    Lutte contre toutes les formes de
+                              61       57       17      14       45      43
+    racisme .............................................
+    Est attaché aux valeurs
+                              63       60       17      16       47      44
+    démocratiques .................................
+    Est proche des préoccupations des
+                              67       63       14      12       53      51
+    gens comme vous ............................
+    Est un défenseur des valeurs de la
+                              65       61       17      15       49      46
+    République .......................................
+    Lutte contre l’antisémitisme ............ 63 59 15  13       48      46
+    A une vision d’avenir pour la France 67 61  15      14       51      47
+    Est capable de réformer le pays....... 68 63 16     15       52      48
+
+    Est capable de gouverner la France . 70 65  13      11       57      54
+
+    Est doté de responsables politiques
+                              69       65       17      15       52      50
+    compétents ......................................
+    Est honnête ...................................... 69 65 17 15 52    50
+
+    Evitera la faillite financière de la
+                              71       67       12      12       59      55
+    France...............................................
+
+        NOTICE TECHNIQUE : Ifop                                           27
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
+
+--- page 28 ---
+
+Les  traits d'image  détaillés de  la France  Insoumise
+
+        Question : Diriez-vous que la France Insoumise (LFI) … ?
+
+            Base : Ensemble                         Vous ne savez pas
+
+                                                    Brut      Redressé
+
+                                                    (%)        (%)
+            Est un parti qui vous inquiète .......................................... 10 12
+
+            Est un parti d’extrême gauche ........................................ 13 16
+            Est capable de trouver des alliés (partis, personnalités)
+                                                    13          15
+            pour former une majorité ...............................................
+            Lutte contre toutes les formes de racisme ..................... 13 15
+
+            Est attaché aux valeurs démocratiques .......................... 12 15
+
+            Est proche des préoccupations des gens comme vous ... 11 13
+
+            Est un défenseur des valeurs de la République............... 12 15
+
+            Lutte contre l’antisémitisme ........................................... 15 18
+
+            A une vision d’avenir pour la France ............................... 12 15
+
+            Est capable de réformer le pays ...................................... 12 14
+
+            Est capable de gouverner la France ................................ 12 14
+
+            Est doté de responsables politiques compétents ........... 12 14
+
+            Est honnête ..................................................................... 12 15
+
+            Evitera la faillite financière de la France ......................... 14 17
+
+        NOTICE TECHNIQUE : Ifop                                           28
+
+        Le rapport des Français à la République : représentations, confiance institutionnelle et incarnation politique des
+        valeurs républicaines (vague 2)  15 OCTOBRE 2026
