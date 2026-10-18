@@ -1,0 +1,868 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10323-pres-iv-yougov-le-huffpost-18-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Intentions                de     vote        à
+
+            l’élection
+
+            présidentielle                     2027
+
+            Réalisé       par    YouGov
+
+            Terrain  du  12  au 15  octobre   2026
+
+            Notice   technique   à  la Commission     des
+            Sondages
+
+--- page 2 ---
+
+Informations                                    générales                             &
+
+            Méthodologie
+
+--- page 3 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 3
+
+      Informations      générales     sur  le  sondage
+
+       Organisme   ayant réalisé le sondage            YouGov
+
+       Commanditaires    du sondage                    Le HuffPost
+
+                                                       Gratification sous forme de points cumulables, dont le montant
+       Existence  d’une gratification
+                                                       correspondant environ à 0,4 € pour questionnaire complété.
+
+--- page 4 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 4
+
+      Méthodologie
+
+                   Echantillon
+
+                   •  1094  personnes  représentatives de la population française (18+) dont 976 sont inscrites sur les
+                      listes électorales.
+
+                   Méthodologie
+                   •  Le sondage  a été effectué en ligne, sur le panel propriétaire de YouGov
+
+                   •  Les  données  sont pondérées pour être représentatives des adultes français (pondération sur le
+                      genre, l’âge, la région, la CSP, l’éducation, l’intérêt pour la politique, la zone d’habitation et le vote
+
+                      à l’élection présidentielle de 2022)
+                   •  Les  résultats aux questions d’intentions de vote sont pondérés avec les mêmes critères, auxquels
+
+                      s’ajoute une pondération basée  sur l’âge, le vote ou non en 2022 et l’intention d’aller voter (0-10).
+
+                   Terrain
+
+                   •  En  France
+                   •  Terrain réalisé du 12 au 15 octobre 2026
+
+       Les chiffres présentés sont exprimés en pourcentage.
+
+       Les intentions de vote mesurent un rapport de force à un moment donné. Elles ne peuvent en aucun cas être considérées comme étant prédictives des résultats du scrutin.
+
+       Tout sondage est affecté de marges d’erreur. La marge d’erreur des résultats d’ensemble s’établit, selon le score visé, entre plus ou moins 1,4 et 3,1 points. Aucune reprise de ce sondage ne peut être faite sans que
+       soit reprise également la mention relative aux marges d’erreur.
+
+--- page 5 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 5
+
+      Méthodologie
+
+                Pour un échantillon de 1000 personnes  interrogées, les marges d’erreur sont les suivantes, avec un
+                niveau de confiance de 95%  :
+
+                    Pour un pourcentage de : 5% 10%    20%     30%    40%    50%     60%    70%    80%     90%    95%
+
+          Echantillon
+           de 1000  La marge d'erreur est de : 1,40 1,90 2,50  2,80   3,00   3,10    3,00   2,80   2,50    1,90   1,40
+          personnes
+
+                   Le résultat réel se situe dans 8,1 et 17,5 et 27,2 et 37,0 et 46,9 et 57,0 et 67,2 et 77,5 et 88,1 et 93,6 et
+                                       3,6 et 6,4
+                      une fourchette de :       11,9   22,5    32,8   43,0   53,1    63,0   72,8   82,5    91,9   96,4
+
+                 Exemple de lecture du tableau : pour un échantillon de 1 000 personnes, si le pourcentage mesuré est de 10%, la
+                 marge d’erreur est égale à 1,9. Le vrai pourcentage est donc compris entre 8,1% et 11,9%.
+
+--- page 6 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 6
+
+      Structure     de  l’échantillon    (1/2)
+
+                                      Brut (%)  Redressé (%)                                    Brut (%)  Redressé (%)
+
+                     Genre x Age (quotas croisés)
+                                                                                    Zone d’habitation
+      Homme 18-24                       7%         5%
+                                                                Péri-urbaine/rurale               80%        73%
+      Homme 25-34                      10%         7%
+                                                                Urbaine                           20%        27%
+      Homme 35-44                       7%         8%
+                                                                           Vote présidentielle de 2022 -premier tour
+      Homme 45-54                       6%         8%
+      Homme 55+                        20%         19%          Macron                            16%        21%
+      Femme 18-24                       3%         5%                                             22%        17%
+                                                                Le Pen
+      Femme 25-34                       5%         8%                                             10%        16%
+                                                                Mélenchon
+      Femme 35-44                       9%         8%
+                                                                                                  3%         3%
+                                                                Jadot
+      Femme 45-54                       9%         8%
+                                                                                                  3%         4%
+                                                                Pécresse
+      Femme 55+                        25%         23%
+                                                                                                  4%         5%
+                             Région                             Zemmour
+      Nord-Est                         27%         26%          Autres                            8%         8%
+      Nord-Ouest                       22%         19%          Vote blanc / N'a pas voté / Ne sait pas 34%  26%
+      Région Parisienne                15%         18%                     Vote présidentielle de 2022 -second tour
+      Sud-Est                          24%         25%
+                                                                Macron                            30%        42%
+      Sud-Ouest                        12%         11%
+                                                                Le Pen                            30%        30%
+                              CSP
+                                                                Non votant (vote blanc, ne sais pas, n'ai
+      CSP+                             28%         34%                                            40%        28%
+                                                                pas vote)
+      CSP-                             34%         30%
+      Inactifs                         38%         36%
+                                                           * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+--- page 7 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 7
+
+      Structure     de  l’échantillon    (2/2)
+
+                                      Brut (%) Redressé (%)
+
+                       Intérêt pour la politique
+
+                                       19%         15%
+      Elevé
+                                       32%         24%
+      Plutôt élevé
+                                       33%         40%
+      Plutôt faible
+                                       17%         21%
+      Faible
+                            Education
+                                       54%         61%
+      Basse
+                                       46%         39%
+      Haute
+
+                                                           * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+--- page 8 ---
+
+Questionnaire
+
+--- page 9 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 9
+
+      Questionnaire
+
+       [Tous] Sur une échelle de 0 à 10, dans quelle mesure êtes-vous certain(e) d’aller voter lors du premier tour de l’élection
+
+       présidentielle qui aura lieu le 18 avril 2027 ? "0" signifiant que vous êtes tout à fait certain(e) de ne pas aller voter et "10"
+       signifiant que vous êtes tout à fait certain(e) d’aller voter.
+       •  0 – Certain(e) de ne pas aller voter
+       •  1
+       •  2
+       •  3
+
+       •  4
+       •  5
+       •  6
+       •  7
+       •  8
+       •  9
+       •  10 – Certain(e) d’aller voter
+
+--- page 10 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 10
+
+      Questionnaire
+
+       Hypothèse 1
+
+       [Auprès des votants décidés*] Veuillez imaginer que le 18 avril 2027, le premier tour de l’élection présidentielle en France oppose
+       les candidats suivants à la présidence de la République. Pour quel candidat voteriez-vous ?
+       Bruno Retailleau - Les Républicains
+       Édouard Philippe - Horizons
+       Éric Zemmour - Reconquête
+       Fabien Roussel - Parti Communiste Français
+
+       Gabriel Attal - Renaissance
+       Jean-Luc Mélenchon - La France Insoumise
+       Marine Le Pen - Rassemblement National
+       Marine Tondelier - Les Écologistes
+       Nathalie Arthaud - Lutte Ouvrière
+       Nicolas Dupont-Aignan - Debout la France
+       Raphaël Glucksmann - Place Publique
+       Je voterais blanc
+       Je ne voterais pas
+       Je ne sais pas
+
+       *Votants décidés : les personnes inscrites sur les listes électorales qui ont déclaré vouloir voter (c’est-à-dire qui n'ont pas été exclues parce qu'elles n'étaient pas
+       inscrites ou parce qu'elles ont déclaré être certaines de ne pas voter) et qui ont déclaré une intention de vote pour un des candidats listés.
+
+--- page 11 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 11
+
+      Questionnaire
+
+       Présentation des hypothèses 2,3 et 4 en ordre aléatoire
+
+       Hypothèse 2 – G. Attal
+       [Auprès des votants décidés*] Veuillez imaginer que le 18 avril 2027, le premier tour de l’élection présidentielle en France oppose
+       les candidats suivants à la présidence de la République. Pour quel candidat voteriez-vous ?
+
+       Bruno Retailleau - Les Républicains
+       Éric Zemmour - Reconquête
+       Fabien Roussel - Parti Communiste Français
+       Gabriel Attal - Renaissance
+       Jean-Luc Mélenchon - La France Insoumise
+       Marine Le Pen - Rassemblement National
+       Marine Tondelier - Les Écologistes
+       Nathalie Arthaud - Lutte Ouvrière
+
+       Nicolas Dupont-Aignan - Debout la France
+       Raphaël Glucksmann - Place Publique
+       Je voterais blanc
+       Je ne voterais pas
+       Je ne sais pas
+
+       *Votants décidés : les personnes inscrites sur les listes électorales qui ont déclaré vouloir voter ( c’est-à-dire qui n'ont pas été exclues parce qu'elles n'étaient pas
+       inscrites ou parce qu'elles ont déclaré être certaines de ne pas voter) et qui ont déclaré une intention de vote pour un des candidats listés.
+
+--- page 12 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 12
+
+      Questionnaire
+
+       Présentation des hypothèses 2,3 et 4 en ordre aléatoire
+
+       Hypothèse 3 – E. Philippe
+       [Auprès des votants décidés*] Veuillez imaginer que le 18 avril 2027, le premier tour de l’élection présidentielle en France oppose
+       les candidats suivants à la présidence de la République. Pour quel candidat voteriez-vous ?
+
+       Bruno Retailleau - Les Républicains
+       Éric Zemmour - Reconquête
+       Fabien Roussel - Parti Communiste Français
+       Édouard Philippe - Horizons
+       Jean-Luc Mélenchon - La France Insoumise
+       Marine Le Pen - Rassemblement National
+       Marine Tondelier - Les Écologistes
+       Nathalie Arthaud - Lutte Ouvrière
+
+       Nicolas Dupont-Aignan - Debout la France
+       Raphaël Glucksmann - Place Publique
+       Je voterais blanc
+       Je ne voterais pas
+       Je ne sais pas
+
+       *Votants décidés : les personnes inscrites sur les listes électorales qui ont déclaré vouloir voter ( c’est-à-dire qui n'ont pas été exclues parce qu'elles n'étaient pas
+       inscrites ou parce qu'elles ont déclaré être certaines de ne pas voter) et qui ont déclaré une intention de vote pour un des candidats listés.
+
+--- page 13 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 13
+
+      Questionnaire
+
+       Présentation des hypothèses 2,3 et 4 en ordre aléatoire
+
+       Hypothèse 4 – F. Hollande
+       [Auprès des votants décidés*] Veuillez imaginer que le 18 avril 2027, le premier tour de l’élection présidentielle en France oppose
+       les candidats suivants à la présidence de la République. Pour quel candidat voteriez-vous ?
+
+       Bruno Retailleau - Les Républicains
+       Édouard Philippe - Horizons
+       Éric Zemmour - Reconquête
+       Fabien Roussel - Parti Communiste Français
+       François Hollande - Parti Socialiste
+       Jean-Luc Mélenchon - La France Insoumise
+       Marine Le Pen - Rassemblement National
+       Marine Tondelier - Les Écologistes
+
+       Nathalie Arthaud - Lutte Ouvrière
+       Nicolas Dupont-Aignan - Debout la France
+       Je voterais blanc
+       Je ne voterais pas
+       Je ne sais pas
+
+       *Votants décidés : les personnes inscrites sur les listes électorales qui ont déclaré vouloir voter ( c’est-à-dire qui n'ont pas été exclues parce qu'elles n'étaient pas
+       inscrites ou parce qu'elles ont déclaré être certaines de ne pas voter) et qui ont déclaré une intention de vote pour un des candidats listés.
+
+--- page 14 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 14
+
+      Questionnaire
+
+       Hypothèse 5
+
+       [Auprès des votants décidés*] Veuillez imaginer que le 18 avril 2027, le premier tour de l’élection présidentielle en France oppose
+       les candidats suivants à la présidence de la République. Pour quel candidat voteriez-vous ?
+       Bruno Retailleau - Les Républicains
+       Édouard Philippe - Horizons
+       Éric Zemmour - Reconquête
+       Fabien Roussel - Parti Communiste Français
+
+       Gabriel Attal - Renaissance
+       Jean-Luc Mélenchon - La France Insoumise
+       Marine Le Pen - Rassemblement National
+       Marine Tondelier - Les Écologistes
+       Nathalie Arthaud - Lutte Ouvrière
+       Nicolas Dupont-Aignan - Debout la France
+       Raphaël Glucksmann - Place Publique
+       David Lisnard - Nouvelle Énergie
+       Dominique de Villepin - La France Humaniste
+       François Ruffin - Debout !
+
+       Je voterais blanc
+       Je ne voterais pas
+       Je ne sais pas
+
+       *Votants décidés : les personnes inscrites sur les listes électorales qui ont déclaré vouloir voter ( c’est-à-dire qui n'ont pas été exclues parce qu'elles n'étaient pas
+       inscrites ou parce qu'elles ont déclaré être certaines de ne pas voter) et qui ont déclaré une intention de vote pour un des candidats listés.
+
+--- page 15 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 15
+
+      Questionnaire
+
+       [Tous] Sur une échelle de 0 à 10, dans quelle mesure êtes-vous certain(e) d’aller voter lors du second tour de l’élection
+
+       présidentielle qui aura lieu le 2 mai 2027 ? "0" signifiant que vous êtes tout à fait certain(e) de ne pas aller voter et "10" signifiant
+       que vous êtes tout à fait certain(e) d’aller voter.
+       0 – Certain(e) de ne pas aller voter
+       1
+       2
+       3
+
+       4
+       5
+       6
+       7
+       8
+       9
+       10 – Certain(e) d’aller voter
+
+--- page 16 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 16
+
+      Questionnaire
+
+       Présentation des 6 hypothèses de second tour en aléatoire
+
+       Hypothèse  1
+
+       [Auprès des votants décidés*] Veuillez imaginer que le 2 mai 2027, le second tour de l’élection présidentielle en France oppose
+       les candidats suivants à la présidence de la République. Pour lequel des deux voteriez-vous ?
+       Édouard Philippe - Horizons
+       Marine Le Pen - Rassemblement National
+
+       Je voterais blanc
+       Je ne voterais pas
+       Je ne sais pas
+
+       Hypothèse 2
+
+       [Auprès des votants décidés*] Veuillez imaginer que le 2 mai 2027, le second tour de l’élection présidentielle en France oppose
+       les candidats suivants à la présidence de la République. Pour lequel des deux voteriez-vous ?
+       Raphaël Glucksmann - Place Publique
+       Marine Le Pen - Rassemblement National
+       Je voterais blanc
+       Je ne voterais pas
+
+       Je ne sais pas
+
+       Hypothèse 3
+       [Auprès des votants décidés*] Veuillez imaginer que le 2 mai 2027, le second tour de l’élection présidentielle en France oppose
+
+       les candidats suivants à la présidence de la République. Pour lequel des deux voteriez-vous ?
+       François Hollande - Parti Socialiste
+       Marine Le Pen - Rassemblement National
+       Je voterais blanc
+                                                                                *Votants décidés : les personnes inscrites sur les listes électorales qui ont déclaré
+       Je ne voterais pas
+                                                                                vouloir voter ( c’est-à-dire qui n'ont pas été exclues parce qu'elles n'étaient pas
+       Je ne sais pas
+                                                                                inscrites ou parce qu'elles ont déclaré être certaines de ne pas voter) et qui ont
+                                                                                déclaré une intention de vote pour un des candidats listés.
+
+--- page 17 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 17
+
+      Questionnaire
+
+       Hypothèse 4
+
+       [Auprès des votants décidés*] Veuillez imaginer que le 2 mai 2027, le second tour de l’élection présidentielle en France oppose
+       les candidats suivants à la présidence de la République. Pour lequel des deux voteriez-vous ?
+       Jean-Luc Mélenchon - La France Insoumise
+       Marine Le Pen - Rassemblement National
+       Je voterais blanc
+       Je ne voterais pas
+
+       Je ne sais pas
+
+       Hypothèse 5
+       [Auprès des votants décidés*] Veuillez imaginer que le 2 mai 2027, le second tour de l’élection présidentielle en France oppose
+       les candidats suivants à la présidence de la République. Pour lequel des deux voteriez-vous ?
+       Gabriel Attal - Renaissance
+
+       Marine Le Pen - Rassemblement National
+       Je voterais blanc
+       Je ne voterais pas
+       Je ne sais pas
+
+       Hypothèse 6
+       [Auprès des votants décidés*] Veuillez imaginer que le 2 mai 2027, le second tour de l’élection présidentielle en France oppose
+
+       les candidats suivants à la présidence de la République. Pour lequel des deux voteriez-vous ?
+       Édouard Philippe - Horizons
+       Jean-Luc Mélenchon - La France Insoumise
+       Je voterais blanc
+                                                                                *Votants décidés : les personnes inscrites sur les listes électorales qui ont déclaré
+       Je ne voterais pas
+                                                                                vouloir voter ( c’est-à-dire qui n'ont pas été exclues parce qu'elles n'étaient pas
+       Je ne sais pas
+                                                                                inscrites ou parce qu'elles ont déclaré être certaines de ne pas voter) et qui ont
+                                                                                déclaré une intention de vote pour un des candidats listés.
+
+--- page 18 ---
+
+Résultats
+
+--- page 19 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 19
+
+      Résultats
+
+       [Tous] Sur une échelle de 0 à 10, dans quelle mesure êtes-vous certain(e) d’aller voter lors du premier tour de l’élection
+
+       présidentielle qui aura lieu le 18 avril 2027 ? "0" signifiant que vous êtes tout à fait certain(e) de ne pas aller voter et "10"
+       signifiant que vous êtes tout à fait certain(e) d’aller voter.
+
+                                                                                    Résultats
+
+                                                                                 Bruts   Pondérés
+
+                                Base brute                                       1094     1094
+                                Base pondérée                                    1094     1094
+
+                                0 – certain(e) de ne pas aller voter             6%        6%
+                                1                                                1%        1%
+
+                                2                                                1%        1%
+                                3                                                1%        1%
+
+                                4                                                1%        1%
+                                5                                                5%        5%
+
+                                6                                                1%        1%
+                                7                                                3%        3%
+
+                                8                                                6%        5%
+                                9                                                9%        9%
+
+                                10 – certain(e) d’aller voter                    64%       65%
+                                Non répondu                                      2%        2%
+
+--- page 20 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 20
+
+      Résultats
+
+       Hypothèse 1
+
+       [Auprès des votants décidés] Veuillez imaginer que le 18 avril 2027, le premier tour de l’élection présidentielle en France oppose
+       les candidats suivants à la présidence de la République. Pour quel candidat voteriez-vous ?
+
+                                                                                    Résultats
+
+                                                                                 Bruts   Pondérés
+
+                                Base brute                                       725       725
+                                Base pondérée                                    689       689
+
+                                Bruno Retailleau - Les Républicains              6%        6%
+                                Édouard Philippe - Horizons                      9%        10%
+
+                                Éric Zemmour - Reconquête                        3%        3%
+                                Fabien Roussel - Parti Communiste Français       2%        3%
+
+                                Gabriel Attal - Renaissance                      5%        6%
+                                Jean-Luc Mélenchon - La France Insoumise         13%       15%
+
+                                Marine Le Pen - Rassemblement National           41%       36%
+                                Marine Tondelier - Les Écologistes               5%        6%
+
+                                Nathalie Arthaud - Lutte Ouvrière                1%        0%
+                                Nicolas Dupont-Aignan - Debout la France         3%        3%
+
+                                Raphaël Glucksmann - Place Publique              12%       12%
+
+ *Votants décidés : les personnes inscrites sur les listes électorales qui ont déclaré vouloir voter (c’est-à-dire qui n'ont pas été Non pris en compte dans ce calcul : 364 répondants (non concernés par le routage, ou
+ exclues parce qu'elles n'étaient pas inscrites ou parce qu'elles ont déclaré être certaines de ne pas voter) et qui ont déclaré une n'ayant pas exprimé d'intention de vote pour un candidat)
+ intention de vote pour un des candidats listés.                                  Pondération non calculable pour 5 répondants (exclus du calcul)
+
+--- page 21 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 21
+
+      Résultats
+
+       Présentation des hypothèses 2,3 et 4 en ordre aléatoire
+
+       Hypothèse 2 – G. Attal
+       [Auprès des votants décidés] Veuillez imaginer que le 18 avril 2027, le premier tour de l’élection présidentielle en France oppose
+       les candidats suivants à la présidence de la République. Pour quel candidat voteriez-vous ?
+
+                                                                                    Résultats
+
+                                                                                 Bruts   Pondérés
+
+                                Base brute                                       713       713
+                                Base pondérée                                    680       680
+
+                                Bruno Retailleau - Les Républicains              8%        9%
+
+                                Éric Zemmour - Reconquête                        4%        4%
+                                Fabien Roussel - Parti Communiste Français       3%        3%
+
+                                Gabriel Attal - Renaissance                      8%        10%
+                                Jean-Luc Mélenchon - La France Insoumise         13%       15%
+
+                                Marine Le Pen - Rassemblement National           42%       37%
+                                Marine Tondelier - Les Écologistes               5%        6%
+
+                                Nathalie Arthaud - Lutte Ouvrière                1%        0%
+                                Nicolas Dupont-Aignan - Debout la France         3%        3%
+
+                                Raphaël Glucksmann - Place Publique              13%       14%
+
+ *Votants décidés : les personnes inscrites sur les listes électorales qui ont déclaré vouloir voter (c’est-à-dire qui n'ont pas été Non pris en compte dans ce calcul : 375 répondants (non concernés par le routage, ou
+ exclues parce qu'elles n'étaient pas inscrites ou parce qu'elles ont déclaré être certaines de ne pas voter) et qui ont déclaré une n'ayant pas exprimé d'intention de vote pour un candidat)
+ intention de vote pour un des candidats listés.                                  Pondération non calculable pour 6 répondants (exclus du calcul)
+
+--- page 22 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 22
+
+      Résultats
+
+       Présentation des hypothèses 2,3 et 4 en ordre aléatoire
+
+       Hypothèse 3 – E. Philippe
+       [Auprès des votants décidés] Veuillez imaginer que le 18 avril 2027, le premier tour de l’élection présidentielle en France oppose
+       les candidats suivants à la présidence de la République. Pour quel candidat voteriez-vous ?
+
+                                                                                    Résultats
+
+                                                                                 Bruts   Pondérés
+
+                                Base brute                                       721       721
+                                Base pondérée                                    683       683
+
+                                Bruno Retailleau - Les Républicains              7%        7%
+
+                                Éric Zemmour - Reconquête                        3%        3%
+                                Fabien Roussel - Parti Communiste Français       3%        3%
+
+                                Édouard Philippe - Horizons                      11%       13%
+                                Jean-Luc Mélenchon - La France Insoumise         13%       15%
+
+                                Marine Le Pen - Rassemblement National           42%       36%
+                                Marine Tondelier - Les Écologistes               5%        6%
+
+                                Nathalie Arthaud - Lutte Ouvrière                1%        0%
+                                Nicolas Dupont-Aignan - Debout la France         3%        3%
+
+                                Raphaël Glucksmann - Place Publique              12%       13%
+
+ *Votants décidés : les personnes inscrites sur les listes électorales qui ont déclaré vouloir voter (c’est-à-dire qui n'ont pas été Non pris en compte dans ce calcul : 368 répondants (non concernés par le routage, ou
+ exclues parce qu'elles n'étaient pas inscrites ou parce qu'elles ont déclaré être certaines de ne pas voter) et qui ont déclaré une n'ayant pas exprimé d'intention de vote pour un candidat)
+ intention de vote pour un des candidats listés.                                  Pondération non calculable pour 5 répondants (exclus du calcul)
+
+--- page 23 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 23
+
+      Résultats
+
+       Présentation des hypothèses 2,3 et 4 en ordre aléatoire
+
+       Hypothèse 4 – F. Hollande
+       [Auprès des votants décidés] Veuillez imaginer que le 18 avril 2027, le premier tour de l’élection présidentielle en France oppose
+       les candidats suivants à la présidence de la République. Pour quel candidat voteriez-vous ?
+
+                                                                                    Résultats
+
+                                                                                 Bruts   Pondérés
+
+                                Base brute                                       708       708
+                                Base pondérée                                    666       666
+
+                                Bruno Retailleau - Les Républicains              7%        7%
+
+                                Édouard Philippe - Horizons                      13%       15%
+                                Éric Zemmour - Reconquête                        4%        4%
+
+                                Fabien Roussel - Parti Communiste Français       3%        3%
+                                François Hollande - Parti Socialiste             8%        9%
+
+                                Jean-Luc Mélenchon - La France Insoumise         14%       16%
+                                Marine Le Pen - Rassemblement National           43%       37%
+
+                                Marine Tondelier - Les Écologistes               6%        6%
+                                Nathalie Arthaud - Lutte Ouvrière                1%        1%
+
+                                Nicolas Dupont-Aignan - Debout la France         3%        3%
+
+ *Votants décidés : les personnes inscrites sur les listes électorales qui ont déclaré vouloir voter (c’est-à-dire qui n'ont pas été Non pris en compte dans ce calcul : 380 répondants (non concernés par le routage, ou
+ exclues parce qu'elles n'étaient pas inscrites ou parce qu'elles ont déclaré être certaines de ne pas voter) et qui ont déclaré une n'ayant pas exprimé d'intention de vote pour un candidat)
+ intention de vote pour un des candidats listés.                                  Pondération non calculable pour 6 répondants (exclus du calcul)
+
+--- page 24 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 24
+
+      Résultats
+
+       Hypothèse 5
+
+       [Auprès des votants décidés] Veuillez imaginer que le 18 avril 2027, le premier tour de l’élection présidentielle en France oppose
+       les candidats suivants à la présidence de la République. Pour quel candidat voteriez-vous ?
+
+                                                  Résultats                                                         Résultats
+                                               Bruts  Pondérés                                                   Bruts  Pondérés
+
+      Base brute                               734     734               David Lisnard -Nouvelle Énergie          5%      4%
+      Base pondérée                            696     696               Dominique de Villepin -La France Humaniste 2%    1%
+
+      Bruno Retailleau -Les Républicains       5%      5%                François Ruffin -Debout !                2%      2%
+      Édouard Philippe -Horizons               8%      8%
+
+      Éric Zemmour -Reconquête                 3%      4%
+      Fabien Roussel -Parti Communiste Français 2%     2%
+
+      Gabriel Attal -Renaissance               4%      6%
+      Jean-Luc Mélenchon -La France Insoumise  11%     13%
+
+      Marine Le Pen -Rassemblement National    40%     35%
+      Marine Tondelier -Les Écologistes        4%      5%
+
+      Nathalie Arthaud -Lutte Ouvrière         1%      0%
+
+      Nicolas Dupont-Aignan -Debout la France  2%      2%
+      Raphaël Glucksmann -Place Publique       11%     12%
+
+ *Votants décidés : les personnes inscrites sur les listes électorales qui ont déclaré vouloir voter (c’est-à-dire qui n'ont pas été Non pris en compte dans ce calcul : 355 répondants (non concernés par le routage, ou
+ exclues parce qu'elles n'étaient pas inscrites ou parce qu'elles ont déclaré être certaines de ne pas voter) et qui ont déclaré une n'ayant pas exprimé d'intention de vote pour un candidat)
+ intention de vote pour un des candidats listés.                                  Pondération non calculable pour 5 répondants (exclus du calcul)
+
+--- page 25 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 25
+
+      Résultats
+
+       [Tous] Sur une échelle de 0 à 10, dans quelle mesure êtes-vous certain(e) d’aller voter lors du second tour de l’élection
+
+       présidentielle qui aura lieu le 2 mai 2027 ? "0" signifiant que vous êtes tout à fait certain(e) de ne pas aller voter et "10" signifiant
+       que vous êtes tout à fait certain(e) d’aller voter.
+
+                                                                                    Résultats
+
+                                                                                 Bruts   Pondérés
+
+                                Base brute                                       1094     1094
+                                Base pondérée                                    1094     1094
+
+                                0 – certain(e) de ne pas aller voter             6%        5%
+                                1                                                1%        1%
+
+                                2                                                1%        1%
+                                3                                                1%        1%
+
+                                4                                                1%        1%
+                                5                                                6%        5%
+
+                                6                                                2%        1%
+                                7                                                4%        4%
+
+                                8                                                5%        5%
+                                9                                                9%        9%
+
+                                10 – certain(e) d’aller voter                    63%       64%
+                                Non répondu                                      2%        3%
+
+--- page 26 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 26
+
+      Résultats
+
+       Présentation des 6 hypothèses de second tour en aléatoire
+
+       Hypothèse  1                                                   Hypothèse 2
+
+       [Auprès des votants décidés] Veuillez imaginer que le 2 mai    [Auprès des votants décidés] Veuillez imaginer que le 2 mai
+       2027, le second tour de l’élection présidentielle en France    2027, le second tour de l’élection présidentielle en France
+       oppose les candidats suivants à la présidence de la            oppose les candidats suivants à la présidence de la
+
+       République. Pour lequel des deux voteriez-vous ?               République. Pour lequel des deux voteriez-vous ?
+       Édouard Philippe - Horizons                                    Raphaël Glucksmann - Place Publique
+       Marine Le Pen - Rassemblement National                         Marine Le Pen - Rassemblement National
+       Je voterais blanc                                              Je voterais blanc
+       Je ne voterais pas                                             Je ne voterais pas
+       Je ne sais pas                                                 Je ne sais pas
+
+                                               Résultats                                                     Résultats
+
+                                           Bruts   Pondérés                                               Bruts   Pondérés
+
+       Base brute                           653      653              Base brute                          672       672
+       Base pondérée                        612      612              Base pondérée                       616       616
+
+       Édouard Philippe - Horizons         42%       48%              Marine Le Pen - Rassemblement National 60%    55%
+       Marine Le Pen - Rassemblement National 58%    52%              Raphaël Glucksmann - Place Publique 40%       45%
+
+      Non pris en compte dans ce calcul : 435 répondants (non concernés par le routage, ou n'ayant Non pris en compte dans ce calcul : 418 répondants (non concernés par le routage, ou n'ayant
+      pas exprimé d'intention de vote pour un candidat)              pas exprimé d'intention de vote pour un candidat)
+      Pondération non calculable pour 6 répondants (exclus du calcul) Pondération non calculable pour 4 répondants (exclus du calcul)
+
+ *Votants décidés : les personnes inscrites sur les listes électorales qui ont déclaré vouloir voter (c’est-à-dire qui n'ont pas été
+ exclues parce qu'elles n'étaient pas inscrites ou parce qu'elles ont déclaré être certaines de ne pas voter) et qui ont déclaré une
+ intention de vote pour un des candidats listés.
+
+--- page 27 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 27
+
+      Résultats
+
+       Présentation des 6 hypothèses de second tour en aléatoire
+
+       Hypothèse  3                                                   Hypothèse 4
+
+       [Auprès des votants décidés] Veuillez imaginer que le 2 mai    [Auprès des votants décidés] Veuillez imaginer que le 2 mai
+       2027, le second tour de l’élection présidentielle en France    2027, le second tour de l’élection présidentielle en France
+       oppose les candidats suivants à la présidence de la            oppose les candidats suivants à la présidence de la
+
+       République. Pour lequel des deux voteriez-vous ?               République. Pour lequel des deux voteriez-vous ?
+       François Hollande - Parti Socialiste                           Jean-Luc Mélenchon - La France Insoumise
+       Marine Le Pen - Rassemblement National                         Marine Le Pen - Rassemblement National
+       Je voterais blanc                                              Je voterais blanc
+       Je ne voterais pas                                             Je ne voterais pas
+       Je ne sais pas                                                 Je ne sais pas
+
+                                               Résultats                                                     Résultats
+
+                                           Bruts   Pondérés                                               Bruts   Pondérés
+
+       Base brute                           669      669              Base brute                          605       605
+       Base pondérée                        633      633              Base pondérée                       552       552
+
+       François Hollande - Parti Socialiste 40%      45%              Jean-Luc Mélenchon - La France Insoumise 28%  32%
+       Marine Le Pen - Rassemblement National 60%    55%              Marine Le Pen - Rassemblement National 72%    68%
+
+      Non pris en compte dans ce calcul : 420 répondants (non concernés par le routage, ou n'ayant Non pris en compte dans ce calcul : 485 répondants (non concernés par le routage, ou n'ayant
+      pas exprimé d'intention de vote pour un candidat)              pas exprimé d'intention de vote pour un candidat)
+      Pondération non calculable pour 5 répondants (exclus du calcul) Pondération non calculable pour 4 répondants (exclus du calcul)
+
+ *Votants décidés : les personnes inscrites sur les listes électorales qui ont déclaré vouloir voter (c’est-à-dire qui n'ont pas été
+ exclues parce qu'elles n'étaient pas inscrites ou parce qu'elles ont déclaré être certaines de ne pas voter) et qui ont déclaré une
+ intention de vote pour un des candidats listés.
+
+--- page 28 ---
+
+Notice YouGov pour Le HuffPost –Intentions de vote 10.2026 28
+
+      Résultats
+
+       Présentation des 6 hypothèses de second tour en aléatoire
+
+       Hypothèse  5                                                   Hypothèse 6
+
+       [Auprès des votants décidés] Veuillez imaginer que le 2 mai    [Auprès des votants décidés] Veuillez imaginer que le 2 mai
+       2027, le second tour de l’élection présidentielle en France    2027, le second tour de l’élection présidentielle en France
+       oppose les candidats suivants à la présidence de la            oppose les candidats suivants à la présidence de la
+
+       République. Pour lequel des deux voteriez-vous ?               République. Pour lequel des deux voteriez-vous ?
+       Gabriel Attal - Renaissance                                    Édouard Philippe - Horizons
+       Marine Le Pen - Rassemblement National                         Jean-Luc Mélenchon - La France Insoumise
+       Je voterais blanc                                              Je voterais blanc
+       Je ne voterais pas                                             Je ne voterais pas
+       Je ne sais pas                                                 Je ne sais pas
+
+                                               Résultats                                                     Résultats
+
+                                           Bruts   Pondérés                                               Bruts   Pondérés
+
+       Base brute                           641      641              Base brute                          488       488
+       Base pondérée                        610      610              Base pondérée                       473       473
+
+       Gabriel Attal - Renaissance         39%       45%              Édouard Philippe - Horizons         69%       66%
+       Marine Le Pen - Rassemblement National 61%    55%              Jean-Luc Mélenchon - La France Insoumise 31%  34%
+
+      Non pris en compte dans ce calcul : 447 répondants (non concernés par le routage, ou n'ayant Non pris en compte dans ce calcul : 601 répondants (non concernés par le routage, ou n'ayant
+      pas exprimé d'intention de vote pour un candidat)              pas exprimé d'intention de vote pour un candidat)
+      Pondération non calculable pour 6 répondants (exclus du calcul) Pondération non calculable pour 5 répondants (exclus du calcul)
+
+ *Votants décidés : les personnes inscrites sur les listes électorales qui ont déclaré vouloir voter (c’est-à-dire qui n'ont pas été
+ exclues parce qu'elles n'étaient pas inscrites ou parce qu'elles ont déclaré être certaines de ne pas voter) et qui ont déclaré une
+ intention de vote pour un des candidats listés.
+
+--- page 29 ---
+
+Contacts
+
+          Patrick English
+          ​​​​Head of Elections and Political and Social Data
+          patrick.english@yougov.com
+
+          Simge Andi
+          ​​​Senior Analytics Executive
+          simge.andi@yougov.com
+
+          Adam Chauchefoin
+          Senior Research Executive
+          adam.chauchefoin@yougov.com
+
+          Eva Pierrey
+          Research Executive
+          eva.pierrey@yougov.com
+                                                         YouGov, 2026, all rights reserved. All materials contained herein are protected by copyright laws.
+                                                         Any storage, reproduction or distribution of such materials, in whole or in part, in any form without the prior written permission of YouGov is prohibited.
+                                                         This information (including any enclosures and attachments) is propriety and confidential and has been prepared for the exclusive use and benefit of the
+                                                         addressee(s) and solely for the purpose for which it is provided.
+                                                         We make no representations, warranties or guarantees, whether express or implied, that the information is accurate, complete or up to date. We exclude all
+                                                         implied conditions, warranties, representations or other terms that may apply and we will not be liable to you for any loss or damage, whether in contract, tort
+                                                         (including negligence), breach of statutory duty, or otherwise, even if foreseeable, arising under or in connection with use of or reliance on the information. We do
+                                                         not exclude or limit in any way our liability to you where it would be unlawful to do so.

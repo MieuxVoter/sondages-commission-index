@@ -1,0 +1,412 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10324-pres-iv-elabe-17-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+NOTICE TECHNIQUE
+
+                        Les Français et l’élection présidentielle 2027
+
+     Article 2
+
+     Organisme ayant réalisé le sondage : Elabe
+
+     Nom du/des commanditaire(s) : BFMTV, La Tribune Dimanche
+
+     Nombre de personnes interrogées : Echantillon de 1 701 personnes, représentatif des résidents
+                                   de France métropolitaine âgés de 18 ans et plus, dont 1 553
+                                   inscrits sur les listes électorales
+
+     Dates de réalisation de l'enquête : Du 14 au 16 octobre 2026
+
+     Date et support de première publication : Le 17 octobre 2026 à 20h30 sur www.elabe.fr
+
+                                                                             1
+
+--- page 2 ---
+
+A tous
+     Q1. Êtes-vous inscrit(e) sur les listes électorales pour pouvoir voter ?
+       1. Oui
+       2. Non
+     Les questions Q2 à Q11 sont posées aux inscrits uniquement (Q1 = 1)
+
+     Q2. La prochaine élection présidentielle aura lieu en 2027. Sur une échelle allant de « 0 » à « 10 », quelle est la
+     probabilité que vous alliez voter à l’élection présidentielle qui aura lieu en 2027 ? Sachant que :
+       •  0 signifie que vous êtes tout à fait certain de ne pas aller voter.
+       •  10 que vous êtes tout à fait certain d’aller voter.
+       •  Les notes intermédiaires vous permettent de nuancer votre intention.
+     Notes 0 à 10
+     Les 6 configurations de 1er tour (Q3 à Q8) ont été exposées aux répondants dans un ordre aléatoire
+
+     Q3. Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants voteriez-
+     vous ?
+       •  Nathalie ARTHAUD
+       •  Fabien ROUSSEL
+       •  Jean-Luc MÉLENCHON
+       •  Marine TONDELIER
+       •  Raphaël GLUCKSMANN
+       •  Édouard PHILIPPE
+       •  Dominique de VILLEPIN
+       •  Bruno RETAILLEAU
+       •  Nicolas DUPONT-AIGNAN
+       •  Marine LE PEN
+       •  Éric ZEMMOUR
+       •  Vous voteriez blanc ou nul
+       •  Vous n’iriez pas voter
+     Q3bis. Et diriez-vous que vous êtes sûr(e) de votre choix ou que vous pourriez changer d’avis d’ici à l’élection ?
+     Rotation aléatoire des items
+       •  Je suis sûr(e) de mon choix
+       •  Je pourrais changer d’avis d’ici à l’élection
+     Q4. Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants voteriez-
+     vous ?
+       •  Nathalie ARTHAUD
+       •  Fabien ROUSSEL
+       •  Jean-Luc MÉLENCHON
+       •  Marine TONDELIER
+       •  Raphaël GLUCKSMANN
+       •  Gabriel ATTAL
+       •  Dominique de VILLEPIN
+       •  Bruno RETAILLEAU
+       •  Nicolas DUPONT-AIGNAN
+       •  Marine LE PEN
+       •  Éric ZEMMOUR
+       •  Vous voteriez blanc ou nul
+       •  Vous n’iriez pas voter
+
+                                                                             2
+
+--- page 3 ---
+
+Q5. Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants voteriez-
+     vous ?
+       •  Nathalie ARTHAUD
+       •  Fabien ROUSSEL
+       •  Jean-Luc MÉLENCHON
+       •  Marine TONDELIER
+       •  Raphaël GLUCKSMANN
+       •  Édouard PHILIPPE
+       •  Bruno RETAILLEAU
+       •  David LISNARD
+       •  Nicolas DUPONT-AIGNAN
+       •  Marine LE PEN
+       •  Éric ZEMMOUR
+       •  Vous voteriez blanc ou nul
+       •  Vous n’iriez pas voter
+     Q6. Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants voteriez-
+     vous ?
+       •  Nathalie ARTHAUD
+       •  Fabien ROUSSEL
+       •  Jean-Luc MÉLENCHON
+       •  François RUFFIN
+       •  Raphaël GLUCKSMANN
+       •  Gabriel ATTAL
+       •  Bruno RETAILLEAU
+       •  David LISNARD
+       •  Nicolas DUPONT-AIGNAN
+       •  Marine LE PEN
+       •  Éric ZEMMOUR
+       •  Vous voteriez blanc ou nul
+       •  Vous n’iriez pas voter
+     Q7. Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants voteriez-
+     vous ?
+       •  Nathalie ARTHAUD
+       •  Fabien ROUSSEL
+       •  Jean-Luc MÉLENCHON
+       •  Marine TONDELIER
+       •  Raphaël GLUCKSMANN
+       •  Gabriel ATTAL
+       •  Édouard PHILIPPE
+       •  Bruno RETAILLEAU
+       •  Nicolas DUPONT-AIGNAN
+       •  Marine LE PEN
+       •  Éric ZEMMOUR
+       •  Vous voteriez blanc ou nul
+       •  Vous n’iriez pas voter
+     Q8. Si le 1er tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants voteriez-
+     vous ?
+       •  Nathalie ARTHAUD
+       •  Fabien ROUSSEL
+       •  Jean-Luc MÉLENCHON
+       •  Marine TONDELIER
+       •  Raphaël GLUCKSMANN
+       •  Natacha POLONY
+       •  Édouard PHILIPPE
+       •  Bruno RETAILLEAU
+       •  Nicolas DUPONT-AIGNAN
+       •  Marine LE PEN
+       •  Éric ZEMMOUR
+       •  Vous voteriez blanc ou nul
+       •  Vous n’iriez pas voter
+                                                                             3
+
+--- page 4 ---
+
+Les 3 configurations de 2nd tour (Q9 à Q11) ont été exposées aux répondants dans un ordre aléatoire
+
+     Q9. Si le 2nd tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants voteriez-
+     vous ?
+       •  Jean-Luc MÉLENCHON
+       •  Marine LE PEN
+       •  Vous voteriez blanc ou nul
+       •  Vous n’iriez pas voter
+     Q10. Si le 2nd tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants voteriez-
+     vous ?
+       •  Raphaël GLUCKSMANN
+       •  Marine LE PEN
+       •  Vous voteriez blanc ou nul
+       •  Vous n’iriez pas voter
+     Q11. Si le 2nd tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants voteriez-
+     vous ?
+       •  Édouard PHILIPPE
+       •  Marine LE PEN
+       •  Vous voteriez blanc ou nul
+       •  Vous n’iriez pas voter
+     A tous
+     Q12. La prochaine élection présidentielle aura lieu en avril et mai 2027. Diriez-vous que vous êtes intéressé ou pas
+     intéressé par la campagne de l’élection présidentielle ?
+       •  Très intéressé
+       •  Plutôt intéressé
+       •  Pas vraiment intéressé
+       •  Pas du tout intéressé
+
+                                                                             4
+
+--- page 5 ---
+
+NOTE SUR LES MARGES D’ERREUR
+
+                       Marge d’erreur pour les questions d’intentions de vote
+
+     Comme toute enquête statistique, un sondage présente une incertitude appelée « marge d’erreur » ou « marge
+     d’incertitude ». La marge d’erreur ou d’incertitude d’un sondage dépend de la taille de l’échantillon interrogé et du
+     résultat observé. Pour un échantillon de 1200 personnes interrogées, les marges d’erreur sont les suivantes avec un
+     niveau de confiance de 95 % :
+                           Pour un La marge d'erreur Le résultat réel se
+                        pourcentage de : est de : situe entre :
+                             5         +/- 1,2    3,8 et 6,2
+
+                            10         +/- 1,7    8,3 et 11,7
+                            15          +/- 2      13 et 17
+                            20         +/- 2,3    17,7 et 22,3
+                            25         +/- 2,5    22,5 et 27,5
+
+                            30         +/- 2,6    27,4 et 32,6
+                            35         +/- 2,7    32,3 et 37,7
+                            40         +/- 2,8    37,2 et 42,8
+                            45         +/- 2,8    42,2 et 47,8
+
+                            50         +/- 2,8    47,2 et 52,8
+                            55         +/- 2,8    52,2 et 57,8
+                            60         +/- 2,8    57,2 et 62,8
+                            65         +/- 2,7    62,3 et 67,7
+
+                            70         +/- 2,6    67,4 et 72,6
+                            75         +/- 2,5    72,5 et 77,5
+                            80         +/- 2,3    77,7 et 82,3
+                            85          +/- 2      83 et 87
+
+                            90         +/- 1,7    88,3 et 91,7
+                            95         +/- 1,2    93,8 et 96,2
+
+     Exemple de lecture :
+     Pour un résultat observé de 25 %, il y a 95 % de chances pour que le résultat réel soit compris entre 22,5% et 27,5%.
+
+     ELABE rappelle que les résultats de ce sondage doivent être interprétés comme une indication de l’état du rapport de force
+     politique actuel en France métropolitaine dans la perspective d’une élection présidentielle. Ils ne constituent en aucun cas un
+     élément prédictif des résultats le jour du vote. La notice de ce sondage peut être consultée sur le site internet de la Commission
+     des sondages : www.commission-des-sondages.fr
+     Toute publication ou toute reprise de ce sondage doit faire figurer la méthodologie et les marges d’erreurs :
+
+     « Echantillon de 1 701 personnes, représentatif des résidents de France métropolitaine âgés de 18 ans et plus, dont 1 553 inscrits
+     sur les listes électorales. Interrogation par Internet du 14 au 16 octobre 2026.
+
+     La représentativité de l’échantillon a été assurée selon la méthode des quotas appliquée aux variables suivantes : sexe, âge,
+     catégorie socio-professionnelle, région de résidence et catégorie d’agglomération.
+     Pour les questions d’intention de vote, seules les personnes inscrites sur les listes électorales et ayant l’intention d’aller voter sont
+     prises en compte. Marge d’erreur comprise entre 1,2 et 2,8 pts de pourcentage. »
+
+                                                                             5
+
+--- page 6 ---
+
+Article 3
+
+     Objet du sondage :            Election présidentielle
+
+     Méthode :                     Echantillon de 1 701 personnes, représentatif des résidents
+                                   de France métropolitaine âgés de 18 ans et plus, constitué
+                                   d'après la méthode des quotas (sexe, âge, profession de la
+                                   personne interrogée, catégorie d’agglomération et région
+                                   de résidence). Au sein de cet échantillon, a été extrait un
+                                   sous-échantillon de 1 553 personnes inscrites sur les listes
+                                   électorales pour l’établissement des intentions de vote.
+     Conditions d’interrogation :  Les répondants ont été interrogés en ligne (Internet).
+
+     Nombre de sans réponse :      Voir « Résultats publiés »*
+
+     Existence d’une gratification : Oui. Gratification sous la forme de points cumulables et dont
+                                   la valeur s’élève à moins de 1€ pour un questionnaire
+                                   complété.
+
+     Critères de redressement :    L’échantillon brut a été redressé sur les variables
+                                   sociodémographiques et professionnelles utilisées comme
+                                   quotas (données Insee issues du recensement de la
+                                   population 2022) ainsi que sur le statut d’occupation du
+                                   logement (données Insee issues du recensement de la
+                                   population 2022), le vote au premier tour des élections
+                                   législatives 2024, au premier tour et au second tour de
+                                   l’élection présidentielle 2022 (données du Ministère de
+                                   l’Intérieur).
+
+     (*) Nous vous présentons dans ce document le nombre de « sans-réponse » pour chacune des questions publiées.
+     Les questions de quota étant obligatoires (de façon à s’assurer de la représentativité de l’échantillon) aucune des
+     personnes interrogées ne peut ne pas avoir répondu à l’ensemble du sondage.
+
+                                                                             6
+
+--- page 7 ---
+
+QUESTIONS PUBLIEES
+
+       Si le 1er tour avait lieu dimanche prochain,
+                                  PUBLIÉ
+       pour lequel des candidats voteriez-vous ?
+              Nathalie ARTHAUD      1
+              Fabien ROUSSEL       1,5
+             Jean-Luc MÉLENCHON     15
+              Marine TONDELIER      3
+            Raphaël GLUCKSMANN     15,5
+              Édouard PHILIPPE     16,5
+            Dominique de VILLEPIN   2
+              Bruno RETAILLEAU      7
+            Nicolas DUPONT-AIGNAN  2,5
+               Marine LE PEN       32,5
+               Éric ZEMMOUR        3,5
+         N'expriment aucune intention de vote 13
+
+       Et diriez-vous que vous êtes sûr(e) de votre
+      choix ou que vous pourriez changer d’avis d’ici PUBLIÉ
+                à l’élection ?
+            Je suis sûr(e) de mon choix 54
+        Je pourrais changer d’avis d’ici à l’élection 46
+
+       Si le 1er tour avait lieu dimanche prochain,
+                                  PUBLIÉ
+       pour lequel des candidats voteriez-vous ?
+              Nathalie ARTHAUD      1
+              Fabien ROUSSEL        2
+             Jean-Luc MÉLENCHON     16
+              Marine TONDELIER     2,5
+            Raphaël GLUCKSMANN     16,5
+               Gabriel ATTAL       10,5
+            Dominique de VILLEPIN   3
+              Bruno RETAILLEAU     9,5
+            Nicolas DUPONT-AIGNAN   2
+               Marine LE PEN       33,5
+               Éric ZEMMOUR        3,5
+         N'expriment aucune intention de vote 13
+
+       Si le 1er tour avait lieu dimanche prochain,
+                                  PUBLIÉ
+       pour lequel des candidats voteriez-vous ?
+              Nathalie ARTHAUD     0,5
+              Fabien ROUSSEL       1,5
+             Jean-Luc MÉLENCHON    15,5
+              Marine TONDELIER     2,5
+            Raphaël GLUCKSMANN      15
+              Édouard PHILIPPE     15,5
+              Bruno RETAILLEAU     6,5
+               David LISNARD       5,5
+            Nicolas DUPONT-AIGNAN   3
+               Marine LE PEN       31,5
+               Éric ZEMMOUR         3
+         N'expriment aucune intention de vote 12
+
+                                                                             7
+
+--- page 8 ---
+
+Si le 1er tour avait lieu dimanche prochain,
+                                  PUBLIÉ
+       pour lequel des candidats voteriez-vous ?
+              Nathalie ARTHAUD      1
+              Fabien ROUSSEL       1,5
+             Jean-Luc MÉLENCHON     16
+               François RUFFIN      3
+            Raphaël GLUCKSMANN     16,5
+               Gabriel ATTAL       9,5
+              Bruno RETAILLEAU      9
+               David LISNARD       6,5
+            Nicolas DUPONT-AIGNAN  2,5
+               Marine LE PEN        31
+               Éric ZEMMOUR        3,5
+         N'expriment aucune intention de vote 12
+
+       Si le 1er tour avait lieu dimanche prochain,
+                                  PUBLIÉ
+       pour lequel des candidats voteriez-vous ?
+              Nathalie ARTHAUD     0,5
+              Fabien ROUSSEL       1,5
+             Jean-Luc MÉLENCHON    15,5
+              Marine TONDELIER     2,5
+            Raphaël GLUCKSMANN     15,5
+               Gabriel ATTAL       4,5
+              Édouard PHILIPPE     13,5
+              Bruno RETAILLEAU     7,5
+            Nicolas DUPONT-AIGNAN   3
+               Marine LE PEN       32,5
+               Éric ZEMMOUR        3,5
+         N'expriment aucune intention de vote 11
+
+       Si le 1er tour avait lieu dimanche prochain,
+                                  PUBLIÉ
+       pour lequel des candidats voteriez-vous ?
+              Nathalie ARTHAUD      1
+              Fabien ROUSSEL        1
+             Jean-Luc MÉLENCHON     15
+              Marine TONDELIER     2,5
+            Raphaël GLUCKSMANN      16
+              Natacha POLONY       1,5
+              Édouard PHILIPPE     16,5
+              Bruno RETAILLEAU     7,5
+            Nicolas DUPONT-AIGNAN  2,5
+               Marine LE PEN       33,5
+               Éric ZEMMOUR         3
+         N'expriment aucune intention de vote 11
+
+                                                                             8
+
+--- page 9 ---
+
+Si le 2nd tour avait lieu dimanche prochain,
+                                  PUBLIÉ
+       pour lequel des candidats voteriez-vous ?
+             Jean-Luc MÉLENCHON     31
+               Marine LE PEN        69
+        N'expriment aucune intention de vote 30
+
+       Si le 2nd tour avait lieu dimanche prochain,
+                                  PUBLIÉ
+       pour lequel des candidats voteriez-vous ?
+            Raphaël GLUCKSMANN     46,5
+               Marine LE PEN       53,5
+         N'expriment aucune intention de vote 19
+       Si le 2nd tour avait lieu dimanche prochain,
+                                  PUBLIÉ
+       pour lequel des candidats voteriez-vous ?
+              Édouard PHILIPPE     47,5
+               Marine LE PEN       52,5
+        N'expriment aucune intention de vote 22
+
+       La prochaine élection présidentielle aura lieu en avril et mai 2027. Diriez-vous
+         que vous êtes intéressé ou pas intéressé par la campagne de l’élection PUBLIÉ
+                        présidentielle ?
+                         Très intéressé                 32
+                        Plutôt intéressé                39
+                      Pas vraiment intéressé            20
+                       Pas du tout intéressé            8
+                         Sans-réponses                  1
+
+                                                                             9
