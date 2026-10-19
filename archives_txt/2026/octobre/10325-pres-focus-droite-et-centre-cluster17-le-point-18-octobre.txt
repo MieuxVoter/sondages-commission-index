@@ -1,0 +1,945 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10325-pres-focus-droite-et-centre-cluster17-le-point-18-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+ELECTION                       PRÉSIDENTIELLE                                      DE
+
+      2027               –     FOCUS                 DROITE                   ET       CENTRE
+
+     Octobre    2026                                                                          Échantillon   : 1 187   inscrits
+
+--- page 2 ---
+
+MÉTHODOLOGIE
+
+      Etude Cluster17 réalisée pour Le Point auprès d'un échantillon de 1 187 personnes inscrites sur les listes électorales issu d'un échantillon
+
+      de 1 263 personnes représentatives de la population française.
+
+      Parmi elles, 1 105 répondants ont exprimé une intention de vote pour le scénario 1, 1 083 répondants ont exprimé une intention de vote pour
+
+      le scénario 2, 1 069 répondants ont exprimé une intention de vote pour le scénario 3, 1 048 répondants ont exprimé une intention de vote
+
+      pour le scénario 4 et 1 065 répondants ont exprimé une intention de vote pour le scénario 5. Après redressement et pondération en fonction
+      des variables socio-démographiques et de la probabilité de vote, l'effectif utile est de 852 personnes pour le scénario 1, de 828 personnes
+
+      pour le scénario 2, de 821 personnes pour le scénario 3, de 813 personnes pour le scénario 4 et de 821 personnes pour le scénario 5.
+
+      L'échantillon est réalisé selon la méthode des quotas, au regard des critères de sexe, d’âge et de catégorie socioprofessionnelle, de taille
+
+      de  commune  et de région de résidence. L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE) et d’un
+
+      redressement politique sur la base de la reconstitution des votes suivants : premier tour de l’élection présidentielle de 2022 et élections
+      européennes de 2024.
+
+      Les interviews ont été réalisées par questionnaire auto-administré en ligne. Interviews réalisées du 14 au 15 octobre 2026. La notice de
+
+      cette enquête est consultable sur le site de la Commission des sondages.
+
+--- page 3 ---
+
+MÉTHODOLOGIE
+
+         Aucune reprise de ce sondage ne peut être faite sans précision de la mention relative aux marges d’erreur. En cas de reprise de ce
+
+         sondage, merci de mentionner le nom de Cluster17.
+
+                                                      MARGES      D’ERREUR
+
+            Pour un pourcentage de  5%      10%     20%     30%     40%     50%      60%     70%     80%     90%      95%
+
+               1263 personnes       1,2     1,7     2,2     2,5     2,7      2,8     2,7     2,5      2,2     1,7     1,2
+
+               1187 personnes       1,2     1,7     2,3     2,6     2,8      2,8     2,8     2,6      2,3     1,7     1,2
+               1105 personnes       1,3     1,8     2,4     2,7     2,9      2,9     2,9     2,7      2,4     1,8     1,3
+
+               1083 personnes       1,3     1,8     2,4     2,7     2,9      3       2,9     2,7      2,4     1,8     1,3
+               1069 personnes       1,3     1,8     2,4     2,7     2,9      3       2,9     2,7      2,4     1,8     1,3
+
+               1065 personnes       1,3     1,8     2,4     2,8     2,9      3,0     2,9     2,8      2,4     1,8     1,3
+
+               1048 personnes       1,3     1,8     2,4     2,8     3,0      3,0     3,0     2,8      2,4     1,8     1,3
+               852 personnes        1,5     2,0     2,7     3,1     3,3      3,4     3,3     3,1      2,7     2,0     1,5
+
+               828 personnes        1,5     2,0     2,7     3,1     3,3      3,4     3,3     3,1      2,7     2,0     1,5
+
+               821 personnes        1,5     2,1     2,7     3,1     3,4      3,4     3,4     3,1      2,7     2,1     1,5
+               813 personnes        1,5     2,1     2,7     3,2     3,4      3,4     3,4     3,2      2,7     2,1     1,5
+
+--- page 4 ---
+
+QUESTIONNAIRE
+
+                                                                                      © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 5 ---
+
+QUESTIONNAIRE
+
+        Etes-vous    inscrit  sur les  listes électorales   ?
+
+            Oui, je suis inscrit sur les listes électorales françaises
+
+            Non, je ne suis pas inscrit sur les listes électorales françaises
+
+        Si le premier    tour  de l'élection  présidentielle    de 2027   avait lieu  dimanche    prochain,    pour
+
+        lequel  des  candidats    suivants   y aurait-il  le plus de  chances   que   vous  votiez  ? (Hypothèse     1)
+
+            Nathalie Arthaud
+                                                                       Bruno  Retailleau
+            Jean-Luc  Mélenchon
+                                                                       Nicolas Dupont-Aignan
+            Fabien  Roussel
+                                                                       Marine  Le Pen
+            Marine  Tondelier
+                                                                       Éric Zemmour
+            Raphaël  Glucksmann
+                                                                       Vote Blanc ou nul
+            Edouard  Philippe
+                                                                       Abstention
+            David Lisnard
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 6 ---
+
+QUESTIONNAIRE
+
+        Si le premier    tour  de l'élection  présidentielle    de 2027   avait lieu  dimanche    prochain,    pour
+        lequel  des  candidats    suivants   y aurait-il  le plus de  chances   que   vous  votiez  ? (Hypothèse     2)
+
+            Nathalie Arthaud
+                                                                       Nicolas Dupont-Aignan
+            Jean-Luc  Mélenchon
+                                                                       Marine  Le Pen
+            Fabien  Roussel
+                                                                       Éric Zemmour
+            Marine  Tondelier
+                                                                       Vote Blanc ou nul
+            Raphaël  Glucksmann
+                                                                       Abstention
+            Edouard  Philippe
+        Si le premier    tour  de l'élection  présidentielle    de 2027   avait lieu  dimanche    prochain,    pour
+
+        lequel  des  candidats    suivants   y aurait-il  le plus de  chances   que   vous  votiez  ? (Hypothèse     3)
+
+            Nathalie Arthaud
+                                                                       Nicolas Dupont-Aignan
+            Jean-Luc  Mélenchon
+                                                                       Marine  Le Pen
+            Fabien  Roussel
+                                                                       Éric Zemmour
+            Marine  Tondelier
+                                                                       Vote Blanc ou nul
+            Raphaël  Glucksmann
+                                                                       Abstention
+            Bruno  Retailleau
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 7 ---
+
+QUESTIONNAIRE
+
+        Si le premier    tour  de l'élection  présidentielle    de 2027   avait lieu  dimanche    prochain,    pour
+        lequel  des  candidats    suivants   y aurait-il  le plus de  chances   que   vous  votiez  ? (Hypothèse     4)
+
+            Nathalie Arthaud
+                                                                       Nicolas Dupont-Aignan
+            Jean-Luc  Mélenchon
+                                                                       Marine  Le Pen
+            Fabien  Roussel
+                                                                       Éric Zemmour
+            Marine  Tondelier
+                                                                       Vote Blanc ou nul
+            Raphaël  Glucksmann
+                                                                       Abstention
+            David Lisnard
+        Si le premier    tour  de l'élection  présidentielle    de 2027   avait lieu  dimanche    prochain,    pour
+
+        lequel  des  candidats    suivants   y aurait-il  le plus de  chances   que   vous  votiez  ? (Hypothèse     5)
+
+            Nathalie Arthaud
+                                                                       Nicolas Dupont-Aignan
+            Jean-Luc  Mélenchon
+                                                                       Marine  Le Pen
+            Fabien  Roussel
+                                                                       Éric Zemmour
+            Marine  Tondelier
+                                                                       Vote Blanc ou nul
+            Raphaël  Glucksmann
+                                                                       Abstention
+            Gabriel Attal
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 8 ---
+
+QUESTIONNAIRE
+
+        Parmi   les  personnalités    suivantes,   diriez-vous    qu’elle  possède    ou  non  les  qualités  nécessaires
+
+        pour   exercer   la fonction  de  président    de la République     ?
+
+        Items   de réponse    : Oui, tout  à fait, Oui  plutôt,  Non   plutôt  pas, Non   pas  du  tout,  vous  n’avez  pas
+        d’avis, vous  ne  le / la connaissez   pas  suffisamment
+
+            Marine  Le Pen
+            Bruno  Retailleau
+
+            David Lisnard
+            Gabriel Attal
+
+            Nicolas Dupont-Aignan
+            Xavier Bertrand
+
+            Éric Zemmour
+            Sarah  Knafo
+
+            Edouard  Philippe
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 9 ---
+
+QUESTIONNAIRE
+
+        Parmi    les  personnalités     suivantes,    laquelle   vous   paraît   aujourd’hui     la mieux    placée    pour
+
+        représenter    la droite  à l’élection  présidentielle    de  2027  ? (une  seule  réponse    possible)
+
+            Marine  Le Pen
+            Bruno  Retailleau
+
+            David Lisnard
+            Gabriel Attal
+
+            Nicolas Dupont-Aignan
+            Xavier Bertrand
+
+            Éric Zemmour
+            Sarah  Knafo
+
+            Edouard  Philippe
+            Une  autre personnalité
+
+            Aucune  de ces personnalités
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 10 ---
+
+QUESTIONNAIRE
+
+        Êtes-vous     favorable    à ce   que   Renaissance,     Horizons,    l’UDI,   Les  Républicains      et  Nouvelle
+        Energie   désignent    un  candidat   commun      pour  l’élection  présidentielle    de 2027   ?
+
+            Oui, tout à fait
+
+            Oui, plutôt
+            Non, plutôt pas
+
+            Non  pas du tout
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 11 ---
+
+QUESTIONNAIRE
+
+        Pour   chacune    des  personnalités    politiques   étrangères    suivantes,    diriez-vous   que   vous  en  avez
+
+        une   très  bonne    opinion,   une  assez   bonne    opinion,   une   assez  mauvaise     opinion    ou  une   très
+        mauvaise    opinion   ?
+
+        Items   de  réponse    : Très   bonne    opinion,   Assez   bonne    opinion,   Assez   mauvaise    opinion,   Très
+
+        mauvaise    opinion,   Vous   connaissez     cette  personnalité    mais   n’avez  pas   d’opinion   à  son  égard,
+        Vous   ne connaissez    pas  suffisamment     cette  personnalité   pour   répondre
+
+            Donald  Trump
+
+            Javier Milei
+            Lula
+
+            Pedro  Sánchez
+            Ursula von der Leyen
+
+            Friedrich Merz
+            Giorgia Meloni
+
+            Volodymyr  Zelensky
+            Le Pape  Léon XIV
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 12 ---
+
+QUESTIONNAIRE
+
+        Parmi    les  orientations     suivantes,    quelles   devraient    être   selon   vous   les  trois   principales
+
+        priorités   du prochain    président    de la République     ?
+
+           Baisser les impôts                                       Sortir de l'Union Européenne
+
+           Taxer les grandes fortunes                               Renforcer le rôle de la France comme puissance
+           Mettre en place une planification écologique             diplomatique  indépendante  sur la scène
+
+           Réduire l’immigration                                    internationale
+           Augmenter   le SMIC                                      Investir dans la Défense et l’armée
+
+           Baisser les cotisations salariales et patronales         Renforcer la coopération européenne
+           Augmenter   les moyens de l'hôpital                      Augmenter   les moyens de l'éducation
+
+           Améliorer la cohésion nationale                          Réduire le nombre  de fonctionnaires
+           Baisser l’âge légal de départ à la retraite              Lutter contre la criminalité et l’insécurité
+
+           Augmenter   l’âge légal de départ à la retraite          Donner  plus de pouvoir aux citoyens
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 13 ---
+
+REDRESSEMENT
+
+                                                                                      © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 14 ---
+
+REDRESSEMENT                  SOCIOLOGIQUE
+
+                                                                                  Région               Brut       Redressé
+                        Sexe                     Brut    Redressé
+                                                                            Auvergne Rhône Alpes      10,8%        12,3%
+                       Hommes                   48,4%      47,7%
+                                                                           Bourgogne Franche Comté    4,6%          4,0%
+                       Femmes                   51,6%      52,3%
+                                                                                 Bretagne             5,8%          5,2%
+                        Age                      Brut    Redressé             Centre Val de Loire     3,7%          3,8%
+                      18-24 ans                  8,5%      10,2%                   Corse              0,9%          0,4%
+                                                                            Français hors de France   1,1%          1,9%
+                      25-34 ans                 11,1%      15,0%
+                                                                                 Grand-Est            7,3%          8,2%
+                      35-49 ans                 23,1%      24,5%
+                                                                                 Outre-mer            1,0%          1,0%
+                      50-64 ans                 27,6%      24,5%
+                                                                               Hauts-de-France        7,5%          9,0%
+                     65 ans et plus             29,7%      25,8%
+                                                                                Ile de France         18,3%        17,4%
+         Catégorie socio-professionnelle de l’individu Brut Redressé
+                                                                                 Normandie            5,0%          5,0%
+                     Agriculteurs                0,6%      0,8%               Nouvelle Aquitaine      10,6%         9,0%
+         Artisans, commerçants, chefs d’entreprise et                            Occitanie            10,1%         9,0%
+                                                 3,2%      3,6%
+                professions indépendantes
+                                                                               Pays de la Loire       5,7%          5,6%
+        Cadres et professions intellectuelles supérieures 12,6% 9,7%
+                                                                          Provence Alpes Côte d'Azur  7,6%          8,2%
+                Professions intermédiaires      14,9%      14,2%              Taille de commune        Brut       Redressé
+                      Employés                  15,1%      16,1%               Inf à 3000 hab         28,2%        29,8%
+                       Ouvriers                  7,1%      12,4%               3000-10000 hab         18,5%        19,2%
+                                                                              10000-30000 hab         16,1%        16,8%
+                       Retraités                37,6%      33,8%
+                                                                              30000-100000 hab        17,2%        17,4%
+                     Autres Inactifs             8,9%      9,4%
+                                                                             Plus de 100000 hab       20,0%        16,8%
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 15 ---
+
+REDRESSEMENT                  POLITIQUE
+
+                                         er
+                                         1 tour de la présidentielle 2022        Brut        Redressé
+                                                Anne Hidalgo                     2,3%         1,8%
+                                              Emmanuel Macron                   26,9%         27,8%
+
+                                               Eric Zemmour                      8,7%         7,1%
+                                               Fabien Roussel                    4,0%         2,2%
+
+                                                Jean Lassalle                    3,2%         3,1%
+                                             Jean-Luc Mélenchon                 20,2%         22,0%
+
+                                               Marine Le Pen                    19,7%         23,2%
+
+                                              Nathalie Arthaud                   0,3%         0,7%
+                                            Nicolas Dupont Aignan                3,2%         2,1%
+
+                                               Philippe Poutou                   1,0%         0,8%
+                                              Valérie Pécresse                   5,7%         4,8%
+
+                                               Yannick Jadot                     4,8%         4,4%
+
+                                                                                  %          Effectif
+                                            Abstention, Blanc, nuls             11,5%          137
+
+                                                   NSP                           0,8%          10
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 16 ---
+
+REDRESSEMENT                  POLITIQUE
+
+                                      Elections européennes de 2024                               Brut          Redressé
+
+                                         Autre (veuillez préciser)                               3,0%             5,8%
+              Une liste « Lutte ouvrière le camp des travailleurs » de Lutte Ouvrière conduite par Nathalie Arthaud 0,4% 0,5%
+
+             Une liste « La France insoumise - Union populaire » de la France Insoumise conduite par Manon Aubry 13,2% 9,9%
+
+         Une liste « Gauche unie pour le monde du travail soutenue par Fabien Roussel » du Parti Communiste Français,
+                                                                                                 2,5%             2,4%
+         du MRC, de la Gauche Républicaine et Socialiste et du Mouvement l'Engagement conduite par Léon Deffontaines
+           Une liste « Europe Écologie » des Ecologistes (ex-Europe Ecologie Les Verts) conduite par Marie Toussaint 5,9% 5,5%
+                         Une liste « Ecologie au centre » conduite par Jean-Marc Governatori     1,4%             1,3%
+
+            Une liste « Réveiller l'Europe » du Parti Socialiste et de Place Publique conduite par Raphaël Glucksmann 14,2% 13,8%
+           Une liste « Besoin d’Europe » de Renaissance, du Modem, de l'UDI et d’Horizons, conduite par Valérie Hayer 15,1% 14,6%
+
+              Une liste « Les animaux comptent, votre voix aussi » du Parti animaliste conduite par Hélène Thouy 2,0% 2,0%
+
+         Une liste « La droite pour faire entendre la voix de la France en Europe » des Républicains conduite par François-
+                                                                                                 8,7%             7,3%
+                                             Xavier Bellamy
+                 Une liste « La France revient ! » du Rassemblement National conduite par Jordan Bardella 27,7%  31,4%
+           Une liste « La France fière » de Reconquête, Mouvement Conservateur et du Parti de la France conduite par
+                                                                                                 5,9%             5,5%
+                                            Marion Maréchal
+                                                                                                   %             Effectif
+                                          Abstention, Blanc, nuls                                22,6%            268
+
+                                                NSP                                              1,2%             14
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 17 ---
+
+CALCUL                PARTICIPATION
+
+                                                                                      © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 18 ---
+
+CALCUL           PARTICIPATION
+
+       Probabilité de participation déclarée * Poids
+
+       Les individus non inscrits et ceux déclarant vouloir s'abstenir ou voter blanc à l'élection présidentielle ont une
+       probabilité de participation de 0
+
+                                        Probabilité de participation
+                                                                            Fréquence
+                                                déclarée
+                                                 100%                         60,8%
+                                                  90%                          2,9%
+
+                                                  80%                          2,7%
+                                                  70%                          0,9%
+
+                                                  60%                          0,6%
+                                                  50%                          1,0%
+
+                                                  40%                          0,2%
+                                                  30%                          0,3%
+
+                                                  20%                          0,2%
+                                                  10%                          0,3%
+
+                                                  0%                          30,1%
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 19 ---
+
+RÉSULTATS
+
+                                                                                      © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 20 ---
+
+RÉSULTATS
+
+        Si le premier    tour  de l'élection  présidentielle    de 2027   avait lieu  dimanche    prochain,    pour
+
+        lequel  des  candidats    suivants   y aurait-il  le plus de  chances   que   vous  votiez  ? (Hypothèse     1)
+
+                            Hypothèse 1                          Brut                Redressé              Publié
+
+                           Nathalie Arthaud                      0,4%                  0,5%                 0,5%
+                         Jean-Luc Mélenchon                      18,9%                18,2%                 18,0%
+
+                           Fabien Roussel                        2,3%                  1,6%                 1,5%
+
+                           Marine Tondelier                      2,5%                  1,9%                 2,0%
+                         Raphaël Glucksmann                      12,2%                11,0%                 11,0%
+
+                           Edouard Philippe                      16,2%                16,8%                 17,0%
+
+                            David Lisnard                        7,0%                  7,0%                 7,0%
+                           Bruno Retailleau                      6,2%                  6,8%                 7,0%
+
+                        Nicolas Dupont-Aignan                    2,6%                  2,0%                 2,0%
+                            Marine Le Pen                        27,4%                31,2%                 31,0%
+
+                            Éric Zemmour                         4,3%                  3,0%                 3,0%
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 21 ---
+
+RÉSULTATS
+
+        Si le premier    tour  de l'élection  présidentielle    de 2027   avait lieu  dimanche    prochain,    pour
+
+        lequel  des  candidats    suivants   y aurait-il  le plus de  chances   que   vous  votiez  ? (Hypothèse     2)
+
+                            Hypothèse 2                          Brut                Redressé              Publié
+
+                           Nathalie Arthaud                      0,4%                  0,5%                 0,5%
+                         Jean-Luc Mélenchon                      20,2%                19,8%                 20,0%
+
+                           Fabien Roussel                        2,6%                  2,0%                 2,0%
+
+                           Marine Tondelier                      2,2%                  1,9%                 2,0%
+                         Raphaël Glucksmann                      13,2%                11,9%                 12,0%
+
+                           Edouard Philippe                      19,6%                20,0%                 20,0%
+
+                        Nicolas Dupont-Aignan                    3,7%                  3,0%                 3,0%
+                            Marine Le Pen                        31,7%                35,7%                 35,5%
+
+                            Éric Zemmour                         6,4%                  5,2%                 5,0%
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 22 ---
+
+RÉSULTATS
+
+        Si le premier    tour  de l'élection  présidentielle    de 2027   avait lieu  dimanche    prochain,    pour
+
+        lequel  des  candidats    suivants   y aurait-il  le plus de  chances   que   vous  votiez  ? (Hypothèse     3)
+
+                            Hypothèse 3                          Brut                Redressé              Publié
+
+                           Nathalie Arthaud                      0,5%                  0,8%                 1,0%
+                         Jean-Luc Mélenchon                      20,4%                20,1%                 20,0%
+
+                           Fabien Roussel                        2,7%                  2,2%                 2,0%
+
+                           Marine Tondelier                      2,1%                  1,8%                 2,0%
+                         Raphaël Glucksmann                      18,2%                16,2%                 16,0%
+
+                           Bruno Retailleau                      16,1%                17,6%                 17,5%
+
+                        Nicolas Dupont-Aignan                    3,4%                  2,8%                 3,0%
+                            Marine Le Pen                        31,1%                34,4%                 34,5%
+
+                            Éric Zemmour                         5,5%                  4,1%                 4,0%
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 23 ---
+
+RÉSULTATS
+
+        Si le premier    tour  de l'élection  présidentielle    de 2027   avait lieu  dimanche    prochain,    pour
+
+        lequel  des  candidats    suivants   y aurait-il  le plus de  chances   que   vous  votiez  ? (Hypothèse     4)
+
+                            Hypothèse 4                          Brut                Redressé              Publié
+
+                           Nathalie Arthaud                      0,5%                  0,7%                 1,0%
+                         Jean-Luc Mélenchon                      20,7%                20,6%                 20,5%
+
+                           Fabien Roussel                        2,7%                  2,2%                 2,0%
+
+                           Marine Tondelier                      2,2%                  1,8%                 2,0%
+                         Raphaël Glucksmann                      17,3%                16,2%                 16,0%
+
+                            David Lisnard                        17,0%                16,9%                 17,0%
+
+                        Nicolas Dupont-Aignan                    3,0%                  2,2%                 2,0%
+                            Marine Le Pen                        31,7%                35,5%                 35,5%
+
+                            Éric Zemmour                         4,9%                  3,9%                 4,0%
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 24 ---
+
+RÉSULTATS
+
+        Si le premier    tour  de l'élection  présidentielle    de 2027   avait lieu  dimanche    prochain,    pour
+
+        lequel  des  candidats    suivants   y aurait-il  le plus de  chances   que   vous  votiez  ? (Hypothèse     5)
+
+                            Hypothèse 5                          Brut                Redressé              Publié
+
+                           Nathalie Arthaud                      0,6%                  0,8%                 1,0%
+                         Jean-Luc Mélenchon                      20,3%                19,9%                 20,0%
+
+                           Fabien Roussel                        2,5%                  2,2%                 2,0%
+
+                           Marine Tondelier                      2,3%                  1,9%                 2,0%
+                         Raphaël Glucksmann                      14,9%                13,6%                 13,5%
+
+                             Gabriel Attal                       17,0%                17,1%                 17,0%
+
+                        Nicolas Dupont-Aignan                    4,0%                  3,5%                 3,5%
+                            Marine Le Pen                        31,9%                35,4%                 35,5%
+
+                            Éric Zemmour                         6,5%                  5,6%                 5,5%
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 25 ---
+
+RÉSULTATS
+
+        Parmi   les  personnalités    suivantes,   diriez-vous    qu’elle  possède    ou  non  les  qualités  nécessaires
+        pour   exercer   la fonction  de  président    de la République     ?
+
+                                                                BRUT
+                                                               Non, pas du               Je ne connais pas
+           Personnalité   Oui, tout à fait Oui, plutôt Non, plutôt pas    Sans opinion                      Oui total Non total
+                                                                  tout              suffisamment cette personne
+           Marine Le Pen     22,4%       18,1%       15,0%       43,2%       1,1%             0,2%           40,5%    58,2%
+
+          Bruno Retailleau   12,1%       26,0%       19,9%       38,3%       2,2%             1,5%           38,1%    58,2%
+
+           David Lisnard     9,1%        11,6%       13,1%       36,3%       11,0%           18,9%           20,7%    49,4%
+
+            Gabriel Attal    4,0%        17,1%       25,5%       51,6%       1,5%             0,3%           21,1%    77,1%
+
+          Nicolas Dupont-
+                             4,4%        13,7%       16,9%       58,2%       3,4%             3,4%           18,1%    75,1%
+              Aignan
+          Xavier Bertrand    2,5%        18,9%       24,8%       45,3%       5,6%             2,9%           21,4%    70,1%
+           Éric Zemmour      5,6%        14,6%       14,3%       63,6%       1,7%             0,2%           20,2%    77,9%
+
+            Sarah Knafo      15,9%       14,6%       11,5%       52,4%       1,8%             3,8%           30,5%    63,9%
+
+          Edouard Philippe   16,2%       24,2%       18,9%       38,9%       1,5%             0,3%           40,4%    57,8%
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 26 ---
+
+RÉSULTATS
+
+        Parmi   les  personnalités    suivantes,   diriez-vous    qu’elle  possède    ou  non  les  qualités  nécessaires
+        pour   exercer   la fonction  de  président    de la République     ?
+
+                                                              REDRESSÉ
+                                                               Non, pas du              Je ne connais pas
+           Personnalité   Oui, tout à fait Oui, plutôt Non, plutôt pas    Sans opinion                      Oui total Non total
+                                                                  tout              suffisamment cette personne
+           Marine Le Pen     20,6%       17,9%       18,1%       41,1%       2,2%            0,1%            38,5%    59,2%
+
+          Bruno Retailleau   10,0%       24,5%       20,1%       39,7%       2,9%            2,8%            34,5%    59,8%
+
+           David Lisnard     8,6%        11,2%       13,5%       34,5%       10,4%           21,8%           19,8%    48,0%
+
+            Gabriel Attal    3,7%        15,1%       24,3%       54,1%       2,3%            0,5%            18,8%    78,4%
+
+          Nicolas Dupont-
+                             3,6%        13,4%       16,8%       54,4%       5,5%            6,3%            17,0%    71,2%
+              Aignan
+          Xavier Bertrand    2,8%        18,0%       23,0%       44,9%       7,5%            3,8%            20,8%    67,9%
+           Éric Zemmour      4,6%        13,9%       16,0%       63,2%       2,2%            0,1%            18,5%    79,2%
+
+            Sarah Knafo      14,3%       15,2%       12,8%       50,1%       2,1%            5,5%            29,5%    62,9%
+
+          Edouard Philippe   13,7%       25,0%       17,8%       40,8%       2,5%            0,2%            38,7%    58,6%
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 27 ---
+
+RÉSULTATS
+
+        Parmi   les  personnalités    suivantes,   diriez-vous    qu’elle  possède    ou  non  les  qualités  nécessaires
+        pour   exercer   la fonction  de  président    de la République     ?
+
+                                                               PUBLIÉ
+                                                               Non, pas du               Je ne connais pas
+           Personnalité   Oui, tout à fait Oui, plutôt Non, plutôt pas    Sans opinion                      Oui total Non total
+                                                                  tout              suffisamment cette personne
+           Marine Le Pen     21%          18%         18%         41%         2%              0%              39%      59%
+
+          Bruno Retailleau   10%          24%         20%         40%         3%              3%              34%      60%
+
+           David Lisnard      9%          11%         14%         34%        10%              22%             20%      48%
+
+            Gabriel Attal     4%          15%         24%         54%         2%              1%              19%      78%
+
+          Nicolas Dupont-
+                              4%          13%         17%         54%         6%              6%              17%      71%
+              Aignan
+          Xavier Bertrand     3%          18%         23%         45%         7%              4%              21%      68%
+           Éric Zemmour       5%          14%         16%         63%         2%              0%              19%      79%
+
+            Sarah Knafo      14%          15%         13%         50%         2%              6%              29%      63%
+
+          Edouard Philippe   14%          25%         18%         41%         2%              0%              39%      59%
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 28 ---
+
+RÉSULTATS
+
+        Parmi   les personnalités     suivantes,   laquelle  vous  paraît  aujourd’hui    la mieux   placée   pour
+
+        représenter    la droite  à l’élection  présidentielle    de  2027  ? (une  seule  réponse    possible)
+
+                                                                 Brut                Redressé              Publié
+
+                            Bruno Retailleau                     7,8%                  7,3%                  7%
+                             David Lisnard                       6,5%                  7,0%                  7%
+
+                            Edouard Philippe                     26,4%                23,2%                 23%
+
+                             Éric Zemmour                        1,7%                  1,6%                  2%
+                              Gabriel Attal                      6,3%                  6,2%                  6%
+
+                             Marine Le Pen                       25,3%                26,0%                 26%
+
+                         Nicolas Dupont-Aignan                   1,9%                  1,9%                  2%
+                              Sarah Knafo                        4,4%                  4,6%                  5%
+
+                            Xavier Bertrand                      5,3%                  3,6%                  4%
+                         Une autre personnalité                  3,4%                  5,2%                  5%
+
+                      Aucune de ces personnalités                11,0%                13,4%                 13%
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 29 ---
+
+RÉSULTATS
+
+        Êtes-vous    favorable   à ce que  Renaissance,     Horizons,    l’UDI, Les  Républicains    et  Nouvelle
+
+        Energie   désignent    un  candidat   commun      pour  l’élection  présidentielle    de 2027   ?
+
+                                                                 Brut                Redressé              Publié
+
+                            Oui, tout à fait                     22,7%                19,7%                 20%
+                              Oui, plutôt                        24,0%                25,4%                 25%
+
+                           Non, plutôt pas                       21,1%                22,6%                 23%
+
+                           Non, pas du tout                      32,2%                32,3%                 32%
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 30 ---
+
+RÉSULTATS
+
+        Pour   chacune    des  personnalités    politiques   étrangères    suivantes,    diriez-vous   que   vous  en  avez
+        une   très  bonne    opinion,   une  assez   bonne    opinion,   une   assez  mauvaise     opinion    ou  une   très
+
+        mauvaise    opinion   ?
+
+                                                                BRUT
+                                                 Assez             Vous connaissez cette Vous ne connaissez pas
+                          Très bonne Assez bonne        Très mauvaise                                        Bonne   Mauvaise
+            Personnalité                       mauvaise            personnalité mais n’avez suffisamment cette personnalité
+                           opinion    opinion             opinion                                          opinion total opinion total
+                                                opinion           pas d’opinion à son égard pour répondre
+           Donald Trump     3,2%      10,8%      15,4%     66,7%          3,3%                0,6%           14,0%    82,1%
+            Javier Milei    7,7%      15,3%      10,6%     42,9%          7,8%               15,7%           23,0%    53,5%
+
+               Lula         5,9%      33,0%      20,6%     17,9%         10,1%               12,5%           38,9%    38,5%
+
+           Pedro Sánchez    13,7%     22,7%      13,3%     22,3%         10,2%               17,8%           36,4%    35,6%
+
+         Ursula von der Leyen 1,9%    13,9%      25,8%     49,6%          4,3%                4,5%           15,8%    75,4%
+
+           Friedrich Merz   1,8%      20,9%      21,1%     19,4%         14,4%               22,4%           22,7%    40,5%
+
+           Giorgia Meloni   22,2%     32,1%      18,0%     19,4%          4,2%                4,1%           54,3%    37,4%
+
+         Volodymyr Zelensky 23,9%     31,5%      11,2%     24,5%          6,3%                2,6%           55,4%    35,7%
+
+          Le Pape Léon XIV  37,1%     32,5%      5,9%      2,4%          17,1%                5,0%           69,6%     8,3%
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 31 ---
+
+RÉSULTATS
+
+        Pour   chacune    des  personnalités    politiques   étrangères    suivantes,    diriez-vous   que   vous  en  avez
+        une   très  bonne    opinion,   une  assez   bonne    opinion,   une   assez  mauvaise     opinion    ou  une   très
+
+        mauvaise    opinion   ?
+
+                                                              REDRESSÉ
+                                                 Assez             Vous connaissez cette Vous ne connaissez pas
+                          Très bonne Assez bonne        Très mauvaise                                        Bonne   Mauvaise
+            Personnalité                       mauvaise            personnalité mais n’avez suffisamment cette personnalité
+                           opinion    opinion             opinion                                          opinion total opinion total
+                                                opinion           pas d’opinion à son égard pour répondre
+           Donald Trump     2,7%       8,7%      18,5%     63,8%          5,4%                0,9%           11,4%    82,3%
+            Javier Milei    7,0%      14,4%      10,1%     39,6%          7,9%               21,0%           21,4%    49,7%
+
+               Lula         5,0%      29,4%      20,6%     17,0%         10,9%               17,1%           34,4%    37,6%
+
+           Pedro Sánchez    10,6%     20,8%      13,9%     19,5%         11,9%               23,3%           31,4%    33,4%
+
+         Ursula von der Leyen 2,1%    11,2%      23,0%     49,6%          6,8%                7,3%           13,3%    72,6%
+
+           Friedrich Merz   1,5%      16,4%      20,7%     18,2%         12,8%               30,4%           17,9%    38,9%
+
+           Giorgia Meloni   19,8%     33,8%      16,2%     18,4%          4,8%                7,0%           53,6%    34,6%
+
+         Volodymyr Zelensky 20,9%     33,0%      11,8%     24,4%          5,9%                4,0%           53,9%    36,2%
+
+          Le Pape Léon XIV  31,8%     32,8%      6,3%      3,7%          19,4%                6,0%           64,6%    10,0%
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 32 ---
+
+RÉSULTATS
+
+        Pour   chacune    des  personnalités    politiques   étrangères    suivantes,    diriez-vous   que   vous  en  avez
+        une   très  bonne    opinion,   une  assez   bonne    opinion,   une   assez  mauvaise     opinion    ou  une   très
+
+        mauvaise    opinion   ?
+
+                                                               PUBLIÉ
+                                                 Assez             Vous connaissez cette Vous ne connaissez pas
+                          Très bonne Assez bonne        Très mauvaise                                        Bonne   Mauvaise
+            Personnalité                       mauvaise            personnalité mais n’avez suffisamment cette personnalité
+                           opinion    opinion             opinion                                          opinion total opinion total
+                                                opinion           pas d’opinion à son égard pour répondre
+           Donald Trump      3%        9%        18%        64%           5%                  1%              12%      82%
+            Javier Milei     7%        14%       10%        40%           8%                  21%             21%      50%
+
+               Lula          5%        29%       21%        17%           11%                 17%             34%      38%
+
+           Pedro Sánchez    11%        21%       14%        19%           12%                 23%             32%      33%
+
+         Ursula von der Leyen 2%       11%       23%        50%           7%                  7%              13%      73%
+
+           Friedrich Merz    2%        16%       21%        18%           13%                 30%             18%      39%
+
+           Giorgia Meloni   20%        34%       16%        18%           5%                  7%              54%      34%
+
+         Volodymyr Zelensky 21%        33%       12%        24%           6%                  4%              54%      36%
+
+          Le Pape Léon XIV  32%        33%        6%        4%            19%                 6%              65%      10%
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 33 ---
+
+RÉSULTATS
+
+        Parmi   les orientations    suivantes,   quelles   devraient   être  selon  vous  les trois  principales
+
+        priorités   du prochain    président    de la République     ?
+
+                                                                  Brut               Redressé               Publié
+                           Baisser les impôts                    14,0%                15,2%                 15%
+
+                        Taxer les grandes fortunes               22,1%                21,3%                 21%
+                  Mettre en place une planification écologique   22,5%                17,2%                 17%
+                          Réduire l’immigration                  36,6%                35,2%                 35%
+
+                           Augmenter le SMIC                     7,2%                  6,4%                  6%
+                 Baisser les cotisations salariales et patronales 16,5%               17,0%                 17%
+                      Augmenter les moyens de l'hôpital          22,7%                26,8%                 27%
+                       Améliorer la cohésion nationale           15,1%                12,8%                 13%
+
+                    Baisser l’âge légal de départ à la retraite  4,6%                  5,0%                  5%
+                  Augmenter l’âge légal de départ à la retraite  14,6%                12,9%                 13%
+                        Sortir de l'Union Européenne             12,3%                14,1%                 14%
+                Renforcer le rôle de la France comme puissance
+                                                                 9,9%                 10,4%                 10%
+              diplomatique indépendante sur la scène internationale
+                      Investir dans la Défense et l’armée        10,8%                 9,0%                  9%
+                     Renforcer la coopération européenne         7,8%                  6,1%                  6%
+                    Augmenter les moyens de l'éducation          26,0%                28,2%                 28%
+                     Réduire le nombre de fonctionnaires         14,4%                13,3%                 13%
+
+                   Lutter contre la criminalité et l’insécurité  26,9%                33,6%                 34%
+                     Donner plus de pouvoir aux citoyens         12,9%                12,9%                 13%
+
+                                                                                         © Election présidentielle -Focus droite et centre -Octobre 2026
+
+--- page 34 ---
+
+Notre       ADN       : la   rigueur
+
+      L’identité de Cluster17 est la rigueur scientifique. Fondé                 scientifique
+
+      par des universitaires, nous avons à cœur de produire des
+      données  de qualité.
+
+      Cluster17  est le résultat d’un travail en recherche et
+      développement  de plusieurs années qui a permis de créer
+
+      un outil de sondages  performant, un panel de 200  000
+      individus et une  méthode   d’analyse innovante  testée
+
+      auprès   de  dizaines de   milliers de  personnes   sur
+      l’ensemble du  territoire. Cette approche repose sur une
+      segmentation   inédite de la  société française en  16
+
+      groupes homogènes   : les Clusters.
+
+                                                                            Jean-Yves  Dormagen   est le président & fondateur
+      Fort de ce travail, Cluster17 s’est hissé sur le podium des
+      meilleurs sondeurs à chaque  élection depuis sa création              de  Cluster17, docteur  et professeur  en  science
+      en 2022.                                                              politique, représentant  en  France  de   la World
+                                                                            Association for Public Opinion Research (WAPOR).
+
+             Retrouvez   nos  performances
+
+--- page 35 ---
+
+Nos      7  engagements
+
+                          1                                                             2
+
+                                                     Cluster17s’engageàappliquerles loisapplicablesenmatière deprotectiondedonnéespersonnelles.Ellea
+        Cluster17s’engageàappliquerlescodesetlestechniques
+                                                     désignéensonseinunDPO(DataProtection Officer)etamisenplaceunPIA(PrivacyImpactAssessment)
+        des Etudes de marché et d’opinion. Elle répond aux règles
+                                                     pourêtreconstammentenconformitéavecleRèglementGénéralsurlaProtectiondeDonnées(RGPD).Pour
+        déontologiques des spécialistes des sondages et protège
+                                                     plus de renseignements sur notre politique de protection de données: https://cluster17.com/politique-de-
+        lesdroitsdesespanélistes.
+                                                     protection-des-donnees/
+                          3
+                                                                                         4
+        Sauf engagement contractuel spécifique, la durée de
+                                                     Cluster17s’engageàréaliserdesprocéduresdecontrôlequalitéàchaqueétaped’uneétude:
+        conservation des données personnelles danslecadre d’un
+                                                       • Le questionnaire est rédigé en tenant compte des standards et normes professionnelles, il est rédigé et
+        sondage est de 36 mois pour les enquêtes récurrentes et
+                                                        reluparledirecteurdesétudespuisenvoyéauclientpourvalidationfinale.
+        de24moispourlesenquêtesadhoc.
+                                                       • Laprogrammationduquestionnaireesttestéeparaumoinstroispersonnesdifférentesavantsonenvoi.
+                          5
+                                                                                         6
+        Cluster17s’imposedesrèglestrèsstrictespourchoisirses
+        panélisteseteffectuerletiragealéatoiredespersonnesqui Cluster17 suit le terrain et la collecte de manière rigoureuse (lien unique, taux de participation, durée des
+        constituerontsonéchantillonpourunsondagedonné:taux réponses, comportement des répondants, contrôle des adresses IP des répondants, suivi des
+        desollicitation,tauxderéponse,tiragealéatoire... comportementsdespanélistes,cohérencedesréponses,…).
+             7    Cluster17analyseles résultats enappliquant les méthodesstatistiques envigueur.Lesrésultats bruts sontsystématiquement contrôlés etleurcohérence
+                  interrogée.Lesrésultatspondéréssontsystématiquementcontrôlésparaumoinsdeuxpersonnesqualifiéesdontunquantitativisteconfirmé.
+
+--- page 36 ---
+
+contact@cluster17.com
+       Retrouvez  Cluster17  sur        &
+                                                                                      jean-yves.dormagen@cluster17.com
