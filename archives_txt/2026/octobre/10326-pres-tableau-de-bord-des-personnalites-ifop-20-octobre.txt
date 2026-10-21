@@ -1,0 +1,648 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10326-pres-tableau-de-bord-des-personnalites-ifop-20-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Le tableau    de  bord  des  personnalités
+
+        Notice   technique
+
+                                                                  FD N° 122161
+                                                                CONTACTS IFOP :
+                                                                   Frédéric Dabi
+                                                              Département Opinion
+                                                            et Stratégies d'Entreprise
+                                                             prénom.nom@ifop.com
+                                                                 OCTOBRE 2026
+
+--- page 2 ---
+
+1
+
+                                                  La  méthodologie
+
+        Ifop-Fiducial pour Paris Match et Sud Radio                       1
+
+        Le tableau de bord des personnalités  Octobre 2026
+
+--- page 3 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Etude réalisée par Ifop-Fiducial pour Paris Match et Sud Radio
+
+         Echantillon
+                            L’enquête a été menée auprès d’un échantillon de 1 007
+                            personnes, représentatif de la population française âgée de 18 ans
+                            et plus.
+
+         Méthodologie
+                            La représentativité de l’échantillon a été assurée par la méthode
+                            des quotas (sexe, âge, profession du chef de ménage, niveau
+                            d’éducation) après stratification par région et catégorie
+                            d’agglomération.
+
+            Mode de recueil
+                            Les interviews ont été réalisées par téléphone du 14 au 16 octobre
+
+                            2026.
+
+        L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2022) et d’un redressement
+        sur le niveau du diplôme et d’un redressement politique sur la base de la reconstitution du vote suivant :
+
+        présidentielle 2022 1er tour.
+        La présente notice est consultable sur le site de la commission des sondages.
+
+        Ifop-Fiducial pour Paris Match et Sud Radio                      2
+
+        Le tableau de bord des personnalités  Octobre 2026
+
+--- page 4 ---
+
+Précision  relative  aux marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+        comme le montre le tableau ci-dessous :
+
+                    INTERVALLE DE CONFIANCE   A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 900 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 2,0. Le vrai pourcentage est donc compris entre 8,0% et 12,0%.
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 1 000 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 1,8. Le vrai pourcentage est donc compris entre 8,2% et 11,8%.
+
+        Ifop-Fiducial pour Paris Match et Sud Radio                      3
+
+        Le tableau de bord des personnalités  Octobre 2026
+
+--- page 5 ---
+
+Structure  de l’échantillon
+
+                                                                 Brut   Redressé
+                                                                 %        %
+        SEXE
+           Un homme                                              47,1    47,7
+           Une femme                                             52,9    52,3
+
+        AGE
+           18-24 ans                                             11,0    10,7
+           25-34 ans                                             15,3    15,9
+           35-49 ans                                             27,2    26,4
+           50-64 ans                                             24,5    25,3
+           65 ans et plus                                        22,0    21,7
+        PROFESSION
+
+           Agriculteur                                           1,9     1,5
+           Artisan ou commerçant                                 4,3     5,6
+           Profession libérale, cadre supérieur                  12,0    13,1
+           Profession intermédiaire                              15,7    14,4
+           Employé                                               9,9     10,2
+           Ouvrier                                               18,9    18,1
+           Retraité                                              29,7    30,8
+
+           Autre inactif                                         7,6     6,2
+        REGION
+           REGION PARISIENNE                                     20,2    18,5
+           NORD                                                  6,2     6,3
+           EST                                                   7,0     8,6
+           BP EST                                                7,2     7,7
+
+           BP OUEST                                              9,9     9,3
+           OUEST                                                 15,4    13,6
+           SUD OUEST                                             10,0    11,3
+           SUD EST                                               11,6    12,1
+           MEDITERRANEE                                          12,5    12,7
+          AGGLOMERATION
+           CC1 : Communes rurales                                22,6    23,4
+
+           CC2 : Agglomération urbaine de moins de 20.000 habitants 17,3 17,0
+           CC3 : Agglomération urbaine de 20 à 100.000 habitants 14,0    12,6
+           CC4 : Agglomération urbaine de 100.000 habitants et plus 30,9 30,6
+           CC5 : Agglomération Parisienne                        15,2    16,5
+        VOTE A L'ELECTION PRESIDENTIELLE 2022 (1er tour)
+           Nathalie Arthaud                                      1,1     0,6
+
+           Philippe Poutou                                       1,2     0,8
+           Fabien Roussel                                        3,0     2,3
+           Jean-Luc Mélenchon                                    16,8    21,5
+           Anne Hidalgo                                          2,8     1,7
+           Yannick Jadot                                         5,4     4,6
+           Emmanuel Macron                                       31,9    27,8
+           Valérie Pécresse                                      4,1     4,8
+
+           Nicolas Dupont-Aignan                                 1,8     2,1
+        Ifop-Fiducial pour Paris Match et Sud Radio                      4
+
+        Le tableau de bord des personnalités  Octobre 2026
+
+--- page 6 ---
+
+Marine Le Pen                                         21,8    23,5
+           Éric Zemmour                                          5,5     7,1
+           Jean Lassalle                                         4,6     3,2
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        Ifop-Fiducial pour Paris Match et Sud Radio                      5
+
+        Le tableau de bord des personnalités  Octobre 2026
+
+--- page 7 ---
+
+Le  classement   général
+
+      Question : Pour chacune des personnalités suivantes, en avez-vous une excellente
+
+               opinion, une bonne opinion, une mauvaise opinion, une très mauvaise
+               opinion ou vous ne la connaissez pas suffisamment ?
+
+                     Michel-Édouard Leclerc      Dominique De Villepin
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 6,0 6,6 Une EXCELLENTE opinion 6,4 5,8
+               Une BONNE opinion 47,5 45,2 Une BONNE opinion 39,7 39,1
+               Une MAUVAISE opinion 23,7 25,0 Une MAUVAISE opinion 34,0 33,2
+               Une TRES MAUVAISE OPINION 7,3 7,0 Une TRES MAUVAISE OPINION 13,4 13,5
+               NE la CONNAIT P AS
+                               10,2 10,6
+                                           NE la CONNAIT P AS
+                                                           4,2  5,2
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           5,3   5,5   (Nsp)           2,2  3,1
+                       Christine Lagarde           Marine Le Pen
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 8,3 6,9 Une EXCELLENTE opinion 11,2 15,2
+               Une BONNE opinion 39,2 36,6 Une BONNE opinion 22,0 27,9
+               Une MAUVAISE opinion 28,1 29,0 Une MAUVAISE opinion 20,6 20,0
+               Une TRES MAUVAISE OPINION 12,8 12,1 Une TRES MAUVAISE OPINION 44,2 35,0
+               NE la CONNAIT P AS
+                               7,8  10,3
+                                           NE la CONNAIT P AS
+                                                           1,8  1,8
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           3,7   5,1   (Nsp)           0,2  0,1
+                       Jordan Bardella            Edouard Philippe
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 10,9 15,0 Une EXCELLENTE opinion 5,7 5,9
+               Une BONNE opinion 22,2 26,5 Une BONNE opinion 35,8 35,1
+               Une MAUVAISE opinion 20,4 18,8 Une MAUVAISE opinion 33,4 34,0
+               Une TRES MAUVAISE OPINION 43,4 36,2 Une TRES MAUVAISE OPINION 21,0 20,8
+               NE la CONNAIT P AS
+                               2,5   3,0
+                                           NE la CONNAIT P AS
+                                                           3,5  3,6
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           0,5   0,5   (Nsp)           0,7  0,6
+        Ifop-Fiducial pour Paris Match et Sud Radio                      6
+        Le tableau de bord des personnalités  Octobre 2026
+
+--- page 8 ---
+
+Robert Ménard              Jean-Louis Borloo
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 10,0 10,8 Une EXCELLENTE opinion 5,2 5,0
+               Une BONNE opinion 27,8 29,8 Une BONNE opinion 43,0 35,3
+               Une MAUVAISE opinion 23,5 23,9 Une MAUVAISE opinion 30,1 32,8
+               Une TRES MAUVAISE OPINION 21,6 15,0 Une TRES MAUVAISE OPINION 8,4 8,7
+               NE la CONNAIT P AS
+                               10,8 13,2
+                                           NE la CONNAIT P AS
+                                                           9,4  12,9
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           6,3   7,4   (Nsp)           3,9  5,3
+                       Ségolène Royal              Nicolas Sarkozy
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 4,4 6,1 Une EXCELLENTE opinion 6,5 7,6
+               Une BONNE opinion 32,2 32,4 Une BONNE opinion 26,2 30,3
+               Une MAUVAISE opinion 38,2 34,0 Une MAUVAISE opinion 31,2 31,6
+               Une TRES MAUVAISE OPINION 20,7 20,9 Une TRES MAUVAISE OPINION 35,0 29,0
+               NE la CONNAIT P AS
+                               3,3   4,6
+                                           NE la CONNAIT P AS
+                                                           1,0  1,4
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           1,3   2,1   (Nsp)           0,1  0,2
+                      François Hollande            Marion Maréchal
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 3,5 3,6 Une EXCELLENTE opinion 8,4 12,1
+               Une BONNE opinion 34,8 34,0 Une BONNE opinion 22,5 24,8
+               Une MAUVAISE opinion 40,3 38,2 Une MAUVAISE opinion 24,3 25,4
+               Une TRES MAUVAISE OPINION 19,8 22,7 Une TRES MAUVAISE OPINION 39,8 31,6
+               NE la CONNAIT P AS
+                               1,3   1,3
+                                           NE la CONNAIT P AS
+                                                           3,4  4,1
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           0,3   0,2   (Nsp)           1,5  2,1
+                      Sébastien Lecornu            Xavier Bertrand
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 5,6 5,9 Une EXCELLENTE opinion 2,3 2,6
+               Une BONNE opinion 35,6 30,9 Une BONNE opinion 34,0 33,9
+               Une MAUVAISE opinion 32,5 35,8 Une MAUVAISE opinion 36,0 32,5
+               Une TRES MAUVAISE OPINION 20,4 20,1 Une TRES MAUVAISE OPINION 12,2 11,0
+               NE la CONNAIT P AS
+                               4,7   5,4
+                                           NE la CONNAIT P AS
+                                                           10,0 12,5
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           1,2   1,9   (Nsp)           5,4  7,5
+                       Michel Barnier              François Ruffin
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 3,7 4,2 Une EXCELLENTE opinion 5,0 4,2
+               Une BONNE opinion 33,4 32,2 Une BONNE opinion 36,8 32,2
+               Une MAUVAISE opinion 39,4 36,7 Une MAUVAISE opinion 29,5 28,9
+               Une TRES MAUVAISE OPINION 11,6 11,0 Une TRES MAUVAISE OPINION 10,2 11,6
+               NE la CONNAIT P AS
+                               8,1  10,2
+                                           NE la CONNAIT P AS
+                                                           12,1 14,9
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           3,8   5,6   (Nsp)           6,4  8,2
+        Ifop-Fiducial pour Paris Match et Sud Radio                      7
+        Le tableau de bord des personnalités  Octobre 2026
+
+--- page 9 ---
+
+Bally Bagayoko            Raphaël Glucksmann
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 13,4 13,8 Une EXCELLENTE opinion 5,8 4,6
+               Une BONNE opinion 23,2 22,3 Une BONNE opinion 33,9 30,9
+               Une MAUVAISE opinion 19,1 18,9 Une MAUVAISE opinion 28,1 26,9
+               Une TRES MAUVAISE OPINION 26,2 26,6 Une TRES MAUVAISE OPINION 17,9 19,8
+               NE la CONNAIT P AS
+                               10,6 11,2
+                                           NE la CONNAIT P AS
+                                                           9,2  10,4
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           7,5   7,2   (Nsp)           5,1  7,4
+                       Gérald Darmanin             David Lisnard
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 3,3 2,9 Une EXCELLENTE opinion 7,6 8,0
+               Une BONNE opinion 32,2 31,1 Une BONNE opinion 23,6 26,0
+               Une MAUVAISE opinion 32,1 34,8 Une MAUVAISE opinion 24,3 23,7
+               Une TRES MAUVAISE OPINION 27,6 26,0 Une TRES MAUVAISE OPINION 9,0 6,8
+               NE la CONNAIT P AS
+                               4,1   4,5
+                                           NE la CONNAIT P AS
+                                                           19,4 19,5
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           0,8   0,7   (Nsp)           16,1 16,0
+                       Fabien Roussel               Gabriel Attal
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 3,1 3,6 Une EXCELLENTE opinion 3,7 3,5
+               Une BONNE opinion 35,7 30,4 Une BONNE opinion 32,6 30,5
+               Une MAUVAISE opinion 33,7 31,9 Une MAUVAISE opinion 36,1 37,4
+               Une TRES MAUVAISE OPINION 11,3 12,9 Une TRES MAUVAISE OPINION 23,7 24,1
+               NE la CONNAIT P AS
+                               11,3 15,2
+                                           NE la CONNAIT P AS
+                                                           3,0  3,6
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           5,0   6,0   (Nsp)           1,0  0,9
+                       Bruno Retailleau             Sarah Knafo
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 3,6 4,5 Une EXCELLENTE opinion 8,6 11,2
+               Une BONNE opinion 28,8 29,0 Une BONNE opinion 20,6 22,1
+               Une MAUVAISE opinion 28,5 29,3 Une MAUVAISE opinion 20,3 21,8
+               Une TRES MAUVAISE OPINION 29,2 22,6 Une TRES MAUVAISE OPINION 28,9 22,1
+               NE la CONNAIT P AS
+                               6,6  10,0
+                                           NE la CONNAIT P AS
+                                                           11,8 13,2
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           3,4   4,7   (Nsp)           9,8  9,6
+                      Bernard Cazeneuve             Olivier Faure
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 3,1 2,7 Une EXCELLENTE opinion 1,2 1,3
+               Une BONNE opinion 32,7 30,4 Une BONNE opinion 30,1 31,1
+               Une MAUVAISE opinion 35,4 33,6 Une MAUVAISE opinion 34,6 31,0
+               Une TRES MAUVAISE OPINION 12,1 12,3 Une TRES MAUVAISE OPINION 14,8 14,8
+               NE la CONNAIT P AS
+                               12,2 14,5
+                                           NE la CONNAIT P AS
+                                                           12,5 13,5
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           4,5   6,5   (Nsp)           6,8  8,3
+        Ifop-Fiducial pour Paris Match et Sud Radio                      8
+        Le tableau de bord des personnalités  Octobre 2026
+
+--- page 10 ---
+
+Eric Ciotti               Gérard Larcher
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 5,9 6,6 Une EXCELLENTE opinion 3,3 2,9
+               Une BONNE opinion 21,6 25,0 Une BONNE opinion 28,2 28,7
+               Une MAUVAISE opinion 27,6 27,1 Une MAUVAISE opinion 32,6 30,9
+               Une TRES MAUVAISE OPINION 34,7 26,2 Une TRES MAUVAISE OPINION 21,5 19,2
+               NE la CONNAIT P AS
+                               6,6   9,6
+                                           NE la CONNAIT P AS
+                                                           9,6  11,8
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           3,6   5,4   (Nsp)           4,9  6,5
+                      Laurent Wauquiez           Jean-Luc Mélenchon
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 1,7 2,5 Une EXCELLENTE opinion 10,5 11,3
+               Une BONNE opinion 28,2 29,0 Une BONNE opinion 21,5 20,0
+               Une MAUVAISE opinion 36,9 38,6 Une MAUVAISE opinion 21,7 22,1
+               Une TRES MAUVAISE OPINION 23,1 17,4 Une TRES MAUVAISE OPINION 44,0 43,8
+               NE la CONNAIT P AS
+                               7,0   8,1
+                                           NE la CONNAIT P AS
+                                                           2,1  2,5
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           3,1   4,4   (Nsp)           0,1  0,2
+                       Marine Tondelier            Yannick Jadot
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 3,6 3,7 Une EXCELLENTE opinion 1,7 1,6
+               Une BONNE opinion 31,0 26,9 Une BONNE opinion 32,8 28,9
+               Une MAUVAISE opinion 26,0 26,3 Une MAUVAISE opinion 26,5 23,3
+               Une TRES MAUVAISE OPINION 18,5 17,9 Une TRES MAUVAISE OPINION 11,8 12,7
+               NE la CONNAIT P AS
+                               12,7 15,4
+                                           NE la CONNAIT P AS
+                                                           16,9 21,0
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           8,2   9,7   (Nsp)           10,3 12,4
+                        Rachida Dati               Bruno Le Maire
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 1,9 2,3 Une EXCELLENTE opinion 2,5 3,0
+               Une BONNE opinion 23,8 28,0 Une BONNE opinion 27,3 27,3
+               Une MAUVAISE opinion 39,3 38,9 Une MAUVAISE opinion 38,0 39,3
+               Une TRES MAUVAISE OPINION 30,6 25,6 Une TRES MAUVAISE OPINION 24,0 20,5
+               NE la CONNAIT P AS
+                               3,5   3,9
+                                           NE la CONNAIT P AS
+                                                           6,4  7,2
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           0,9   1,3   (Nsp)           1,7  2,7
+                       Elisabeth Borne             Thierry Breton
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 2,0 2,1 Une EXCELLENTE opinion 4,1 3,5
+               Une BONNE opinion 30,0 27,8 Une BONNE opinion 29,0 26,3
+               Une MAUVAISE opinion 34,3 33,2 Une MAUVAISE opinion 26,7 28,9
+               Une TRES MAUVAISE OPINION 26,9 27,8 Une TRES MAUVAISE OPINION 9,6 8,5
+               NE la CONNAIT P AS
+                               5,0   6,5
+                                           NE la CONNAIT P AS
+                                                           18,0 19,0
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           1,8   2,7   (Nsp)           12,7 13,8
+        Ifop-Fiducial pour Paris Match et Sud Radio                      9
+        Le tableau de bord des personnalités  Octobre 2026
+
+--- page 11 ---
+
+Sandrine Rousseau           Manuel Bompard
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 4,2 3,6 Une EXCELLENTE opinion 8,0 8,3
+               Une BONNE opinion 25,7 26,0 Une BONNE opinion 21,8 21,2
+               Une MAUVAISE opinion 28,7 27,0 Une MAUVAISE opinion 25,8 23,8
+               Une TRES MAUVAISE OPINION 25,6 24,5 Une TRES MAUVAISE OPINION 22,6 22,1
+               NE la CONNAIT P AS
+                               10,3 13,5
+                                           NE la CONNAIT P AS
+                                                           13,2 14,7
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           5,5   5,4   (Nsp)           8,5  9,9
+                        Hervé Morin                Valérie Pécresse
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 1,4 2,1 Une EXCELLENTE opinion 2,2 2,8
+               Une BONNE opinion 27,0 27,1 Une BONNE opinion 27,6 26,3
+               Une MAUVAISE opinion 32,9 30,7 Une MAUVAISE opinion 39,7 37,4
+               Une TRES MAUVAISE OPINION 8,0 7,8 Une TRES MAUVAISE OPINION 24,1 23,9
+               NE la CONNAIT P AS
+                               18,6 19,5
+                                           NE la CONNAIT P AS
+                                                           4,2  5,8
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           12,0 12,8   (Nsp)           2,1  3,7
+                      Emmanuel Grégoire            Rima Hassan
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 3,2 3,1 Une EXCELLENTE opinion 8,4 9,2
+               Une BONNE opinion 27,3 25,8 Une BONNE opinion 22,2 19,6
+               Une MAUVAISE opinion 26,4 27,7 Une MAUVAISE opinion 20,1 21,2
+               Une TRES MAUVAISE OPINION 8,2 8,3 Une TRES MAUVAISE OPINION 26,4 25,3
+               NE la CONNAIT P AS
+                               20,7 21,5
+                                           NE la CONNAIT P AS
+                                                           13,3 14,1
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           14,2 13,7   (Nsp)           9,5  10,6
+                       Laurent Nuñez               Yaël Braun-Pivet
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 1,9 1,8 Une EXCELLENTE opinion 2,2 2,1
+               Une BONNE opinion 25,8 26,7 Une BONNE opinion 27,1 25,0
+               Une MAUVAISE opinion 29,6 28,9 Une MAUVAISE opinion 24,9 24,8
+               Une TRES MAUVAISE OPINION 19,5 17,3 Une TRES MAUVAISE OPINION 17,9 16,9
+               NE la CONNAIT P AS
+                               13,9 16,1
+                                           NE la CONNAIT P AS
+                                                           14,4 16,1
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           9,2   9,2   (Nsp)           13,4 15,1
+                       Jean-Noël Barrot            François Bayrou
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 1,6 1,9 Une EXCELLENTE opinion 2,3 3,2
+               Une BONNE opinion 25,4 24,8 Une BONNE opinion 23,0 23,5
+               Une MAUVAISE opinion 31,8 33,1 Une MAUVAISE opinion 42,3 41,2
+               Une TRES MAUVAISE OPINION 10,2 7,6 Une TRES MAUVAISE OPINION 27,6 24,8
+               NE la CONNAIT P AS
+                               18,7 18,4
+                                           NE la CONNAIT P AS
+                                                           4,0  6,1
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           12,3 14,2   (Nsp)           0,9  1,3
+        Ifop-Fiducial pour Paris Match et Sud Radio                      10
+        Le tableau de bord des personnalités  Octobre 2026
+
+--- page 12 ---
+
+François-Xavier Bellamy       Aurore Bergé
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 2,8 2,7 Une EXCELLENTE opinion 1,2 1,2
+               Une BONNE opinion 23,2 23,9 Une BONNE opinion 26,7 25,3
+               Une MAUVAISE opinion 34,2 33,9 Une MAUVAISE opinion 30,1 29,5
+               Une TRES MAUVAISE OPINION 13,1 10,8 Une TRES MAUVAISE OPINION 16,1 14,9
+               NE la CONNAIT P AS
+                               16,5 17,3
+                                           NE la CONNAIT P AS
+                                                           16,0 17,5
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           10,2 11,4   (Nsp)           9,9  11,6
+                      Emmanuel Macron              Eric Zemmour
+                    Réponse
+                               %     %
+                                                Réponse
+                                                           %     %
+                               brut poids                  brut poids
+               Total           100,0 100,0 Total           100,0 100,0
+               Une EXCELLENTE opinion 2,8 2,9 Une EXCELLENTE opinion 5,9 8,2
+               Une BONNE opinion 23,5 22,4 Une BONNE opinion 15,0 17,1
+               Une MAUVAISE opinion 31,5 31,8 Une MAUVAISE opinion 23,3 23,3
+               Une TRES MAUVAISE OPINION 41,8 42,8 Une TRES MAUVAISE OPINION 52,2 46,5
+               NE la CONNAIT P AS
+                               0,4   0,2
+                                           NE la CONNAIT P AS
+                                                           3,0  4,6
+               SUFFISAMMENT                SUFFISAMMENT
+               (Nsp)           0,0   0,0   (Nsp)           0,6  0,3
+
+        Ifop-Fiducial pour Paris Match et Sud Radio                      11
+        Le tableau de bord des personnalités  Octobre 2026

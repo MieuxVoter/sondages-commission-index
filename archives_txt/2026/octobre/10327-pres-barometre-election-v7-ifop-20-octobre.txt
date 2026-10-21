@@ -1,0 +1,755 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10327-pres-barometre-election-v7-ifop-20-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Baromètre     de   l’élection   présidentielle     - vague    7
+
+                                                  Notice    technique
+
+           FD N°122853
+           Contact Ifop :
+
+           Frédéric Dabi
+           Département Opinion et Stratégies d'Entreprise
+           TEL : 01 45 84 14 44
+           prenom.nom@ifop.com
+           OCTOBRE 2026
+
+--- page 2 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Etude réalisée par Ifop-Fiducial pour LCI, le Figaro et Sud
+         Radio
+
+             Echantillon    L’enquête a été menée auprès d’un échantillon de 1 928 personnes
+
+                            inscrites sur les listes électorales, extrait d’un échantillon de
+                            2 081 personnes, représentatif de la population française âgée de
+
+                            18 ans et plus.
+
+            Méthodologie
+                            La représentativité de l’échantillon a été assurée par la méthode
+                            des quotas (sexe, âge, profession de la personne interrogée) après
+
+                            stratification par région et catégorie d'agglomération.
+
+            Mode de recueil
+                            Les interviews ont été réalisées par questionnaire auto-administré
+
+                            en ligne du 17 octobre à partir de 20h au 19 octobre 2026.
+
+        Conditions d’interrogation : Les questions ont été placées à la suite des questions permettant d’établir les
+        quotas.
+
+        Tout interviewé ayant complété un questionnaire a obtenu des points cumulables pour une valeur inférieure
+        à 1 euro.
+          •  L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2020) et d’un
+             redressement politique sur la base de la reconstitution des votes suivants : présidentielle 2022 1er
+             tour, européennes 2024, législatives 2024 1er tour
+
+               La présente notice est consultable sur le site de la commission des sondages
+
+        NOTICE TECHNIQUE : Ifop-Fiducial pour LCI, Le Figaro et Sud Radio 2
+
+        Baromètre de l’élection présidentielle - vague 7  Octobre 2026
+
+--- page 3 ---
+
+Précision  relative  aux marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+
+        comme le montre le tableau ci-dessous :
+
+                   INTERVALLE  DE CONFIANCE  A 95% DE CHANCE
+
+                  Si le pourcentage trouvé est…
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+
+           100       4,4      6,0       8,0      9,2       9,8      10,0
+           200       3,1      4,2       5,7      6,5       6,9      7,1
+           300       2,5      3,5       4,6      5,3       5,7      5,8
+           400       2,2      3,0       4,0      4,6       4,9      5,0
+           500       1,9      2,7       3,6      4,1       4,4      4,5
+           600       1,8      2,4       3,3      3,7       4,0      4,1
+           700       1,6      2,3       3,0      3,5       3,7      3,8
+           800       1,5      2,1       2,8      3,2       3,5      3,5
+           900       1,4      2,0       2,6      3,0       3,2      3,3
+           1 000     1,4      1,8       2,5      2,8       3,0      3,1
+
+           1 100     1,3      1,8       2,4      2,7       2,9      3,0
+           1 200     1,2      1,7       2,3      2,6       2,8      2,8
+           1 300     1,2      1,6       2,2      2,5       2,7      2,7
+           1 400     1,1      1,6       2,1      2,4       2,6      2,6
+           1 500     1,1      1,5       2,0      2,3       2,4      2,5
+           2 000     1,0      1,3       1,8      2,0       2,2      2,2
+           3 000     0,8      1,1       1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d'un échantillon de 1 100 personnes, si le pourcentage mesuré
+        est de 10 %, la marge d'erreur est égale à 1,8. Le vrai pourcentage est donc compris entre 8,2 % et 11,8 %.
+        Exemple de lecture du tableau : dans le cas d'un échantillon de 1 400 personnes, si le pourcentage mesuré
+        est de 10 %, la marge d'erreur est égale à 1,6. Le vrai pourcentage est donc compris entre 8,4 % et 11,6 %.
+
+        Exemple de lecture du tableau : dans le cas d'un échantillon de 2 000 personnes, si le pourcentage mesuré
+        est de 10 %, la marge d'erreur est égale à 1,3. Le vrai pourcentage est donc compris entre 8,7 % et 11,3 %.
+
+        NOTICE TECHNIQUE : Ifop-Fiducial pour LCI, Le Figaro et Sud Radio 3
+
+        Baromètre de l’élection présidentielle - vague 7  Octobre 2026
+
+--- page 4 ---
+
+Structure  de l’échantillon
+
+                                                     Brut (%)   Redressé (%)
+
+         SEXE DE L'INTERVIEWÉ(E)
+          Homme                                       49,8        47,7
+          Femme                                       50,2        52,3
+         AGE DE L'INTERVIEWÉ(E)
+          18 à 24 ans                                  9,7        10,3
+          25 à 34 ans                                 12,9        14,8
+
+          35 à 49 ans                                 26,0        24,0
+          50 à 64 ans                                 26,1        24,4
+          65 ans - 74 ans                             13,6        14,0
+          75 ans et plus                              11,7        12,5
+         PROFESSION DE L'INTERVIEWÉ(E)
+          Agriculteurs                                 0,4         0,7
+          Artisans                                     3,1         3,8
+
+          Cadre et prof. int. supérieure              11,1        11,2
+          Profession intermédiaire                    15,4        15,0
+          Employé                                     17,5        15,8
+          Ouvrier                                     13,1        12,1
+          Retraité                                    26,4        27,1
+
+          Autre                                       12,9        14,3
+         REGION
+          Grand-Est                                    8,3         8,5
+          Nouvelle-Aquitaine                           9,6         9,5
+          Auvergne-Rhône-Alpes                        12,8        12,3
+
+          Bourgogne-Franche-Comté                      4,4         4,3
+          Bretagne                                     4,5         5,2
+          Centre-Val-De-Loire                          3,9         3,9
+          Ile-De-France                               18,9        18,4
+          Occitanie                                   10,0         9,4
+
+          Hauts-de-France                              8,4         8,9
+          Normandie                                    5,0         5,1
+          Pays de la Loire                             6,1         5,8
+          PACA, Corse                                  8,1         8,5
+         CATEGORIE D’AGGLOMERATION
+
+          CC1                                         19,7        21,1
+          CC2                                         16,0        18,2
+          CC3                                         14,6        13,9
+          CC4                                         33,2        30,6
+          CC5                                         16,6        16,3
+
+         TOTAL                                        100,0       100,0
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE : Ifop-Fiducial pour LCI, Le Figaro et Sud Radio 4
+
+        Baromètre de l’élection présidentielle - vague 7  Octobre 2026
+
+--- page 5 ---
+
+Reconstitution   du  1er tour de l’élection  présidentielle
+
+                                      2022
+
+                                                      Brut       Redressé
+                                                       (%)        (%)
+
+         • Nathalie Arthaud ......................................................................... 1,1 0,6
+         • Philippe Poutou ........................................................................... 2,3 0,8
+
+         • Fabien Roussel ............................................................................. 3,7 2,3
+
+         • Jean-Luc Mélenchon .................................................................... 17,9 21,5
+         • Anne Hidalgo................................................................................ 2,3 1,7
+
+         • Yannick Jadot ............................................................................... 4,9 4,6
+         • Emmanuel Macron ...................................................................... 24,2 27,8
+
+         • Valérie Pécresse ........................................................................... 5,2 4,8
+
+         • Nicolas Dupont-Aignan ................................................................ 3,3 2,1
+         • Marine Le Pen .............................................................................. 25,7 23,5
+
+         • Éric Zemmour............................................................................... 5,6 7,1
+         • Jean Lassalle ................................................................................. 3,9 3,2
+
+           TOTAL .......................................................................................... 100 100
+
+            - Ne se prononcent pas ......................................................... 23,2
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE : Ifop-Fiducial pour LCI, Le Figaro et Sud Radio 5
+
+        Baromètre de l’élection présidentielle - vague 7  Octobre 2026
+
+--- page 6 ---
+
+Reconstitution    du vote  aux  élections  européennes    2024
+
+                                                      Brut       Redressé
+
+                                                       (%)         (%)
+           Une liste d’extrême gauche                  2,7         0,7
+
+           La liste de La France insoumise             8,2         9,8
+
+           La liste du Parti Communiste                2,8         2,4
+           La liste du Parti Socialiste et de Place Publique 14,2 13,8
+
+           La liste des Ecologistes                    6,6         5,4
+           La liste de Renaissance                    12,4        14,5
+
+           La liste du Parti Animaliste                2,0         2,0
+
+           Une liste divers écologistes                0,8         2,0
+           La liste Les Républicains                   9,3         7,3
+
+           La liste Alliance Rurale                    0,9         2,4
+           La liste du Rassemblement National         34,3        31,7
+
+           La liste Reconquête                         3,1         5,4
+
+           La liste des Patriotes                      0,4         0,9
+           La liste de l’UPR                           0,5         1,0
+
+           Une autre liste                             1,9         0,7
+          TOTAL                                       100,0       100,0
+
+          Ne se prononcent pas                        38,0
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE : Ifop-Fiducial pour LCI, Le Figaro et Sud Radio 6
+
+        Baromètre de l’élection présidentielle - vague 7  Octobre 2026
+
+--- page 7 ---
+
+Reconstitution   du  1er tour des  élections législatives  2024
+
+                                                      Brut       Redressé
+
+                                                       (%)         (%)
+           Extrême gauche                              2,2         1,2
+
+           NFP                                        26,2        28,7
+
+           Divers gauche                               1,6         1,0
+           ENS Ensemble !                             19,2        22,4
+
+           Divers centre                               0,6         0,8
+           LR & DVD                                   12,4         9,5
+
+           RN & alliés                                34,0        34,0
+
+           Droite souverainiste, divers EXD - Reconquête 1,4       1,1
+           DIVERS                                      2,2         1,3
+
+         TOTAL                                        100,0       100,0
+          Ne se prononcent pas                        35,2
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE : Ifop-Fiducial pour LCI, Le Figaro et Sud Radio 7
+
+        Baromètre de l’élection présidentielle - vague 7  Octobre 2026
+
+--- page 8 ---
+
+L’intention   d’aller voter
+
+        Question :  [Aux personnes inscrites sur les listes électorales] Vous personnellement,
+                    envisagez-vous d’aller voter à la prochaine élection présidentielle qui aura lieu le
+                    18 avril 2027 ?
+
+         Base : Ensemble des personnes inscrites sur les listes électorales Brut Redressé
+                                                       (%)        (%)
+
+         • Oui ............................................................................................... 95,1 95,0
+
+         • Non .............................................................................................. 4,9 5,0
+           TOTAL .......................................................................................... 100 100
+
+        Question :  [Aux personnes inscrites sur les listes électorales envisageant d’aller voter à la
+                    prochaine élection présidentielle] Et diriez-vous que… ?
+
+                                                      Brut       Redressé
+                                                       (%)        (%)
+
+         • C’est tout à fait certain ............................................................... 76,7 77,6
+
+         • C’est pratiquement certain ......................................................... 17,3 15,6
+         • Il y a de grandes chances ............................................................ 4,6 5,5
+
+         • Ce n’est pas certain ..................................................................... 1,4 1,3
+
+           TOTAL .......................................................................................... 100 100
+
+        * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point
+
+        NOTICE TECHNIQUE : Ifop-Fiducial pour LCI, Le Figaro et Sud Radio 8
+
+        Baromètre de l’élection présidentielle - vague 7  Octobre 2026
+
+--- page 9 ---
+
+L’intention   de vote  au premier   tour  de l’élection
+
+              présidentielle  - hypothèse   E. Philippe  et G. Attal
+                                    candidats
+
+        Question : Si dimanche prochain se déroulait le premier tour de l’élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+            Base : Ensemble des personnes inscrites sur les listes électorales (1) Résultats publiés
+
+                                                            (%)
+          Nathalie Arthaud                                  0,5
+          Jean-Luc Mélenchon                                16,5
+          Fabien Roussel                                    3
+          Marine Tondelier                                  3
+          Raphaël Glucksmann                                13,5
+          Gabriel Attal                                     5
+          Edouard Philippe                                  12
+          Bruno Retailleau                                  5
+          Nicolas Dupont-Aignan                             2
+          Marine Le Pen                                     36
+          Éric Zemmour                                      3,5
+          TOTAL                                             100
+          • Ne se prononcent pas                            25,8
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1431 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1159 personnes ont exprimé une intention de vote.
+        Nota Bene : les scores établis tiennent compte des redressements de l'élection présidentielle 2022 (1er tour) sur la base des électeurs certains d'aller voter (colonne grise).
+
+        NOTICE TECHNIQUE : Ifop-Fiducial pour LCI, Le Figaro et Sud Radio 9
+
+        Baromètre de l’élection présidentielle - vague 7  Octobre 2026
+
+--- page 10 ---
+
+L’intention   de vote  au premier   tour  de l’élection
+
+            présidentielle  – E. Philippe  candidat  du  bloc central
+
+        Question : Si dimanche prochain se déroulait le premier tour de l’élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+
+                   chances que vous votiez ?
+                         En pourcentage des suffrages exprimés
+
+                Base : Ensemble des personnes inscrites sur les listes électorales (1) Résultats publiés
+
+                                                            (%)
+          Nathalie Arthaud                                  0,5
+          Jean-Luc Mélenchon                                16,5
+          Fabien Roussel                                    2,5
+          Marine Tondelier                                  3
+          Raphaël Glucksmann                                14
+          Edouard Philippe                                  15
+          Bruno Retailleau                                  7,5
+          Nicolas Dupont-Aignan                             1,5
+          Marine Le Pen                                     36
+          Éric Zemmour                                      3,5
+          TOTAL                                             100
+          • Ne se prononcent pas                            26,3
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1421 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1145 personnes ont exprimé une intention de vote.
+        Nota Bene : les scores établis tiennent compte des redressements de l'élection présidentielle 2022 (1er tour) sur la base des électeurs certains d'aller voter (colonne grise).
+
+        NOTICE TECHNIQUE : Ifop-Fiducial pour LCI, Le Figaro et Sud Radio 10
+
+        Baromètre de l’élection présidentielle - vague 7  Octobre 2026
+
+--- page 11 ---
+
+L’intention   de vote  au premier   tour  de l’élection
+
+             présidentielle   – G. Attal candidat   du bloc  central
+
+        Question : Si dimanche prochain se déroulait le premier tour de l’élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+                Base : Ensemble des personnes inscrites sur les listes électorales (1) Résultats publiés
+
+                                                            (%)
+          Nathalie Arthaud                                  0,5
+          Jean-Luc Mélenchon                                16
+          Fabien Roussel                                    2
+          Marine Tondelier                                  3
+          Raphaël Glucksmann                                16
+          Gabriel Attal                                     13
+          Bruno Retailleau                                  7
+          Nicolas Dupont-Aignan                             1,5
+          Marine Le Pen                                     38
+          Éric Zemmour                                      3
+          TOTAL                                             100
+          • Ne se prononcent pas
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1402 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1129 personnes ont exprimé une intention de vote.
+        Nota Bene : les scores établis tiennent compte des redressements de l'élection présidentielle 2022 (1er tour) sur la base des électeurs certains d'aller voter (colonne grise).
+
+        NOTICE TECHNIQUE : Ifop-Fiducial pour LCI, Le Figaro et Sud Radio 11
+
+        Baromètre de l’élection présidentielle - vague 7  Octobre 2026
+
+--- page 12 ---
+
+L’intention   de vote  au premier   tour  de l’élection
+
+              présidentielle   – hypothèse   JL. Mélenchon    et R.
+                   Glucksmann     seuls candidats   de gauche
+
+        Question : Si dimanche prochain se déroulait le premier tour de l’élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+                Base : Ensemble des personnes inscrites sur les listes électorales (1) Résultats publiés
+
+                                                            (%)
+          Nathalie Arthaud                                  0,5
+          Jean-Luc Mélenchon                                18
+          Raphaël Glucksmann                                16
+          Edouard Philippe                                  16
+          Bruno Retailleau                                  6,5
+          Nicolas Dupont-Aignan                             2,5
+          Marine Le Pen                                     37
+          Éric Zemmour                                      3,5
+          TOTAL                                             100
+          • Ne se prononcent pas
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1408 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1138 personnes ont exprimé une intention de vote.
+        Nota Bene : les scores établis tiennent compte des redressements de l'élection présidentielle 2022 (1er tour) sur la base des électeurs certains d'aller voter (colonne grise).
+
+        NOTICE TECHNIQUE : Ifop-Fiducial pour LCI, Le Figaro et Sud Radio 12
+
+        Baromètre de l’élection présidentielle - vague 7  Octobre 2026
+
+--- page 13 ---
+
+L’intention   de vote  au premier   tour  de l’élection
+
+         présidentielle  – hypothèse    JL. Mélenchon    et F. Hollande
+                          seuls  candidats  de  gauche
+
+        Question : Si dimanche prochain se déroulait le premier tour de l’élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+                Base : Ensemble des personnes inscrites sur les listes électorales (1) Résultats publiés
+
+                                                            (%)
+          Nathalie Arthaud                                  0,5
+          Jean-Luc Mélenchon                                20
+          François Hollande                                 10
+          Gabriel Attal                                     6,5
+          Edouard Philippe                                  14
+          Bruno Retailleau                                  6
+          Nicolas Dupont-Aignan                             2
+          Marine Le Pen                                     38
+          Éric Zemmour                                      3
+          TOTAL                                             100
+          • Ne se prononcent pas
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1360 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1101 personnes ont exprimé une intention de vote.
+        Nota Bene : les scores établis tiennent compte des redressements de l'élection présidentielle 2022 (1er tour) sur la base des électeurs certains d'aller voter (colonne grise).
+
+        NOTICE TECHNIQUE : Ifop-Fiducial pour LCI, Le Figaro et Sud Radio 13
+
+        Baromètre de l’élection présidentielle - vague 7  Octobre 2026
+
+--- page 14 ---
+
+L’intention   de vote  au premier   tour  de l’élection
+
+         présidentielle   – hypothèse   F. Ruffin, D. de  Villepin et D.
+                               Lisnard  candidats
+
+        Question : Si dimanche prochain se déroulait le premier tour de l’élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+                Base : Ensemble des personnes inscrites sur les listes électorales (1) Résultats publiés
+
+                                                            (%)
+          Nathalie Arthaud                                  -
+          Jean-Luc Mélenchon                                15
+          Fabien Roussel                                    2
+          François Ruffin                                   1,5
+          Marine Tondelier                                  2,5
+          Raphaël Glucksmann                                12
+          Gabriel Attal                                     4
+          Edouard Philippe                                  12
+          Dominique de Villepin                             1,5
+          Bruno Retailleau                                  5,5
+          David Lisnard                                     5,5
+          Nicolas Dupont-Aignan                             1,5
+          Marine Le Pen                                     34
+          Éric Zemmour                                      3
+          TOTAL                                             100
+          • Ne se prononcent pas
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1463 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1179 personnes ont exprimé une intention de vote.
+        Nota Bene : les scores établis tiennent compte des redressements de l'élection présidentielle 2022 (1er tour) sur la base des électeurs certains d'aller voter (colonne grise).
+
+        NOTICE TECHNIQUE : Ifop-Fiducial pour LCI, Le Figaro et Sud Radio 14
+
+        Baromètre de l’élection présidentielle - vague 7  Octobre 2026
+
+--- page 15 ---
+
+L’intention   de vote  au premier   tour  de l’élection
+
+          présidentielle   – hypothèse   D. Lisnard  seul candidat   de
+                                      droite
+
+        Question : Si dimanche prochain se déroulait le premier tour de l’élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+                Base : Ensemble des personnes inscrites sur les listes électorales (1) Résultats publiés
+
+                                                            (%)
+          Nathalie Arthaud                                  0,5
+          Jean-Luc Mélenchon                                15,5
+          Fabien Roussel                                    2
+          Marine Tondelier                                  3
+          Raphaël Glucksmann                                13
+          Gabriel Attal                                     5
+          Edouard Philippe                                  13
+          David Lisnard                                     7
+          Nicolas Dupont-Aignan                             2
+          Marine Le Pen                                     36
+          Éric Zemmour                                      3
+          TOTAL                                             100
+          • Ne se prononcent pas
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1439 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1158 personnes ont exprimé une intention de vote.
+        Nota Bene : les scores établis tiennent compte des redressements de l'élection présidentielle 2022 (1er tour) sur la base des électeurs certains d'aller voter (colonne grise).
+
+        NOTICE TECHNIQUE : Ifop-Fiducial pour LCI, Le Figaro et Sud Radio 15
+
+        Baromètre de l’élection présidentielle - vague 7  Octobre 2026
+
+--- page 16 ---
+
+L’intention   de vote  au premier   tour  de l’élection
+
+             présidentielle   – hypothèse   F. Ruffin  et N. Polony
+                                    candidats
+
+        Question : Si dimanche prochain se déroulait le premier tour de l’élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+                Base : Ensemble des personnes inscrites sur les listes électorales (1) Résultats publiés
+
+                                                            (%)
+          Nathalie Arthaud                                  0,5
+          Jean-Luc Mélenchon                                15
+          Fabien Roussel                                    2
+          François Ruffin                                   2
+          Marine Tondelier                                  3
+          Raphaël Glucksmann                                12
+          Gabriel Attal                                     6
+          Edouard Philippe                                  12
+          Bruno Retailleau                                  6
+          Nicolas Dupont-Aignan                             2
+          Marine Le Pen                                     35
+          Éric Zemmour                                      3,5
+          Natacha Polony                                    1
+          TOTAL                                             100
+          • Ne se prononcent pas
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1451 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1164 personnes ont exprimé une intention de vote.
+        Nota Bene : les scores établis tiennent compte des redressements de l'élection présidentielle 2022 (1er tour) sur la base des électeurs certains d'aller voter (colonne grise).
+
+        NOTICE TECHNIQUE : Ifop-Fiducial pour LCI, Le Figaro et Sud Radio 16
+
+        Baromètre de l’élection présidentielle - vague 7  Octobre 2026
+
+--- page 17 ---
+
+L’intention  de  vote au  second  tour  de  l’élection
+
+          présidentielle  - hypothèse   JL. Mélenchon    vs. M.  Le Pen
+
+        Question : Si dimanche prochain se déroulait le second tour de l'élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+                Base : Ensemble des personnes inscrites sur les listes électorales (1) Résultats publiés
+
+                                                            (%)
+          Jean-Luc Mélenchon                                32
+          Marine Le Pen                                     68
+          TOTAL                                             100
+          • Ne se prononcent pas
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1240 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 981 personnes ont exprimé une intention de vote.
+        Nota Bene : les scores établis tiennent compte des redressements de l'élection présidentielle 2022 (1er tour) sur la base des électeurs certains d'aller voter (colonne grise).
+
+        NOTICE TECHNIQUE : Ifop-Fiducial pour LCI, Le Figaro et Sud Radio 17
+
+        Baromètre de l’élection présidentielle - vague 7  Octobre 2026
+
+--- page 18 ---
+
+L’intention  de  vote au  second  tour  de  l’élection
+
+         présidentielle   - hypothèse   R. Glucksmann     vs. M. Le Pen
+
+        Question : Si dimanche prochain se déroulait le second tour de l'élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+                Base : Ensemble des personnes inscrites sur les listes électorales (1) Résultats publiés
+
+                                                            (%)
+          Raphaël Glucksmann                                43
+          Marine Le Pen                                     57
+          TOTAL                                             100
+          • Ne se prononcent pas
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1383 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1095 personnes ont exprimé une intention de vote.
+        Nota Bene : les scores établis tiennent compte des redressements de l'élection présidentielle 2022 (1er tour) sur la base des électeurs certains d'aller voter (colonne grise).
+
+        NOTICE TECHNIQUE : Ifop-Fiducial pour LCI, Le Figaro et Sud Radio 18
+
+        Baromètre de l’élection présidentielle - vague 7  Octobre 2026
+
+--- page 19 ---
+
+L’intention  de  vote au  second  tour  de  l’élection
+
+           présidentielle   - hypothèse   F. Hollande   vs. M. Le Pen
+
+        Question : Si dimanche prochain se déroulait le second tour de l'élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+                Base : Ensemble des personnes inscrites sur les listes électorales (1) Résultats publiés
+
+                                                            (%)
+          François Hollande                                 41
+          Marine Le Pen                                     59
+          TOTAL                                             100
+          • Ne se prononcent pas
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1346 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1063 personnes ont exprimé une intention de vote.
+        Nota Bene : les scores établis tiennent compte des redressements de l'élection présidentielle 2022 (1er tour) sur la base des électeurs certains d'aller voter (colonne grise).
+
+        NOTICE TECHNIQUE : Ifop-Fiducial pour LCI, Le Figaro et Sud Radio 19
+
+        Baromètre de l’élection présidentielle - vague 7  Octobre 2026
+
+--- page 20 ---
+
+L’intention  de  vote au  second  tour  de  l’élection
+
+              présidentielle  - hypothèse   G. Attal vs. M.  Le Pen
+
+        Question : Si dimanche prochain se déroulait le second tour de l'élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+                Base : Ensemble des personnes inscrites sur les listes électorales (1) Résultats publiés
+
+                                                            (%)
+          Gabriel Attal                                     42
+          Marine Le Pen                                     58
+          TOTAL                                             100
+          • Ne se prononcent pas
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1314 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1044 personnes ont exprimé une intention de vote.
+        Nota Bene : les scores établis tiennent compte des redressements de l'élection présidentielle 2022 (1er tour) sur la base des électeurs certains d'aller voter (colonne grise).
+
+        NOTICE TECHNIQUE : Ifop-Fiducial pour LCI, Le Figaro et Sud Radio 20
+
+        Baromètre de l’élection présidentielle - vague 7  Octobre 2026
+
+--- page 21 ---
+
+L’intention  de  vote au  second  tour  de  l’élection
+
+            présidentielle  - hypothèse   E. Philippe  vs. M.  Le Pen
+
+        Question : Si dimanche prochain se déroulait le second tour de l'élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+                Base : Ensemble des personnes inscrites sur les listes électorales (1) Résultats publiés
+
+                                                            (%)
+          Edouard Philippe                                  44
+          Marine Le Pen                                     56
+          TOTAL                                             100
+          • Ne se prononcent pas
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1345 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1061 personnes ont exprimé une intention de vote.
+        Nota Bene : les scores établis tiennent compte des redressements de l'élection présidentielle 2022 (1er tour) sur la base des électeurs certains d'aller voter (colonne grise).
+
+        NOTICE TECHNIQUE : Ifop-Fiducial pour LCI, Le Figaro et Sud Radio 21
+
+        Baromètre de l’élection présidentielle - vague 7  Octobre 2026
