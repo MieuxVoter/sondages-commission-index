@@ -1,0 +1,646 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10328-pres-attentes-reformes-ifop-21-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Qu’attendent    les Français  pour  2027  en  matière   de
+
+                                                             réformes   ?
+
+                                                      Notice  technique
+
+           FD / MAD N° 122833
+           Contacts Ifop :
+           Frédéric Dabi / Marie-Agathe Deffain
+           Département Opinion et Stratégies d'Entreprise
+           TEL : 01 45 84 14 44
+           prenom.nom@ifop.com
+           21 OCTOBRE 2026
+
+--- page 2 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Ifop pour l’Institut de l’entreprise
+
+              Echantillon
+                            L’enquête a été menée auprès d’un échantillon de 1 062 personnes
+                            représentatif de la population française âgée de 18 ans et plus.
+
+            Méthodologie
+                            La représentativité de l’échantillon a été assurée par la méthode
+
+                            des quotas (sexe, âge, profession de la personne interrogée) après
+                            stratification par région et catégorie d'agglomération.
+
+            Mode de recueil
+
+                            Les interviews ont été réalisées par questionnaire auto-administré en
+                            ligne du 12 au 13 octobre 2026.
+
+        Conditions d’interrogation : Les questions ont été placées à la suite des questions permettant d’établir les
+        quotas.
+        Tout interviewé ayant complété un questionnaire a obtenu des points cumulables pour une valeur inférieure
+        à 1 euro. L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2022) et d’un
+        redressement politique sur la base de la reconstitution des votes suivants : présidentielle 2022, 1er tour.
+
+        NOTICE TECHNIQUE : Ifop                                           2
+
+        Qu’attendent les Français pour 2027 en matière de réformes ?  21 Octobre 2026
+
+--- page 3 ---
+
+Précision  relative  aux marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+        comme le montre le tableau ci-dessous :
+
+                    INTERVALLE DE CONFIANCE   A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 1 000 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 1,8. Le vrai pourcentage est donc compris entre 8,2% et 11,8%.
+
+        NOTICE TECHNIQUE : Ifop                                           3
+
+        Qu’attendent les Français pour 2027 en matière de réformes ?  21 Octobre 2026
+
+--- page 4 ---
+
+Structure  de l’échantillon
+
+                                                      Brut       Redressé
+                                                       (%)         (%)
+
+         SEXE DE L'INTERVIEWÉ(E)
+          Homme                                       50,8        47,7
+          Femme                                       49,2        52,3
+
+         AGE DE L'INTERVIEWÉ(E)
+          18 à 24 ans                                 11,5        10,3
+          25 à 34 ans                                 14,8        14,8
+          34 à 49 ans                                 24,2        24,0
+          50 à 64 ans                                 22,1        24,4
+
+          65 ans et plus                              27,4        26,6
+         PROFESSION DE L'INTERVIEWÉ(E)
+          Travailleur indépendant                      4,2         4,6
+          Cadre et prof. int. supérieure               9,4        11,2
+
+          Profession intermédiaire                    14,4         15
+          Employé                                     16,5        15,8
+          Ouvrier                                     13,1        12,1
+
+          Retraité                                    28,9        29,3
+          Autre inactif                               13,5         12
+         CATEGORIE D’AGGLOMERATION
+          Communes rurales                            23,2        21,1
+
+          Communes urbaines de province               62,0        62,6
+          Agglomération parisienne                    14,8        16,3
+         REGION
+
+          Grand-Est                                    9,0         8,5
+          Nouvelle-Aquitaine                           8,6         9,5
+          Auvergne-Rhône-Alpes                        11,3        12,3
+          Bourgogne-Franche-Comté                      3,5         4,3
+
+          Bretagne                                     4,8         5,2
+          Centre-Val-De-Loire                          4,2         3,9
+          Ile-De-France                               19,0        18,4
+
+          Occitanie                                    9,2         9,4
+          Hauts-de-France                              9,4         8,9
+          Normandie                                    5,5         5,1
+
+          Pays de la Loire                             6,8         5,8
+          PACA, Corse                                  8,7         8,5
+         TOTAL                                        100,0       100,0
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE : Ifop                                           4
+
+        Qu’attendent les Français pour 2027 en matière de réformes ?  21 Octobre 2026
+
+--- page 5 ---
+
+Reconstitution    du 1er  tour de  l’élection présidentielle
+
+                                      2022
+
+                                                      Brut       Redressé
+                                                       (%)        (%)
+
+         • Nathalie Arthaud ......................................................................... 1,0 0,6
+         • Philippe Poutou ........................................................................... 1,3 0,8
+
+         • Fabien Roussel ............................................................................. 3,0 2,3
+
+         • Jean-Luc Mélenchon .................................................................... 18,5 21,5
+         • Anne Hidalgo................................................................................ 2,4 1,7
+
+         • Yannick Jadot ............................................................................... 4,5 4,6
+         • Emmanuel Macron ...................................................................... 26,3 27,8
+
+         • Valérie Pécresse ........................................................................... 6,1 4,8
+
+         • Nicolas Dupont-Aignan ................................................................ 2,6 2,1
+         • Marine Le Pen .............................................................................. 26,2 23,5
+
+         • Éric Zemmour............................................................................... 5,3 7,1
+
+         • Jean Lassalle ................................................................................. 2,8 3,2
+           TOTAL ......................................................................................... 100 100
+
+            - Ne se prononcent pas ......................................................... 30,6
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE : Ifop                                           5
+
+        Qu’attendent les Français pour 2027 en matière de réformes ?  21 Octobre 2026
+
+--- page 6 ---
+
+Le jugement    des Français  sur  l'ampleur  des  réformes   à
+
+                                    conduire
+
+        Question :  De laquelle des opinions suivantes vous sentez-vous le plus proche ?
+
+         Base : Ensemble                              Brut       Redressé
+
+                                                       (%)        (%)
+
+         • La France a trop souvent remis à plus tard les réformes et il est
+          aujourd’hui absolument nécessaire de les mener très
+          rapidement même si cela doit provoquer de nombreuses 48,8 47,0
+          grèves et manifestations et un blocage du pays pendant
+          plusieurs semaines.......................................................................
+
+         • Quelques réformes importantes doivent être menées mais cela
+                                                      43,0        44,6
+          doit se faire très progressivement pour ne pas bloquer le pays .
+
+         • Il faut procéder à certaines adaptations mais le modèle
+          français n’a en fait pas vraiment besoin de réformes en 8,2 8,4
+          profondeur ...................................................................................
+
+           TOTAL .......................................................................................... 100 100
+
+        NOTICE TECHNIQUE : Ifop                                           6
+
+        Qu’attendent les Français pour 2027 en matière de réformes ?  21 Octobre 2026
+
+--- page 7 ---
+
+Les domaines    sur lesquels  le ou la futur(e) président(e)
+
+                             devra  agir en  priorité
+
+        Question : Parmi les domaines suivants, quels sont ceux sur lesquels le ou la
+
+                   président(e) de la République qui sera élu en 2027 devra agir en
+                   priorité ? En premier ? En deuxième ? Et en troisième ?
+
+      Base : Ensemble                    En premier         Total des citations
+
+                                      Brut     Redressé    Brut     Redressé
+
+                                      (%)        (%)        (%)       (%)
+
+      Le pouvoir d’achat .......................................... 26,9 28,9 41,9 43,9
+
+      La dette........................................................... 17,2 16,1 24,8 23,4
+
+      L’immigration ................................................. 10,7 10,9 22,2 23,3
+
+      La sécurité ...................................................... 7,7 7,8 19,9 19,7
+
+      La santé .......................................................... 6,0 6,0 15,6 17,2
+      L’éducation ..................................................... 6,8 6,7 15,3 15,2
+
+      Les inégalités sociales ..................................... 5,3 5,0 11,7 10,8
+
+      L’emploi .......................................................... 4,9 3,8 9,9 10,1
+
+      Les retraites .................................................... 3,8 2,9 9,6 8,4
+
+      La transition écologique ................................. 3,0 4,5 9,2 8,4
+
+      La défense et le positionnement face aux
+                                       2,5       2,3        6,1       6,5
+      conflits internationaux ...................................
+      La fiscalité ....................................................... 2,0 2,4 5,8 5,4
+
+      Le logement .................................................... 1,4 1,1 4,1 4,3
+      La recherche et l’innovation ........................... 0,4 0,1 1,0 0,6
+
+      Aucun (réponse exclusive) .............................. 1,3 1,4 1,3 1,4
+
+      Total ............................................................... 100 100 (*) (*)
+
+              (*) Le total est supérieur à 100, les interviewés ayant pu donner jusqu’à trois réponses.
+
+        NOTICE TECHNIQUE : Ifop                                           7
+
+        Qu’attendent les Français pour 2027 en matière de réformes ?  21 Octobre 2026
+
+--- page 8 ---
+
+L'arbitrage  entre augmentation     des  ressources   ou
+
+            optimisation   des  moyens   actuels  pour  améliorer   la
+                      situation dans  plusieurs  domaines
+
+        Question : Pour améliorer la situation dans chacun des domaines suivants,
+                   faudrait-il selon vous avant tout… ?
+
+      Base : Ensemble               Augmenter les moyens qui y Faire évoluer la manière dont
+                                        sont consacrés  les moyens actuels sont utilisés
+
+                                      Brut     Redressé     Brut     Redressé
+
+                                      (%)        (%)        (%)        (%)
+
+      Le système de santé ........................................ 61,9 64,0 38,1 36,0
+
+      Le système scolaire.......................................... 53,6 55,4 46,4 44,6
+
+      La recherche et l’innovation ............................ 43,5 43,7 56,5 56,3
+
+      La formation professionnelle et
+                                      37,4       38,5       62,6      61,5
+      l’accompagnement vers l’emploi ....................
+
+        NOTICE TECHNIQUE : Ifop                                           8
+
+        Qu’attendent les Français pour 2027 en matière de réformes ?  21 Octobre 2026
+
+--- page 9 ---
+
+Les propositions   jugées  prioritaires pour  améliorer   le
+
+              fonctionnement     du  système   éducatif  en France
+
+        Question : Parmi les propositions suivantes concernant le collège et le lycée,
+
+                   quelles sont celles qui vous paraissent prioritaires pour améliorer le
+                   fonctionnement du système éducatif en France ? Et premier ? Et en
+                   second ?
+
+      Base : Ensemble                    En premier         Total des citations
+
+                                      Brut     Redressé    Brut     Redressé
+
+                                      (%)        (%)        (%)       (%)
+      Revaloriser les filières professionnelles et
+                                      24,7       22,0      44,0       43,4
+      technologiques (CAP, bac pro, BTS…) ............
+      Donner davantage de moyens aux équipes
+      éducatives pour faire respecter les règles au 23,4 25,9 37,9    39,5
+      sein des établissements scolaires ..................
+      Permettre à des professionnels en activité
+      (ingénieurs, techniciens, artisans, etc,)
+                                      12,7       12,4      27,9       26,7
+      d’enseigner quelques heures par semaine au
+      collège ou au lycée .........................................
+      Renforcer la formation initiale et continue
+                                      10,3       10,5      24,1       23,9
+      des enseignants ..............................................
+      Donner davantage d’autonomie aux chefs
+      d’établissement dans l’organisation de leur 9,8 7,7  19,9       18,6
+      établissement .................................................
+      Regrouper les formations professionnelles et
+      technologiques par grands secteurs
+                                       5,5       6,3       15,4       14,3
+      d’activité au sein d’établissements
+      spécialisés (« lycées des métiers ») ................
+      Publier, pour chaque établissement, des
+      indicateurs sur les résultats et le parcours 3,3 4,0  7,4       7,1
+      des élèves après leur scolarité .......................
+      Utiliser davantage l’intelligence artificielle
+      pour adapter les apprentissages aux besoins 2,8 2,6   5,7       6,2
+      de chaque élève .............................................
+      Aucune de ces propositions (réponse
+                                       7,6       8,7        7,6       8,7
+      exclusive) ........................................................
+      Total ............................................................... 100 100 (*) (*)
+                 (*) Le total est supérieur à 100, les interviewés ayant pu donner deux réponses.
+
+        NOTICE TECHNIQUE : Ifop                                           9
+
+        Qu’attendent les Français pour 2027 en matière de réformes ?  21 Octobre 2026
+
+--- page 10 ---
+
+Les propositions   jugées  prioritaires pour  améliorer   le
+
+              fonctionnement     du  système   de santé  en  France
+
+        Question : Parmi les propositions suivantes, quelles sont celles qui vous
+                   paraissent prioritaires pour améliorer le fonctionnement du système
+
+                   de santé en France ? En premier ? Et en second ?
+
+      Base : Ensemble                    En premier         Total des citations
+
+                                      Brut     Redressé    Brut     Redressé
+
+                                      (%)        (%)        (%)       (%)
+
+      Permettre à certains professionnels de
+      santé, comme les infirmiers, pharmaciens ou
+                                      28,0       27,8      48,8       48,0
+      kinésithérapeutes, de réaliser davantage
+      d’actes aujourd’hui réservés aux médecins ...
+      Renforcer les moyens consacrés à la
+                                      22,9       22,2      41,8       40,2
+      prévention en matière de santé .....................
+      Confier une plus grande part des
+      remboursements à l’Assurance maladie, en
+                                      15,3       15,4      27,4       30,5
+      réduisant celle prise en charge par les
+      complémentaires santé ..................................
+      Renforcer le rôle des entreprises dans la
+                                      8,9        9,3       21,6       21,3
+      prévention et la santé de leurs salariés .........
+      Confier une plus grande part des
+      remboursements aux complémentaires
+                                      7,1        6,6       15,2       13,4
+      santé, en réduisant celle prise en charge par
+      l’Assurance maladie .......................................
+      Développer l’utilisation de l’intelligence
+      artificielle et des données de santé dans le 6,4 6,4 14,0       13,1
+      système de soins ............................................
+      Aucune de ces propositions (réponse
+                                      11,5       12,3      11,5       12,3
+      exclusive) ........................................................
+      Total ............................................................... 100 100 (*) (*)
+                 (*) Le total est supérieur à 100, les interviewés ayant pu donner deux réponses.
+
+        NOTICE TECHNIQUE : Ifop                                           10
+
+        Qu’attendent les Français pour 2027 en matière de réformes ?  21 Octobre 2026
+
+--- page 11 ---
+
+Les  propositions   jugées  prioritaires pour  renforcer
+
+                            l'innovation   en France
+
+        Question : Parmi les propositions suivantes pour renforcer l’innovation en
+
+                   France, quelles sont celles qui vous paraissent les plus importantes ?
+                   En premier ? Et en second ?
+
+      Base : Ensemble                    En premier         Total des citations
+
+                                      Brut     Redressé    Brut     Redressé
+
+                                      (%)        (%)        (%)       (%)
+      Donner la priorité aux produits et services
+      fabriqués en Europe dans les achats publics,
+      (achats réalisés par l’État, les collectivités 23,2 23,6 41,5   41,3
+      locales et les administrations) même
+      lorsqu’ils sont plus coûteux ............................
+
+      Mettre en place davantage de mesures de
+      protection du marché européen face aux 16,7 15,6     34,8       35,5
+      technologies étrangères .................................
+      Accorder des réductions d’impôts et de
+      charges sociales aux grandes entreprises
+                                      17,0       18,6      28,9       29,9
+      pour qu’elles maintiennent leurs activités de
+      recherche en France .......................................
+      Fusionner les différentes structures
+      chargées de soutenir et de financer 11,2   9,8       23,7       20,7
+      l’innovation au sein d’un organisme unique ..
+      Orienter davantage l’épargne des Européens
+      pour financer les entreprises innovantes et 5,9 4,2  16,0       14,3
+      technologiques ...............................................
+      Investir davantage dans l’intelligence
+      artificielle et développer la formation à ses 7,0 6,8 12,6      11,9
+      usages .............................................................
+      Créer un impôt à l’échelle européenne
+      destiné à financer la recherche et 5,4     5,7       10,1       10,2
+      l’innovation ....................................................
+      Aucune de ces propositions (réponse
+                                      13,7       15,8      13,7       15,8
+      exclusive) ........................................................
+
+      Total ............................................................... 100 100 (*) (*)
+
+                 (*) Le total est supérieur à 100, les interviewés ayant pu donner deux réponses.
+
+        NOTICE TECHNIQUE : Ifop                                           11
+
+        Qu’attendent les Français pour 2027 en matière de réformes ?  21 Octobre 2026
+
+--- page 12 ---
+
+Les propositions   jugées  prioritaires en  matière   de travail
+
+                                   et d'emploi
+
+        Question : Parmi les propositions suivantes en matière de travail et d’emploi,
+                   quelles sont celles qui vous paraissent les plus importantes ? En
+
+                   premier ? Et en second ?
+
+      Base : Ensemble                    En premier         Total des citations
+
+                                      Brut     Redressé    Brut     Redressé
+
+                                      (%)        (%)        (%)       (%)
+
+      Faire évoluer le système de formation
+      professionnelle pour mieux l’adapter aux 20,4 18,1   37,9       36,8
+      besoins des salariés et des entreprises ..........
+      Accompagner la reconversion des salariés
+      dont le métier est susceptible d’être
+                                      14,6       13,4      33,3       31,3
+      transformé ou remplacé par l’intelligence
+      artificielle ........................................................
+      Réduire les cotisations payées par les
+      salariés afin d’augmenter leur salaire net, en
+                                      15,7       18,6      27,5       29,8
+      compensant cette baisse par une hausse de
+      la TVA ou de la CSG ........................................
+      Réduire les cotisations sociales sur les
+      salaires des seniors afin de favoriser leur 10,9 11,8 22,1      22,8
+      maintien ou leur retour dans l’emploi ...........
+      Adapter le niveau du SMIC en fonction des
+                                      12,1       12,6      20,0       20,7
+      régions (en tenant compte du coût de la vie)
+      Augmenter le temps de travail des salariés ... 10,0 8,5 17,1    14,9
+      Développer l’utilisation des nouvelles
+      technologies dans les entreprises afin 4,9 4,5       13,3       12,2
+      d’améliorer la productivité.............................
+      Aucune de ces propositions (réponse
+                                      11,4       12,5      11,4       12,5
+      exclusive) ........................................................
+      Total ............................................................... 100 100 (*) (*)
+
+                 (*) Le total est supérieur à 100, les interviewés ayant pu donner deux réponses.
+
+        NOTICE TECHNIQUE : Ifop                                           12
+
+        Qu’attendent les Français pour 2027 en matière de réformes ?  21 Octobre 2026
+
+--- page 13 ---
+
+Les propositions   jugées  prioritaires  à l'égard du  système
+
+                                   de retraite
+
+        Question : Parmi les propositions suivantes concernant le système de retraite,
+                   quelles sont celles qui vous paraissent les plus importantes ? En
+
+                   premier ? Et en second ?
+
+      Base : Ensemble                    En premier         Total des citations
+
+                                      Brut     Redressé    Brut     Redressé
+
+                                      (%)        (%)        (%)       (%)
+
+      Développer les dispositifs permettant de
+      travailler progressivement moins en fin de 21,9 20,9 39,8       38,7
+      carrière avant le départ à la retraite ..............
+      Introduire une part de retraite par
+      capitalisation, en complément du système 18,6 18,2   35,1       31,5
+      actuel par répartition .....................................
+      Mettre davantage à contribution les
+      retraités les plus aisés pour financer le 13,7 14,3  26,1       28,0
+      système de retraite ........................................
+
+      Reculer l’âge légal de départ à la retraite ...... 16,2 15,1 25,3 23,7
+
+      Allonger la durée de cotisation nécessaire
+                                      8,1        7,8       19,6       19,5
+      pour bénéficier d’une retraite à taux plein ....
+      Augmenter les cotisations retraite payées
+                                      5,3        5,6       10,6       11,1
+      par les salariés et les employeurs ..................
+      Réduire le niveau des pensions versées aux
+                                      3,0        3,6        5,8       6,5
+      retraités ..........................................................
+      Aucune de ces propositions (réponse
+                                      13,1       14,5      13,1       14,5
+      exclusive) ........................................................
+      Total ............................................................... 100 100 (*) (*)
+                 (*) Le total est supérieur à 100, les interviewés ayant pu donner deux réponses.
+
+        NOTICE TECHNIQUE : Ifop                                           13
+
+        Qu’attendent les Français pour 2027 en matière de réformes ?  21 Octobre 2026
+
+--- page 14 ---
+
+Le poids  souhaité  des  différents  acteurs  dans  les grandes
+
+                                    réformes
+
+        Question : Pour chacun des acteurs suivants, souhaiteriez-vous qu’il ait plus de
+                   poids, moins de poids ou autant de poids qu’aujourd’hui dans les
+                   décisions sur les grandes réformes à mener en France ?
+
+   Base : Ensemble             Plus de poids    Moins de poids    Autant de poids
+
+                              Brut   Redressé  Brut    Redressé  Brut   Redressé
+
+                              (%)      (%)      (%)     (%)      (%)      (%)
+
+   Les citoyens ........................................ 65,9 67,3 10,5 10,1 23,6 22,6
+
+   Les experts et les scientifiques .......... 51,5 49,3 17,6 18,1 30,9   32,6
+
+   Les élus locaux (maires, conseils
+                              50,8    48,8     17,1     17,6     32,0     33,6
+   départementaux et régionaux) ..........
+   Les associations et les organisations
+                              36,3    37,4     26,5     25,7     37,2     36,9
+   de la société civile ..............................
+   Les entreprises ................................... 37,2 35,2 24,9 24,7 37,9 40,0
+
+   Les organisations syndicales .............. 26,0 25,4 41,6 40,1 32,4   34,5
+
+   L’État et le gouvernement ................. 21,1 19,7 44,4 45,6 34,6   34,8
+
+   Les partis politiques ........................... 12,5 12,1 59,2 58,0 28,2 29,9
+
+        NOTICE TECHNIQUE : Ifop                                           14
+
+        Qu’attendent les Français pour 2027 en matière de réformes ?  21 Octobre 2026
+
+--- page 15 ---
+
+La méthode    souhaitée   pour  conduire   les futures grandes
+
+                                    réformes
+
+        Question : Selon vous, quelle devrait être la méthode privilégiée pour conduire
+
+                   les grandes réformes en France dès le début du  nouveau
+                   quinquennat ?
+
+         Base : Ensemble                              Brut       Redressé
+                                                       (%)        (%)
+
+          Soumettre les principales réformes directement aux Français
+                                                      39,9        40,9
+          par référendum............................................................................
+
+          Engager les réformes rapidement, dès le début du
+                                                      26,7        24,9
+          quinquennat ................................................................................
+
+          Privilégier la concertation et la négociation avec les partenaires
+                                                      21,1        22,2
+          sociaux avant de mettre en œuvre les réformes .........................
+
+          Expérimenter les réformes à l’échelle locale avant de décider
+                                                      12,2        12,1
+          de leur éventuelle généralisation ................................................
+
+           TOTAL .......................................................................................... 100 100
+
+        NOTICE TECHNIQUE : Ifop                                           15
+
+        Qu’attendent les Français pour 2027 en matière de réformes ?  21 Octobre 2026
