@@ -1,0 +1,181 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10340-pres-barometre-politique-odoxa-27-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Notice
+
+                                 BAROMETRE POLITIQUE
+
+            SONDAGE RÉALISÉ PAR ODOXA POUR MASCARET, PUBLIC SENAT ET 20 TITRES DE LA
+
+                                  PRESSE REGIONALE
+
+                  Première publication sur le site www.odoxa.fr, le 27 octobre à 5H00
+
+          Article 2 :
+
+           ✓  Organisme ayant réalisé le sondage : Odoxa
+
+           ✓  Commanditaire(s) : MASCARET, PUBLIC SENAT ET 20 TITRES DE LA PRESSE REGIONALE
+
+           ✓  Nombre de personnes interrogées : Echantillon représentatif de 1 005 Français âgés de 18
+
+              ans et plus
+
+           ✓  Dates de réalisation : du 21 au 22 octobre 2026
+
+          Article 3 :
+
+            ✓  Le pourcentage de personnes n’ayant pas répondu à chacune des questions est indiqué
+               sur le rapport de l’enquête disponible sur le site www.odoxa.fr
+
+            ✓  Gratification : Gratification sous la forme de points cumulables et dont la valeur s’élève
+               à 0,675 € pour un questionnaire complété.
+
+            ✓  Redressement : l’échantillon brut a été redressé sur les variables
+               sociodémographiques et professionnelles utilisées comme quotas ainsi que sur le vote
+               aux premier et second tours de l’élection présidentielle 2022
+
+--- page 2 ---
+
+Questions posées
+
+          Q1. Diriez-vous qu’Emmanuel Macron est un bon président de la République ?
+            −  Oui
+            −  Non
+
+          Q2. Diriez-vous que Sébastien Lecornu est un bon Premier ministre ?
+            −  Oui
+
+            −  Non
+
+          Q3. Pour chacune des personnalités politiques suivantes, dites-nous si vous la soutenez, si vous
+          éprouvez de la sympathie pour elle, si vous ressentez de l’indifférence à son égard ou si vous la
+          rejetez.
+
+            •  Jordan Bardella
+
+            •  Marine Le Pen
+            •  Gabriel Attal
+            •  Edouard Philippe
+            •  Gérald Darmanin
+
+            •  Bruno Retailleau
+            •  Raphaël Glucksmann
+            •  Éric Ciotti
+            •  François Ruffin
+
+            •  Fabien Roussel
+            •  Yaël Braun-Pivet
+            •  Olivier Faure
+            •  Jean-Luc Mélenchon
+
+            •  Marine Tondelier
+            •  Gérard Larcher
+            •  François Hollande
+            •  Sarah Knafo
+            •  Eric Zemmour
+
+            •  Dominique de Villepin
+            •  Bally Bagayoko
+            •  Laurent Nuñez
+            •  Marion Maréchal
+
+            •  Natacha Polony
+            •  David Lisnard
+
+               1. Vous la soutenez
+
+               2. Vous éprouvez de la sympathie pour elle
+               3. Vous ressentez de l’indifférence à son égard
+               4. Vous la rejetez
+
+--- page 3 ---
+
+Q4. Vous personnellement, que pensez-vous du mouvement de revendication des lycéens, rejoint par
+          de nombreux étudiants ? Diriez-vous que …
+
+          Oui / Non
+
+            1. Vous estimez que ce mouvement est justifié
+
+            2. Vous souhaiteriez qu’il se poursuive après les vacances de la Toussaint
+
+          Q5. Face aux émeutes et aux violences qui se sont produits en marge des manifestations du 17
+          octobre dernier, quel sentiment ressentez-vous le plus ?
+
+          (Une seule réponse possible)
+
+            •  De la colère
+            •  De la peur
+
+            •  De l’impuissance
+
+          Q6. Selon vous, parmi les principaux candidats suivants à l’élection présidentielle, quels sont ceux qui
+
+          tireront le plus profit politiquement des débordements (violences, émeutes) qui se sont produits le 17
+          octobre dernier ?
+          (2 réponses possibles)
+
+            1. Marine Le Pen
+
+            2. Edouard Philippe
+            3. Gabriel Attal
+
+            4. Bruno Retailleau
+
+            5. Jean-Luc Mélenchon
+
+            6. Raphaël Glucksmann
+
+--- page 4 ---
+
+Tout sondage est affecté de marges d’erreurs
+
+          Avec ces effectifs, la marge d’erreur des résultats s'établit selon le score visé, entre plus ou
+          moins 1,4 et 3,1 points pour les Français
+
+--- page 5 ---
+
+Structure
+
+                                         Base non % non Coefficient Base % pondéré
+                                         pondérée pondéré Pondératio pondérée
+                                                     n
+                 Total                    1 005 100,0%    1 005 100,0%
+                 Sexe
+                 Un homme                  486 48,4% 0,98  478 47,6%
+                 Une femme                 519 51,6% 1,01  527 52,4%
+                 Age
+                 18-24 ans                  82  8,2% 1,26  103 10,2%
+                 25-34 ans                 153 15,2% 0,97  148 14,7%
+                 35-49 ans                 250 24,9% 0,98  244 24,3%
+                 50-64 ans                 251 25,0% 0,98  245 24,4%
+                 65 ans et +               269 26,8% 0,98  265 26,3%
+                 CSP/Profession de l'interviewé
+                 Agriculteur, indépendant, chef d'entreprise 45 4,5% 1,01 45 4,5%
+                 Cadre et profession intellectuelle supérieure 106 10,5% 0,92 97 9,7%
+                 Profession intermédiaire  145 14,4% 1,02  148 14,7%
+                 Employé                   172 17,1% 0,99  170 16,9%
+                 Ouvrier                   110 10,9% 1,16  128 12,7%
+                 Retraité                  283 28,2% 1,00  282 28,1%
+                 Elève / étudiant           58  5,8% 0,90  52  5,2%
+                 Autre inactif              86  8,6% 0,96  82  8,2%
+                 Catégorie d'agglomération
+                 Rural                     216 21,5% 0,97  209 20,8%
+                 Moins de 20 000 hab       170 16,9% 1,06  180 17,9%
+                 De 20 000 à 99 999 hab    145 14,4% 0,98  143 14,2%
+                 100 000 hab et plus       306 30,4% 1,01  311 30,9%
+                 Agglomération parisienne  168 16,7% 0,97  163 16,2%
+                 Région UDA9
+                 Région Parisienne         194 19,3% 0,96  186 18,5%
+                 Nord                       60  6,0% 1,02  61  6,1%
+                 Est                        88  8,8% 0,96  84  8,4%
+                 Bassin Parisien Est        79  7,9% 0,95  75  7,5%
+                 Bassin Parisien Ouest      85  8,5% 1,07  91  9,1%
+                 Ouest                     127 12,6% 1,10  139 13,8%
+                 Sud Ouest                 123 12,2% 0,94  115 11,5%
+                 Sud Est                   128 12,7% 0,97  124 12,3%
+                 Méditerranée              121 12,0% 1,08  130 13,0%
