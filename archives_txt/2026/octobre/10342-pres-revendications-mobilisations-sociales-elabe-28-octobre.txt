@@ -1,0 +1,268 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10342-pres-revendications-mobilisations-sociales-elabe-28-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+NOTICE TECHNIQUE
+
+                   Les Français et les revendications des mobilisations sociales
+
+     ARTICLE 2
+
+                                   Elabe
+     Organisme ayant réalisé le sondage :
+                                   BFMTV
+     Nom du/des commanditaire(s) :
+                                   Echantillon de 1002 personnes, représentatif des résidents
+     Nombre de personnes interrogées : de France métropolitaine âgés de 18 ans et plus.
+
+                                   Du 27 au 28 octobre 2026
+     Dates de réalisation de l'enquête :
+                                   Le 28 octobre 2026 à 16h50 sur www.elabe.fr
+     Date et support de première publication :
+
+                                                                             1
+
+--- page 2 ---
+
+QUESTIONNAIRE
+
+     Toutes les questions sont posées à tous les répondants.
+
+     Q1. A propos des revendications pour les conditions d'étude des lycéens et étudiants, le
+     gouvernement a fait des annonces ce lundi :
+       •  Parcoursup : réforme dès cette année puis un remplacement par un autre système à partir
+          de l'an prochain
+       •  La création de 15 000 places supplémentaires dans l'enseignement supérieur
+       •  Des prêts à taux réduit à hauteur des 4 milliards pour les régions et départements afin de
+          rénover les collèges et lycées, et de 1 milliard pour rénover les universités
+       •  La limitation à 28 élèves par classe en 2nde dans les 50% des lycées les moins favorisés à la
+          rentrée 2027, puis dans tous les lycées à la rentrée 2028
+       •  L'annulation des suppressions de postes prévus dans les collèges et lycées, et la création de
+          500 postes supplémentaires
+       •  Le recrutement de 920 enseignants contractuels pour améliorer les remplacements
+       •  L'indexation des bourses étudiantes sur l'inflation à partir de la rentrée 2027
+
+     Quelle est votre opinion à propos des propositions du gouvernement pour répondre aux
+     revendications des lycéens et des étudiants ?
+     Rotation aléatoire des items 1 et 3
+       •  Ces propositions sont bonnes et répondent aux revendications des lycéens et des étudiants
+       •  Ces propositions vont dans le bon sens, mais ne sont pas suffisantes
+       •  Ces propositions ne sont pas bonnes
+
+     Q2. Suite aux annonces du gouvernement, la plupart des organisations lycéennes et étudiantes
+     appellent à continuer la mobilisation.
+     Concernant la mobilisation des lycéens et étudiants, de laquelle des opinions suivantes êtes-vous le plus
+     proche ?
+     Rotation aléatoire des items
+       •  La mobilisation doit s'arrêter
+
+       •  La mobilisation doit continuer de la même façon qu'actuellement
+       •  La mobilisation doit se durcir, s'accentuer (blocages plus importants, plus nombreux)
+
+     Q3. Pour chacune des revendications suivantes entendues ces dernières semaines à propos du
+     coût de la vie, estimez-vous qu'il faille les mettre en place ou pas ?
+     Il faut mettre en place cette mesure / Il ne faut pas mettre en place cette mesure
+     Rotation aléatoire des items
+       1. La hausse de la valeur du point d'indice des fonctionnaires (le point d'indice permet de calculer
+          le salaire)
+       2. La hausse du Smic
+       3. La hausse des aides sociales
+       4. La hausse des pensions de retraites
+       5. La baisse du prix des carburants
+       6. Une hausse des impôts et taxes des ménages les plus aisés
+       7. Une réforme des aides financières aux entreprises, pour les conditionner au respect
+          d'engagements sur l'emploi, les salaires et l'environnement
+
+                                                                             2
+
+--- page 3 ---
+
+Q4. De manière générale, face aux différentes mobilisations actuelles et compte tenu de la
+     situation des finances publiques, que devrait faire le gouvernement ?
+     Rotation aléatoire des items 1 et 3
+       •  Le gouvernement doit répondre à la plupart des revendications, même si cela aboutit à des
+          dépenses supplémentaires (déficit supplémentaire, ou baisse d'autres dépenses, ou hausse des
+          impôts sur tout ou partie de la population)
+       •  Le gouvernement doit faire quelques gestes pour répondre à certaines revendications mais ne
+          doit pas répondre à l'ensemble des demandes pour des raisons budgétaires
+
+       •  Le gouvernement ne doit pas engager de nouvelles dépenses, même si cela ne répond aux
+          revendications
+
+     Q5. Une journée de mobilisation est prévue le jeudi 5 novembre, à l'initiative de certains
+     syndicats, et à laquelle se sont ajoutées les organisations lycéennes et étudiantes. Les
+     revendications portent sur "les salaires, les services publics, l’emploi et l’industrie".
+     Quelle est votre attitude à l’égard de la mobilisation prévue le jeudi 5 novembre ?
+       •  Vous la soutenez
+       •  Vous avez de la sympathie
+       •  Vous y êtes opposé
+       •  Vous y êtes hostile
+       •  Vous y êtes indifférent
+
+                                                                             3
+
+--- page 4 ---
+
+NOTE SUR LES MARGES D’ERREUR
+
+     Comme toute enquête statistique, un sondage présente une incertitude appelée « marge d’erreur » ou « marge
+     d’incertitude ». La marge d’erreur ou d’incertitude d’un sondage dépend de la taille de l’échantillon interrogé et du
+     résultat observé. Pour un échantillon de 1000 personnes interrogées, les marges d’erreur sont les suivantes avec un
+     niveau de confiance de 95 % :
+
+                           Pour un La marge d'erreur Le résultat réel se
+                        pourcentage de : est de : situe entre :
+                             5         +/- 1,4    3,6 et 6,4
+                            10         +/- 1,9    8,1 et 11,9
+                            15         +/- 2,2    12,8 et 17,2
+                            20         +/- 2,5    17,5 et 22,5
+
+                            25         +/- 2,7    22,3 et 27,7
+                            30         +/- 2,8    27,2 et 32,8
+                            35         +/- 3,0     32 et 38
+                            40         +/- 3,0     37 et 43
+
+                            45         +/- 3,1    41,9 et 48,1
+                            50         +/- 3,1    46,9 et 53,1
+                            55         +/- 3,1    51,9 et 58,1
+                            60         +/- 3,0     57 et 63
+
+                            65         +/- 3,0     62 et 68
+                            70         +/- 2,8    67,2 et 72,8
+                            75         +/- 2,7    72,3 et 77,7
+                            80         +/- 2,5    77,5 et 82,5
+
+                            85         +/- 2,2    82,8 et 87,2
+                            90         +/- 1,9    88,1 et 91,9
+                            95         +/- 1,4    93,6 et 96,4
+
+     Exemple de lecture :
+
+     Pour un résultat observé de 25 %, il y a 95 % de chances pour que le résultat réel soit compris entre 22,3% et 27,7%.
+     La notice de ce sondage peut être consultée sur le site internet de la Commission des sondages : www.commission-des-sondages.fr
+
+     Toute publication ou toute reprise de ce sondage doit faire figurer la méthodologie et les marges d’erreurs :
+     « Echantillon de 1 002 personnes, représentatif des résidents de France métropolitaine âgés de 18 ans et plus. Interrogation par
+     Internet du 27 au 28 octobre 2026.
+
+     La représentativité de l’échantillon a été assurée selon la méthode des quotas appliquée aux variables suivantes : sexe, âge,
+     catégorie socio-professionnelle, région de résidence et catégorie d’agglomération.
+     Marge d’erreur comprise entre 1,4 et 3,1 pts de pourcentage. »
+
+                                                                             4
+
+--- page 5 ---
+
+ARTICLE 3
+
+                                   Les Français et les revendications des mobilisations sociales
+     Objet du sondage :
+                                   Echantillon de 1 002 personnes, représentatif des résidents
+                                   de France métropolitaine âgés de 18 ans et plus, constitué
+                                   d’après la méthode des quotas (sexe, âge, profession de la
+     Méthode :
+                                   personne interrogée, catégorie d’agglomération et région
+                                   de résidence).
+     Conditions d’interrogation :  Les répondants ont été interrogés en ligne (Internet).
+
+     Nombre de sans réponse :      Voir « Résultats publiés »*
+
+                                   Oui. Gratification sous la forme de points cumulables et dont
+     Existence d’une gratification : la valeur s’élève à moins de 1€ pour un questionnaire
+                                   complété.
+
+                                   L’échantillon brut a été redressé sur les variables
+                                   sociodémographiques et professionnelles utilisées comme
+                                   quotas (données Insee issues du recensement de la
+                                   population 2022) ainsi que sur le statut d’occupation du
+     Critères de redressement :    logement (données Insee issues du recensement de la
+                                   population 2022), le vote au premier tour des élections
+                                   législatives 2024, au premier tour et au second tour de
+                                   l’élection présidentielle 2022 (données du Ministère de
+                                   l’Intérieur).
+
+     (*) Nous vous présentons dans ce document le nombre de « sans-réponse » pour chacune des questions publiées.
+     Les questions de quota étant obligatoires (de façon à s’assurer de la représentativité de l’échantillon) aucune des
+     personnes interrogées ne peut ne pas avoir répondu à l’ensemble du sondage.
+
+                                                                             5
+
+--- page 6 ---
+
+QUESTIONS PUBLIEES
+
+     En raison de l’arrondi à 100, un décalage d’1 point maximum peut exister entre les colonnes redressées et publiées.
+
+     Quelle est votre opinion à propos des propositions du gouvernement pour répondre aux revendications des
+     lycéens et des étudiants ?
+     Ces propositions sont bonnes et répondent
+     aux revendications des lycéens et des 36
+     étudiants
+     Ces propositions vont dans le bon sens,
+                                    52
+     mais ne sont pas suffisantes
+     Ces propositions ne sont pas bonnes 12
+     Sans-réponses                  0
+     Suite aux annonces du gouvernement, la plupart des organisations lycéennes et étudiantes appellent à
+     continuer la mobilisation. Concernant la mobilisation des lycéens et étudiants, de laquelle des opinions
+     suivantes êtes-vous le plus proche ?
+
+     La mobilisation doit s'arrêter 54
+     La mobilisation doit continuer de la même
+                                   29
+     façon qu'actuellement
+     La mobilisation doit se durcir, s'accentuer
+                                   17
+     (blocages plus importants, plus nombreux)
+     Sans-réponses                 0
+     Pour chacune des revendications suivantes entendues ces dernières semaines à propos du coût de la vie,
+     estimez-vous qu'il faille les mettre en place ou pas ? – En % Il faut mettre en place cette mesure
+     La hausse du prix des carburants 89
+     La hausse du Smic             75
+     Une réforme des aides financières aux
+     entreprises, pour les conditionner au respect
+                                   75
+     d'engagements sur l'emploi, les salaires et
+     l'environnement
+     La hausse des pensions de retraite 72
+     Une hausse des impôts et taxes des
+                                   62
+     ménages les plus aisés
+     La hausse de la valeur du point d'indice des
+     fonctionnaires (le point d'indice permet de 59
+     calculer le salaire)
+     La hausse des aides sociales  36
+
+                                                                             6
+
+--- page 7 ---
+
+De manière générale, face aux différentes mobilisations actuelles et compte tenu de la situation des finances
+     publiques, que devrait faire le gouvernement ?
+     Le gouvernement doit répondre à la plupart des
+     revendications, même si cela aboutit à des
+     dépenses supplémentaires (déficit
+                                      28
+     supplémentaire, ou baisse d'autres dépenses, ou
+     hausse des impôts sur tout ou partie de la
+     population)
+     Le gouvernement doit faire quelques gestes pour
+     répondre à certaines revendications mais ne doit
+                                      57
+     pas répondre à l'ensemble des demandes pour
+     des raisons budgétaires
+     Le gouvernement ne doit pas engager de
+     nouvelles dépenses, même si cela ne répond aux 14
+     revendications
+     Sans-réponses                    1
+     Quelle est votre attitude à l’égard de la mobilisation prévue le jeudi 5 novembre ?
+     Vous la soutenez                 32
+     Vous avez de la sympathie        27
+     Vous y êtes opposé               17
+     Vous y êtes hostile              11
+     Vous y êtes indifférent          13
+     Sans-réponses                    0
+
+                                                                             7

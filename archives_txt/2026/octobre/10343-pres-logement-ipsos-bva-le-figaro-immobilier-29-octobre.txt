@@ -1,0 +1,1303 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10343-pres-logement-ipsos-bva-le-figaro-immobilier-29-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+•  29   octobre        2026
+
+                                NOTICE               TECHNIQUE
+
+                                Enquête   Ipsos  bva  CESI  Ecole   d’ingénieurs   sur les Français
+                                et le logement   pour  Le  Figaro  Immobilier    et France  Info  –
+
+                                Octobre   2026
+
+--- page 2 ---
+
+ARTICLE      2 –  INFORMATIONS           GENERALES
+
+    ▪ Organisme    ayant  réalisé  le sondage              IPSOS  bva
+
+    ▪ Commanditaires      du sondage                       Le Figaro  Immobilier    et France   Info
+
+                                                           1000  personnes,
+
+    ▪ Nombre    de personnes    interrogées                constituant   un  échantillon  national   représentatif   de la
+
+                                                           population   française,  âgée   de 18 ans  et plus.
+
+    ▪ Dates  de réalisation   des  interviews              Du 7 au  8 octobre   2026
+
+    ▪ Date  de diffusion  prévue                           Le jeudi  29 octobre   2026  à 5H
+
+    ▪ Questionnaire                                        Présenté   intégralement     dans  le rapport  d’étude  ci-après
+
+--- page 3 ---
+
+PRÉCISIONS             SUR     L’INTERVALLE             DE    CONFIANCE
+
+    L’intervalle de confiance (appelé aussi marge d’erreur) est l’intervalle dans lequel se trouve la valeur recherchée avec une probabilité fixée (le niveau
+
+    de confiance). L’amplitude de cet intervalle dépend du niveau de confiance, de la valeur observée et de la taille de l’échantillon. Le calcul n’est
+    justifié que pour les sondages aléatoires. Il ne peut pas être déterminé dans le cas de sondages par quotas mais on considère qu’il est proche de
+    celui des sondages aléatoires.
+
+                             INTERVALLE   DE CONFIANCE
+
+                         (avec un niveau de confiance de 95%)
+                                      SCORES OBTENUS (P)                      Note de lecture : pour un échantillon de 1000 personnes, si le score
+        Taille                                                                mesuré est de 20%, il y a 95% de chances pour que la valeur réelle
+     d'échantillon 2% ou 5% ou 10% ou 15% ou 20% ou 25% ou 30% ou 35% ou 40% ou 45% ou se situe aujourd’hui entre 17,5% et 22,5% (plus ou moins 2,5
+                                                                        50%
+         (N)    98%   95%  90%   85%  80%   75%  70%   65%   60%  55%         points).
+
+        100      2,7  4,3   5,9  7,0   7,8  8,5   9,0  9,3   9,6   9,8  9,8
+        500      1,2  1,9   2,6  3,1   3,5  3,8   4,0  4,2   4,3   4,4  4,4
+
+        1 000    0,9  1,4   1,9  2,2   2,5  2,7   2,8  3,0   3,0   3,1  3,1
+        2 500    0,5  0,9   1,2  1,4   1,6  1,7   1,8  1,9   1,9   2,0  2,0
+        6 000    0,4  0,6   0,8  0,9   1,0  1,1   1,2  1,2   1,2   1,3  1,3
+
+       10 000    0,3  0,4   0,6  0,7   0,8  0,8   0,9  0,9   1,0   1,0  1,0
+       15 000    0,2  0,3   0,5  0,6   0,6  0,7   0,7  0,8   0,8   0,8  0,8
+
+                                                                 3
+
+--- page 4 ---
+
+ARTICLE      3 – INFORMATIONS            GENERALES
+
+                                                     Enquête  Ipsos bva CESI école d’ingénieurs sur les Français et le logement pour
+     ▪ Objet du sondage
+                                                     Le Figaro Immobilier et France Info
+
+                                                     1000 personnes,  constituant un échantillon national représentatif de la
+                                                     population française, âgée de 18 ans et plus.
+     ▪ Echantillon interrogé
+                                                     Méthode  des quotas : sexe, âge, profession de la personne interrogée,
+
+                                                     catégorie d’agglomération, région.
+
+     ▪ Mode de recueil                               En ligne
+
+                                                     Le taux de non-réponse  (lorsqu’il est supérieur à 0) est présenté pour chaque
+     ▪ Taux de non-réponse
+                                                     question dans le rapport ci-après.
+
+                                                     Chaque  répondant  a obtenu des points cumulables pour une valeur inférieure à 1
+     ▪ Gratification des personnes interrogées
+                                                     euro.
+
+                                                     Le redressement  a été effectué à partir de la structure sociodémographique de
+                                                     la population française âgée de 18 ans et plus (sexe, âge, catégorie
+
+                                                     socioprofessionnelle de la personne interrogée, région et catégorie
+     ▪ Critères de redressement
+                                                     d’agglomération), du souvenir de vote aux élections européennes de 2024 et du
+                                                     souvenir de vote au 1er tour de l’élection présidentielle de 2022 et du statut
+                                                     d’occupation du logement.
+
+--- page 5 ---
+
+LES       FRANÇAIS                 ET     LE
+
+   LOGEMENT,                   À   6   MOIS        DE
+
+   L’ÉLECTION                  PRÉSIDENTIELLE
+
+    Octobre     2026
+
+   Adélaïde Zulfikarpasic
+
+   Pierre Latrille
+   Charles Rat
+
+--- page 6 ---
+
+MÉTHODOLOGIE
+
+                    ÉCHANTILLON                                           MÉTHODOLOGIE
+
+                    1000 personnes, constituant un
+
+                    échantillon représentatif de la population
+                                                                     Échantillon interrogé par Internet via l’Access
+                    française âgée de 18 ans et plus.
+                                                                     Panel Online d’Ipsos.
+                                                                     Méthode  des quotas  :
+
+                                                                     Sexe, âge, profession, région, catégorie
+                                                                     d’agglomération.
+                    DATES    DE  TERRAIN
+
+                     Du 7 au 8 octobre 2026
+
+         Notes de lecture :
+         Tous les résultats sont exprimés en pourcentages (%).
+
+                 Ce rapport a été réalisé pour :
+
+                Ce rapport a été élaboré dans le respect de la norme internationale ISO 20252 «Etudes de marché, études sociales et d’opinion».
+                Ce rapport a été relu par Adélaïde Zulfikarpasic, Directrice générale du pôle Société d’Ipsos bva
+
+                                                                              6
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 7 ---
+
+ÉTAT           DES         LIEUX            ET
+
+     COÛT           DU       LOGEMENT
+
+       01
+
+ © Ipsos bva CESI école d’ingénieurs pour
+ Le Figaro Immobilier et Franceinfo | Les
+ Français et le logement | Octobre 2026
+
+--- page 8 ---
+
+La  majorité      des  Français      sont   satisfaits     de  leur  situation     en  matière      de  logement.
+
+   Moins    d’un   quart    en  est  cependant        très   satisfait
+
+    Question : Aujourd’hui, d’une manière générale, diriez-vous que vous êtes satisfait ou non de votre situation personnelle en
+    matière de logement ?
+                                                                            % SELON L’ÂGE                              % SATISFAIT
+    Base : A tous
+                                                                                                                            72
+                                                    % S
+                                                        ATISFAIT              Moins de 35 ans 22       50        20   8
+                                                                                                                            76
+                                                                                  35-59 ans 20         56         15  9
+                                                        78                                                                  86
+                               7                                                60 ans et plus 29         57        10 4
+                                                                            % SELON LA CATÉGORIE SOCIO-PROFESSIONNELLE
+                                          23                                                                                77
+                                                                                     CSP+   25          52         16 7
+                       15
+                                                                                                                            76
+                                                                                     CSP-  19          57         17  7
+                                                                                                                            81
+                                                                                   Inactifs 26           55        13  6
+                                                                            % SELON LA CATÉGORIE D’AGGLOMÉRATION
+                                                                                                                            77
+                                                                       Aire de plus de 200 000 hab. 21 56         15  8
+                                                                                                                            73
+                                                                             ...dont métropole 18     55         16   11
+                                                                                                                            72
+                                                                               ...dont banlieue 13   59          18   10
+                                                                                                                            83
+                                                                             ...dont périurbain 29       54         12 5
+                                                                                                                            80
+                                                                      Aire de moins de 200 000 hab. 31   49        15  5
+                                                                  ...dont pôles (métropole et banlieue) 31 48      15  6    79
+                                 55
+                                                                             ...dont périurbain 31       49        15  5    80
+                                                                                     Rural 17           68           13 2   85
+                                                                            % SELON LE STATUT D’OCCUPATION
+                                                                                 Propriétaire 30          57         9 4    87
+                                                                                  Locataire 13      51          25    11    64
+         Tout à fait satisfait             Plutôt satisfait                Plutôt pas satisfait             Pas du tout satisfait
+                                                                              8
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 9 ---
+
+Malgré     cette   satisfaction       largement      partagée,      le  logement      demeure       une   préoccupation
+
+   importante       pour    plus   des   deux    tiers  des   Français
+
+    Question : La question du logement est-elle pour vous une préoccupation importante ?
+    Base : A tous                                                              % SELON L’ÂGE                                %  O UI
+
+                                                                                   Moins de 35 ans 27       45        25   3   72
+                                                      %  O
+                                                          UI
+                                                       69                             35-59 ans 24         49         20  7    73
+                                 9
+                                                                                    60 ans et plus 16   45         24    15    61
+                                             22
+                                                                      % SELON LA CATÉGORIE SOCIO-PROFESSIONNELLE
+                        22
+                                                                                         CSP+   23         49         23   5   72
+
+                                                                                         CSP-   25         49         19  7    74
+
+                                                                                       Inactifs 19       43        25    13    62
+
+                                                                      % SELON LE STATUT D’OCCUPATION
+
+                                        47
+                                                                                    Propriétaires 18     46         25    11   64
+
+                                                                                     Locataires  30          46        18  6   76
+
+           Oui, tout à fait                  Oui, plutôt                    Non, plutôt pas                  Non, pas du tout
+
+                                                                              9
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 10 ---
+
+Un   peu    plus    d’un   Français      sur   deux,    particulièrement          les   locataires      et  les   ménages
+
+   modestes,       pointent      des   dépenses       de  logement      comme       une   charge     difficile   à supporter
+
+    Question : Diriez-vous que les dépenses liées à votre logement représentent pour votre foyer aujourd’hui une charge…?
+                                                                                                                              %
+    Base : A tous
+                                                                                                                           D
+                                                                       % SELON LE REVENU MENSUEL NET DU FOYER               IFFICILE
+       %
+                                                                                Moins de 1200€ 11  33          42       14     56
+   D IFFICILE              9      10
+     52                                                                           1200-2000€ 9   28           50        13     63
+                                                                                  2000-3000€ 6    39            45       10    55
+
+                                                                                 3000€ et plus 12    47            36     5    41
+
+                                                                         % SELON LE STATUT D’OCCUPATION
+                                           38
+                 43
+                                                                                 Propriétaires 10   43           40       7    47
+
+                                                               …dont propriétaires sans emprunt en cours 13 47     34     6    40
+
+                                                               …dont propriétaires avec emprunt en cours 6 38   48       8     56
+
+                                                                                   Locataires 9  29           48        14     62
+
+       …très facile à supporter        …assez facile à supporter       …assez difficile à supporter      …très difficile à supporter
+
+                                                                              10
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 11 ---
+
+Une    majorité     claire  de   Français     constate      que   la charge     que   représentent         les
+
+   dépenses       de  logement       a augmenté        ces   dernières      années
+
+   Question : Et par rapport à il y a quelques années, diriez-vous que la charge que représentent les dépenses liées à votre
+   logement  pour le budget de votre foyer a…?
+                                                                                                                             % A
+   Base : A tous
+                                                                                                                          AUGMENT
+                                                                % SELON LE REVENU MENSUEL NET DU FOYER
+                                                                                                                              É
+                                          % A
+                                               AUGMENTÉ
+                                                                         Moins de 1200€   41            33       13   8 5     74
+                                               79
+                        11
+                                                                          1200-2000€       48              32      5 2 13     80
+                    3
+                 7                                                        2000-3000€      41              42       42  11     83
+                                         40
+                                                                          3000€ et plus  34             44        7 2 13      78
+
+                                                                  % SELON LE STATUT D’OCCUPATION
+
+                                                                          Propriétaires   39             39       8 2  12     78
+                     39
+
+                                                                           Locataires     42              37       7 4 10     79
+
+     Beaucoup augmenté          Un peu augmenté             Un peu baissé             Beaucoup baissé         Elle est restée stable
+
+                                                                              11
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 12 ---
+
+Près    de  quatre     Français     sur  dix   ont  déjà   du  renoncer      à  des   dépenses       essentielles      pour
+
+    payer    les  dépenses       liées   au  logement
+
+     Question : Vous est-il déjà arrivé de vivre chacune des situations suivantes à cause du coût des dépenses liées au logement ?
+
+     Base : A tous
+
+     Renoncer à des dépenses essentielles (alimentation, énergie, etc.) pour
+                                                                             39                    61
+                               payer les dépenses liées à votre logement
+
+                     Renoncer à déménager alors que vous en aviez besoin  22                   78
+
+                                 Déménager  dans un logement plus petit  20                    80
+
+           Déménager dans un logement plus éloigné de votre lieu de travail 19                 81
+
+          Reporter un projet de couple (séparation, arrivée d'un enfant, etc.) 18             82
+
+     Refuser une offre d'emploi ou une formation parce que vous ne pouviez
+                                                                         16                   84
+                                                       pas déménager
+                           Déménager  dans un logement en mauvais état  12                   88
+
+                                             Vous mettre en colocation 10                    90
+
+                                                Oui                              Non
+
+                                                                              12
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 13 ---
+
+Les   plus   jeunes    et  les  plus   modestes       sont   particulièrement          touchés     par   les  situations     de
+
+   privation     liées  au   coût   du  logement
+
+   Question  : Vous est-il déjà arrivé de vivre chacune des situations suivantes à cause du coût des dépenses liées au logement ?
+
+   Base  : A tous
+                                                                                                           REVENU MENSUEL  MOYEN DU
+                                                                              ÂGE                CSP                 FOYER
+                                                                        MOINS
+                                                                %  Oui  DE 35 35-59 60 ANS                   - DE 1200- 2000- 3000€
+                                                                         ANS   ANS ET PLUS CSP+ CSP- INACTIFS 1200€ 2000€ 3000€ ET +
+    Renoncer à des dépenses essentielles (alimentation, énergie, etc.)
+                                                                  39     49    42    28    40    45    34    62    51    32    26
+                     pour payer les dépenses liées à votre logement
+
+               Renoncer à déménager alors que vous en aviez besoin 22    33    23    12    24    25    18    41    27    14    15
+
+                                                                  20     30    21    11    23    22    16    38    26    14    11
+                            Déménager  dans un logement plus petit
+                                                                  19     28    22    9     25    21    12    22    20    17    16
+     Déménager  dans un logement plus éloigné de votre lieu de travail
+
+                                                                  18     36    19    5     26    21    11    26    22    10    17
+    Reporter un projet de couple (séparation, arrivée d'un enfant, etc.)
+       Refuser une offre d'emploi ou une formation parce que vous ne
+                                                                  16     26    21    4     20    20    11    34    14    12    11
+                                          pouviez pas déménager
+
+                      Déménager  dans un logement en mauvais état 12     21    15    3     14    13    11    25    14    8     7
+
+                                        Vous mettre en colocation 10     26    7     2     15    9      7    20    11    6     7
+
+                                                                              13
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 14 ---
+
+L’ACCÈS                 AU
+
+     LOGEMENT
+
+       02
+
+ © Ipsos bva CESI école d’ingénieurs pour
+ Le Figaro Immobilier et Franceinfo | Les
+ Français et le logement | Octobre 2026
+
+--- page 15 ---
+
+Les   Français      constatent       une   difficulté    d’accès     au  logement,       que   ce  soit  pour    l’achat   ou
+
+    la  location
+
+     Question : Dans votre commune   de résidence, diriez-vous qu’il est aujourd’hui facile ou difficile de…?
+
+     Base : A tous
+                                                                                                       %              %
+
+                                                                                                     FACILE       DIFFICILE
+
+    Trouver un logement  à acheter
+                                    3         33                     47                17              36            64
+
+       Trouver un logement à louer
+                                    2      23                   52                   23                25            75
+
+ Trouver un logement social à louer 1   15                49                      35                   16            84
+
+            Très facile                      Plutôt facile                   Plutôt difficile                  Très difficile
+
+                                                                              15
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 16 ---
+
+Une   difficulté     d’accès     particulièrement         prononcée       dans    les  grandes      agglomérations
+
+    Question : Dans votre commune  de résidence, diriez-vous qu’il est aujourd’hui facile ou difficile de…?
+    Base : A tous
+
+                                       %
+
+                                                                                                       DONT PÔLES
+                                    Facile
+                                               + DE 200 000   DONT        DONT      DONT   - DE 200 000 (MÉTROPOLE ET DONT
+                                                HABITANTS   MÉTROPOLE   BANLIEUE PÉRIURBAIN HABITANTS   BANLIEUE) PÉRIURBAIN  RURAL
+
+     Trouver un logement à acheter     36          34          32          38        32        41          43         40       30
+
+        Trouver un logement à louer    25          23          20          24        25        29          30         28       19
+
+ Trouver un logement  social à louer   16          15           19         14        14        21          24         18        8
+
+                                                                              16
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 17 ---
+
+Dans    un   contexte      de  hausse     perçue     du  coût    du  logement,       le prix  constitue      de  loin  le
+
+    principal     facteur     de  choix    d'un  logement,       devant     la localisation      et la qualité    du   bien
+
+     Question : Parmi les critères suivants, lesquels sont les plus importants pour vous lorsque vous choisissez un logement ?
+
+     Base : à tous – Total supérieur à 100% car 3 réponses possibles
+
+                                                                                       ÂGE                       CSP
+
+                                                                            MOINS DE 35 35-59 60 ANS ET
+                                                                               ANS      ANS     PLUS    CSP+     CSP-   INACTIFS
+                        Le prix
+                                                                      76       77       76      76       74      74       79
+
+                La localisation                           52                   46       54      54       56      48       52
+
+     L'état général du logement                        46                      48       45      47       44      48       47
+
+La bonne isolation du logement                     37
+                                                                               31       36      43       35      37       39
+
+        La surface du logement                  31
+                                                                               26       32      33       34      29       30
+
+                  Le voisinage                26                               14       29      31       20      29       29
+
+                 L'agencement       6                                           7       6        6       9        5        5
+
+                  L'esthétique     4
+                                                                               10       2        2       5        2        4
+
+                                                                              17
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 18 ---
+
+Toutefois,      au-delà     du  prix,   les Français      accordent       une   grande     importance       au   confort
+
+  thermique       et  à l’efficacité     énergétique       du   logement
+
+   Question : Et plus précisément, diriez-vous pour chacun des éléments suivants qu’il constitue un élément essentiel,
+   important mais pas essentiel ou secondaire dans votre choix de logement ?
+                                                                                                                      %
+   Base : à tous
+                                                                                                                 I
+                                                                                                                  MPORTANT
+
+           Le fait que le logement soit bien isolé et
+                                                                        73                          24      3
+                         facile à chauffer en hiver                                                                  97
+
+            Le fait que le logement consomme peu
+                                                                     62                          35         3        97
+                                        d’énergie
+
+           Le fait que le logement soit bien isolé et
+                                                                     61                         35          4        96
+                          facile à rafraîchir en été
+
+          Le fait qu’il soit situé dans une zone sans
+       risque (zone inondable, proximité d’une zone                  61                        32          7         93
+
+               d’érosion, sols argilo-calcaires, etc.)
+
+                  Essentiel                           Important mais pas essentiel                        Secondaire
+
+                                                                              18
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 19 ---
+
+Le   caractère      essentiel     de  ces   différents      éléments      est  partagé      par  les  différentes
+
+  catégories
+
+   Question : Et plus précisément, diriez-vous pour chacun des éléments suivants qu’il constitue un élément essentiel,
+   important mais pas essentiel ou secondaire dans votre choix de logement ?
+
+   Base : à tous
+
+                                                     %                          ÂGE                  CSP           STATUT D’OCCUPATION
+
+                                                E SSENTIEL   Ensemble  MOINS DE 35-59 60 ANS ET
+                                                                        35 ANS   ANS    PLUS  CSP+  CSP-  INACTIFS PROPRIÉTAIRES LOCATAIRES
+
+       Le fait que le logement soit bien isolé et facile à chauffer en
+                                                                73       65      77     76     74    74     72      73        73
+                                                        hiver
+
+                 Le fait que le logement consomme peu d’énergie 62       50      64     67     59    63     63      63        60
+
+       Le fait que le logement soit bien isolé et facile à rafraîchir en
+                                                                 61      57      62     63     62    60     62      59        65
+                                                          été
+
+                  Le fait qu’il soit situé dans une zone sans risque
+        (zone inondable, proximité d’une zone d’érosion, sols argilo- 61 46      61     72     61    53     67      65        55
+
+                                               calcaires, etc.)
+
+                                                                              19
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 20 ---
+
+LES        NORMES
+
+       03
+
+ © Ipsos bva CESI école d’ingénieurs pour
+ Le Figaro Immobilier et Franceinfo | Les
+ Français et le logement | Octobre 2026
+
+--- page 21 ---
+
+Pour    faciliter   l’accès    au  logement,       les  Français     privilégient      la rénovation      du
+
+    parc    existant     à la construction        de  logements       neufs
+
+     Question : Selon vous, afin de faciliter l’accession au logement, les pouvoirs publics devraient-ils…?
+     Base : à tous
+
+           Avant tout favoriser la rénovation et la
+                                                                                             53
+       réhabilitation du parc de logement existant
+
+           Avant tout favoriser la reconversion de
+                                                                          30
+                  bureaux  vacants en logements
+
+           Avant tout favoriser la construction de
+                                                                17
+                                logements neufs
+
+                                                                              21
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 22 ---
+
+Une    opinion    majoritaire      auprès     des   différentes      tendances        politiques…
+
+     Question : Selon vous, afin de faciliter l’accession au logement, les pouvoirs publics devraient-ils…?
+     Base : à tous
+
+                                          %   Oui
+
+                                                                         LES        PS/PLACE      BLOC
+                                                           LFI        ÉCOLOGISTES   PUBLIQUE    CENTRAL       LR            RN
+
+   Avant tout favoriser la rénovation et la
+
+       réhabilitation du parc de logement    53             57            62           59         54          54            51
+                                existant
+
+      Avant tout favoriser la reconversion
+                                             30             19            29           30         34           31           33
+        de bureaux vacants en logements
+
+   Avant tout favoriser la construction de
+                                             17            24             9            11          12          15           16
+                        logements neufs
+
+                                                                              22
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 23 ---
+
+…ainsi     que   dans    les  différents     types    d’agglomération
+
+     Question : Selon vous, afin de faciliter l’accession au logement, les pouvoirs publics devraient-ils…?
+     Base : à tous
+
+                                  %   Oui
+                                                                                                     DONT PÔLES
+                                             + DE 200 000  DONT                  DONT    - DE 200 000 (MÉTROPOLE ET DONT
+                                              HABITANTS  MÉTROPOLE DONT BANLIEUE PÉRIURBAIN HABITANTS BANLIEUE) PÉRIURBAIN   RURAL
+
+            Avant tout favoriser la
+
+     rénovation et la réhabilitation 53         52         55         45          57        54          51         56         59
+     du parc de logement existant
+
+            Avant tout favoriser la
+
+         reconversion de bureaux     30         30         25         32          31         31         31         31         27
+            vacants en logements
+
+            Avant tout favoriser la
+
+       construction de logements     17         18         20         23          12         15         18         13         14
+                           neufs
+
+                                                                              23
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 24 ---
+
+L’autorisation        de   location     des    logements        mal    isolés    divise    les  Français.       Un   clivage
+
+  politique    apparait,      avec   des    sympathisants         de   gauche      très  largement       opposés       à cette
+
+  idée   et des   sympathisants          de  droite    plutôt   favorables
+
+  Question : Et concernant la location de logements, parmi les deux propositions suivantes, laquelle se rapproche le plus de
+
+  ce que vous pensez  ?
+  Base : A tous                                                         % SELON LE STATUT D’OCCUPATION
+
+                                                                                     Propriétaires    47               53
+
+                                                                                       Locataires   39               61
+                                                                        % SELON LA PROXIMITÉ PARTISANE
+
+                                                      44
+                                                                                           LFI    25               75
+
+                            56                                                      Les Ecologistes 21            79
+
+                                                                                  PS/Place Publique 38               62
+
+                                                                                      Bloc central    48               52
+
+                                                                                            LR         57               43
+
+                                                                                           RN         52                48
+
+   Il faut autoriser la location de tous les logements, même ceux ayant un
+                                                                       Il ne faut pas autoriser la location des logements ayant un mauvais
+     mauvais Diagnostic de Performance Energétique (DPE F ou G) car la
+                                                                      Diagnostic de Performance Energétique (DPE F ou G) car la priorité est
+  priorité est de permettre au plus grand nombre de personnes de trouver un
+                                                                    d’éviter que des personnes ne vivent dans des passoires thermiques, même
+     logement, même si cela signifie autoriser la location de passoires
+                                                                             si cela signifie qu’il y aura moins de logements à louer
+                            thermiques
+                                                                              24
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 25 ---
+
+L’ACCÈS                 À    LA
+
+     PROPRIÉTÉ
+
+       04
+
+ © Ipsos bva CESI école d’ingénieurs pour
+ Le Figaro Immobilier et Franceinfo | Les
+ Français et le logement | Octobre 2026
+
+--- page 26 ---
+
+Le   modèle       de   la  propriété      demeure        largement       attractif     auprès      d’une    majorité      de
+
+   locataires.      Cependant,       près   d’un   sur   deux    ne  l’envisage     pas   alors   qu’il  l’aurait   souhaité
+
+   ou   bien   l’envisage     mais    dans   un   horizon    plus   lointain
+
+   Question : Envisagez-vous  de devenir un jour propriétaire de votre résidence principale ?
+                                                                                                                            %  O
+                                                                                                                                UI
+   Base : Aux locataires
+                                                                                % SELON L’ÂGE
+                                                  %  O
+                                                      UI
+                                                                               Moins de 35 ans 6 15    41        13    25      62
+                                                   39
+                                  4
+                                       10
+                                                                                  35-59 ans 3 10 20      29          38        33
+                   37                                                           60 ans et plus 324 34             57            9
+                                                                      % SELON LA CATÉGORIE SOCIO-PROFESSIONNELLE
+                                             25
+                                                                                     CSP+ 5   18      32         26      19    55
+
+                                                                                     CSP- 4 10    23      24         39        37
+
+                              24
+                                                                                    Inactifs 3 5 22    22          48          30
+
+                                                                                 Non, vous ne l’envisagez pas
+                                Oui, dans les 2 à 3     Oui, mais dans un horizon                          Non, vous ne l’envisagez pas
+ Oui, dans les prochains mois                                                       même  si vous l’auriez
+                                prochaines années            plus lointain                                  et vous ne le souhaitez pas
+                                                                                         souhaité
+
+                                                                              26
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 27 ---
+
+L'accession       à  la propriété      demeure      un   élément      important      auprès     des   personnes       qui  y
+
+   aspirent     ou  qui   y sont   parvenus
+
+    Question : Diriez-vous qu’être propriétaire de votre résidence principale est pour vous un élément important ou non ?
+                                                                                                                              %
+    Base : Aux propriétaires ou aux locataires qui envisagent de devenir propriétaire ou qui l’auraient souhaité
+                                                                         % SELON L’ÂGE                                   I MPORTANT
+
+                                                                              Moins de 35 ans  43            39       14  4    82
+                                                %
+
+                        3                                                         35-59 ans       56             33     8 3    89
+                                            I
+                   8                         MPORTANT
+                                                                               60 ans et plus      65              28    52    93
+                                               89
+                                                                   % SELON LA CATÉGORIE SOCIO-PROFESSIONNELLE
+                                                                                    CSP+         55             34      9 2    89
+
+           33                                                                        CSP-        54             33     8  5    87
+                                      56
+                                                                                   Inactifs       58             31     9 2    89
+
+                                                                    % SELON LE STATUT D’OCCUPATION
+
+                                                                                Propriétaires       68              28    31   96
+
+                                                                                 Locataires  27         43          22   8     70
+
+          Très important                   Plutôt important               Plutôt pas important             Pas important du tout
+
+                                                                              27
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 28 ---
+
+La  propriété      est  avant    tout   perçue     comme       un  gage    de  sécurité     et  de  protection       vis-à-vis
+
+   des   aléas    de  la vie  ou  du   marché      locatif
+
+    Question : Pour vous, que représente avant tout le fait d’être propriétaire de votre résidence principale ?
+    Base : Aux propriétaires ou aux locataires qui envisagent de devenir propriétaire ou qui l’auraient souhaité – Total supérieur à
+
+    100% car 3 réponses possibles
+
+           Une protection pour votre retraite ou en cas de coup dur                                44
+
+                      La sécurité de ne plus dépendre d'un bailleur                           38
+
+                                                 L'indépendance                             35
+
+     La liberté de pouvoir aménager votre logement comme  vous le
+                                                                                            35
+                                                       souhaitez
+
+                                   La constitution d'un patrimoine
+                                                                                         31
+   La possibilité de transmettre quelque chose à vos proches après
+                                                                                         31
+                                                     votre décès
+
+                                           Un investissement  sûr                   24
+
+                                Une forme de réussite personnelle            14
+
+          La possibilité de réaliser une plus-value lors de la revente   8
+
+                                                                              28
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 29 ---
+
+Avec     l'âge,  la propriété      est  de  plus   en  plus   associée      à la  protection      de  l'avenir   et  à  la
+
+    transmission        patrimoniale
+
+     Question : Pour vous, que représente avant tout le fait d’être propriétaire de votre résidence principale ?
+
+     Base : Aux propriétaires ou aux locataires qui envisagent de devenir propriétaire ou qui l’auraient souhaité – Total supérieur à
+     100%  car 3 réponses possibles
+
+                                                                                 ÂGE                  CSP           STATUT D’OCCUPATION
+
+                                                              Ensemble  MOINS DE 35-59 60 ANS ET
+                                                                         35 ANS   ANS    PLUS  CSP+  CSP-  INACTIFS PROPRIÉTAIRES LOCATAIRES
+        Une protection pour votre retraite ou en cas de coup dur 44       25      48     53     39    41     50      47        36
+
+                    La sécurité de ne plus dépendre d'un bailleur 38      35      36     41     36    36     40      35        43
+
+                                               L'indépendance
+                                                                 35       34      34     36     36    29     38      38        26
+  La liberté de pouvoir aménager votre logement comme  vous le
+                                                                 35       35      33     37     38    30     36      35        34
+                                                     souhaitez
+
+                                La constitution d'un patrimoine  31       26      33     32     34    30     29      34        22
+
+La possibilité de transmettre quelque chose à vos proches après
+                                                                 31       20      28     42     25    30     36      33        25
+                                                   votre décès
+                                         Un investissement sûr   24       25      25     23     24    28     22      24        25
+
+                             Une forme  de réussite personnelle  14       19      17      6     16    21     8       13        16
+
+       La possibilité de réaliser une plus-value lors de la revente 8     12      7       6     6     10     8        7        10
+
+                                                                              29
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 30 ---
+
+Pour    les  Français,     ce  sont    avant    tous   les  questions      financières      qui  expliquent       les
+
+    difficultés     d’accès     à  la propriété
+
+     Question : Quels sont pour vous les deux principaux freins pour accéder à la propriété aujourd’hui ?
+     Base : à tous – Total supérieur à 100% car 2 réponses possibles
+
+                                                                                 ÂGE                   CSP           STATUT D’OCCUPATION
+
+                                                                        MOINS DE 35-59 60 ANS ET
+                                                                         35 ANS  ANS    PLUS   CSP+    CSP-  INACTIFS PROPR. LOCATAIRES
+
+        Le prix d'achat des logements
+                                                                  61      56     62      63     59     62      62      61      61
+
+        Le coût des prêts immobiliers
+                                                              51          36     57      55     52     50      50      57      41
+
+        La nécessité d'avoir un apport
+                 personnel important                   36                 31     37      37     37     34      35      38      33
+
+             Le montant  des charges
+                                             14                           23     13      10     14      15     13      12      18
+
+ Les normes  et travaux obligatoires à
+                                            13
+                                                                          10     12      17     12      13     15      14      12
+                             réaliser
+  La difficulté de trouver un logement
+                                           11
+                                                                          16      8      10     10      10     12       9      13
+                           à acheter
+
+                                                                              30
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 31 ---
+
+FOCUS              SUR         L’ÉLECTION
+
+     PRÉSIDENTIELLE                                DE
+
+     2027
+
+       05
+
+ © Ipsos bva CESI école d’ingénieurs pour
+ Le Figaro Immobilier et Franceinfo | Les
+ Français et le logement | Octobre 2026
+
+--- page 32 ---
+
+Pour    une   partie   importante       des   Français,      notamment        parmi     les plus   jeunes,     ce  sujet
+
+   comptera       dans    leur  choix    de  vote    en  2027
+
+    Question : La question du logement est-elle pour vous un élément qui va compter dans votre choix de vote pour l’élection
+
+    présidentielle de 2027 …?                                                % SELON L’ÂGE                                  %  O UI
+    Base : A tous
+                                                                                                                               57
+                                                                                Moins de 35 ans 16    41          33     10
+                                                                                                                               44
+                                                     %  O                           35-59 ans 13    31         38       18
+                                                         UI
+                                                                                                                               32
+                                   12                                            60 ans et plus 7 25        45         23
+                                                      43
+                       18
+                                                                       % SELON LA CATÉGORIE SOCIO-PROFESSIONNELLE
+                                                                                                                               48
+                                                                                      CSP+  12      36          37       15
+                                                                                       CSP-  16     32          35      17     48
+                                                                                     Inactifs 8  28          43         21     36
+                                            31                         % SELON LA PROXIMITÉ PARTISANE
+                                                                                        LFI   25        38          34     3   63
+                     39                                                         Les Ecologistes 13  36          35      16     49
+
+                                                                               PS/Place Publique 3 42           41       14    45
+                                                                                  Bloc central 11 20        48          21     31
+
+                                                                                        LR 6      34         38        22      40
+
+                                                                                        RN  14     29         38        19     43
+
+           Oui, tout à fait                  Oui, plutôt                    Non, plutôt pas                  Non, pas du tout
+
+                                                                              32
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 33 ---
+
+Un   soutien     clair  aux   différentes      mesures,       que   ce  soit   celle  à  destination      des   locataires
+
+  comme         l’extension        de    l’encadrement           des     loyers     ou    celle     à   destination         des
+
+  propriétaires       avec    un  allégement        de  la fiscalité    sur  l’investissement         locatif
+
+                                                                                                                        %
+  Question  : Diriez-vous que vous êtes d’accord ou pas d’accord avec les mesures suivantes ?
+                                                                                                         %
+                                                                                                                       P
+  Base  : A tous                                                                                                        AS
+                                                                                                       ’
+                                                                                                     D ACCORD
+                                                                                                                     ’
+                                                                                                                    D ACCORD
+    Etendre l’encadrement des loyers, actuellement
+           en cours dans certaines grandes villes, à     30                 53             11  6         83             17
+                            l’ensemble du territoire
+    Favoriser l’investissement locatif en allégeant la
+       fiscalité pour les propriétaires qui louent des  22                59               15   4        81             19
+                                        logements
+
+        Instaurer une préférence nationale pour les
+         Français dans les critères d’attribution des    29              39           18     14          68            32
+                                logements sociaux
+
+  Abroger  la loi SRU qui oblige certaines communes
+                                                                                                         56            44
+                                                       20           36             31        13
+  à avoir un minimum de 25%  de logements sociaux
+
+         Tout à fait d’accord              Plutôt d’accord                 Plutôt pas d’accord             Pas du tout d’accord
+
+                                                                              33
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 34 ---
+
+Si  les  mesures       visant    à  accroître      l’offre   locative     et  son   abordabilité       font    globalement
+
+  consensus,        le logement      social    et la  préférence       nationale     fracturent      le spectre      politique
+
+  Question : Diriez-vous que vous êtes d’accord ou pas d’accord avec les mesures suivantes ?
+  Base  : A tous
+
+                                              %
+
+                                          D’accord
+                                                                         LES       PS/PLACE      BLOC
+                                                           LFI       ÉCOLOGISTES    PUBLIQUE   CENTRAL       LR           RN
+
+        Etendre  l’encadrement des loyers,
+     actuellement en cours dans certaines     83            89           93           91          86         81            78
+
+   grandes villes, à l’ensemble du territoire
+
+      Favoriser l’investissement locatif en
+
+              allégeant la fiscalité pour les 81            63            75          85          87         90           90
+    propriétaires qui louent des logements
+
+   Instaurer une préférence nationale pour
+             les Français dans les critères   68            38           58           44          68         88            89
+
+       d’attribution des logements sociaux
+
+     Abroger la loi SRU qui oblige certaines
+
+    communes   à avoir un minimum de 25%      56            33           39           39          55         75            72
+                    de logements  sociaux
+
+                                                                              34
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 35 ---
+
+Si Marine     Le  Pen    arrive   nettement       en  tête,   aucun     responsable       politique     ne  bénéficie
+
+   d'une   majorité     de   confiance      pour    répondre      à la crise   du   logement
+
+   Question  : Pour chacun des candidats suivants, diriez-vous que vous lui faites confiance ou non pour répondre à la crise du
+
+   logement  ?                                                                                   %                   %
+   Base  : A tous
+                                                                                            CONFIANCE          PAS CONFIANCE
+
+                  Marine Le Pen       17        20         21                42                 37                   63
+
+               Edouard  Philippe  3       26               35                 36                29                   71
+
+                Bruno Retailleau  4      23               36                  37                27                   73
+
+            Raphaël Glucksmann    3      23               38                  36                26                   74
+
+                    Gabriel Attal 4      22              34                  40                 26                   74
+
+           Jean-Luc  Mélenchon     8      16        21                   55                     24                   76
+
+                 Fabien Roussel   2     21               40                   37                23                   77
+
+                  Éric Zemmour     7     14        24                    55                      21                  79
+
+                   Olivier Faure  1    19              41                    39                 20                   80
+
+               Marine Tondelier   3    16             37                    44                   19                  81
+
+        Tout à fait confiance              Plutôt confiance               Plutôt pas confiance             Pas du tout confiance
+
+                                                                              35
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 36 ---
+
+En   outre,   aucun     ne  parvient     véritablement         à convaincre       au-delà     de  ses   sympathisants
+
+     Question : Pour chacun des candidats suivants, diriez-vous que vous lui faites confiance ou non pour répondre à la crise du
+     logement  ?
+
+     Base : A tous
+
+                                %
+
+                           Confiance
+                                                                           PS/PLACE
+                                               LFI        LES ÉCOLOGISTES  PUBLIQUE   BLOC CENTRAL      LR             RN
+            Marine Le Pen       37              10             14             13           12           47             92
+
+          Edouard Philippe      29              17             24             27           77           51             11
+
+          Bruno Retailleau      27              10             17             13           46           71             28
+
+      Raphaël Glucksmann        26              22             46             63           52           25             6
+
+              Gabriel Attal     26              19             21             37           69           37             11
+
+      Jean-Luc Mélenchon        24              93             36             38           13           6              4
+
+           Fabien Roussel       23              41             36             55           19           15              7
+
+            Éric Zemmour        21              5              13             5            12           25             50
+
+              Olivier Faure     20              36             27             54           23           13             4
+
+          Marine Tondelier      19              41             53             42           15           8              3
+
+                                                                              36
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 37 ---
+
+ANNEXES
+
+                                                                  37
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 38 ---
+
+NOS        ENGAGEMENTS
+
+      CODES        PROFESSIONNELS,                 CERTIFICATION             QUALITE
+
+      CONSERVATION               ET   PROTECTION            DES     DONNEES
+
+           Ipsos est membre des organismes professionnels français et
+                                                                                  Ipsos France est certifiée ISO 20252 :
+           européens des études de marché et d’opinion suivants :
+                                                                                  Market Research - version 2019
+              SYNTEC (syndicat professionnel des sociétés d’études de             par AFNOR CERTIFICATION
+              marché en france ; www.Syntec-etudes.Com )
+                                                                         Ce document est élaboré dans le respect de ces codes et normes
+              ESOMAR  (European Society for Opinion and Market
+                                                                         internationales.
+              Research, www.Esomar.Org)
+
+         Ipsos France s’engage à appliquer le code ICC/Esomar des études de marché et d’opinion. Ce code définit les règles déontologiques des professionnels
+         des études de marché et établit les mesures de protection dont bénéficient les personnes interrogées.
+                Ipsos s’engage à respecter les lois applicables. Ipsos a désigné un Data Protection Officer et a mis place un plan de conformité au Règlement
+
+                Général sur la Protection des Données (Règlement (UE) 2016/679). Pour plus d’informations sur notre politique en matière de protection des
+                données personnelles : https://www.ipsos.com/fr-fr/confidentialite-et-protection-des-donnees-personnelles
+
+         A ce titre, la durée de conservation des données personnelles des personnes interviewées dans le cadre d’une étude est, à moins d’un engagement
+         contractuel spécifique :
+
+           •  de 12 mois suivant la date de fin d’une étude Ad Hoc .
+
+           •  de 36 mois suivant la date de fin de chaque vague d’une étude récurrente.
+
+                                                                              38
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 39 ---
+
+Fiabilité   des  résultats    :
+
+        Études        auto-administrées                     online
+
+         La fiabilité globale d’une enquête est le résultat du contrôle de toutes les composantes d’erreurs, c’est pourquoi Ipsos
+         impose des contrôles et des procédures strictes à toutes les phases de l’étude.
+
+                                                                        Suivi du terrain: La collecte est suivie et contrôlée (pénétration,
+         EN AMONT DU RECUEIL
+                                                                        durée d’interview, cohérence des réponses, suivi du comportement
+        •  Echantillon : structure et représentativité                  du répondant, taux de participation, nombre de relances,…).
+        •  Questionnaire : le questionnaire est rédigé en suivant un process de
+           rédaction comprenant 12 standards obligatoires. Il est relu et validé par
+                                                                    EN AVAL DU RECUEIL
+           un niveau senior puis envoyé au client pour validation finale. La
+           programmation (ou script du questionnaire) est testée par au moins 2
+                                                                   •  Les résultats sont analysés en respectant les méthodes d’analyses
+           personnes puis validée.
+                                                                      statistiques (intervalle de confiance versus taille d’échantillon, tests de
+                                                                      significativité). Les premiers résultats sont systématiquement contrôlés
+                                                                      versus les résultats bruts issus de la collecte. La cohérence des résultats
+         LORS DU RECUEIL
+                                                                      est aussi contrôlée (notamment les résultats observés versus les sources
+        •  Echantillonnage: Ipsos impose des règles d’exploitation très strictes de de comparaison en notre possession).
+           ses bases de tirages afin de maximiser le caractère aléatoire de la
+                                                                   •  Dans le cas d’une pondération de l’échantillon (méthode de calage sur
+           sélection de l’échantillon: tirage aléatoire, taux de sollicitation, taux de
+                                                                      marges), celle-ci est contrôlée par les équipes de traitement (DP) puis
+           participation, abandon en cours, hors cible…
+                                                                      validée par les équipes études.
+        •  Suivi du terrain: La collecte est suivie et contrôlée (pénétration, durée
+           d’interview, cohérence des réponses, suivi du comportement du
+           répondant, taux de participation, nombre de relances,…).
+                                                                              39
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 40 ---
+
+FIABILITÉ              DES       RÉSULTATS
+
+     Feuille   de  calcul
+
+     En  l’occurrence       s’agissant      de  cette    étude    :
+
+     •  Intervalle de confiance : 95%
+
+     •  Taille d’échantillon : 1000
+
+     Les   proportions       observées       sont   comprises       entre     :
+
+                     Borne Supérieure (%)
+                     Proportion observée (%)
+
+                     Borne Inférieure (%)
+
+                                   1% 2%  5%  10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 98% 99%
+                        Borne Supérieure (%) 1,6% 2,9% 6,4% 11,9% 17,2% 22,5% 27,7% 32,8% 38,0% 43,0% 48,1% 53,1% 58,1% 63,0% 68,0% 72,8% 77,7% 82,5% 87,2% 91,9% 96,4% 98,9% 99,6%
+                        Proportion observée (%) 1% 2% 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 98% 99%
+                        Borne Inférieure (%) 0,4% 1,1% 3,6% 8,1% 12,8% 17,5% 22,3% 27,2% 32,0% 37,0% 41,9% 46,9% 51,9% 57,0% 62,0% 67,2% 72,3% 77,5% 82,8% 88,1% 93,6% 97,1% 98,4%
+
+                                                                              40
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 41 ---
+
+FICHE      TECHNIQUE
+
+         Étude  CAWI   sur  panel  IIS
+
+          ÉCHANTILLON                               COLLECTE  DE DONNÉES                     TRAITEMENTS   DES DONNÉES
+
+          Population cible : 1000 personnes,          Dates de terrain : Du 7 au 8 octobre 2026 Echantillon pondéré
+          constituant un échantillon national
+                                                      Taille de l’échantillon final : 1 000 individus Méthode de pondération utilisée :
+          représentatif de la population française, âgée
+                                                                                                méthode de calage sur marges par
+          de 18 ans et plus                           Mode de recueil : On line sur panel IIS
+                                                                                                itération
+          Tirage de l’échantillon : échantillon constitué Type d’incentive : Programme de fidélisation
+                                                                                                Critères de pondération : sexe, âge,
+          par tirage aléatoire dans la base des panélistes avec système de récompense par cumul de
+                                                                                                profession de la personne interrogée,
+          éligibles pour l’étude.                     points pour les panélistes
+                                                                                                catégorie d’agglomération, région,
+          Critères et sources de représentativité : sexe, Méthodes de contrôle de la qualité des
+                                                                                                vote lors du premier tour de l’élection
+          âge, profession de la personne interrogée,  réponses: surveillance des comportements de
+                                                                                                présidentielle de 2022, vote lors des
+          catégorie d’agglomération, région           réponse des panélistes (Repérage des réponses
+                                                                                                élections européennes 2024, statut
+                                                      trop rapides ou négligées (cochées en ligne
+                                                                                                d’occupation du logement.
+                                                      droite ou zig zag par exemple)
+                                                      Contrôle de l’IP et cohérence des données
+                                                      démographiques.
+                                                                                         Compléments d’informations
+                                                                                        méthodologiques disponibles sur
+                                                      Les données seront conservées 2 ans
+                                                                                               demande
+                                                                              41
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 42 ---
+
+FICHE      TECHNIQUE
+
+         Organisation   (Étude   sur panel  online)
+
+          LES ACTIVITÉS CONDUITES OU COORDONNÉES       LES ACTIVITÉS RÉALISÉES PAR LES           LES ACTIVITÉS CONFIÉES À NOS
+          PAR LES ÉQUIPES IPSOS EN FRANCE              ÉQUIPES IPSOS LOCALES EXPERTES            PARTENAIRES RÉFÉRENCÉS
+                                                       DE L’ACTIVITÉ
+           Design et méthodologie
+                                                        Scripting                                Aucune dans le cadre de cette étude
+           Elaboration du questionnaire / validation du
+           scripting                                    Echantillonnage
+           Coordination de la collecte
+                                                        Emailing
+           Traitement des données
+                                                        Collecte des données en France
+           Validation des analyses statistiques
+           Elaboration du rapport d’étude
+           Conception de la présentation des résultats
+           Mise en forme des résultats
+           Présentation orale
+
+           Analyses et synthèse
+
+                                                                              42
+ © Ipsos bva CESI école d’ingénieurs pour Le Figaro Immobilier et Franceinfo | Les Français et le logement | Octobre 2026
+
+--- page 43 ---
+
+À   PROPOS       D’IPSOS                               GAME      CHANGERS
+
+         Ipsos est l’un des leaders mondiaux des études de marché et des Dans un monde qui évolue rapidement, s’appuyer sur des
+         sondages d’opinion, présent dans 90 marchés et comptant près données fiables pour prendre les bonnes décisions n’a jamais été
+         de 20 000 collaborateurs.                              aussi important.
+
+         Nos chercheurs, analystes et scientifiques sont passionnément Chez Ipsos, nous sommes convaincus que nos clients cherchent
+
+         curieux et ont développé des capacités multi-spécialistes qui plus qu’un simple fournisseur de données. Ils ont besoin d’un
+         permettent de fournir des informations et des analyses poussées véritable partenaire qui leur procure des informations précises et
+         sur les actions, les opinions et les motivations des citoyens, des pertinentes, et les transforme en connaissances pour leur
+         consommateurs, des patients, des clients et des employés. permettre de passer à l’action.
+
+         Nos 75 solutions s’appuient sur des données primaires provenant Voilà pourquoi nos experts, curieux et passionnés, délivrent les
+         de nos enquêtes, de notre suivi des réseaux sociaux et de mesures les plus exactes pour en extraire l’information qui
+         techniques qualitatives ou observationnelles.          permettra d’avoir une vraie compréhension de la Société, des
+                                                                Marchés et des Individus.
+
+         Notre signature « Game Changers » résume bien notre ambition
+         d’aider nos 5 000 clients à évoluer avec confiance dans un monde Nous mêlons notre savoir-faire au meilleur des sciences et de la
+         en rapide évolution.                                   technologie, et appliquons nos quatre principes de sécurité,
+                                                                simplicité, rapidité et de substance à tout ce que nous
+         Créé en France en 1975, Ipsos est coté à l’Euronext Paris depuis le produisons.
+         1er juillet 1999. L’entreprise fait partie des indices SBF 120, Mid- Pour permettre à nos clients d’agir avec plus de rapidité,
+         60, STOXX Europe 600 et est éligible au service de règlement d’ingéniosité et d’audace.
+         différé (SRD).
+         ISIN code FR0000073298, Reuters ISOS.PA, Bloomberg IPS:FP La clef du succès se résume par une vérité simple :
+                                                                You act better when you are sure.
+
+         www.ipsos.com
+         35 rue du Val de Marne
+         75 628 Paris, Cedex 13 France
+         Tel. +33 1 41 98 90 00
+
+                                                                  43
