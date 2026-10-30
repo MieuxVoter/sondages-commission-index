@@ -1,0 +1,168 @@
+# notice commission des sondages
+# source_pdf: archives/2026/octobre/10344-pres-mobilisation-lyceens-annonces-du-gouvernement-odoxa-29-octobre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Notice
+
+                                 SONDAGE D’ACTUALITE
+
+                   SONDAGE RÉALISÉ PAR ODOXA POUR BACKBONE ET LE FIGARO
+
+                Première publication sur le site www.odoxa.fr, le 29 octobre 2026 à 17h
+
+          Article 2 :
+           ✓  Organisme ayant réalisé le sondage : Odoxa
+
+           ✓  Commanditaire(s) : Backbone et Le Figaro
+
+           ✓  Nombre de personnes interrogées : échantillon représentatif de 1 005 Français âgés de
+
+              18 ans et plus
+
+           ✓  Dates de réalisation : du 28 au 29 octobre 2026
+
+          Article 3 :
+
+            ✓  Le pourcentage de personnes n’ayant pas répondu à chacune des questions est indiqué
+               sur le rapport de l’enquête disponible sur le site www.odoxa.fr
+
+            ✓  Gratification : Gratification sous la forme de points cumulables et dont la valeur s’élève
+               à 0,675 € pour un questionnaire complété.
+
+            ✓  Redressement : l’échantillon brut a été redressé sur les variables
+
+               sociodémographiques et professionnelles utilisées comme quotas ainsi que sur le vote
+               au premier et au second tours de l’élection présidentielle de 2022
+
+--- page 2 ---
+
+Questions posées
+
+          Q1. Le gouvernement a présenté une série de mesures pour répondre aux revendications
+          des lycéens et étudiants.
+
+          Pour chacune de ces mesures, dites-nous si c’est selon vous une bonne ou une mauvaise
+          décision du gouvernement.
+
+            •  Des ajustements de Parcoursup en 2027 et son remplacement définitif par un nouveau
+               dispositif en 2028
+
+            •  La création de 15 000 places supplémentaires en BTS, en BUT et en licence accès santé
+
+            •  Un plafonnement à 28 élèves par classe en seconde
+
+            •  La création de 500 nouveaux postes d’enseignants et l’annulation des 800 suppressions
+               de postes prévues dans le secondaire
+            •  Consacrer 5 milliards d’euros à rénover le bâti scolaire et universitaire (dont 4 milliards
+               sous forme de prêts aux régions et départements)
+
+            ·  Une bonne décision
+            ·  Une mauvaise décision
+
+          Q2. Après ces annonces, pensez-vous que le mouvement de mobilisation des lycéens et
+          des étudiants doit désormais s'arrêter ?
+
+               ·  Oui, tout à fait
+               ·  Oui, plutôt
+               ·  Non, plutôt pas
+               ·  Non, pas du tout
+
+          Q3. S’agissant de l’accès des bacheliers à l’enseignement supérieur, de laquelle de ces
+          deux opinions vous sentez-vous le/la plus proche ?
+
+               ·  Il est normal que les universités sélectionnent les meilleurs étudiants là où le
+                  nombre de places est limité
+               ·  Il est anormal que les universités fassent le tri entre les candidats, l’accès de tous à
+                  l’enseignement de son choix est un droit
+
+--- page 3 ---
+
+Q4. Pour chacun des qualificatifs suivants, diriez-vous qu'il s'applique plutôt bien ou plutôt
+          mal au mouvement des lycéens et étudiants.
+          S’applique plutôt bien / S’applique plutôt mal
+
+            •  Légitime
+
+            •  Sympathique
+            •  Violent
+
+            •  Politisé
+
+            •  Force de proposition
+
+            •  Manipulé
+            •  Amené à durer
+
+          Q5. Certains syndicats étudiants et lycéens ont annoncé leur intention de poursuivre la
+          mobilisation et les blocus devant les établissements à la rentrée scolaire.
+
+          A ce sujet, considérez-vous que... ?
+
+            ·  Les étudiants et lycéens ont raison de poursuivre les blocus pour se faire entendre du
+               gouvernement
+            ·  Les étudiants et lycéens ont tort de poursuivre les blocus car ils sont interdits par la loi
+
+          Q6. Ces dernières semaines, plusieurs mouvements sociaux ont eu lieu en France
+          (mouvement des lycéens et étudiants, mobilisation contre la vie chère…).
+
+          Vous-même, pensez-vous que ces mouvements de mobilisation pourraient conduire la
+          France à un blocage complet comme celui que la France a connu en décembre 1995 ou
+          pendant l’hiver 2019-2020 ?
+
+               ·  Oui, certainement
+               ·  Oui, probablement
+
+               ·  Non, probablement pas
+               ·  Non, certainement pas
+
+--- page 4 ---
+
+Tout sondage est affecté de marges d’erreurs
+
+          Avec ces effectifs, la marge d’erreur des résultats s'établit selon le score visé, entre plus ou
+          moins 1,4 et 3,1 points
+
+--- page 5 ---
+
+Structure
+
+                                         Base non % non Coefficient Base % pondéré
+                                         pondérée pondéré Pondératio pondérée
+                                                     n
+                 Total                    1 005 100,0%    1 005 100,0%
+                 Sexe
+                 Un homme                  492 49,0% 0,97  478 47,6%
+                 Une femme                 513 51,0% 1,03  527 52,4%
+                 Âge
+                 18-24 ans                 101 10,0% 1,02  103 10,3%
+                 25-34 ans                 138 13,7% 1,07  148 14,7%
+                 35-49 ans                 228 22,7% 1,07  244 24,3%
+                 50-64 ans                 261 26,0% 0,94  245 24,4%
+                 65 ans et +               277 27,6% 0,95  265 26,3%
+                 CSP/Profession de l'interviewé
+                 Agriculteur, indépendant, chef d'entreprise 50 5,0% 0,90 45 4,5%
+                 Cadre et profession intellectuelle supérieure 109 10,8% 0,89 97 9,7%
+                 Profession intermédiaire  123 12,2% 1,20  148 14,7%
+                 Employé                   178 17,7% 0,95  170 16,9%
+                 Ouvrier                   102 10,1% 1,25  128 12,7%
+                 Retraité                  295 29,4% 0,96  282 28,1%
+                 Elève / étudiant           60  6,0% 0,87  52  5,2%
+                 Autre inactif              88  8,8% 0,94  82  8,2%
+                 Région UDA9
+                 Région Parisienne         188 18,7% 0,99  186 18,5%
+                 Nord                       65  6,5% 0,94  61  6,1%
+                 Est                        87  8,7% 0,97  84  8,4%
+                 Bassin Parisien Est        82  8,2% 0,92  75  7,5%
+                 Bassin Parisien Ouest      79  7,9% 1,15  91  9,0%
+                 Ouest                     112 11,1% 1,24  139 13,8%
+                 Sud Ouest                 128 12,7% 0,90  115 11,5%
+                 Sud Est                   126 12,5% 0,98  124 12,3%
+                 Méditerranée              138 13,7% 0,94  130 13,0%
+                 Catégorie d'agglomération
+                 Rural                     221 22,0% 0,95  209 20,8%
+                 Moins de 20 000 hab       161 16,0% 1,12  180 17,9%
+                 De 20 000 à 99 999 hab    152 15,1% 0,94  143 14,2%
+                 100 000 hab et plus       305 30,3% 1,02  311 30,9%
+                 Agglomération parisienne  166 16,5% 0,98  163 16,2%
