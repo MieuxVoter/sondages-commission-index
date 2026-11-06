@@ -1,0 +1,153 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10358-pres-primaire-droite-et-centre-odoxa-5-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Notice
+
+                                 SONDAGE D’ACTUALITE
+
+                   SONDAGE RÉALISÉ PAR ODOXA POUR BACKBONE ET LE FIGARO
+
+                Première publication sur le site www.odoxa.fr, le 5 novembre 2026 à 17h
+
+          Article 2 :
+           ✓  Organisme ayant réalisé le sondage : Odoxa
+
+           ✓  Commanditaire(s) : Backbone et Le Figaro
+
+           ✓  Nombre de personnes interrogées : échantillon représentatif de 1 005 Français âgés de
+
+              18 ans et plus
+
+           ✓  Dates de réalisation : du 4 au 5 novembre 2026
+
+          Article 3 :
+
+            ✓  Le pourcentage de personnes n’ayant pas répondu à chacune des questions est indiqué
+               sur le rapport de l’enquête disponible sur le site www.odoxa.fr
+
+            ✓  Gratification : Gratification sous la forme de points cumulables et dont la valeur s’élève
+               à 0,675 € pour un questionnaire complété.
+
+            ✓  Redressement : l’échantillon brut a été redressé sur les variables
+
+               sociodémographiques et professionnelles utilisées comme quotas ainsi que sur le vote
+               au premier et au second tours de l’élection présidentielle de 2022
+
+--- page 2 ---
+
+Questions posées
+
+          Q1. Plusieurs personnalités de droite et du centre estiment qu’il faudrait organiser une primaire pour
+          désigner le candidat unique qui représentera leurs partis à l’élection présidentielle.
+          Vous personnellement êtes-vous favorable à l’organisation d’une telle primaire ?
+
+            •  Oui, tout à fait
+            •  Oui, plutôt
+            •  Non, pas vraiment
+            •  Non, pas du tout
+
+          Q2. Pensez-vous qu’une primaire aura finalement plutôt tendance à… ?
+
+               •    Diviser la droite et le centre à cause de l’affrontement des candidats
+               •    Rassembler la droite et le centre autour de son candidat et donc le rendre plus fort
+
+          Q3. Si une primaire devait désigner le candidat de la droite et du centre pour la prochaine élection
+          présidentielle, seriez-vous favorable ou opposé(e) à ce que cette primaire comporte des candidats… ?
+
+            •  Allant uniquement de Gabriel Attal (Renaissance) à Edouard Philippe (Horizons), sans inclure
+               les LR
+            •  Allant de Gabriel Attal (Renaissance), Edouard Philippe (Horizons), David Lisnard (ex-LR et
+               désormais Nouvelle Énergie) à Bruno Retailleau (LR)
+            •  Allant de Gabriel Attal (Renaissance) et Edouard Philippe (Horizons), David Lisnard (ex-LR et
+
+               désormais Nouvelle Énergie), Bruno Retailleau (LR) à Eric Zemmour (Reconquête)
+            •  Allant de Raphaël Glucksmann (Place Publique et vainqueur de la primaire de la gauche),
+               Gabriel Attal (Renaissance), Edouard Philippe (Horizons), David Lisnard (ex-LR et désormais
+               Nouvelle Énergie) à Bruno Retailleau (LR)
+                 −  Favorable
+                 −  Opposé(e)
+
+          Q4. Pour chacune des personnalités suivantes, dites-nous si vous pensez qu’elle ferait un(e) bon(ne)
+          ou un(e) mauvais(e) candidat(e) pour cette primaire ?
+
+            1. Gabriel Attal
+            2. Edouard Philippe
+            3. Bruno Retailleau
+            4. David Lisnard
+            5. Christine Lagarde
+
+            6. Eric Zemmour
+            1. Sarah Knafo
+               • Un(e) bon(ne) candidat(e)
+               • Un(e) mauvais(e) candidat(e)
+
+--- page 3 ---
+
+Q5. Entre Gabriel Attal, Edouard Philippe, Bruno Retailleau et David Lisnard, selon vous, lequel… ?
+
+            •    … est le plus proche des gens
+            •    … a le plus la stature d’un homme d’Etat
+            •    … est le plus compétent
+            •    … a le plus d’autorité
+            •    … est le plus charismatique
+
+            •    … vous donne le plus confiance
+            •    … est le plus dynamique
+            •    … est le plus rassembleur
+               − Gabriel Attal
+               − Edouard Philippe
+               − Bruno Retailleau
+               − David Lisnard
+
+--- page 4 ---
+
+Tout sondage est affecté de marges d’erreurs
+
+          Avec ces effectifs, la marge d’erreur des résultats s'établit selon le score visé, entre plus ou
+          moins 1,4 et 3,1 points
+
+--- page 5 ---
+
+Structure
+
+                                         Base non % non Coefficient Base % pondéré
+                                         pondérée pondéré Pondératio pondérée
+                                                     n
+                 Total                    1 005 100,0%    1 005 100,0%
+                 Sexe
+                 Un homme                  482 48,0% 0,99  478 47,6%
+                 Une femme                 523 52,0% 1,01  527 52,4%
+                 Age
+                 18-24 ans                  84  8,4% 1,23  103 10,2%
+                 25-34 ans                 146 14,5% 1,01  148 14,7%
+                 35-49 ans                 242 24,1% 1,01  244 24,3%
+                 50-64 ans                 264 26,3% 0,93  245 24,4%
+                 65 ans et +               269 26,8% 0,98  265 26,3%
+                 CSP/Profession de l'interviewé
+                 Agriculteur, indépendant, chef d'entreprise 50 5,0% 0,90 45 4,5%
+                 Cadre et profession intellectuelle supérieure 106 10,5% 0,92 97 9,7%
+                 Profession intermédiaire  149 14,8% 0,99  148 14,7%
+                 Employé                   177 17,6% 0,96  170 16,9%
+                 Ouvrier                   109 10,8% 1,17  128 12,7%
+                 Retraité                  275 27,4% 1,03  282 28,1%
+                 Elève / étudiant           52  5,2% 1,01  52  5,2%
+                 Autre inactif              87  8,7% 0,95  82  8,2%
+                 Catégorie d'agglomération
+                 Rural                     235 23,4% 0,89  209 20,8%
+                 Moins de 20 000 hab       145 14,4% 1,24  180 17,9%
+                 De 20 000 à 99 999 hab    152 15,1% 0,94  143 14,2%
+                 100 000 hab et plus       311 30,9% 1,00  311 30,9%
+                 Agglomération parisienne  162 16,1% 1,01  163 16,2%
+                 Région UDA9
+                 Région Parisienne         185 18,4% 1,00  186 18,5%
+                 Nord                       61  6,1% 1,00  61  6,1%
+                 Est                        87  8,7% 0,97  84  8,4%
+                 Bassin Parisien Est        84  8,4% 0,89  75  7,5%
+                 Bassin Parisien Ouest      75  7,5% 1,21  91  9,0%
+                 Ouest                     129 12,8% 1,08  139 13,8%
+                 Sud Ouest                 113 11,2% 1,02  115 11,5%
+                 Sud Est                   135 13,4% 0,92  124 12,3%
+                 Méditerranée              136 13,5% 0,96  130 13,0%

@@ -1,0 +1,236 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10356-pres-enseignement-superieur-elabe-5-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+NOTICE TECHNIQUE
+
+                          Les Français et l’enseignement supérieur
+
+     ARTICLE 2
+
+     Organisme ayant réalisé le sondage : Elabe
+     Nom du/des commanditaire(s) : Les Echos
+
+                                   Echantillon de 1 004 personnes, représentatif des résidents
+     Nombre de personnes interrogées :
+                                   de France métropolitaine âgés de 18 ans et plus.
+     Dates de réalisation de l'enquête : Du 3 au 4 novembre 2026
+
+     Date et support de première publication : Le 5 novembre 2026 à 17h sur www.elabe.fr
+
+                                                                             1
+
+--- page 2 ---
+
+QUESTIONNAIRE
+
+     Toutes les questions sont posées à tous les répondants.
+
+     ACTU1. En France, diriez-vous qu’aujourd’hui l’enseignement supérieur (universités, grandes écoles, écoles
+     spécialisées et BTS) fonctionne bien ou mal en ce qui concerne… ?
+     Très bien / Plutôt bien / Plutôt mal / Très mal
+     Rotation aléatoire des items
+       1. La manière dont la sélection est organisée à l’entrée des formations supérieures
+       2. L’orientation et l’affectation des lycéens dans les différents cursus du supérieur
+       3. La qualité des enseignements et des formations proposés
+       4. Les conditions de vie et d’études des étudiants
+       5. L'état des infrastructures et équipements
+     ACTU2. Selon vous, quelles modalités devraient être privilégiées pour l’admission dans l’enseignement
+     supérieur ?
+     En 1er ? En 2nd ?
+     Rotation aléatoire des items
+       1. L’examen du dossier scolaire, comprenant les notes et les appréciations obtenues en première et en
+          terminale
+       2. La prise en compte des résultats obtenus aux épreuves du baccalauréat
+       3. Des épreuves écrites et/ou orales spécifiques à la formation
+       4. L’examen d’un dossier mettant en avant le projet, la motivation, les activités et les engagements du
+          candidat
+       5. Un tirage au sort entre les candidats remplissant les conditions requises
+     ACTU3. Pour financer l’enseignement supérieur public, diriez-vous que vous êtes favorable ou opposé à
+     chacun des moyens suivants ?
+     Très favorable / Plutôt favorable / Plutôt opposé / Très opposé
+     Rotation aléatoire des items
+       1. Augmenter le budget de l'Etat consacré à l'enseignement supérieur (en baissant les budgets sur d'autres
+          postes de l'Etat ou en augmentant les impôts)
+       2. Augmenter les frais d'inscription pour tous les étudiants
+       3. Augmenter les frais d’inscription pour les étudiants non-boursiers (les étudiants boursiers ne seraient pas
+          concernés)
+       4. Augmenter les frais d’inscription pour les étudiants étrangers non-européens
+       5. Accroître les financements apportés par les entreprises et les fondations privées
+       6. Accroître les ressources propres des universités, par exemple grâce à la formation continue (formations aux
+          salariés), à l’apprentissage et à la valorisation de la recherche
+     ACTU4. Après les mobilisations, le gouvernement a annoncé plusieurs mesures en faveur des étudiants et
+     de l’enseignement supérieur
+     Pour chacune de ces mesures, y êtes-vous favorable ou opposé ?
+     Très favorable / Plutôt favorable / Plutôt opposé / Très opposé
+     Rotation aléatoire des items
+       1. Le maintien de la gratuité de l’inscription en BTS et en classes préparatoires pour les étudiants non-
+          boursiers (le gouvernement prévoyait de les faire payer environ 200 euros mais a renoncé)
+       2. La transformation de Parcoursup (la plateforme nationale d’orientation et d’admission dans l’enseignement
+          supérieur) dès 2027, puis son remplacement à l’horizon 2028
+       3. La création de 15 000 places supplémentaires dans l’enseignement supérieur entre 2027 et 2028
+       4. L’indexation des bourses étudiantes sur l’inflation à partir de la rentrée 2027
+       5. La mobilisation d’un milliard d’euros pour rénover les campus d’ici à 2029
+       6. L'augmentation des moyens consacrés au repas à un euro pour les étudiants, pour permettre aux
+          restaurants universitaires d’accueillir davantage d’étudiants
+
+                                                                             2
+
+--- page 3 ---
+
+NOTE SUR LES MARGES D’ERREUR
+
+     Marge d’erreur
+
+     Comme toute enquête statistique, un sondage présente une incertitude appelée « marge d’erreur » ou « marge
+     d’incertitude ». La marge d’erreur ou d’incertitude d’un sondage dépend de la taille de l’échantillon interrogé et du
+     résultat observé. Pour un échantillon de 1000 personnes interrogées, les marges d’erreur sont les suivantes avec un
+     niveau de confiance de 95 % :
+        Pour un  La marge d'erreur Le résultat réel se
+      pourcentage de : est de : situe entre :
+          5          +/- 1,4    3.6 et 6.4
+
+          10         +/- 1,9    8.1 et 11.9
+          15         +/- 2,2   12.8 et 17.2
+          20         +/- 2,5   17.5 et 22.5
+          25         +/- 2,7   22.3 et 27.7
+
+          30         +/- 2,8   27.2 et 32.8
+          35         +/- 3      32 et 38
+          40         +/- 3      37 et 43
+          45         +/- 3,1   41.9 et 48.1
+
+          50         +/- 3,1   46.9 et 53.1
+          55         +/- 3,1   51.9 et 58.1
+          60         +/- 3      57 et 63
+          65         +/- 3      62 et 68
+
+          70         +/- 2,8   67.2 et 72.8
+          75         +/- 2,7   72.3 et 77.7
+          80         +/- 2,5   77.5 et 82.5
+          85         +/- 2,2   82.8 et 87.2
+
+          90         +/- 1,9   88.1 et 91.9
+          95         +/- 1,4   93.6 et 96.4
+
+     Exemple de lecture :
+     Pour un résultat observé de 25 %, il y a 95 % de chances pour que le résultat réel soit compris entre 22,3% et 27,7%.
+
+     La notice de ce sondage peut être consultée sur le site internet de la Commission des sondages : www.commission-des-sondages.fr
+     Toute publication ou toute reprise de ce sondage doit faire figurer la méthodologie et les marges d’erreurs :
+
+     « Echantillon de 1 004 personnes, représentatif des résidents de France métropolitaine âgés de 18 ans et plus. Interrogation par
+     Internet du 3 au 4 novembre 2026.
+     La représentativité de l’échantillon a été assurée selon la méthode des quotas appliquée aux variables suivantes : sexe, âge,
+     catégorie socio-professionnelle, région de résidence et catégorie d’agglomération.
+
+     Marge d’erreur comprise entre 1,4 et 3,1 pts de pourcentage. »
+
+                                                                             3
+
+--- page 4 ---
+
+ARTICLE 3
+
+     Objet du sondage :            Les Français et l’enseignement supérieur
+
+                                   Echantillon de 1 004 personnes, représentatif des résidents
+                                   de France métropolitaine âgés de 18 ans et plus, constitué
+     Méthode :                     d'après la méthode des quotas (sexe, âge, profession de la
+                                   personne interrogée, catégorie d’agglomération et région
+                                   de résidence).
+
+     Conditions d’interrogation :  Les répondants ont été interrogés en ligne (Internet).
+     Nombre de sans réponse :      Voir « Résultats publiés »*
+
+                                   Oui. Gratification sous la forme de points cumulables et dont
+     Existence d’une gratification : la valeur s’élève à moins de 1€ pour un questionnaire
+                                   complété.
+
+                                   L’échantillon brut a été redressé sur les variables
+                                   sociodémographiques et professionnelles utilisées comme
+                                   quotas (données Insee issues du recensement de la
+                                   population 2022) ainsi que sur le statut d’occupation du
+     Critères de redressement :    logement (données Insee issues du recensement de la
+                                   population 2022), le vote au premier tour des élections
+                                   législatives 2024, au premier tour et au second tour de
+                                   l’élection présidentielle 2022 (données du Ministère de
+                                   l’Intérieur).
+
+     (*) Nous vous présentons dans ce document le nombre de « sans-réponse » pour chacune des questions publiées.
+     Les questions de quota étant obligatoires (de façon à s’assurer de la représentativité de l’échantillon) aucune des
+     personnes interrogées ne peut ne pas avoir répondu à l’ensemble du sondage.
+
+                                                                             4
+
+--- page 5 ---
+
+QUESTIONS PUBLIEES
+
+                 En France, diriez-vous qu’aujourd’hui l’enseignement supérieur
+                 (universités, grandes écoles, écoles spécialisées et BTS) fonctionne PUBLIÉ
+                 bien ou mal en ce qui concerne… ? – % TOTAL FONCTIONNE BIEN
+                 La manière dont la sélection est organisée à l’entrée des formations
+                                                           27
+                 supérieures
+                 L’orientation et l’affectation des lycéens dans les différents cursus du
+                                                           25
+                 supérieur
+                 La qualité des enseignements et des formations proposés 48
+                 Les conditions de vie et d’études des étudiants 30
+                 L'état des infrastructures et équipements 28
+                 Selon vous, quelles modalités devraient être privilégiées pour
+                 l’admission dans l’enseignement supérieur ? – % TOTAL DES PUBLIÉ
+                 CITATIONS
+                 L’examen du dossier scolaire, comprenant les notes et les appréciations
+                                                           65
+                 obtenues en première et en terminale
+                 La prise en compte des résultats obtenus aux épreuves du baccalauréat 34
+                 Des épreuves écrites et/ou orales spécifiques à la formation 37
+                 L’examen d’un dossier mettant en avant le projet, la motivation, les
+                                                           53
+                 activités et les engagements du candidat
+                 Un tirage au sort entre les candidats remplissant les conditions requises 6
+                 Pour financer l’enseignement supérieur public, diriez-vous que vous
+                 êtes favorable ou opposé à chacun des moyens suivants ? – % PUBLIÉ
+                 TOTAL FAVORABLE
+                 Augmenter le budget de l'Etat consacré à l'enseignement supérieur (en
+                 baissant les budgets sur d'autres postes de l'Etat ou en augmentant les 64
+                 impôts)
+                 Augmenter les frais d'inscription pour tous les étudiants 20
+                 Augmenter les frais d’inscription pour les étudiants non-boursiers (les
+                                                           27
+                 étudiants boursiers ne seraient pas concernés)
+                 Augmenter les frais d’inscription pour les étudiants étrangers non-
+                                                           58
+                 européens
+                 Accroître les financements apportés par les entreprises et les fondations
+                                                           77
+                 privées
+                 Accroître les ressources propres des universités, par exemple grâce à la
+                 formation continue (formations aux salariés), à l’apprentissage et à la 88
+                 valorisation de la recherche
+                 Pour chacune de ces mesures, y êtes-vous favorable ou opposé ? – %
+                                                          PUBLIÉ
+                 TOTAL FAVORABLE
+                 Le maintien de la gratuité de l’inscription en BTS et en classes
+                 préparatoires pour les étudiants non-boursiers (le gouvernement 79
+                 prévoyait de les faire payer environ 200 euros mais a renoncé)
+                 La transformation de Parcoursup (la plateforme nationale d’orientation
+                 et d’admission dans l’enseignement supérieur) dès 2027, puis son 82
+                 remplacement à l’horizon 2028
+                 La création de 15 000 places supplémentaires dans l’enseignement
+                                                           82
+                 supérieur entre 2027 et 2028
+                 L’indexation des bourses étudiantes sur l’inflation à partir de la rentrée
+                                                           81
+                 2027
+                 La mobilisation d’un milliard d’euros pour rénover les campus d’ici à
+                                                           81
+                 2029
+                 L'augmentation des moyens consacrés au repas à un euro pour les
+                 étudiants, pour permettre aux restaurants universitaires d’accueillir 78
+                 davantage d’étudiants
+                                                                             5
