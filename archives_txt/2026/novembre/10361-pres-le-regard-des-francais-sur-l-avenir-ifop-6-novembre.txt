@@ -1,0 +1,556 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10361-pres-le-regard-des-francais-sur-l-avenir-ifop-6-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Le regard   des   Français   sur  l’avenir
+
+        Notice   technique
+
+                                                                  FD N° 122860
+                                                                CONTACT IFOP :
+                                                                   Frédéric Dabi
+                                                              Département Opinion
+                                                            et Stratégies d'Entreprise
+                                                             prénom.nom@ifop.com
+                                                                NOVEMBRE 2026
+
+--- page 2 ---
+
+1
+
+                                                  La  méthodologie
+
+        Ifop pour Asteres                                                 1
+
+        Le regard des Français sur l’avenir  Novembre 2026
+
+--- page 3 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Etude réalisée par Ifop pour Asteres
+
+         Echantillon
+                            L’enquête a été menée auprès d’un échantillon de 1 010 personnes
+                            représentatif de la population française âgée de 18 ans et plus.
+
+                            La représentativité de l’échantillon a été assurée par la méthode des
+         Méthodologie
+                            quotas au regard de critères :
+                            - sociodémographiques (sexe, âge de l’individu) ;
+
+                            - socioprofessionnels (profession de l’individu) ;
+
+                            - géographiques (région, taille d’unité urbaine).
+
+            Mode de recueil
+
+                            Les interviews ont été réalisées par questionnaire auto-administré
+                            en ligne du 22 au 23 octobre 2026.
+
+        L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2022) et d’un redressement
+        politique sur la base de la reconstitution des votes suivants : présidentielle 2022 1er tour, législatives 2024 1er
+        tour.
+        La présente notice est consultable sur le site de la commission des sondages.
+
+        Ifop pour Asteres                                                2
+
+        Le regard des Français sur l’avenir  Novembre 2026
+
+--- page 4 ---
+
+Précision  relative  aux marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+        comme le montre le tableau ci-dessous :
+
+                    INTERVALLE DE CONFIANCE   A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 1 000 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 1,8. Le vrai pourcentage est donc compris entre 8,2% et 11,8%.
+
+        Ifop pour Asteres                                                3
+
+        Le regard des Français sur l’avenir  Novembre 2026
+
+--- page 5 ---
+
+Structure  de l’échantillon
+
+                                                 Brut   Redressé
+                                                  %        %
+        SEXE
+           Un homme                              49,1     47,7
+           Une femme                             50,9     52,3
+
+        AGE
+           De18a24ans                            11,7     10,3
+           De25a34ans                            14,1     14,8
+           De35a49ans                            23,0     24,0
+           De50a64ans                            23,1     24,4
+           De65a74ans                            14,0     14,0
+           A75ansetplus                          14,3     12,5
+
+        REGION
+           GrandEst                               8,7     8,5
+           NouvelleAquitaine                      8,8     9,5
+           AuvergneRhoneAlpes1                   13,4     12,3
+           BourgogneFrancheComte1                 3,5     4,3
+           Bretagne2                              4,3     5,2
+
+           CentreValDeLoire1                      4,4     3,9
+           IleDeFrance2                          20,7     18,4
+           Occitanie                              8,8     9,4
+           HautsdeFrance                          9,4     8,9
+           Normandie1                             4,6     5,1
+           PaysDeLaLoire2                         5,1     5,8
+           PACACorse                              8,4     8,5
+
+        AGGLO
+           Commune rurale                        22,5     21,1
+           Unité urbaine de 2 000 à 19 999 hab.  15,2     18,2
+           Unité urbaine de 20 000 à 99 999 hab. 14,1     13,9
+           Unité urbaine de 100 000 à 199 999 hab. 32,0   30,6
+           Agglomération parisienne              16,2     16,3
+
+        PROFESSION
+           Agriculteurs1                          0,4     0,7
+           Artisans1                              4,0     3,8
+           Cadres1                               11,4     11,2
+           Intermediaires1                       15,0     15,0
+           Employes1                             14,7     15,8
+           Ouvriers1                             13,1     12,1
+
+           Inactifs                              41,6     41,3
+        PRESIDENTIELLE 2022 1er tour (Ne se prononce pas =
+        25,5%)
+           Nathalie Arthaud                       1,3     0,6
+           Philippe Poutou                        2,5     0,8
+           Fabien Roussel                         4,9     2,3
+           Jean-Luc Mélenchon                    11,9     21,5
+
+        Ifop pour Asteres                                                4
+
+        Le regard des Français sur l’avenir  Novembre 2026
+
+--- page 6 ---
+
+Anne Hidalgo                           1,4     1,7
+           Yannick Jadot                          4,3     4,6
+           Emmanuel Macron                       26,2     27,8
+           Valérie Pécresse                       6,6     4,8
+           Nicolas Dupont-Aignan                  4,1     2,1
+           Marine Le Pen                         30,8     23,5
+           Éric Zemmour                           3,2     7,1
+
+           Jean Lassalle                          2,9     3,2
+        LEGISLATIVE 2024 1er tour (Ne se prononce pas = 28,7%)
+           Extrême gauche                         1,1     1,2
+           NFP                                   26,3     28,7
+           Divers gauche                          0,7     1,0
+           ENS Ensemble !                        20,4     22,4
+
+           Divers centre                          0,7     0,8
+           LR & DVD                              12,1     9,5
+           RN & alliés                           37,0     34,0
+           Droite souverainiste, divers EXD - Reconquête 1,5 1,1
+           DIVERS                                 0,3     1,3
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        Ifop pour Asteres                                                5
+
+        Le regard des Français sur l’avenir  Novembre 2026
+
+--- page 7 ---
+
+Les  traits d’image  associés  à l’avenir
+
+        Question : Pour vous, l’avenir est plutôt quelque chose… ?
+
+                                              Brut     Redressé
+                    D’inquiétant
+
+                    Oui tout à fait           45,0       44,6
+                    Oui, plutôt               42,2       41,8
+                    Non, plutôt pas            8,5       8,1
+                    Non, pas du tout           4,3       5,5
+                    Qui vous paralyse
+                    Oui tout à fait           11,9       12,1
+                    Oui, plutôt               30,2       30,4
+                    Non, plutôt pas           38,9       37,7
+                    Non, pas du tout          19,0       19,8
+                    D’excitant
+                    Oui tout à fait            5,4       5,5
+                    Oui, plutôt               22,2       21,2
+                    Non, plutôt pas           39,3       36,1
+                    Non, pas du tout          33,1       37,2
+                    Qui vous indiffère
+                    Oui tout à fait            4,3       4,8
+                    Oui, plutôt               10,8       10,2
+                    Non, plutôt pas           38,9       41,2
+                    Non, pas du tout          46,0       43,9
+
+        Ifop pour Asteres                                                6
+        Le regard des Français sur l’avenir  Novembre 2026
+
+--- page 8 ---
+
+Les domaines    dans  lesquels  les changements    seront  les
+
+                          plus  importants   à l'avenir
+
+        Question : Selon vous, à l’avenir (par exemple dans les 50 prochaines années)
+                   dans quels domaines les changements seront les plus importants ? En
+                   premier ? En second ?
+
+                                                  Brut     Redressé
+                En premier
+                Les déplacements                   2,8       2,2
+                L’alimentation                     6,7       6,5
+                Le travail                         9,0       8,4
+                La lutte contre le dérèglement climatique 24,7 22,8
+                La santé                          13,8       15,8
+                La consommation                    7,9       7,6
+                La sécurité des personnes et des biens 11,0  11,1
+                Les mouvements de populations entre les
+                                                  10,3       9,5
+                territoires
+                Les avancées scientifiques        11,6       12,8
+                Un autre domaine                   2,3       3,3
+                Total des citations
+                Les déplacements                   3,4       3,3
+                L’alimentation                     7,5       9,3
+                Le travail                        10,3       11,1
+                La lutte contre le dérèglement climatique 13,4 12,9
+                La santé                          14,1       14,7
+                La consommation                   10,6       8,4
+                La sécurité des personnes et des biens 15,8  17,0
+                Les mouvements de populations entre les
+                                                  12,4       12,7
+                territoires
+                Les avancées scientifiques        11,3       8,8
+                Un autre domaine                   1,3       1,8
+
+        Ifop pour Asteres                                                7
+        Le regard des Français sur l’avenir  Novembre 2026
+
+--- page 9 ---
+
+La  perspective  d’un  avenir  avec  plus d’intelligence
+
+                                   artificielle
+
+        Question : Est-ce que la perspective d’un avenir avec plus d’intelligence
+                   artificielle dans votre quotidien est pour vous une perspective… ?
+
+                                              Brut     Redressé
+                    Tout à fait prometteuse    4,6       4,3
+                    Plutôt prometteuse        27,3       24,8
+
+                    Plutôt inquiétante        44,9       47,4
+                    Tout à fait inquiétante   23,3       23,5
+                    Total                     100,0     100,0
+
+        Ifop pour Asteres                                                8
+        Le regard des Français sur l’avenir  Novembre 2026
+
+--- page 10 ---
+
+La confiance   dans  différents  acteurs  pour  préparer
+
+                     l'avenir de la France  et des  Français
+
+        Question : De manière générale, diriez-vous que vous avez confiance ou pas
+                   confiance dans chacun des groupes ou acteurs suivants pour préparer
+                   l’avenir de la France et des Français ?
+
+                                              Brut     Redressé
+                    Les scientifiques
+                    Tout à fait confiance     22,7       20,7
+                    Plutôt confiance          58,3       57,5
+                    Plutôt pas confiance      14,0       15,1
+                    Pas du tout confiance      5,0       6,7
+                    L’armée
+                    Tout à fait confiance     22,4       21,3
+                    Plutôt confiance          48,3       47,5
+                    Plutôt pas confiance      18,2       17,3
+                    Pas du tout confiance     11,1       13,9
+                    Les maires
+                    Tout à fait confiance     12,1       11,4
+                    Plutôt confiance          56,4       53,3
+                    Plutôt pas confiance      23,2       25,3
+                    Pas du tout confiance      8,3       10,0
+                    L’école
+                    Tout à fait confiance     11,9       13,0
+                    Plutôt confiance          48,9       49,7
+                    Plutôt pas confiance      29,6       26,4
+                    Pas du tout confiance      9,6       10,9
+                    Les associations
+                    Tout à fait confiance     11,3       12,4
+                    Plutôt confiance          53,7       49,3
+                    Plutôt pas confiance      23,4       24,7
+
+                    Pas du tout confiance     11,7       13,7
+                    Les dirigeants de TPE/PME
+                    Tout à fait confiance      9,4       8,7
+                    Plutôt confiance          54,3       52,1
+                    Plutôt pas confiance      27,7       27,9
+                    Pas du tout confiance      8,6       11,4
+                    Les dirigeants de grandes
+                    entreprises
+                    Tout à fait confiance      6,1       5,8
+                    Plutôt confiance          38,2       37,3
+                    Plutôt pas confiance      35,8       34,5
+                    Pas du tout confiance     19,8       22,4
+        Ifop pour Asteres                                                9
+        Le regard des Français sur l’avenir  Novembre 2026
+
+--- page 11 ---
+
+Brut     Redressé
+                    Les médias
+                    Tout à fait confiance      3,3       3,3
+                    Plutôt confiance          22,1       21,0
+                    Plutôt pas confiance      43,3       44,1
+                    Pas du tout confiance     31,4       31,6
+                    Les candidats actuels à l’élection
+                    présidentielle de 2027
+                    Tout à fait confiance      2,9       2,6
+                    Plutôt confiance          17,9       17,7
+                    Plutôt pas confiance      42,4       44,0
+                    Pas du tout confiance     36,8       35,8
+                    L’exécutif (Président de la
+                    République et Premier ministre)
+                    Tout à fait confiance      4,0       4,1
+                    Plutôt confiance          16,6       16,1
+                    Plutôt pas confiance      34,7       34,2
+                    Pas du tout confiance     44,8       45,6
+                    Les députés et sénateurs
+                    Tout à fait confiance      2,9       2,0
+                    Plutôt confiance          17,9       17,1
+                    Plutôt pas confiance      44,7       44,7
+                    Pas du tout confiance     34,6       36,2
+
+        Ifop pour Asteres                                                10
+        Le regard des Français sur l’avenir  Novembre 2026
+
+--- page 12 ---
+
+La confiance   dans  les candidats   potentiels  ou déclarés   à
+
+           l’élection  présidentielle  pour  préparer   la France  aux
+                           grands  enjeux  de  demain
+
+        Question : Selon vous, pour chacun des candidats certains ou potentiels à
+                   l’élection présidentielle, direz-vous que vous leur faites confiance ou
+                   pas confiance pour préparer notre pays aux grands enjeux et
+
+                   échéances du futur ?
+
+                                              Brut     Redressé
+                    Marine Le Pen
+                    Oui, tout à fait          19,2       16,3
+                    Oui, plutôt               18,4       18,1
+                    Non, plutôt pas           14,1       13,3
+                    Non, pas du tout          48,3       52,3
+                    Édouard Philippe
+                    Oui, tout à fait           5,5       6,4
+                    Oui, plutôt               21,3       19,2
+                    Non, plutôt pas           25,1       24,0
+                    Non, pas du tout          48,2       50,4
+                    Bruno Retailleau
+                    Oui, tout à fait           4,5       3,6
+                    Oui, plutôt               21,7       19,2
+                    Non, plutôt pas           24,4       23,4
+                    Non, pas du tout          49,5       53,7
+                    Gabriel Attal
+
+                    Oui, tout à fait           3,2       3,1
+                    Oui, plutôt               20,9       18,7
+                    Non, plutôt pas           27,2       25,5
+                    Non, pas du tout          48,8       52,7
+                    Raphaël Glucksmann
+                    Oui, tout à fait           3,7       4,6
+                    Oui, plutôt               20,4       17,1
+                    Non, plutôt pas           27,0       26,2
+                    Non, pas du tout          49,0       52,2
+
+        Ifop pour Asteres                                                11
+        Le regard des Français sur l’avenir  Novembre 2026
+
+--- page 13 ---
+
+Brut     Redressé
+                    David Lisnard
+                    Oui, tout à fait           6,3       4,4
+                    Oui, plutôt               18,1       16,7
+                    Non, plutôt pas           24,9       22,5
+                    Non, pas du tout          50,6       56,4
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait           7,6       9,8
+                    Oui, plutôt                9,3       8,9
+                    Non, plutôt pas           12,2       12,9
+                    Non, pas du tout          70,9       68,4
+                    François Hollande
+                    Oui, tout à fait           3,1       3,3
+                    Oui, plutôt               16,7       15,0
+                    Non, plutôt pas           24,5       25,2
+                    Non, pas du tout          55,8       56,5
+                    Dominique de Villepin
+                    Oui, tout à fait           4,2       4,2
+                    Oui, plutôt               13,7       13,0
+                    Non, plutôt pas           28,6       25,6
+                    Non, pas du tout          53,5       57,2
+                    Éric Zemmour
+                    Oui, tout à fait           5,7       6,2
+                    Oui, plutôt               13,0       10,7
+                    Non, plutôt pas           14,7       12,7
+                    Non, pas du tout          66,6       70,4
+                    Fabien Roussel
+                    Oui, tout à fait           2,6       2,0
+                    Oui, plutôt               13,6       12,8
+                    Non, plutôt pas           25,8       24,9
+
+                    Non, pas du tout          58,1       60,3
+                    Marine Tondelier
+                    Oui, tout à fait           3,4       3,3
+                    Oui, plutôt               11,2       10,1
+                    Non, plutôt pas           23,7       22,6
+                    Non, pas du tout          61,7       64,0
+                    Nicolas Dupont-Aignan
+                    Oui, tout à fait           3,1       2,3
+                    Oui, plutôt               12,9       11,0
+                    Non, plutôt pas           23,7       21,7
+                    Non, pas du tout          60,4       65,0
+
+        Ifop pour Asteres                                                12
+        Le regard des Français sur l’avenir  Novembre 2026
+
+--- page 14 ---
+
+La capacité  des  candidats  potentiels  ou  déclarés  à
+
+              l’élection présidentielle   à préparer  la France  au
+                            développement      de l’IA
+
+        Question : Selon vous, pour chacun des candidats certains ou potentiels à
+                   l’élection présidentielle serait-il capable ou pas capable de préparer la
+                   France au développement de l’intelligence artificielle et aux mutations
+
+                   qui en découlent ?
+
+                                              Brut     Redressé
+                    Marine Le Pen
+                    Tout à fait capable       15,3       13,3
+                    Plutôt capable            20,0       19,0
+                    Plutôt pas capable        17,6       16,6
+                    Pas du tout capable       47,1       51,1
+                    Gabriel Attal
+                    Tout à fait capable        4,7       4,8
+                    Plutôt capable            28,0       26,5
+                    Plutôt pas capable        22,7       21,6
+                    Pas du tout capable       44,6       47,1
+                    Édouard Philippe
+                    Tout à fait capable        6,1       5,9
+                    Plutôt capable            25,5       24,9
+                    Plutôt pas capable        23,5       22,3
+                    Pas du tout capable       44,9       46,9
+
+                    Raphaël Glucksmann
+                    Tout à fait capable        3,6       4,3
+                    Plutôt capable            23,1       20,8
+                    Plutôt pas capable        25,7       24,5
+                    Pas du tout capable       47,7       50,4
+                    David Lisnard
+                    Tout à fait capable        6,5       4,8
+                    Plutôt capable            20,6       20,1
+                    Plutôt pas capable        23,8       20,5
+                    Pas du tout capable       49,1       54,5
+
+        Ifop pour Asteres                                                13
+        Le regard des Français sur l’avenir  Novembre 2026
+
+--- page 15 ---
+
+Brut     Redressé
+                    Bruno Retailleau
+                    Tout à fait capable        3,4       2,6
+                    Plutôt capable            24,9       22,4
+                    Plutôt pas capable        23,6       23,3
+                    Pas du tout capable       48,2       51,7
+                    Jean-Luc Mélenchon
+                    Tout à fait capable        5,9       7,8
+                    Plutôt capable            11,7       13,2
+                    Plutôt pas capable        16,1       14,7
+                    Pas du tout capable       66,3       64,3
+                    François Hollande
+                    Tout à fait capable        2,8       2,4
+                    Plutôt capable            15,8       17,8
+                    Plutôt pas capable        25,2       23,0
+                    Pas du tout capable       56,3       56,8
+                    Dominique de Villepin
+                    Tout à fait capable        3,2       3,7
+                    Plutôt capable            15,8       16,0
+                    Plutôt pas capable        26,9       25,0
+                    Pas du tout capable       54,2       55,2
+                    Éric Zemmour
+                    Tout à fait capable        5,0       5,2
+                    Plutôt capable            13,9       12,3
+                    Plutôt pas capable        17,2       13,4
+                    Pas du tout capable       63,9       69,1
+                    Fabien Roussel
+                    Tout à fait capable        2,4       1,6
+                    Plutôt capable            12,5       15,1
+                    Plutôt pas capable        26,7       24,4
+
+                    Pas du tout capable       58,5       59,0
+                    Nicolas Dupont-Aignan
+                    Tout à fait capable        2,8       2,4
+                    Plutôt capable            13,6       13,8
+                    Plutôt pas capable        25,0       22,6
+                    Pas du tout capable       58,7       61,2
+                    Marine Tondelier
+                    Tout à fait capable        1,9       2,2
+                    Plutôt capable            13,2       13,3
+                    Plutôt pas capable        24,1       22,9
+                    Pas du tout capable       60,9       61,6
+
+        Ifop pour Asteres                                                14
+        Le regard des Français sur l’avenir  Novembre 2026

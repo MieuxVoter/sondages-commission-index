@@ -1,0 +1,1183 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10360-pres-barometre-politique-yougov-le-huffpost-6-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Baromètre                  politique
+
+            pour        Le      HuffPost
+
+            Réalisé       par    YouGov
+
+            Terrain  du  02  au 05  novembre     2026
+
+            Notice   technique   à  la Commission     des
+            Sondages
+
+            Adam.chauchefoin@yougov.com
+            Eva.pierrey@yougov.com
+
+--- page 2 ---
+
+Informations                                    générales                             &
+
+            Méthodologie
+
+--- page 3 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 3
+
+      Informations      générales     sur  le  sondage
+
+       Organisme   ayant réalisé le sondage            YouGov
+
+       Commanditaires    du sondage                    Le HuffPost
+
+                                                       Gratification sous forme de points cumulables, dont le montant
+       Existence  d’une gratification
+                                                       correspondant environ à 0,4 € pour questionnaire complété.
+
+--- page 4 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 4
+
+      Méthodologie
+
+                   Echantillon
+                   •  1024  personnes  représentatives de la population française (18+)
+
+                   Méthodologie
+                   •  Le sondage  a été effectué en ligne, sur le panel propriétaire de YouGov
+
+                   •  Les  données  sont pondérées pour être représentatives des adultes français (quotas sur le genre,
+                      l’âge, la région, la CSP et les votes aux élections présidentielles de 2022)
+
+                   Terrain
+                   •  En  France
+
+                   •  Terrain réalisé du 02 au 05 novembre  2026
+
+         En raison des arrondis, la somme des pourcentages n’est pas égale à 100% dans certains cas.
+
+--- page 5 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 5
+
+      Méthodologie
+
+                Pour un échantillon de 1000 personnes  interrogées, les marges d’erreur sont les suivantes, avec un
+                niveau de confiance de 95%  :
+
+                    Pour un pourcentage de : 5% 10%    20%     30%    40%    50%     60%    70%    80%     90%    95%
+
+          Echantillon
+           de 1000  La marge d'erreur est de : 1,40 1,90 2,50  2,80   3,00   3,10    3,00   2,80   2,50    1,90   1,40
+          personnes
+
+                   Le résultat réel se situe dans 8,1 et 17,5 et 27,2 et 37,0 et 46,9 et 57,0 et 67,2 et 77,5 et 88,1 et 93,6 et
+                                       3,6 et 6,4
+                      une fourchette de :       11,9   22,5    32,8   43,0   53,1    63,0   72,8   82,5    91,9   96,4
+
+                 Exemple de lecture du tableau : pour un échantillon de 1 000 personnes, si le pourcentage mesuré est de 10%, la
+                 marge d’erreur est égale à 1,9. Le vrai pourcentage est donc compris entre 8,1% et 11,9%.
+
+--- page 6 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 6
+
+      Structure     de  l’échantillon
+
+                                      Brut (%)  Redressé (%)                                    Brut (%)  Redressé (%)
+
+                              Genre
+                                                                                  Taille d'agglomération
+      Un homme                         48.63       48
+                                                                Moins de 20 000 habitants        45.02       38.7
+      Une femme                        51.37       52
+                                                                Entre 20 000 et 100 000 habitants 15.43      14.3
+                              Age
+                                                                Plus de 100 000 habitants        39.55        47
+      18-24                             6.25       10.2
+      25-34                            12.79       14.6                   Vote au présidentielle de 2022 - premier tour
+      35-44                            15.72       15.7         Emmanuel Macron                  23.34       20.5
+      45-54                            16.70       15.8
+                                                                Marine Le Pen                    21.19       17.1
+      55-64                            18.46       15.8
+                                                                Jean-Luc Mélenchon               11.91       16.2
+      65+                              30.08       27.9
+                                                                Eric Zemmour                      5.57       5.2
+                             Région
+                                                                Yannick Jadot                     4.39       3.4
+      Nord-Est                         22.46       21.4
+      Nord-Ouest                       21.39       22.9         Valérie Pécresse                  3.61       3.5
+      Region Parisienne                19.34       18.5         Autres                            8.30       7.8
+      Sud-Est                          24.80       25.6
+                                                                Vote blanc / N'a pas voté / Ne sait pas 21.68 26.3
+      Sud-Ouest                        12.01       11.6
+                                                                          Vote au présidentielle de 2022 - second tour
+                              CSP
+                                                                Macron                           40.43       42.2
+      CSP+                             24.32       31
+                                                                Le Pen                           30.18       29.8
+      CSP-                             29.39       28
+                                                                Non votant (vote blanc, ne sais pas, n'ai
+      Inactifs                         46.29       41                                            29.39        28
+                                                                pas vote)
+                                                           * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+--- page 7 ---
+
+Questionnaire
+
+--- page 8 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 8
+
+      Questionnaire
+
+       [A tous] Politiquement, vous situez-vous… ?
+
+       Très a gauche
+       A gauche
+       Au centre
+
+       A droite
+       Très a droite
+       Ni a gauche, ni a droite
+
+       Je ne sais pas
+
+       [A tous] Indépendamment  des élections, de quel parti politique vous sentez-vous le plus proche ? Si vous ne vous sentez
+       proche d'aucun parti, vous pouvez sélectionner 'aucun'
+
+       Lutte Ouvrière (LO)                        L'Union des Démocrates et Indépendants (UDI)
+
+       Nouveau Parti Anticapitaliste (NPA)        Les Républicains (LR)
+       Le Parti Communiste Français (PCF)         Une formation souverainiste (UPR de François
+       La France insoumise (LFI)                  Asselineau, Debout la France de Nicolas Dupont-
+
+       Le Parti Socialiste (PS)                   Aignan…)
+       Europe Ecologie / Les Verts (EELV)         Le Rassemblement National (RN)
+       Renaissance (anciennement : La République En Un autre parti politique
+
+       Marche !)                                  Je ne me reconnais dans aucun parti politique
+       Le Mouvement démocrate (MoDem)             Je ne sais pas
+
+--- page 9 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 9
+
+      Questionnaire
+
+       [A tous] Avez-vous une opinion favorable ou défavorable des personnalités politiques suivantes ?
+
+       François Bayrou                   Marine Tondelier                          •  Très favorable
+
+       Jean-Luc Mélenchon                Michel Barnier                            •  Plutôt favorable
+       Eric Zemmour                      Eric Ciotti                               •  Plutôt défavorable
+       Manuel Valls                      Marion Maréchal                           •  Très défavorable
+       Rachida Dati                      Marine Le Pen                             •  Je ne sais pas
+
+       Anne Hidalgo                      Olivier Faure
+       Elisabeth Borne                   Dominique de Villepin
+       Valérie Pécresse                  Bruno Retailleau
+
+       Nicolas Sarkozy                   Yaël Braun-Pivet
+       François Hollande                 Bernard Cazeneuve
+       Laurent Wauquiez                  Yannick Jadot
+
+       Mathilde Panot                    Raphaël Glucksmann
+       Gabriel Attal                     Jordan Bardella
+       Sandrine Rousseau                 Fabien Roussel
+       Gérard Larcher                    François Ruffin
+
+       Edouard Philippe                  David Lisnard
+       Gérald Darmanin                   Sarah Knafo
+       Manuel Bompard                    Benoît Payan
+
+       Xavier Bertrand                   Bally Bagayoko
+
+--- page 10 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 10
+
+      Questionnaire
+
+       [A tous] Quel jugement portez-vous sur l'action d'Emmanuel Macron comme Président de la République ?
+
+       Très favorable
+       Plutôt favorable
+       Plutôt défavorable
+
+       Très défavorable
+       Je ne sais pas
+
+       [A tous] Quel jugement portez-vous sur l'action de Sébastien Lecornu comme Premier ministre ?
+
+       Très favorable
+       Plutôt favorable
+
+       Plutôt défavorable
+       Très défavorable
+       Je ne sais pas
+
+       [A tous] Quel jugement portez-vous sur l'action du Gouvernement ?
+
+       Très favorable
+       Plutôt favorable
+       Plutôt défavorable
+       Très défavorable
+
+       Je ne sais pas
+
+--- page 11 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 11
+
+      Questionnaire
+
+       [A tous] Diriez-vous que le gouvernement a une bonne ou une mauvaise gestion de l'économie ?
+
+       Une très bonne gestion de l'économie
+       Une assez bonne gestion de l'économie
+       Une assez mauvaise gestion de l'économie
+
+       Une très mauvaise gestion de l'économie
+       Je ne sais pas
+
+       [A tous] En politique, quel est votre principal sujet de préoccupation ?
+
+       Le pouvoir d'achat                         Les impôts
+       L'immigration                              Le risque terroriste
+
+       L'insécurité                               Les affaires étrangères et européennes
+       La protection sociale (retraites, sécurité sociale...) Le logement
+       L'environnement                            L'intelligence artificielle et les nouvelles
+       La situation sanitaire                     technologies
+
+       Le chômage, l'emploi                       Je ne sais pas
+       La dette et les finances publiques
+       L'éducation
+
+--- page 12 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 12
+
+      Questionnaire
+
+       [A tous] Comment décririez-vous l'état de l'économie française en ce moment ?
+
+       Très bon état
+       Assez bon état
+       Ni en bon, ni en mauvais état
+
+       Assez mauvais état
+       Très mauvais état
+       Je ne sais pas
+
+       [A tous] Dans quelle mesure êtes-vous d'accord ou pas d'accord avec les affirmations suivantes ?
+
+       Le gouvernement protège les intérêts des personnes comme moi
+
+       La société que prône le gouvernement est globalement celle dans laquelle je souhaite vivre    •  Tout à fait d'accord
+       Le gouvernement est composé de personnes compétentes                                          •  Plutôt d'accord
+       Le gouvernement est prêt à prendre des décisions impopulaires si elles sont bonnes pour le pays • Plutôt pas d'accord
+
+       Le gouvernement a une ligne claire, dont il ne bouge pas                                      •  Pas d'accord du tout
+       Le gouvernement a de bonnes intentions, même si je ne suis pas toujours d'accord avec ses positions • Je ne sais pas
+       Le gouvernement s'adresse à toute la population, pas seulement à ses électeurs
+
+       Le gouvernement va de l'avant, et propose des mesures modernes
+
+--- page 13 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 13
+
+      Questionnaire
+
+       [A tous] Si demain avaient lieu des élections, préfèreriez-vous voir élu un gouvernement de Gauche, du Centre, ou de Droite ?
+
+       Un gouvernement d'Extrême Gauche
+       Un gouvernement de Gauche
+       Un gouvernement du Centre
+
+       Un gouvernement de Droite
+       Un gouvernement d'Extrême Droite
+       Je ne sais pas
+
+       [A tous] En général, diriez-vous avoir confiance, ou non, en les responsables politiques et la qualité de la démocratie en France ?
+
+       Tout à fait confiance
+
+       Plutôt confiance
+       Plutôt pas confiance
+       Pas confiance du tout
+
+       Je ne sais pas
+
+--- page 14 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 14
+
+      Questionnaire
+
+       [A tous] Selon vous, les partis politiques suivants sont-ils plutôt unis ou divisés ?
+
+       Le Parti Socialiste (PS)                     •  Uni
+       Renaissance (RE, ex-LREM)                    •  Uni, même s'il existe des divergences sur certaines questions
+       Les Républicains (LR)                        •  Divisé
+
+       La France Insoumise (LFI)                    •  Je ne sais pas
+       Le Rassemblement National (RN)
+       Europe Ecologie Les Verts (EELV)
+
+       [A tous] Selon vous, lequel des partis suivants représente la meilleure opposition au gouvernement actuel ?
+
+       Le Parti Communiste (PC)
+
+       La France Insoumise (LFI)
+       Europe Ecologie Les Verts (EELV)
+       Le Parti Socialiste (PS)
+
+       Les Républicains (LR)
+       Le Rassemblement National (RN)
+       Aucun de ces partis
+
+       Je ne sais pas
+
+--- page 15 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 15
+
+      Questionnaire
+
+       [A tous] Depuis la rentrée, plusieurs mobilisations (manifestations, grèves, blocages) ont eu lieu en France pour protester
+
+       notamment  contre la hausse du coût de la vie.
+       Diriez-vous que ces mobilisations sont justifiées ou pas justifiées ?
+
+       Tout à fait justifiées
+
+       Plutôt justifiées
+       Plutôt pas justifiées
+       Pas du tout justifiées
+
+       Je ne sais pas
+
+       [A tous] Quelle est votre attitude à l'égard de ces mobilisations ?
+
+       Vous les soutenez
+       Vous avez de la sympathie pour elles
+
+       Vous êtes indifférent(e)
+       Vous y êtes opposé(e)
+       Vous y êtes hostile
+
+       Je ne sais pas
+
+--- page 16 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 16
+
+      Questionnaire
+
+       [A tous] Concernant le maintien de l'ordre lors de ces manifestations, diriez-vous que l'action des forces de l'ordre a été… ?
+
+       Trop ferme
+       Adaptée
+       Pas assez ferme
+
+       Je ne sais pas
+
+       [A tous] Lors de certaines de ces journées de mobilisation, des violences et des dégradations ont été commises en marge des
+       manifestations.
+       Vous personnellement, diriez-vous que… ?
+
+       Vous comprenez ces violences et les approuvez
+       Vous comprenez ces violences mais ne les approuvez pas
+       Vous ne comprenez pas ces violences et ne les approuvez pas
+
+       Je ne sais pas
+
+--- page 17 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 17
+
+      Questionnaire
+
+       [A tous] Selon vous, le fait que des personnalités connues (artistes, sportifs, influenceurs…) prennent publiquement position sur
+
+       des sujets politiques est-il plutôt… ?
+
+       Une bonne chose
+       Ni une bonne ni une mauvaise chose
+
+       Une mauvaise chose
+       Je ne sais pas
+
+       [A tous] Selon vous, les prises de position politiques des personnalités connues ont-elles beaucoup, assez, peu ou pas du tout
+       d'influence… ?
+
+       Sur le vote des Français en général
+       Sur votre propre vote
+
+       Beaucoup d'influence
+       Assez d'influence
+       Peu d'influence
+       Pas du tout d'influence
+
+       Je ne sais pas
+
+--- page 18 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 18
+
+      Questionnaire
+
+       [A tous] Une pétition déposée sur le site de l'Assemblée nationale a recueilli plus de 500 000 signatures. Elle reproche à la chaîne
+
+       d'information CNews de ne pas respecter ses obligations vis-à-vis de l'Arcom, le régulateur de l'audiovisuel, et demande que son
+       autorisation de diffusion lui soit retirée.
+       Êtes-vous favorable ou opposé(e) au retrait de l'autorisation de diffusion de CNews ?
+
+       Tout à fait favorable
+       Plutôt favorable
+       Plutôt opposé(e)
+
+       Tout à fait opposé(e)
+       Je ne sais pas
+
+--- page 19 ---
+
+Résultats
+
+--- page 20 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 20
+
+      Résultats
+
+       [A tous] Politiquement, vous situez-vous… ?
+
+                                   Echantillon Brut   Redressé
+                                         N=   1024      1024
+
+                                  Très à gauche 4%      6%
+                                     A gauche 20%       22%
+
+                                     Au centre 13%      14%
+                                      A droite 21%      20%
+
+                                   Très à droite 17%    15%
+                            Ni à gauche, ni à droite 14% 14%
+
+                                  Je ne sais pas 11%    10%
+
+--- page 21 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 21
+
+      Résultats
+
+       [A tous] Indépendamment  des élections, de quel parti politique vous sentez-vous le plus proche ? Si vous ne vous sentez
+
+       proche d'aucun parti, vous pouvez sélectionner 'aucun'
+
+                                       Echantillon Brut    Redressé
+
+                                            N=    1024      1024
+                                  Lutte Ouvrière (LO) 0%     0%
+                        Nouveau Parti Anticapitaliste (NPA) 1% 2%
+
+                       Le Parti Communiste Français (PCF) 2% 2%
+                              La France insoumise (LFI) 7%   9%
+
+                                Le Parti Socialiste (PS) 7%  7%
+                         Europe Ecologie Les Verts (EELV) 4% 4%
+
+          Renaissance (anciennement : La République En Marche !) 6% 6%
+                        Le Mouvement démocrate (Modem) 2%    2%
+
+                 L'Union des Démocrates et Indépendants (UDI) 1% 1%
+                                Les Républicains (LR) 8%     8%
+          Une formation souverainiste (UPR de François Asselineau,
+                                                  2%         2%
+                 Debout la France de Nicolas Dupont-Aignan…)
+                         Le Rassemblement National (RN) 24% 21%
+                                Un autre parti politique 4%  4%
+                  Je ne me reconnais dans aucun parti politique 27% 27%
+
+                                     Je ne sais pas 5%       6%
+
+--- page 22 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 22
+
+      Résultats
+
+       [A tous] Avez-vous une opinion favorable ou défavorable des personnalités politiques suivantes ?
+
+                                                                                              Valérie Pécresse
+      Jean-Luc Mélenchon                          Xavier Bertrand
+                                                                                                       Echantillon Brut Redressé
+               Echantillon Brut Redressé                   Echantillon Brut Redressé
+                                                                                                            N=  1024     1024
+                    N=  1024     1024                           N=  1024     1024
+                                                                                                     Très favorable 2%   2%
+              Très favorable 8%  10%                      Très favorable 2%  2%
+                                                                                                     Plutôt favorable 15% 15%
+             Plutôt favorable 11% 12%                    Plutôt favorable 19% 20%
+                                                                                                    Favorable (NET) 18%  17%
+            Favorable (NET) 19%  22%                    Favorable (NET) 21%  22%
+                                                                                                   Plutôt défavorable 24% 25%
+           Plutôt défavorable 9% 10%                    Plutôt défavorable 23% 23%
+                                                                                                    Très défavorable 43% 43%
+            Très défavorable 66% 61%                    Très défavorable 34% 33%
+                                                                                                   Défavorable (NET) 67% 68%
+           Défavorable (NET) 75% 71%                   Défavorable (NET) 57% 56%
+                                                                                                     Je ne sais pas 15%  15%
+              Je ne sais pas 6%  7%                       Je ne sais pas 22% 22%
+                                                                                              Eric Zemmour
+      Yannick Jadot                               Bruno Retailleau
+                                                                                                       Echantillon Brut Redressé
+               Echantillon Brut Redressé                   Echantillon Brut Redressé
+                                                                                                            N=  1024     1024
+                    N=  1024     1024                           N=  1024     1024
+                                                                                                     Très favorable 7%   6%
+              Très favorable 2%  2%                       Très favorable 5%  5%
+                                                                                                     Plutôt favorable 15% 14%
+             Plutôt favorable 15% 15%                    Plutôt favorable 23% 22%
+                                                                                                    Favorable (NET) 22%  20%
+            Favorable (NET) 17%  18%                    Favorable (NET) 28%  27%
+                                                                                                   Plutôt défavorable 12% 12%
+           Plutôt défavorable 22% 23%                   Plutôt défavorable 19% 19%
+                                                                                                    Très défavorable 58% 60%
+            Très défavorable 33% 31%                    Très défavorable 36% 37%
+                                                                                                   Défavorable (NET) 70% 72%
+           Défavorable (NET) 54% 53%                   Défavorable (NET) 55% 56%
+                                                                                                     Je ne sais pas 8%   8%
+              Je ne sais pas 28% 29%                      Je ne sais pas 17% 17%
+                                                                                              Edouard Philippe
+      Anne Hidalgo                                Marine Le Pen
+                                                                                                       Echantillon Brut Redressé
+               Echantillon Brut Redressé                   Echantillon Brut Redressé
+                                                                                                            N=  1024     1024
+                    N=  1024     1024                           N=  1024     1024
+                                                                                                     Très favorable 5%   5%
+              Très favorable 2%  2%                       Très favorable 23% 20%
+                                                                                                     Plutôt favorable 21% 21%
+             Plutôt favorable 13% 13%                    Plutôt favorable 21% 20%
+                                                                                                    Favorable (NET) 26%  26%
+            Favorable (NET) 14%  15%                    Favorable (NET) 43%  40%
+                                                                                                   Plutôt défavorable 24% 24%
+           Plutôt défavorable 22% 22%                   Plutôt défavorable 11% 11%
+                                                                                                    Très défavorable 38% 37%
+            Très défavorable 50% 49%                    Très défavorable 39% 42%
+                                                                                                   Défavorable (NET) 62% 62%
+           Défavorable (NET) 72% 71%                   Défavorable (NET) 50% 53%
+                                                                                                     Je ne sais pas 12%  12%
+              Je ne sais pas 13% 13%                      Je ne sais pas 7%  7%
+
+--- page 23 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 23
+
+      Résultats
+
+       [A tous] Avez-vous une opinion favorable ou défavorable des personnalités politiques suivantes ?
+
+                                                                                              Mathilde Panot
+      François Hollande                           Olivier Faure
+                                                                                                       Echantillon Brut Redressé
+               Echantillon Brut Redressé                   Echantillon Brut Redressé
+                                                                                                            N=  1024     1024
+                    N=  1024     1024                           N=  1024     1024
+                                                                                                     Très favorable 4%   5%
+              Très favorable 4%  4%                       Très favorable 2%  2%
+                                                                                                     Plutôt favorable 9% 11%
+             Plutôt favorable 18% 19%                    Plutôt favorable 12% 14%
+                                                                                                    Favorable (NET) 13%  16%
+            Favorable (NET) 22%  23%                    Favorable (NET) 14%  15%
+                                                                                                   Plutôt défavorable 12% 12%
+           Plutôt défavorable 26% 28%                   Plutôt défavorable 21% 21%
+                                                                                                    Très défavorable 56% 53%
+            Très défavorable 41% 39%                    Très défavorable 36% 34%
+                                                                                                   Défavorable (NET) 67% 65%
+           Défavorable (NET) 67% 67%                   Défavorable (NET) 58% 55%
+                                                                                                     Je ne sais pas 20%  20%
+              Je ne sais pas 11% 11%                      Je ne sais pas 28% 29%
+                                                                                              Gabriel Attal
+      Nicolas Sarkozy                             Sandrine Rousseau
+                                                                                                       Echantillon Brut Redressé
+               Echantillon Brut Redressé                   Echantillon Brut Redressé
+                                                                                                            N=  1024     1024
+                    N=  1024     1024                           N=  1024     1024
+                                                                                                     Très favorable 4%   4%
+              Très favorable 4%  4%                       Très favorable 3%  4%
+                                                                                                     Plutôt favorable 20% 20%
+             Plutôt favorable 21% 21%                    Plutôt favorable 10% 11%
+                                                                                                    Favorable (NET) 25%  24%
+            Favorable (NET) 26%  25%                    Favorable (NET) 13%  15%
+                                                                                                   Plutôt défavorable 22% 23%
+           Plutôt défavorable 21% 22%                   Plutôt défavorable 14% 15%
+                                                                                                    Très défavorable 42% 41%
+            Très défavorable 45% 46%                    Très défavorable 49% 46%
+                                                                                                   Défavorable (NET) 64% 65%
+           Défavorable (NET) 66% 67%                   Défavorable (NET) 63% 61%
+                                                                                                     Je ne sais pas 11%  12%
+              Je ne sais pas 8%  8%                       Je ne sais pas 24% 24%
+                                                                                              François Bayrou
+      Fabien Roussel                              François Ruffin
+                                                                                                       Echantillon Brut Redressé
+               Echantillon Brut Redressé                   Echantillon Brut Redressé
+                                                                                                            N=  1024     1024
+                    N=  1024     1024                           N=  1024     1024
+                                                                                                     Très favorable 2%   2%
+              Très favorable 3%  3%                       Très favorable 4%  4%
+                                                                                                     Plutôt favorable 11% 11%
+             Plutôt favorable 15% 16%                    Plutôt favorable 17% 18%
+                                                                                                    Favorable (NET) 13%  13%
+            Favorable (NET) 19%  19%                    Favorable (NET) 21%  22%
+                                                                                                   Plutôt défavorable 27% 26%
+           Plutôt défavorable 22% 23%                   Plutôt défavorable 21% 22%
+                                                                                                    Très défavorable 49% 49%
+            Très défavorable 33% 31%                    Très défavorable 32% 30%
+                                                                                                   Défavorable (NET) 75% 75%
+           Défavorable (NET) 54% 54%                   Défavorable (NET) 53% 52%
+                                                                                                     Je ne sais pas 12%  12%
+              Je ne sais pas 27% 27%                      Je ne sais pas 26% 26%
+
+--- page 24 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 24
+
+      Résultats
+
+       [A tous] Avez-vous une opinion favorable ou défavorable des personnalités politiques suivantes ?
+
+                                                                                              Jordan Bardella
+      Gérald Darmanin                             Gérard Larcher
+                                                                                                       Echantillon Brut Redressé
+               Echantillon Brut Redressé                   Echantillon Brut Redressé
+                                                                                                            N=  1024     1024
+                    N=  1024     1024                           N=  1024     1024
+                                                                                                     Très favorable 22%  20%
+              Très favorable 3%  3%                       Très favorable 2%  2%
+                                                                                                     Plutôt favorable 20% 19%
+             Plutôt favorable 23% 22%                    Plutôt favorable 11% 11%
+                                                                                                    Favorable (NET) 42%  39%
+            Favorable (NET) 27%  25%                    Favorable (NET) 13%  13%
+                                                                                                   Plutôt défavorable 11% 12%
+           Plutôt défavorable 23% 23%                   Plutôt défavorable 22% 22%
+                                                                                                    Très défavorable 40% 43%
+            Très défavorable 37% 39%                    Très défavorable 42% 42%
+                                                                                                   Défavorable (NET) 51% 54%
+           Défavorable (NET) 60% 62%                   Défavorable (NET) 64% 64%
+                                                                                                     Je ne sais pas 7%   7%
+              Je ne sais pas 14% 14%                      Je ne sais pas 23% 23%
+                                                                                              Marion Maréchal
+      Yaël Braun-Pivet                            Eric Ciotti
+                                                                                                       Echantillon Brut Redressé
+               Echantillon Brut Redressé                   Echantillon Brut Redressé
+                                                                                                            N=  1024     1024
+                    N=  1024     1024                           N=  1024     1024
+                                                                                                     Très favorable 12%  11%
+              Très favorable 2%  2%                       Très favorable 10% 9%
+                                                                                                     Plutôt favorable 23% 23%
+             Plutôt favorable 15% 15%                    Plutôt favorable 21% 20%
+                                                                                                    Favorable (NET) 36%  33%
+            Favorable (NET) 17%  17%                    Favorable (NET) 30%  29%
+                                                                                                   Plutôt défavorable 12% 13%
+           Plutôt défavorable 20% 20%                   Plutôt défavorable 14% 14%
+                                                                                                    Très défavorable 40% 43%
+            Très défavorable 35% 35%                    Très défavorable 39% 40%
+                                                                                                   Défavorable (NET) 53% 55%
+           Défavorable (NET) 55% 55%                   Défavorable (NET) 53% 54%
+                                                                                                     Je ne sais pas 11%  12%
+              Je ne sais pas 28% 28%                      Je ne sais pas 17% 17%
+                                                                                              Manuel Bompard
+      Laurent Wauquiez                            Rachida Dati
+                                                                                                       Echantillon Brut Redressé
+               Echantillon Brut Redressé                   Echantillon Brut Redressé
+                                                                                                            N=  1024     1024
+                    N=  1024     1024                           N=  1024     1024
+                                                                                                     Très favorable 5%   6%
+              Très favorable 1%  1%                       Très favorable 1%  1%
+                                                                                                     Plutôt favorable 9% 10%
+             Plutôt favorable 13% 13%                    Plutôt favorable 12% 12%
+                                                                                                    Favorable (NET) 14%  16%
+            Favorable (NET) 14%  15%                    Favorable (NET) 13%  14%
+                                                                                                   Plutôt défavorable 13% 13%
+           Plutôt défavorable 24% 23%                   Plutôt défavorable 24% 24%
+                                                                                                    Très défavorable 48% 45%
+            Très défavorable 41% 41%                    Très défavorable 51% 50%
+                                                                                                   Défavorable (NET) 61% 58%
+           Défavorable (NET) 65% 64%                   Défavorable (NET) 75% 74%
+                                                                                                     Je ne sais pas 26%  26%
+              Je ne sais pas 21% 21%                      Je ne sais pas 12% 13%
+
+--- page 25 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 25
+
+      Résultats
+
+       [A tous] Avez-vous une opinion favorable ou défavorable des personnalités politiques suivantes ?
+
+       Benoît Payan                  Marine Tondelier               Elisabeth Borne               Sarah Knafo
+              Echantillon Brut Redressé     Echantillon Brut Redressé      Echantillon Brut Redressé     Echantillon Brut Redressé
+                   N=  1024    1024               N=  1024   1024               N=  1024    1024              N=  1024    1024
+             Très favorable 2% 2%          Très favorable 3%  3%          Très favorable 2% 2%          Très favorable 14% 13%
+            Plutôt favorable 9% 10%        Plutôt favorable 15% 16%      Plutôt favorable 15% 15%      Plutôt favorable 14% 14%
+            Favorable (NET) 11% 12%       Favorable (NET) 17% 19%       Favorable (NET) 17% 17%        Favorable (NET) 28% 27%
+           Plutôt défavorable 17% 17%    Plutôt défavorable 16% 17%     Plutôt défavorable 22% 22%    Plutôt défavorable 12% 12%
+           Très défavorable 29% 28%       Très défavorable 43% 41%      Très défavorable 47% 47%       Très défavorable 34% 35%
+          Défavorable (NET) 46% 45%      Défavorable (NET) 59% 58%     Défavorable (NET) 69% 69%      Défavorable (NET) 45% 47%
+             Je ne sais pas 44% 44%        Je ne sais pas 23% 23%         Je ne sais pas 14% 14%        Je ne sais pas 26% 26%
+       Bernard Cazeneuve             Raphaël Glucksmann             Dominique de Villepin         Bally Bagayoko
+              Echantillon Brut Redressé     Echantillon Brut Redressé      Echantillon Brut Redressé     Echantillon Brut Redressé
+                   N=  1024    1024               N=  1024   1024               N=  1024    1024              N=  1024    1024
+             Très favorable 2% 2%          Très favorable 5%  5%          Très favorable 4% 4%          Très favorable 7% 9%
+            Plutôt favorable 19% 19%       Plutôt favorable 19% 19%      Plutôt favorable 19% 19%      Plutôt favorable 10% 12%
+            Favorable (NET) 21% 21%       Favorable (NET) 24% 23%       Favorable (NET) 22% 23%        Favorable (NET) 17% 20%
+           Plutôt défavorable 23% 24%    Plutôt défavorable 22% 23%     Plutôt défavorable 25% 26%    Plutôt défavorable 11% 11%
+           Très défavorable 30% 30%       Très défavorable 33% 33%      Très défavorable 34% 32%       Très défavorable 51% 47%
+          Défavorable (NET) 54% 54%      Défavorable (NET) 55% 56%     Défavorable (NET) 59% 58%      Défavorable (NET) 62% 58%
+             Je ne sais pas 25% 25%        Je ne sais pas 21% 21%         Je ne sais pas 19% 19%        Je ne sais pas 21% 21%
+       David Lisnard                 Manuel Valls                   Michel Barnier
+              Echantillon Brut Redressé     Echantillon Brut Redressé      Echantillon Brut Redressé
+                   N=  1024    1024               N=  1024   1024               N=  1024    1024
+             Très favorable 9% 9%          Très favorable 1%  1%          Très favorable 3% 3%
+            Plutôt favorable 17% 16%       Plutôt favorable 13% 12%      Plutôt favorable 18% 18%
+            Favorable (NET) 26% 25%       Favorable (NET) 14% 13%       Favorable (NET) 21% 21%
+           Plutôt défavorable 15% 15%    Plutôt défavorable 25% 26%     Plutôt défavorable 23% 23%
+           Très défavorable 23% 24%       Très défavorable 47% 47%      Très défavorable 31% 31%
+          Défavorable (NET) 38% 39%      Défavorable (NET) 72% 73%     Défavorable (NET) 54% 54%
+             Je ne sais pas 36% 36%        Je ne sais pas 14% 14%         Je ne sais pas 25% 25%
+
+--- page 26 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 26
+
+      Résultats
+
+       [A tous] Quel jugement portez-vous sur l'action d'Emmanuel Macron comme Président de la République ?
+
+                                  Echantillon Brut  Redressé
+                                       N=    1024     1024
+
+                                Très favorable 2%     2%
+                                Plutôt favorable 10%  9%
+                               Favorable (NET) 12%    12%
+                              Plutôt défavorable 24%  25%
+                               Très défavorable 59%   59%
+
+                              Défavorable (NET) 83%   83%
+                                Je ne sais pas 5%     5%
+
+       [A tous] Quel jugement portez-vous sur l'action de Sébastien Lecornu comme Premier ministre ?
+
+                                  Echantillon Brut  Redressé
+                                       N=    1024     1024
+                                Très favorable 3%     3%
+                                Plutôt favorable 18%  17%
+                               Favorable (NET) 21%    20%
+                              Plutôt défavorable 28%  28%
+
+                               Très défavorable 39%   39%
+                              Défavorable (NET) 67%   67%
+                                Je ne sais pas 12%    13%
+
+--- page 27 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 27
+
+      Résultats
+
+       [A tous] Quel jugement portez-vous sur l'action du Gouvernement ?
+
+                                      Echantillon Brut   Redressé
+
+                                           N=    1024      1024
+                                    Très favorable 2%      2%
+
+                                    Plutôt favorable 10%   10%
+                                   Favorable (NET) 12%     11%
+                                  Plutôt défavorable 26%   26%
+
+                                   Très défavorable 57%    58%
+                                  Défavorable (NET) 84%    84%
+                                    Je ne sais pas 4%      5%
+
+        [A tous] Diriez-vous que le gouvernement a une bonne ou une mauvaise gestion de l'économie ?
+
+                                      Echantillon Brut   Redressé
+                                           N=    1024      1024
+                      Une très bonne gestion de l'économie 1% 2%
+                     Une assez bonne gestion de l'économie 8% 7%
+
+                                     Bonne (NET) 9%        9%
+                   Une assez mauvaise gestion de l'économie 25% 25%
+                    Une très mauvaise gestion de l'économie 63% 63%
+                                   Mauvaise (NET) 88%      88%
+                                    Je ne sais pas 3%      3%
+
+--- page 28 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 28
+
+      Résultats
+
+       [A tous] En politique, quel est votre principal sujet de préoccupation ?
+
+                                         Echantillon Brut     Redressé
+                                              N=    1024       1024
+
+                                    Le pouvoir d'achat 31%     30%
+                          La dette et les finances publiques 18% 17%
+                                       L'immigration 13%       12%
+                                         L'insécurité 10%      10%
+
+                La protection sociale (retraites, sécurité sociale...) 8% 8%
+                                  Le chômage, l'emploi 4%       5%
+                                         L'éducation 3%         4%
+                                     L'environnement 3%         4%
+
+                                         Les impôts  2%         2%
+                                    Le risque terroriste 1%     1%
+                       Les affaires étrangères et européennes 1% 1%
+              L'intelligence artificielle et les nouvelles technologies 1% 1%
+                                        Le logement  1%         1%
+
+                                   La situation sanitaire 1%    1%
+                                       Je ne sais pas 3%        3%
+
+--- page 29 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 29
+
+      Résultats
+
+       [A tous] Comment décririez-vous l'état de l'économie française en ce moment ?
+
+                                      Echantillon Brut    Redressé
+                                            N=   1024       1024
+                                     Très bon état 1%       1%
+
+                                    Assez bon état 4%       4%
+                                    Bon état (NET) 5%       5%
+                            Ni en bon, ni en mauvais état 4% 5%
+                                 Assez mauvais état 24%     24%
+                                  Très mauvais état 66%     65%
+                                 Mauvais état (NET) 90%     89%
+                                     Je ne sais pas 1%      1%
+
+--- page 30 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 30
+
+      Résultats
+
+       [A tous] Dans quelle mesure êtes-vous d'accord ou pas d'accord avec les affirmations suivantes ?
+
+      Le gouvernement protège les intérêts des personnes          Le gouvernement est composé de personnes
+      comme moi                                                   compétentes
+                                  Echantillon Brut   Redressé                              Echantillon Brut Redressé
+                                        N=   1024      1024                                      N=   1024    1024
+                              Tout à fait d'accord 3%  3%                              Tout à fait d'accord 2% 2%
+                                 Plutôt d'accord 8%    8%                                 Plutôt d'accord 12% 12%
+                                D’accord (NET) 10%     11%                               D’accord (NET) 15%   14%
+                              Plutôt pas d'accord 21%  22%                             Plutôt pas d'accord 26% 26%
+                             Pas d'accord du tout 63%  62%                            Pas d'accord du tout 53% 53%
+                              Pas d’accord (NET) 84%   84%                             Pas d’accord (NET) 79% 79%
+                                 Je ne sais pas 6%     6%
+                                                                                          Je ne sais pas 6%    7%
+      La société que prône le gouvernement est                    Le gouvernement est prêt à prendre des
+      globalement celle dans laquelle je souhaite vivre           décisions impopulaires si elles sont bonnes pour
+                                                                  le pays
+                                  Echantillon Brut   Redressé                              Echantillon Brut Redressé
+                                        N=   1024      1024                                      N=   1024    1024
+                              Tout à fait d'accord 3%  3%
+                                                                                       Tout à fait d'accord 6% 6%
+                                 Plutôt d'accord 12%   11%
+                                                                                          Plutôt d'accord 22% 22%
+                                D’accord (NET) 14%     14%
+                                                                                         D’accord (NET) 28%   28%
+                              Plutôt pas d'accord 22%  23%
+                                                                                       Plutôt pas d'accord 24% 24%
+                             Pas d'accord du tout 56%  56%
+                                                                                      Pas d'accord du tout 38% 38%
+                              Pas d’accord (NET) 78%   78%
+                                                                                       Pas d’accord (NET) 62% 62%
+                                 Je ne sais pas 7%     8%
+                                                                                          Je ne sais pas 10%  10%
+
+--- page 31 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 31
+
+      Résultats
+
+       [A tous] Dans quelle mesure êtes-vous d'accord ou pas d'accord avec les affirmations suivantes ?
+
+      Le gouvernement a une ligne claire, dont il ne bouge        Le gouvernement s'adresse à toute la
+      pas                                                         population, pas seulement à ses électeurs
+                                  Echantillon Brut   Redressé                              Echantillon Brut Redressé
+                                        N=   1024      1024                                      N=   1024    1024
+                              Tout à fait d'accord 7%  8%                              Tout à fait d'accord 4% 5%
+                                 Plutôt d'accord 17%   17%                                Plutôt d'accord 15% 14%
+                                D’accord (NET) 24%     24%                               D’accord (NET) 19%   19%
+                              Plutôt pas d'accord 25%  26%                             Plutôt pas d'accord 22% 23%
+                             Pas d'accord du tout 42%  42%                            Pas d'accord du tout 52% 52%
+                              Pas d’accord (NET) 67%   68%                             Pas d’accord (NET) 74% 75%
+                                 Je ne sais pas 8%     8%
+                                                                                          Je ne sais pas 6%    6%
+      Le gouvernement a de bonnes intentions, même si je          Le gouvernement va de l'avant, et propose des
+      ne suis pas toujours d'accord avec ses positions            mesures modernes
+                                  Echantillon Brut   Redressé                              Echantillon Brut Redressé
+                                        N=   1024      1024                                      N=   1024    1024
+                              Tout à fait d'accord 3%  3%                              Tout à fait d'accord 2% 2%
+                                 Plutôt d'accord 17%   16%
+                                                                                          Plutôt d'accord 8%   8%
+                                D’accord (NET) 20%     20%
+                                                                                         D’accord (NET) 10%   11%
+                              Plutôt pas d'accord 27%  27%
+                                                                                       Plutôt pas d'accord 29% 29%
+                             Pas d'accord du tout 48%  48%
+                                                                                      Pas d'accord du tout 55% 55%
+                              Pas d’accord (NET) 74%   75%
+                                                                                       Pas d’accord (NET) 84% 84%
+                                 Je ne sais pas 6%     6%
+                                                                                          Je ne sais pas 5%    6%
+
+--- page 32 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 32
+
+      Résultats
+
+       [A tous] Si demain avaient lieu des élections, préfèreriez-vous voir élu un gouvernement de Gauche, du Centre, ou de Droite ?
+
+                                  Echantillon Brut   Redressé
+                                        N=   1024     1024
+                   Un gouvernement d'Extrême Gauche 4% 5%
+                        Un gouvernement de Gauche 20%  21%
+                         Un gouvernement du Centre 15% 16%
+                         Un gouvernement de Droite 21% 20%
+                    Un gouvernement d'Extrême Droite 20% 18%
+                                 Je ne sais pas 21%    20%
+
+       [A tous] En général, diriez-vous avoir confiance, ou non, en les responsables politiques et la qualité de la démocratie en France ?
+
+                                  Echantillon Brut   Redressé
+                                        N=   1024     1024
+                             Tout à fait confiance 2%  2%
+                                Plutôt confiance 16%   16%
+                                Confiance (NET) 18%    18%
+                             Plutôt pas confiance 32%  33%
+                             Pas confiance du tout 44% 43%
+                             Pas confiance (NET) 76%   76%
+                                 Je ne sais pas 6%     6%
+
+--- page 33 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 33
+
+      Résultats
+
+       [A tous] Selon vous, les partis politiques suivants sont-ils plutôt unis ou divisés ?
+
+       Le Parti Socialiste (PS)                                    La France Insoumise (LFI)
+                                                                                                  Echantillon Brut    Redressé
+                                      Echantillon Brut   Redressé
+                                           N=    1024      1024                                         N=    1024      1024
+                                           Uni   5%        6%                                           Uni   30%       31%
+        Uni, même s'il existe des divergences sur certaines questions 18% 19% Uni, même s'il existe des divergences sur certaines questions 24% 25%
+                                       Uni (NET) 23%       24%                                      Uni (NET) 54%       55%
+                                         Divisé  58%       56%                                        Divisé  26%       25%
+                                    Je ne sais pas 19%     19%                                   Je ne sais pas 20%     20%
+       Renaissance (RE, ex-LREM)                                   Le Rassemblement National (RN)
+                                      Echantillon Brut   Redressé                                 Echantillon Brut    Redressé
+                                           N=    1024      1024                                         N=    1024      1024
+                                           Uni   6%        6%                                           Uni   43%       41%
+        Uni, même s'il existe des divergences sur certaines questions 21% 22% Uni, même s'il existe des divergences sur certaines questions 26% 27%
+
+                                       Uni (NET) 27%       28%                                      Uni (NET) 69%       68%
+                                         Divisé  46%       45%                                        Divisé  14%       15%
+                                    Je ne sais pas 26%     26%                                   Je ne sais pas 17%     17%
+       Les Républicains (LR)                                       Europe Ecologie Les Verts (EELV)
+                                      Echantillon Brut   Redressé                                 Echantillon Brut    Redressé
+                                           N=    1024      1024                                         N=    1024      1024
+                                           Uni   5%        6%                                           Uni   12%       13%
+        Uni, même s'il existe des divergences sur certaines questions 21% 21% Uni, même s'il existe des divergences sur certaines questions 28% 29%
+
+                                       Uni (NET) 26%       27%                                      Uni (NET) 40%       42%
+                                         Divisé  52%       51%                                        Divisé  34%       32%
+                                    Je ne sais pas 22%     22%                                   Je ne sais pas 26%     26%
+
+--- page 34 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 34
+
+      Résultats
+
+       [A tous] Selon vous, lequel des partis suivants représente la meilleure opposition au gouvernement actuel ?
+
+                               Echantillon Brut Redressé
+                                    N=   1024     1024
+                      Le Parti Communiste (PC) 1% 1%
+                      La France Insoumise (LFI) 15% 17%
+                 Europe Ecologie Les Verts (EELV) 3% 3%
+
+                        Le Parti Socialiste (PS) 5% 6%
+                         Les Républicains (LR) 5% 6%
+                  Le Rassemblement National (RN) 39% 36%
+                          Aucun de ces partis 18% 18%
+                             Je ne sais pas 14%   14%
+
+--- page 35 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 35
+
+      Résultats
+
+      [A tous] Depuis la rentrée, plusieurs mobilisations (manifestations, grèves, blocages) ont eu lieu en France pour protester
+
+      notamment  contre la hausse du coût de la vie.
+      Diriez-vous que ces mobilisations sont justifiées ou pas justifiées ?
+
+                                        Echantillon Brut    Redressé
+                                             N=    1024       1024
+                                    Tout à fait justifiées 36% 37%
+                                       Plutôt justifiées 40%  40%
+                                      Justifiées (NET) 76%    77%
+                                    Plutôt pas justifiées 12% 12%
+
+                                   Pas du tout justifiées 9%  8%
+                                    Pas justifiées (NET) 21%  20%
+                                       Je ne sais pas 3%      3%
+
+      [A tous] Quelle est votre attitude à l'égard de ces mobilisations ?
+
+                                        Echantillon Brut    Redressé
+                                             N=    1024       1024
+                                     Vous les soutenez 29%    32%
+                          Vous avez de la sympathie pour elles 27% 25%
+                                    Avis favorable (NET) 56%  57%
+                                  Vous êtes indifférent(e) 15% 15%
+                                   Vous y êtes opposé(e) 13%  12%
+
+                                     Vous y êtes hostile 11%  10%
+                                  Avis défavorable (NET) 24%  22%
+                                       Je ne sais pas 6%      6%
+
+--- page 36 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 36
+
+      Résultats
+
+       [A tous] Concernant le maintien de l'ordre lors de ces manifestations, diriez-vous que l'action des forces de l'ordre a été… ?
+
+                                      Echantillon Brut    Redressé
+                                            N=   1024       1024
+                                        Trop ferme 22%      26%
+                                         Adaptée  21%       20%
+                                    Pas assez ferme 47%     43%
+                                      Je ne sais pas 10%    10%
+
+       [A tous] Lors de certaines de ces journées de mobilisation, des violences et des dégradations ont été commises en marge des
+
+       manifestations.
+       Vous personnellement, diriez-vous que… ?
+
+                                      Echantillon Brut    Redressé
+                                            N=   1024       1024
+                   Vous comprenez ces violences et les approuvez 5% 5%
+
+             Vous comprenez ces violences mais ne les approuvez pas 18% 21%
+                                    Comprend (NET) 23%      27%
+           Vous ne comprenez pas ces violences et ne les approuvez pas 75% 71%
+                                      Je ne sais pas 2%     2%
+
+--- page 37 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 37
+
+      Résultats
+
+       [A tous] Selon vous, le fait que des personnalités connues      [A tous] Selon vous, les prises de position politiques des
+       (artistes, sportifs, influenceurs…) prennent publiquement       personnalités connues ont-elles beaucoup, assez, peu ou
+       position sur des sujets politiques est-il plutôt… ?             pas du tout d'influence… ?
+
+                                        Echantillon Brut    Redressé
+                                                                      Sur le vote des Français en général
+                                             N=    1024      1024
+                                                                                              Echantillon Brut  Redressé
+                                    Une bonne chose 21%      24%
+                                                                                                    N=   1024    1024
+                         Ni une bonne ni une mauvaise chose 32% 33%
+                                                                                         Beaucoup d'influence 6%  7%
+                                  Une mauvaise chose 42%     39%
+                                                                                           Assez d'influence 27%  29%
+                                      Je ne sais pas 4%       4%
+                                                                                            Influence (NET) 33%   35%
+                                                                                             Peu d'influence 34%  34%
+                                                                                        Pas du tout d'influence 16% 15%
+                                                                                        N’influence pas (NET) 50% 48%
+                                                                                             Je ne sais pas 17%   17%
+                                                                      Sur votre propre vote
+                                                                                              Echantillon Brut  Redressé
+                                                                                                    N=   1024    1024
+                                                                                         Beaucoup d'influence 3%  4%
+                                                                                           Assez d'influence 7%   7%
+                                                                                            Influence (NET) 10%   11%
+                                                                                             Peu d'influence 16%  17%
+                                                                                        Pas du tout d'influence 68% 66%
+                                                                                        N’influence pas (NET) 84% 84%
+                                                                                             Je ne sais pas 6%    5%
+
+--- page 38 ---
+
+Notice YouGov pour Le HuffPost -Baromètre 11.2026 38
+
+      Résultats
+
+       [A tous] Une pétition déposée sur le site de l'Assemblée nationale a recueilli plus de 500 000 signatures. Elle reproche à la chaîne
+       d'information CNews de ne pas respecter ses obligations vis-à-vis de l'Arcom, le régulateur de l'audiovisuel, et demande que son
+       autorisation de diffusion lui soit retirée.
+
+       Êtes-vous favorable ou opposé(e) au retrait de l'autorisation de diffusion de CNews ?
+
+                                        Echantillon Brut    Redressé
+
+                                             N=    1024      1024
+                                   Tout à fait favorable 22% 24%
+                                      Plutôt favorable 13%   13%
+                                     Favorable (NET) 35%     37%
+                                     Plutôt opposé(e) 11%    12%
+                                   Tout à fait opposé(e) 31% 29%
+                                     Opposé(e) (NET) 42%     40%
+                                      Je ne sais pas 24%     22%
+
+--- page 39 ---
+
+Contacts
+
+          Eva Pierrey
+          Research Executive
+          eva.pierrey@yougov.com
+
+          Adam Chauchefoin
+          Senior Research Executive
+          Adam.chauchefoin@yougov.com
+
+                                                         YouGov, 2026, all rights reserved. All materials contained herein are protected by copyright laws.
+                                                         Any storage, reproduction or distribution of such materials, in whole or in part, in any form without the prior written permission of YouGov is prohibited.
+                                                         This information (including any enclosures and attachments) is propriety and confidential and has been prepared for the exclusive use and benefit of the
+                                                         addressee(s) and solely for the purpose for which it is provided.
+                                                         We make no representations, warranties or guarantees, whether express or implied, that the information is accurate, complete or up to date. We exclude all
+                                                         implied conditions, warranties, representations or other terms that may apply and we will not be liable to you for any loss or damage, whether in contract, tort
+                                                         (including negligence), breach of statutory duty, or otherwise, even if foreseeable, arising under or in connection with use of or reliance on the information. We do
+                                                         not exclude or limit in any way our liability to you where it would be unlawful to do so.
