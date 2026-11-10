@@ -1,0 +1,973 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10363-pres-potentiel-electoral-toluna-harris-interactive-10-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+L’Opinion       des    Français      à  l’égard      de   la  Présidentielle
+
+     Suivi du  potentiel  électoral   de  différentes  personnalités
+
+     Etude  réalisée pour CommStrat    & L’Opinion
+
+     Vague   10 – Novembre    2026
+
+     Notice technique à la Commission des sondages
+
+     Département Politique & Opinion
+
+--- page 2 ---
+
+Méthodologie                     d’enquête
+
+                                                                                                                                 2
+
+--- page 3 ---
+
+Méthodologie          d’enquête
+
+                      Terrain                               Echantillon                                Quotas
+
+       Enquête réalisée en ligne du 27 au 29
+                                                 Échantillon de 1 041 personnes         Méthode  des quotas et redressement
+       octobre 2026.
+                                                 représentatif de la population         appliqués aux variables suivantes : sexe,
+                                                 Française âgée de 18 ans et plus,      âge, catégorie socioprofessionnelle et
+                                                 dont 989 personnes inscrites sur les   région de l’interviewé(e).
+                                                 listes électorales françaises.
+
+                   Aide à la lecture des résultats détaillés :
+
+                    Les chiffres présentés sont exprimés en pourcentage.
+                    Pour rappel, tout sondage est affecté de marges d’erreur. La marge d’erreur des résultats d’ensemble s’établit, selon le score visé,
+                   entre plus ou moins 1,4 et 3,1 points. Aucune reprise de ce sondage ne peut être faite sans que soit reprise également la mention
+                   relative aux marges d’erreur.
+                    Une notice pour cette étude est consultable sur le site de la Commission des sondages : https://www.commission-des-sondages.fr/
+                    Lors des reprises de ce sondage, merci de mentionner le nom de l’institut et du commanditaire « Toluna Harris Interactive pour
+                   CommStrat et L’Opinion »
+                    Les évolutions présentées proviennent des résultats de la précédente vague du baromètre : Etude L’Opinion des Français à l’égard
+                   de la Présidentielle, octobre 2026. Les évolutions supérieures ou inférieures à 5 points sont indiquées de la manière suivante :
+
+                                                                                                                                 3
+
+--- page 4 ---
+
+Méthodologie          d’enquête
+
+    Les répondants à cette étude sont issus du panel propriétaire Toluna Harris Interactive.
+
+    Les panélistes Toluna ayant complété le questionnaire obtiennent des points cumulables pour une valeur inférieure à 1 euro.
+
+                                                                                                                                 4
+
+--- page 5 ---
+
+Intervalle    de   confiance
+
+     L’intervalle de confiance (parfois appelé «marge d’erreur »)permet de déterminer la confiance qui peut être attribuée à une valeur,en prenant en compte la valeur observée et la
+     taille de l’échantillon. Si le calcul de l’intervalle de confiance concerne les sondages réalisés avec la méthode aléatoire, il est communément admis qu’il est proche pour les
+     sondages réalisésaveclaméthodedesquotas.
+
+      Taille de l’échantillon   5% ou 95%        10% ou 90%      20% ou 80%       30% ou 70%      40% ou 60%         50%
+      100 interviews               4,4              6,0             8,0              9,2             9,8              10
+
+      200 interviews               3,1              4,3             5,7              6,5             6,9              7,1
+
+      300 interviews               2,5              3,5             4,6              5,3             5,7              5,8
+
+      400 interviews               2,2              3,0             4,0              4,6             4,9              5,0
+
+      500 interviews               2,0              2,7             3,6              4,1             4,4              4,5
+
+      600 interviews               1,8              2,4             3,3              3,8             4,0              4,1
+
+      800 interviews               1,5              2,1             2,8              3,2             3,4              3,5
+
+      1 000 interviews             1,4              1,8             2,5              2,9             3,0              3,1
+
+      2 000 interviews             1,0              1,3             1,8              2,1             2,2              2,3
+
+      3 000 interviews             0,8              1,1             1,5              1,7             1,8              1,8
+      4 000 interviews             0,7              0,9             1,3              1,5             1,6              1,6
+
+      6 000 interviews             0,6              0,8             1,1              1,3             1,4              1,4
+
+     Note de lecture : dans le cas d’un échantillon de 1 000 personnes, si le pourcentage mesuré est de 10%, la marge d’erreur est égale à 1,8. Il y a donc 95% de chances
+     quelepourcentageréelsoitcomprisentre8,2%et11,8%(plusou moins 1,8 point).
+
+                                                                                                                                 5
+
+--- page 6 ---
+
+Données       socio-démographiques
+
+                                               SEXE                        Brut          Redressé
+
+                                                           Un homme         48              48
+
+                                                          Une femme         52              52
+                                               ÂGE
+
+                                                            18 - 24 ans     10              10
+                                                            25 - 34 ans     15              15
+
+                                                            35 - 49 ans     25              24
+                                                            50 - 64 ans     26              25
+
+                                                          65 ans et plus    24              26
+
+                                         PCS DE L’INTERVIEWÉ(E)
+
+                                                                PCS+        26              29
+                                                                PCS-        32              29
+
+                                                              Inactifs      42              42
+                                              REGION
+
+                                                      Région Parisienne     18              19
+
+                                                              Nord-Est      25              22
+                                                           Nord-Ouest       22              23
+
+                                                               Sud-Est      24              25
+                                                            Sud-Ouest       11              11
+
+                                                                                                                                 6
+
+--- page 7 ---
+
+Proportion      de   répondants        ne   se  prononçant        pas   sur  chaque      question
+
+     Êtes-vous inscrit(e) sur les listes électorales françaises ?
+       ▪ NSP = 0%
+
+     Aux personnes inscrites sur les listes électorales
+       Si la prochaine élection présidentielleen France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ?
+       ▪ NSP = 0%
+
+                                                                                                                                 7
+
+--- page 8 ---
+
+Questionnaire
+
+                                                                                                                                 8
+
+--- page 9 ---
+
+Questionnaire
+
+     Êtes-vous inscrit(e) sur les listes électorales françaises ?
+
+     1.  Oui
+     2.  Non
+
+     Aux personnes inscrites sur les listes électorales
+     Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ?
+     Présentation en ordre aléatoire
+
+     1.  Nathalie Arthaud             22. Anasse Kazib                 43. Marine Tondelier
+     2.  François Asselineau          23. Sarah Knafo                  44. Manuel  Valls
+     3.  Gabriel Attal                24. Selma Labib                  45. Laurent Wauquiez
+
+     4.  Michel Barnier               25. Christine Lagarde            46. Éric Zemmour
+     5.  Delphine Batho               26. Francis Lalanne
+     6.  Olivier Becht                27. Sébastien Lecornu
+
+     7.  Aurore Bergé                 28. Bruno Le Maire
+     8.  Laurent Berger               29. Marine Le Pen
+     9.  Xavier Bertrand              30. Vincent Lindon
+
+     10. Jean-Louis Borloo            31. David Lisnard
+     11. Elisabeth Borne              32. Jean-Luc Mélenchon
+     12. Karim Bouamrane              33. Xavier Niel
+     13. Juan Branco                  34. Matthieu Pigasse
+
+     14. Thierry Breton               35. Édouard Philippe
+                                                                                                        1.   Oui,certainement
+     15. Jean Castex                  36. Florian Philippot
+                                                                                                        2.   Oui,probablement
+     16. Bernard Cazeneuve            37. Natacha  Polony                                               3.   Non,probablementpas
+                                                                                                        4.   Non,certainementpas
+     17. Dominique  de Villepin       38. Bruno Retailleau
+                                                                                                        5.   Ne connaît pas / Ne se
+     18. Philippe de Villiers         39. Teddy Riner
+                                                                                                             prononcepas
+     19. Nicolas Dupont-Aignan        40. Fabien Roussel
+     20. Raphaël Glucksmann           41. François Ruffin
+     21. François Hollande            42. Patrick Sébastien
+                                                                                                                                 9
+
+--- page 10 ---
+
+Résultats                     de
+
+                                                                                                 l’enquête
+
+--- page 11 ---
+
+Suivi       du      potentiel              électoral
+
+                                                                                                                                 11
+
+--- page 12 ---
+
+Le  potentiel  électoral   de  différentes  personnalités   publiques    françaises
+
+     Le potentiel électoral ne constitue nullement une intention de vote. Il reflète avant tout la possibilité de voter pour une personnalité mais ne donne pas
+     d’indicationsurlatransformationeffectiveenvoteàl’issuedelacampagne.Lemoment duvoteconstitueunchoixdanslecadred’uneoffredéfinieet
+     concurrentielle.Ici,lespersonnesinterrogéesétaientinvitéesàrépondrefavorablementoudéfavorablementàchacundesnomsleurétantproposés.
+
+             Marine Le Pen           46   +6       Nicolas Dupont-Aignan    16                        Teddy Riner   10
+       Raphaël Glucksmann        26                     Christine Lagarde   16                       Manuel Valls   10
+
+           Édouard Philippe      25                 Dominique De Villepin  15                       Laurent Berger  10
+
+                                                                                                François Asselineau 10
+            Bruno Retailleau     25   +5             Jean-Luc Mélenchon    14
+                                                                                                       Xavier Niel  10
+              David Lisnard     24    +9                   François Ruffin 14
+                                                                                                   Vincent Lindon   9
+               Sarah Knafo      22                         Michel Barnier  14
+                                                                                                  Nathalie Arthaud  9
+               Gabriel Attal    21                       Florian Philippot 13
+                                                                                                 Karim Bouamrane    8
+           Jean-Louis Borloo   19                          Thierry Breton  13
+                                                                                                     Aurore Bergé   8
+           Philippe de Villiers 19                        Fabien Roussel   12
+                                                                                                   Francis Lalanne  7
+              Éric Zemmour     19                         Bruno Le Maire   12
+                                                                                                   Delphine Batho   7
+           François Hollande   18                      Laurent Wauquiez    12
+                                                                                                  Matthieu Pigasse  7
+          Sébastien Lecornu    18                        Natacha Polony    12
+                                                                                                     Juan Branco    7
+            Xavier Bertrand    18                       Patrick Sébastien  11                        Anasse Kazib  6
+         Bernard Cazeneuve     17                         Elisabeth Borne  11                         Selma Labib  5
+               Jean Castex     17                        Marine Tondelier  11                        Olivier Becht 4
+     Note de lecture : 46% des Français indiquent qu’ils pourraient voter pour Marine Le Pen si la prochaine élection présidentielle avait lieu dimanche prochain.
+
+     Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ?
+     Base : Aux inscrits sur les listes électorales, en % de Oui
+                                                                                                                                 12
+
+--- page 13 ---
+
+Le  potentiel  électoral   de  différentes  personnalités   publiques    françaises,  auprès   des
+     sympathisants     de  différentes  formations   politiques
+
+                     Sympathisants                          Sympathisants                             Sympathisants
+
+        Jean-Luc Mélenchon               85      Raphaël Glucksmann             71           Marine Tondelier        51
+
+           Marine Tondelier    31                   François Hollande        54           Raphaël Glucksmann        48
+
+       Dominique De Villepin  28                       François Ruffin     43                  François Ruffin    38
+
+             François Ruffin  28                  Bernard Cazeneuve       40                François Hollande    32
+            Fabien Roussel    26                      Fabien Roussel     32               Jean-Luc Mélenchon    27
+
+          François Hollande  23                       Xavier Bertrand   31                     Fabien Roussel   27
+
+               Teddy Riner   22                      Marine Tondelier   30                 Bernard Cazeneuve    27
+
+           Nathalie Arthaud  22                         Gabriel Attal   26                   Edouard Philippe   26
+        Raphaël Glucksmann   21                     Karim Bouamrane    23                    Jean-Louis Borloo 21
+
+           Edouard Philippe  19                     Sébastien Lecornu  22                Dominique De Villepin 21
+
+     Note de lecture : 85% des Français inscrits sur les listes électorales et se déclarant proches politiquement de la France Insoumise indiquent qu’ils pourraient voter pour Jean-Luc Mélenchon
+     si la prochaine élection présidentielle avait lieu dimanche prochain.
+
+     Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ?
+     Base : Aux inscrits sur les listes électorales, en % de Oui
+                                                                                                                                 13
+
+--- page 14 ---
+
+Le  potentiel  électoral   de  différentes  personnalités   publiques    françaises,  auprès   des
+     sympathisants     de  différentes  formations   politiques
+
+                     Sympathisants                          Sympathisants                             Sympathisants
+
+          Edouard Philippe              79         Bruno Retailleau              79            Marine Le Pen               91
+
+             Gabriel Attal            69             David Lisnard         51                   Sarah Knafo      38
+
+         Sébastien Lecornu           61             Marine Le Pen          50                  Eric Zemmour      35
+
+       Raphaël Glucksmann          52            Laurent Wauquiez         47                   David Lisnard    29
+            Bruno Le Maire        48               Xavier Bertrand       44                 Philippe de Villiers 27
+
+              Jean Castex         47                 Sarah Knafo        39                   Bruno Retailleau  23
+
+            Elisabeth Borne       46              Philippe de Villiers  38              Nicolas Dupont-Aignan 22
+
+          Christine Lagarde       46              Christine Lagarde     38                    Florian Philippot 17
+        Bernard Cazeneuve        44                  Gabriel Attal      36                   Patrick Sébastien 16
+
+            Xavier Bertrand      42               Edouard Philippe      36                   Edouard Philippe 10
+
+     Note de lecture : 91% des Français inscrits sur les listes électorales et se déclarant proches politiquement du Rassemblement National indiquentqu’ils pourraient voter pour Marine Le Pen si
+     la prochaine élection présidentielle avait lieu dimanche prochain.
+
+     Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ?
+     Base : Aux inscrits sur les listes électorales, en % de Oui
+                                                                                                                                 14
+
+--- page 15 ---
+
+L’évolution   du  potentiel  électoral   de  différentes  personnalités    publiques   françaises
+
+                                                                                                           46
+                                                       43                        43
+          Marine Le Pen               38                        39      40                41      40
+                             36               36
+
+                             24                        24               24       24                        26
+                                      22      22                                          21      22
+                                                                19
+    Raphaël Glucksmann
+                             35
+                                      33
+                                              29       30               31
+       Édouard Philippe                                                          27       27
+                                                                24                                25       25
+                             30       32      31
+                                                       26       24      24       26       24               25
+        Bruno Retailleau                                                                          20
+
+                                                                                                           24
+
+          David Lisnard      14       12      13       15       13      13       16       16      15
+
+                             29       28               28               27
+           Gabriel Attal                      25                22               25       23      24       21
+
+                             14       16               17       14      14       16       14      15       14
+                                              11
+    Jean-Luc Mélenchon
+                            Avril    Juin    Août   Novembre  Janvier   Avril   Juin     Août   Octobre Novembre
+                            2025     2025     2025    2025     2026    2026     2026     2026    2026     2026
+
+     Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ?
+     Base : Aux inscrits sur les listes électorales, en % de Oui
+                                                                                                                                 15
+
+--- page 16 ---
+
+L’évolution   du  potentiel  électoral   de  différentes  personnalités    publiques   françaises
+
+                                                                                                  66%
+                                                       58%     56%               58%     59%               57%
+                             51%     52%      50%                       51%
+    Jean-Luc Mélenchon
+                                                                                                                      Vote Mélenchon 2022
+                                                                                 28%     27%               27%
+                             20%     21%               23%                                        22%
+                                              11%              14%      15%              26%                          Vote Macron 2022
+                                     20%               19%                       21%              18%      21%
+                             15%                                        14%
+                                              11%              12%
+                                                                                                                      Sympath. LFI
+                                                       77%
+                                              75%                                                                     Sympath. PS
+                                                                        71%                                71%
+                                                                                         68%
+                             66%                                                 65%              66%
+                                                               62%
+                                     60%
+                                                                                                                      Sympath. Écologistes
+                                              52%
+                                                                                                  50%
+                                                       48%                                                 48%
+    Raphaël Glucksmann    39%        41%                       44%      39%      40%     3 4 9 3 % %
+                                     37%      37%   37% 36%    36%        39%                     33%      45%
+                          37%        28%      29%                                        29%
+                                                                        37%    35%35%                      35%
+                            34%34%
+                                                       34%                                        27%
+                                                             28%28%              26%     27%
+                                     24%      23%                       24%
+                                                                                                           21%
+                                                                                                  14%
+                            Avril    Juin    Août   Novembre  Janvier   Avril   Juin     Août   Octobre Novembre
+                            2025     2025     2025    2025     2026    2026     2026     2026    2026     2026
+     Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ?
+     Base : Aux inscrits sur les listes électorales, en % de Oui
+                                                                                                                                 16
+
+--- page 17 ---
+
+L’évolution   du  potentiel  électoral   de  différentes  personnalités    publiques   françaises
+
+                                                       81%
+                                      75%     77%              73%      76%      75%     74%      72%
+                                                                                                           69%
+                             66%
+                                      59%                               60%      61%
+                             57%              56%      57%                               56%      55%
+                                                                                                           52%
+                                                               49%
+                                                                                         43%
+                                      41%
+                                                                                 39%
+                                                                                                           36%
+           Gabriel Attal     33%                               34%      34%                       32%
+                                              30%      29%
+                                                                                         24%
+                                                                                 35%
+                             29%      28%     27%                       29%                       26%      26%       Vote Macron 2022
+                                                       23%     24%
+                                                                                                                     Sympath. PS
+                                      78%     80%                       77%                       79%      79%       Sympath. Renaissance
+                                                       74%                               74%
+                             71%
+                                      68%     66%                                67%                       65%
+                                                                                                  62%
+                                                       57%     58%      70%                                          Sympath. LR
+                             68%
+                                      64%                                        64%     64%
+                             58%                                        57%
+       Édouard Philippe                       54%              49%
+                                                       50%
+                                                               43%               44%     42%
+                                                                                                           36%
+                                                                                                  33%
+                             30%              29%              31%      29%      28%
+                                                       25%                               24%
+                                      22%
+                                                                                                  20%
+                                                                                                           18%
+                            Avril    Juin    Août   Novembre  Janvier   Avril   Juin     Août   Octobre Novembre
+                            2025     2025     2025    2025     2026    2026     2026     2026    2026     2026
+     Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ?
+     Base : Aux inscrits sur les listes électorales, en % de Oui
+                                                                                                                                 17
+
+--- page 18 ---
+
+L’évolution   du  potentiel  électoral   de  différentes  personnalités    publiques   françaises
+
+                                                                                                           79%
+                                                                                 77%
+                                              75%
+                                                               69%
+                             65%     67%                                                 66%
+                                                                        62%
+                                                                                                  58%
+                                                       56%
+        Bruno Retailleau             45%
+                                     42%
+                                              40%
+                             3376%%  37%      38%                                36%
+                             30%
+                                     35%
+                                              3
+                                              3
+                                               0
+                                               5
+                                               %
+                                               %
+                                                       3
+                                                       2
+                                                       3 0
+                                                       2
+                                                       2 %
+                                                        %
+                                                        %      2
+                                                               2
+                                                               28
+                                                                4
+                                                                8%
+                                                                 %
+                                                                 %      2
+                                                                        2
+                                                                        3 7
+                                                                         3
+                                                                         2 %
+                                                                         %
+                                                                         %       29%     3 3 3 1 % % 2
+                                                                                                  2
+                                                                                                  3 7
+                                                                                                   0
+                                                                                                   1 %
+                                                                                                   %
+                                                                                                   %       3 22 0 56 % %% Vote Macron 2022
+                             31%                                                 17%     18%
+                                                               28%
+                                                       25%                                                            Vote Le Pen 2022
+                                                                        23%                                23%
+                                                                                         21%
+                                                                                 17%              17%
+                                                                                                                      Sympath. Renaissance
+                                                                                                                      Sympath. LR
+                                                                                                                      Sympath. RN
+                                                                                                           51%
+          David Lisnard
+                                                                                 38%
+                                                                                         35%      36%
+                                              31%              31%
+                             29%                                                                           29%
+                                     25%                                                                   2266%%
+                                                       21%
+                                                                        19%
+                             11 134 2%% % 111 210 %%% 1 1 13 0 3% % % 1 1 1 2 7 4 % % % 1 11 1 44 % %% 11 1 12 7 %% % 1 111 32% %% 1 1 15 7 5% % % 111666%%% 28%
+                             15%                                                 16%     16%
+                                                       13%     13%      13%                       13%
+                                     11%      10%
+                            Avril    Juin    Août   Novembre  Janvier   Avril   Juin     Août   Octobre Novembre
+                            2025     2025     2025    2025     2026    2026     2026     2026    2026     2026
+     Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ?
+     Base : Aux inscrits sur les listes électorales, en % de Oui
+                                                                                                                                 18
+
+--- page 19 ---
+
+L’évolution   du  potentiel  électoral   de  différentes  personnalités    publiques   françaises
+
+                             93%      90%     91%      91%      92%     91%      91%      89%     93%      91%
+
+                             88%              89%      88%      89%     88%      89%              90%      89%
+                                      86%
+                                                                                          84%                          Vote Macron 2022
+                                                                                                                       Vote Le Pen 2022
+
+                                                                                 49%                       50%
+          Marine Le Pen                                                                           45%
+                                                                                          43%
+                                                                40%     40%                                            Sympath. Renaissance
+                                                       37%
+                                      34%
+                                              32%
+                             25%                                                          24%              25%         Sympath. LR
+                                                                        21%      21%
+                             16%      15%     13%      18%      14%                               17%
+                                                                        21%                                            Sympath. RN
+                                                                                                  16%      15%
+                             11%              12%      10%      9%               10%      12%
+                                      7%
+
+                            Avril    Juin    Août   Novembre  Janvier   Avril   Juin     Août   Octobre Novembre
+                            2025     2025     2025    2025     2026    2026     2026     2026    2026     2026
+
+     Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ?
+     Base : Aux inscrits sur les listes électorales, en % de Oui
+                                                                                                                                 19
+
+--- page 20 ---
+
+L’œil       de     Toluna          Harris       Interactive
+
+                                                                                                                                 20
+
+--- page 21 ---
+
+Le  potentiel  électoral   de  David  Lisnard
+
+                                                                           Évolution de la notoriété
+                                                                                                                               80
+                                                                                                              77
+                                                                                                                    75
+                                                                            70          69   71    73    69              72
+                                                                                  66
+                        Pourraient  voter pour  David  Lisnard : 24         Avril Juin  Août Novembre Janvier Avril Juin Août Octobre Novembre
+                                                                            2025  2025  2025 2025  2026  2026 2026  2026  2026  2026
+
+   Évolution du potentiel électoral                  24
+
+                                    16    16
+   14         13    15   13    13              15                       14          15
+         12
+
+  Avril Juin Août Novembre Janvier Avril Juin Août Octobre Novembre
+                                                                  10
+  2025 2025  2025  2025 2026  2026  2026  2026 2026  2026
+                                                                                                     Non  : 56
+
+                                                                    20                   41
+                       Oui, certainement
+                       Oui, probablement
+
+                       Non, probablement pas
+                       Non, certainement pas
+                       Vous ne connaissez pas / Ne se prononce pas
+
+     Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ?
+     Base : Aux inscrits sur les listes électorales, en %
+                                                                                                                                 21
+
+--- page 22 ---
+
+Le  profil des potentiels   électeurs  de  David   Lisnard
+
+                                           % de pourraient voter pour David Lisnard : 24
+
+                                                                          Rang
+                                                  Hommes            28     3e
+
+                                                   Femmes        19        6e
+
+                                                  18-24 ans         30     3e
+                                                  25-34 ans        26      6e
+
+                                                  35-49 ans      20        6e
+                                                  50-64 ans      21        3e
+                                               65 ans et plus       28     6e
+
+                           Catégories socioprofessionnelles supérieures 28 4e
+
+                                         Catégories populaires  18         9e
+                                                   Inactifs        25      5e
+
+                                             Inférieur au bac    19        5e
+
+                                                      Bac         24       2e
+                                                    Bac+2         22       5e
+
+                                            Supérieur à bac+2       28     4e
+
+     Note de lecture : 30% des 18-24 ans inscrits sur les listes électorales indiquent qu’ils pourraient voter pour David Lisnard si la prochaine élection présidentielle avait lieu dimanche
+     prochain.
+
+     Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ?
+     Base : Aux inscrits sur les listes électorales, en % de Oui
+                                                                                                                                 22
+
+--- page 23 ---
+
+Le  profil des potentiels   électeurs  de  David   Lisnard
+
+                                           % de pourraient voter pour David Lisnard : 24
+
+                                                                                   Rang
+
+                                           La France Insoumise 10                  44e
+
+                                               Parti socialiste 10                 35e
+                               e
+                               n
+                               a        Les Ecologistes (ex-EELV) 4                36e
+                               s
+                               it
+                               r
+                               a
+                               p                Renaissance        26              17e
+                               é
+                               t
+                               im
+                               ix            Les Républicains              51       2e
+                               o
+                               r
+                               P
+                                        Rassemblement National      29              4e
+                                       Sans préférence partisane 15                 6e
+                                 e
+                               e
+                                 lle
+                                          Jean-Luc Mélenchon  10                   37e
+                               d it
+                               r u
+                                 n
+                                 e
+                               o d 2        Emmanuel Macron         28             11e
+                               t is 2
+                               re é 0
+                               1 r 2
+                               u
+                               a
+                                 p
+                                 n
+                                   e
+                                   d
+                                               Marine Le Pen       26               5e
+                               e
+                                 o
+                                 it
+                               t c
+                               o e        Abstention/Blanc/Nul  16                  2e
+                               V
+                                 lé
+                                 ’
+                                 l
+     Note de lecture : 51% des Français inscrits sur les listes électorales et se déclarant proches des Républicains indiquent qu’ils pourraient voter pour David Lisnard si la prochaine élection
+     présidentielle avait lieu dimanche prochain.
+     Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ?
+     Base : Aux inscrits sur les listes électorales, en % de Oui
+                                                                                                                                 23
+
+--- page 24 ---
+
+Le  potentiel  électoral   de  Christine Lagarde
+
+                               Pourraient  voter pour
+                               Christine Lagarde  : 16
+
+                                                                     15
+
+   Évolution du potentiel électoral                        12
+         17              17
+                                         16
+                                                         4
+
+       Août            Octobre         Novembre
+       2026             2026             2026
+                                                          13
+                                                                                             Non  : 71
+                                                                                 56
+              Oui, certainement
+              Oui, probablement
+              Non, probablement pas
+              Non, certainement pas
+              Vous ne connaissez pas / Ne se prononce pas
+
+     Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ?
+     Base : Aux inscrits sur les listes électorales, en %
+                                                                                                                                 24
+
+--- page 25 ---
+
+Le  profil des potentiels   électeurs  de  Christine  Lagarde
+
+                                         % de pourraient voter pour Christine Lagarde : 16
+
+                                                                          Rang
+                                                  Hommes        18        18e
+
+                                                   Femmes      15         11e
+
+                                                  18-24 ans     18        30e
+                                                  25-34 ans      19       32e
+
+                                                  35-49 ans   12          20e
+                                                  50-64 ans    14         14e
+                                               65 ans et plus     23      11e
+
+                           Catégories socioprofessionnelles supérieures 17 19e
+
+                                         Catégories populaires 13         22e
+                                                   Inactifs      19       13e
+
+                                             Inférieur au bac  15          9e
+
+                                                      Bac     10          31e
+                                                    Bac+2       18        10e
+
+                                            Supérieur à bac+2     23      14e
+
+     Note de lecture : 18% des 18-24 ans inscrits sur les listes électorales indiquent qu’ils pourraient voter pour Christine Lagarde si la prochaine élection présidentielle avait lieu dimanche
+     prochain.
+
+     Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ?
+     Base : Aux inscrits sur les listes électorales, en % de Oui
+                                                                                                                                 25
+
+--- page 26 ---
+
+Le  profil des potentiels   électeurs  de  Christine  Lagarde
+
+                                         % de pourraient voter pour Christine Lagarde : 16
+
+                                                                                   Rang
+
+                                           La France Insoumise 12                  33e
+
+                                               Parti socialiste  19                16e
+                               e
+                               n
+                               a        Les Ecologistes (ex-EELV) 21               11e
+                               s
+                               it
+                               r
+                               a
+                               p                Renaissance               46        8e
+                               é
+                               t
+                               im
+                               ix            Les Républicains          38           8e
+                               o
+                               r
+                               P
+                                        Rassemblement National 6                   23e
+                                       Sans préférence partisane 10                13e
+                                 e
+                               e
+                                 lle
+                                          Jean-Luc Mélenchon   13                  25e
+                               d it
+                               r u
+                                 n
+                                 e
+                               o d 2        Emmanuel Macron          33             9e
+                               t is 2
+                               re é 0
+                               1 r 2
+                               u
+                               a
+                                 p
+                                 n
+                                   e
+                                   d
+                                               Marine Le Pen 6                     26e
+                               e
+                                 o
+                                 it
+                               t c
+                               o e        Abstention/Blanc/Nul 6                   17e
+                               V
+                                 lé
+                                 ’
+                                 l
+     Note de lecture : 46% des Français inscrits sur les listes électorales et se déclarant proches de Renaissance indiquent qu’ils pourraient voter pour Christine Lagarde si la prochaine
+     élection présidentielle avait lieu dimanche prochain.
+     Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ?
+     Base : Aux inscrits sur les listes électorales, en % de Oui
+                                                                                                                                 26
+
+--- page 27 ---
+
+Le  potentiel  électoral   de  Teddy   Riner
+
+                                            Pourraient voter pour
+                                                 Teddy   Riner : 10
+
+   Évolution du potentiel électoral
+    18
+                16
+                                              14                         17
+                            13
+          12          12          12    12
+                                                    10
+  Juin  Août Novembre Janvier Avril Juin Août Octobre Novembre     7
+  2025  2025   2025  2026  2026   2026  2026  2026   2026
+                                                                                                         Non  : 77
+                                                                  3
+
+                                                                  13                       60
+
+                       Oui, certainement
+                       Oui, probablement
+                       Non, probablement pas
+                       Non, certainement pas
+                       Vous ne connaissez pas / Ne se prononce pas
+
+     Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ?
+     Base : Aux inscrits sur les listes électorales, en %
+                                                                                                                                 27
+
+--- page 28 ---
+
+Le  profil des potentiels   électeurs  de  Teddy   Riner
+
+                                            % de pourraient voter pour Teddy Riner : 10
+
+                                                                          Rang
+                                                  Hommes      12          33e
+
+                                                   Femmes    8            32e
+
+                                                  18-24 ans      19       25e
+                                                  25-34 ans       24       8e
+
+                                                  35-49 ans   10          27e
+                                                  50-64 ans 6             35e
+                                               65 ans et plus 5           38e
+
+                           Catégories socioprofessionnelles supérieures 12 35e
+
+                                         Catégories populaires 14         18e
+                                                   Inactifs 6             35e
+
+                                             Inférieur au bac 12          19e
+
+                                                      Bac     11          30e
+                                                    Bac+2   6             39e
+
+                                            Supérieur à bac+2 12          36e
+
+     Note de lecture : 19% des 18-24 ans inscrits sur les listes électorales indiquent qu’ils pourraient voter pour Teddy Riner si la prochaine élection présidentielle avait lieu dimanche
+     prochain.
+
+     Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ?
+     Base : Aux inscrits sur les listes électorales, en % de Oui
+                                                                                                                                 28
+
+--- page 29 ---
+
+Le  profil des potentiels   électeurs  de  Teddy   Riner
+
+                                            % de pourraient voter pour Teddy Riner : 10
+
+                                                                                   Rang
+
+                                           La France Insoumise    22                7e
+
+                                               Parti socialiste 12                 28e
+                               e
+                               n
+                               a        Les Ecologistes (ex-EELV) 10               23e
+                               s
+                               it
+                               r
+                               a
+                               p                Renaissance    13                  26e
+                               é
+                               t
+                               im
+                               ix            Les Républicains 8                    28e
+                               o
+                               r
+                               P
+                                        Rassemblement National 8                   15e
+                                       Sans préférence partisane 5                 32e
+                                 e
+                               e
+                                 lle
+                                          Jean-Luc Mélenchon     20                 8e
+                               d it
+                               r u
+                                 n
+                                 e
+                               o d 2        Emmanuel Macron   9                    31e
+                               t is 2
+                               re é 0
+                               1 r 2
+                               u
+                               a
+                                 p
+                                 n
+                                   e
+                                   d
+                                               Marine Le Pen 8                     18e
+                               e
+                                 o
+                                 it
+                               t c
+                               o e        Abstention/Blanc/Nul 4                   29e
+                               V
+                                 lé
+                                 ’
+                                 l
+     Note de lecture : 13% des Français inscrits sur les listes électorales et se déclarant proches de Renaissance indiquent qu’ils pourraient voter pour Teddy Riner si la prochaine élection
+     présidentielle avait lieu dimanche prochain.
+     Si la prochaine élection présidentielle en France avait lieu dimanche prochain, pourriez-vous voter pour chacune des personnalités suivantes ?
+     Base : Aux inscrits sur les listes électorales, en % de Oui
+                                                                                                                                 29
+
+--- page 30 ---
+
+Contacts  Toluna  – Harris Interactive en France :                    Merci  de  noter que   toute diffusion de ces
+
+                                                                             résultats doit être accompagnée  des éléments
+                                                                             techniques suivants : le nom de l’institut, le nom
+       Jean-Daniel Lévy
+                                                                             du  commanditaire   de   l’étude, la méthode
+       Directeur délégué – Stratégies politiques et d’opinion
+                                                                             d’enquête, les dates de réalisation et la taille de
+       jdlevy@toluna.com
+                                                                             l’échantillon.
+       Jean-Philippe Dubrulle
+       Directeur des études – Département Politique et Opinion
+       jphilippe.dubrulle@toluna.com
+
+                                                         wwwwww..ttoolluunnaaccoorrppoorraattee..ccoomm
