@@ -1,0 +1,145 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10369-pres-candidature-t-riner-odoxa-12-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Notice
+
+                                 SONDAGE D’ACTUALITE
+
+                   SONDAGE RÉALISÉ PAR ODOXA POUR BACKBONE ET LE FIGARO
+
+               Première publication sur le site www.odoxa.fr, le 12 novembre 2026 à 17h
+
+          Article 2 :
+           ✓  Organisme ayant réalisé le sondage : Odoxa
+
+           ✓  Commanditaire(s) : Backbone et Le Figaro
+
+           ✓  Nombre de personnes interrogées : échantillon représentatif de 1 005 Français âgés de
+
+              18 ans et plus
+
+           ✓  Dates de réalisation : du 9 au 10 novembre 2026
+
+          Article 3 :
+
+            ✓  Le pourcentage de personnes n’ayant pas répondu à chacune des questions est indiqué
+               sur le rapport de l’enquête disponible sur le site www.odoxa.fr
+
+            ✓  Gratification : Gratification sous la forme de points cumulables et dont la valeur s’élève
+               à 0,675 € pour un questionnaire complété.
+
+            ✓  Redressement : l’échantillon brut a été redressé sur les variables
+
+               sociodémographiques et professionnelles utilisées comme quotas ainsi que sur le vote
+               au premier et au second tours de l’élection présidentielle de 2022
+
+--- page 2 ---
+
+Questions posées
+
+          Q1. En ce qui vous concerne, qui souhaiteriez-vous voir élu(e) président(e) de la République
+          française en 2027 ?
+          Indiquez votre souhait quel qu’il soit, en écrivant le prénom et le nom d’un(e) Président(e) que vous
+          souhaiteriez voir élu(e) ou indiquez si aucune personnalité ne vous vient à l’esprit. Il n’y a pas de
+          bonne ni de mauvaise réponse.
+
+          Q2. Teddy Riner a déclaré sa candidature à l’élection présidentielle. Selon vous, a-t-il raison ou tort
+          de se présenter ?
+
+            -  Il a raison
+            -  Il a tort
+
+          Q3. Diriez-vous que la candidature de Teddy Riner va plutôt affaiblir ou renforcer les candidatures
+
+          de… ?
+
+            •  Jean-Luc Mélenchon
+            •  Marine Le Pen
+            •  Edouard Philippe
+            •  Gabriel Attal
+            •  David Lisnard
+
+            •  Bruno Retailleau
+            •  Raphaël Glucksmann
+                 o  Affaiblir
+                 o  Renforcer
+
+          Q4. Vous-même, au premier tour de l’élection présidentielle de 2027, pourriez-vous voter pour… ?
+
+            -  Marine Le Pen
+            -  Jean-Luc Mélenchon
+            -  Edouard Philippe
+            -  Teddy Riner
+            -  Marine Tondelier
+            -  Eric Zemmour
+            -  Natacha Polony
+               • Oui, certainement
+
+               • Oui, probablement
+               • Non, probablement pas
+               • Non, certainement pas
+
+--- page 3 ---
+
+Q5. Plus de 30 personnalités se sont déjà déclarées candidates à l’élection présidentielle. A propos
+          de ce nombre élevé de candidatures, diriez-vous que… ?
+
+            -  … c’est une bonne chose pour la démocratie
+            -  … cela montre que beaucoup de personnalités ont envie d’agir pour le pays
+            -  … cela montre que beaucoup de personnes ont un égo surdimensionné
+            -  … cela signifie que l’offre politique actuelle n’est pas satisfaisante
+                 o  Oui
+                 o  Non
+
+--- page 4 ---
+
+Tout sondage est affecté de marges d’erreurs
+
+          Avec ces effectifs, la marge d’erreur des résultats s'établit selon le score visé, entre plus ou
+          moins 1,4 et 3,1 points
+
+--- page 5 ---
+
+Structure
+
+                                         Base non % non Coefficient Base % pondéré
+                                         pondérée pondéré Pondératio pondérée
+                                                     n
+                 Total                    1 005 100,0%    1 005 100,0%
+                 Sexe
+                 Un homme                  477 47,5% 1,00  478 47,6%
+                 Une femme                 528 52,5% 1,00  527 52,4%
+                 Age
+                 18-24 ans                  91  9,1% 1,13  103 10,2%
+                 25-34 ans                 146 14,5% 1,01  148 14,7%
+                 35-49 ans                 245 24,4% 1,00  244 24,3%
+                 50-64 ans                 253 25,2% 0,97  245 24,4%
+                 65 ans et +               270 26,9% 0,98  265 26,3%
+                 CSP/Profession de l'interviewé
+                 Agriculteur, indépendant, chef d'entreprise 46 4,6% 0,98 45 4,5%
+                 Cadre et profession intellectuelle supérieure 99 9,9% 0,98 97 9,7%
+                 Profession intermédiaire  143 14,2% 1,03  148 14,7%
+                 Employé                   176 17,5% 0,97  170 16,9%
+                 Ouvrier                   121 12,0% 1,05  128 12,7%
+                 Retraité                  285 28,4% 0,99  282 28,1%
+                 Elève / étudiant           53  5,3% 0,99  52  5,2%
+                 Autre inactif              82  8,2% 1,01  82  8,2%
+                 Catégorie d'agglomération
+                 Rural                     213 21,2% 0,98  209 20,8%
+                 Moins de 20 000 hab       171 17,0% 1,05  180 17,9%
+                 De 20 000 à 99 999 hab    143 14,2% 1,00  143 14,2%
+                 100 000 hab et plus       315 31,3% 0,99  311 30,9%
+                 Agglomération parisienne  163 16,2% 1,00  163 16,2%
+                 Région UDA9
+                 Région Parisienne         189 18,8% 0,98  186 18,5%
+                 Nord                       60  6,0% 1,02  61  6,1%
+                 Est                        86  8,6% 0,98  84  8,4%
+                 Bassin Parisien Est        77  7,7% 0,98  75  7,5%
+                 Bassin Parisien Ouest      94  9,4% 0,97  91  9,0%
+                 Ouest                     123 12,2% 1,13  139 13,8%
+                 Sud Ouest                 115 11,4% 1,00  115 11,5%
+                 Sud Est                   128 12,7% 0,97  124 12,3%
+                 Méditerranée              133 13,2% 0,98  130 13,0%
