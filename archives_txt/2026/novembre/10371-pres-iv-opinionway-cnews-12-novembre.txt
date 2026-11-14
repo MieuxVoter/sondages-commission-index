@@ -1,0 +1,565 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10371-pres-iv-opinionway-cnews-12-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+R
+      U
+      O
+      P
+
+     Les      intentions                 de      vote
+
+     à   l’élection            présidentielle
+
+     de     2027
+
+     Notice   à  la commission        des  sondages       –
+
+     12 novembre       2026
+
+                 POUR
+
+--- page 2 ---
+
+Les    indications         générales         sur    le  sondage
+
+                                                                                                                             903
+                                                                                                                           personnes
+
+                     Nom  de l’organisme ayant réalisé le sondage : OpinionWay
+
+                     Nom  et qualité du/des commanditaire(s) du
+                                                                   CNews
+                     sondage  :
+
+                     Nom  et qualité de l’acheteur du sondage :    CNews
+
+                                                                   Pour les remercier de leur participation, les panélistes
+                     Existence d’une gratification :               ont touché des incentives ou ont fait un don à
+                                                                   l’association proposée de leur choix.
+
+                    «Toute personne a le droit de consulter auprès de la Commission des sondages la notice prévue par l’article 3.
+                        Cette commission rend publique cette notice sur son service de communication au public en ligne.
+                                            http://www.commission-des-sondages.fr/notices/»
+
+                 PPOOUURR                                                                                                         2
+
+--- page 3 ---
+
+Echantillon de  964   personnes   inscrites sur  les  listes
+   La
+                                                                     électorales, issu  d’un  échantillon de   1 001  personnes
+                                                                     représentatif de la population française âgée  de 18 ans et
+   méthodologie                                                      plus.
+                                                                     L’échantillon a été constitué selon la méthode des quotas, au regard
+                                                                     des critères de sexe, d’âge, de catégorie socioprofessionnelle, de
+                                                                     catégorie d’agglomération et de régionde résidence.
+
+                                     L’échantillon a été interrogé par questionnaire
+
+                                     auto-administré  en ligne sur système CAWI
+                                     (Computer Assisted Web Interview).
+
+                                                                     Les interviews ont été réalisées du 10 au 12 novembre 2026.
+                                                                     Pour les remercier de leur participation, les panélistes ont touché des
+                                                                     incentives ou ont fait un don à l’association proposée de leur choix.
+
+                                     OpinionWay  a réalisé cette enquête en appliquant
+
+                                     les procédures et règles de la norme ISO 20252
+
+                                                                   La colonne de référence que nous avons choisie pour le résultat publié
+                                                                   des intentions de vote est le redressement sociodémographique + vote
+                                                                   au premier tour de l’élection présidentielle de 2022 + vote au premier tour
+                                                                   des élections législatives de 2024 sur les certains d’aller voter (note 9+10).
+                                                                   Pour déterminer le pourcentage de personnes n’exprimant pas
+
+                                                                   d’intentions de vote, nous avons utilisé le redressement
+                                                                   sociodémographique sur la base de l’ensemble des répondants.
+                 POUR                                                                                                             3
+
+--- page 4 ---
+
+La   notice      sur   les   marges        d’erreur
+
+             Les résultats présentés dans ce document sont calculés sur la base des personnes interrogées, inscrites sur les listes électorales
+                                                                                                                             903
+             et certaines d’aller voter. «Toutsondageouenquêted’opinionestaffectédemargesd’erreur.»                        personnes
+             Pour un échantillon de 964, 660, 600 et 500 personnes interrogées, les marges d’erreur sont les suivantes, avec un niveau de
+             confiance de 95% :
+
+                              Pour un pourcentagede :    5%   10%   20%   30%   40%   50%  60%   70%   80%   90%   95%
+
+                                                         +/-   +/-  +/-   +/-   +/-   +/-   +/-   +/-   +/-  +/-   +/-
+                              Lamarge d’erreur est de :  1,4   1,9   2,5   2,9   3,1  3,2   3,1   2,9   2,5   1,9   1,4
+                 964 personnes
+                                                         3,6   8,1  17,5  27,1  36,9 46,8  56,9  67,1  77,5  88,1  93,6
+                              Lerésultat réel se situe dans et et    et    et   et    et    et    et    et    et    et
+                              une fourchette de :        6,4   11,9 22,5  32,9  43,1  53,2  63,1 72,9  82,5  91,9  96,4
+                                                         +/-   +/-  +/-   +/-   +/-   +/-   +/-   +/-   +/-  +/-   +/-
+                              Lamarge d’erreur est de :  1,7   2,3   3,1   3,5  3,7   3,8   3,7   3,5   3,1   2,3   1,7
+
+                 660 personnes
+                                                         3,3   7 , 7 1 6 , 9 2 6 ,5 3 6 , 3 4 6 , 2 5 6 , 3 6 6 , 5 7 6 , 9 8 7 , 7 9 3 ,3
+                              Lerésultat réel se situe dans et e t   e t   e t  e t   e t   e t   e t   e t   e t   e t
+                              une fourchette de :        6,7  12,3  23,1  33,5  43,7  53,8 63,7  73,5  83,1  92,3  96,7
+                                                         +/-   +/-  +/-   +/-   +/-   +/-   +/-   +/-   +/-  +/-   +/-
+                              Lamarge d’erreur est de :
+                                                         1,7   2,4   3,2   3,7  3,9   4,0   3,9   3,7   3,2   2,4   1,7
+                 600 personnes
+                                                         3,3   7 , 6 1 6 , 8 2 6 , 3 3 6 , 1 4 6 5 6 , 1 6 6 ,3 7 6 , 8 8 7 , 6 9 3 , 3
+                              Lerésultat réel se situe dans
+                                                         et    e t   e t   e t  e t   e t   e t   e t   e t   e t   e t
+                              une fourchette de :
+                                                         6,7  12,4  23,2  33,7  43,9  54   63,9  73,7  83,2  92,4  96,7
+                                                         +/-   +/-  +/-   +/-   +/-   +/-   +/-   +/-   +/-  +/-   +/-
+                              Lamarge d’erreur est de :  1,9   2,6   3,5  4,0   4,3   4,4   4,3   4,0   3,5   2,6   1,9
+                 500 personnes
+                                                         3,1   7,4  16,5  26    35,7 45,6  55,7   66   76,5  87,4  93,1
+                              Lerésultat réel se situe dans
+                                                         et    et    et    et   et    et    et    et    et    et    et
+                              une fourchette de :        6,9  12,6  23,5  34    44,3  54,4 64,3   74   83,5  92,6  96,9
+                 PPOOUURR                                                                                                         4
+
+--- page 5 ---
+
+Le   questionnaire
+
+             Q. Lors de la prochaine élection présidentielle, sur une échelle de 1 à 10, quelle est la probabilité que vous alliez voter au premier tour ?
+
+             Note de 1 à 10
+
+             Hypothèse 1 : avec Teddy Riner
+
+             Q. Si le premier tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants y aurait-il le
+             plus de chance que vous votiez ?
+
+             1. Nathalie Arthaud    9. Teddy Riner
+             2. Jean-Luc Mélenchon  10. Bruno Retailleau
+
+             3. Fabien Roussel      11. David Lisnard
+
+             4. Marine Tondelier
+                                    12. Nicolas Dupont-Aignan
+             5. Raphaël Glucksmann  13. Éric Zemmour
+             6. Karim Bouamrane     14. Marine Le Pen
+
+             7. Gabriel Attal
+                                    15. Vous voteriez blanc ou nul
+             8. Édouard Philippe    16. Vous vous abstiendriez
+
+                 POUR                                                                                                             5
+
+--- page 6 ---
+
+Le   questionnaire
+
+             Hypothèse 2 : sans Teddy Riner
+             Q. Si le premier tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants y aurait-il le
+             plus de chance que vous votiez ?
+
+             1. Nathalie Arthaud    8. Édouard Philippe
+
+             2. Jean-Luc Mélenchon  9. Bruno Retailleau
+
+             3. Fabien Roussel      10. David Lisnard
+             4. Marine Tondelier
+                                    11. Nicolas Dupont-Aignan
+             5. Raphaël Glucksmann  12. Éric Zemmour
+
+             6. Karim Bouamrane     13. Marine Le Pen
+             7. Gabriel Attal
+                                    14. Vous voteriez blanc ou nul
+                                    15. Vous vous abstiendriez
+
+                 POUR                                                                                                             6
+
+--- page 7 ---
+
+Le   questionnaire
+
+           Rotation aléatoire des hypothèses 1, 2 et 3
+           Hypothèse 1 :
+
+           Q. Si le second tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants y aurait-il le plus de
+           chance que vous votiez ?
+
+           1. Édouard Philippe
+
+           2. Marine Le Pen
+           3. Vous voteriez blanc ou nul
+
+           4. Vous vous abstiendriez
+
+           Hypothèse 2 :
+
+           Q. Si le second tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants y aurait-il le plus de
+           chance que vous votiez ?
+
+           1. Jean-Luc Mélenchon
+
+           2. Marine Le Pen
+           3. Vous voteriez blanc ou nul
+
+           4. Vous vous abstiendriez
+
+                 POUR                                                                                                             7
+
+--- page 8 ---
+
+Le   questionnaire
+
+           Rotation aléatoire des hypothèses 1, 2 et 3
+           Hypothèse 3 :
+
+           Q. Si le second tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants y aurait-il le plus de
+           chance que vous votiez ?
+
+           1. Raphaël Glucksmann
+
+           2. Marine Le Pen
+           3. Vous voteriez blanc ou nul
+
+           4. Vous vous abstiendriez
+
+                 POUR                                                                                                             8
+
+--- page 9 ---
+
+Le   redressement             socio-démographique                     de   l’échantillon
+
+             1001  personnes
+
+     Sexe                             Brut    Redressé            Catégorie socio-professionnelle de l’individu Brut  Redressé
+
+                                                                             Agriculteurs, artisans commerçants,
+                          Hommes      45%       48%                                                           4%        5%
+                                                                                            chefs d’entreprise
+                           Femmes     55%       52%                                 Professions libérales, cadres 1 3 % 11%
+
+                                                                                     Professions intermédiaires 1 6 %   16%
+
+                                                                                                   Employés   1 9 %     16%
+     Age                              Brut    Redressé
+                                                                                                    Ouvriers  1 3 %     12%
+                          18 à 24 ans 8%        10%
+                                                                                                    Retraités 2 6 %     28%
+                         25 à 34 ans  15%       15%
+
+                                                                                               Autres inactifs 9 %      12%
+                         35 à 49 ans  27%       24%
+
+                         50 à 64 ans  27%       25%
+
+                       65 ans et plus 23%       26%
+
+                 POUR                                                                                                             9
+
+--- page 10 ---
+
+Le   redressement             socio-démographique                     de   l’échantillon
+
+             1001  personnes
+
+                                      Région                           Brut    Redressé
+
+                                                      Région Parisienne 18%      18%
+
+                                                           Nord Ouest  23%       23%
+
+                                                              Nord Est 23%       22%
+
+                                                            Sud Ouest  10%       12%
+
+                                                              Sud Est  26%       25%
+
+                                      Catégorie d’agglomération        Brut    Redressé
+
+                                                   Une commune rurale   1 7%     21%
+
+                                                2 000 à 19 999 habitants 20%     18%
+
+                                               20 000 à 99 999 habitants 15%     14%
+
+                                                100 000 habitants et plus 32%    31%
+
+                                               Agglomération parisienne 16%      16%
+
+                 POUR                                                                                                             10
+
+--- page 11 ---
+
+Le   redressement             politique        de   l’échantillon
+
+             964  personnes
+
+                                                                                                                             903
+                                                                                                                           personnes
+                                    1er tour de l’élection présidentielle de 2022 Brut Redressé
+
+                                                           Nathalie Arthaud   2%         <1%
+
+                                                             Philippe Poutou  2%         1%
+
+                                                             Fabien Roussel   3%         2%
+
+                                                        Jean-Luc Mélenchon    13%       16%
+
+                                                              Anne Hidalgo    2%         1%
+
+                                                              Yannick Jadot   5%         3%
+
+                                                          Emmanuel Macron     19%       20%
+
+                                                            Valérie Pécresse  6%         3%
+
+                                                              Jean Lassalle   1%         2%
+
+                                                      Nicolas Dupont-Aignan   3%         2%
+
+                                                              Éric Zemmour    4%         5%
+
+                                                              Marine Le Pen  25%         17%
+
+                                               Blanc ou nul + Abstention + NSP 15%      28%
+
+                 PPOOUURR                                                                                                         11
+
+--- page 12 ---
+
+Le   redressement             politique        de   l’échantillon
+
+             964  personnes
+
+                                                                                                                             903
+                                                                                                                           personnes
+
+                              1er tour des élections législatives de 2024 Brut  Redressé
+
+                                                      Extrême-gauche    3%         1%
+
+                                                                 NFP    20%        18%
+
+                                                 Majorité présidentielle 13%       13%
+
+                                                           LR et alliés 6%         7%
+
+                                                          Reconquête    2%         <1%
+
+                                                           RN et alliés 25%        22%
+
+                                                               Autres   9%         4%
+
+                                          Blanc ou nul + Abstention + NSP 22%      35%
+
+                 PPOOUURR                                                                                                         12
+
+--- page 13 ---
+
+L’intention         de   vote     au   premier        tour     de   l’élection       présidentielle
+
+             Hypothèse    1 : avec Teddy  Riner
+
+             Q. Si le premier tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants y aurait-il le plus de
+             chances que vous votiez ?
+
+                                                                                        Ensemble des personnes inscrites sur les listes électorales
+                                            Ensemble des personnes inscrites sur les listes électorales
+                                                                                            certaines d’aller voter (9+10 : 660 personnes)
+                                                         (964 personnes)
+                                                                                                Expriment un vote : 611 personnes
+                                   Publié
+                                                                           Socio-Démo +                                Socio-Démo +
+                                                                Socio-Démo +                                Socio-Démo +
+                                             Brut    Socio-Démo            Présid2022 +  Brut    Socio-Démo            Présid2022 +
+                                                                 Presid2022                                  Presid2022
+                                                                            Légis2024                                   Légis2024
+                    Nathalie Arthaud 1%      2%         2%         1%         1%         2%         2%         1%         1%
+                 Jean-Luc Mélenchon 16%      14%       14%        16%        15%        14%        14%        16%        16%
+                      Fabien Roussel 2%      2%         2%         2%         2%         1%         2%         2%         2%
+                     Marine Tondelier 3%     4%         4%         3%         3%         3%         3%         3%        3%
+                 Raphaël Glucksmann 10%      9%        10%        10%        10%        10%        10%        11%        10%
+                   Karim Bouamrane <1%       0%         0%         0%         0%         0%         0%         0%        0%
+                        Gabriel Attal 3%     4%         4%         4%         4%         3%         3%         4%        3%
+                     Édouard Philippe 12%    9%         9%        10%         11%       10%        10%        12%        12%
+                        Teddy Riner 4%       4%         4%         5%         5%         4%         4%         4%        4%
+                     Bruno Retailleau 4%     4%         4%         4%         4%         5%         5%         4%        4%
+                       David Lisnard 9%      8%         8%         9%         9%         8%         8%        8%         9%
+                Nicolas Dupont-Aignan 2%     2%         2%         2%         2%         2%         2%         2%         2%
+                       Éric Zemmour 3%       4%         4%         5%         3%         4%         4%         5%        3%
+                       Marine Le Pen 31%    33%        32%        29%        32%        33%        32%        29%        31%
+
+         N’expriment pas d’intention de vote 14% 15%   14%        21%        21%         7%         7%        9%         9%
+
+                 POUR                                                                                                             13
+
+--- page 14 ---
+
+L’intention         de   vote     au   premier        tour     de   l’élection       présidentielle
+
+             Hypothèse    2 : sans Teddy  Riner
+
+             Q. Si le premier tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants y aurait-il le plus de
+             chances que vous votiez ?
+
+                                                                                        Ensemble des personnes inscrites sur les listes électorales
+                                            Ensemble des personnes inscrites sur les listes électorales
+                                                                                            certaines d’aller voter (9+10 : 660 personnes)
+                                                         (964 personnes)
+                                                                                                Expriment un vote : 600 personnes
+                                   Publié
+                                                                           Socio-Démo +                                Socio-Démo +
+                                                                Socio-Démo +                                Socio-Démo +
+                                             Brut    Socio-Démo            Présid2022 +  Brut    Socio-Démo            Présid2022 +
+                                                                 Presid2022                                  Presid2022
+                                                                            Légis2024                                   Légis2024
+                    Nathalie Arthaud 1%      2%         2%         1%         1%         2%         2%         1%         1%
+                 Jean-Luc Mélenchon 16%      14%       14%        16%        15%        14%        14%        16%        16%
+                      Fabien Roussel 1%      1%         1%         1%         1%         2%         1%         1%         1%
+                     Marine Tondelier 3%     4%         4%         4%         4%         4%         4%         3%        3%
+                 Raphaël Glucksmann 11%      10%        11%        11%        11%        11%        11%       12%        11%
+                   Karim Bouamrane  1%       2%         2%         3%         2%         1%         2%         1%         1%
+                        Gabriel Attal 4%     4%         4%         5%         4%         4%         4%         5%        4%
+                     Édouard Philippe 12%    10%       10%         11%        11%       10%         11%       12%        12%
+                     Bruno Retailleau 5%     5%         5%         4%         5%         5%         5%         5%        5%
+                       David Lisnard 10%     9%         9%        10%         11%        9%         9%        10%        10%
+                Nicolas Dupont-Aignan 2%     3%         3%         2%         2%         3%         3%         2%         2%
+
+                       Éric Zemmour 2%       3%         3%         4%         2%         3%         3%         4%         2%
+                       Marine Le Pen 32%    32%        31%        28%        30%        33%        31%        28%        32%
+
+         N’expriment pas d’intention de vote 16% 16%   16%        23%        23%         9%         9%        12%        12%
+
+                 POUR                                                                                                             14
+
+--- page 15 ---
+
+L’intention         de   vote     au   second        tour    de    l’élection       présidentielle
+
+             Hypothèse    1 : Édouard  Philippe  contre  Marine  Le Pen
+
+             Q. Si le second tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants y aurait-il le plus de chances
+             que vous votiez ?
+
+                                                                                        Ensemble des personnes inscrites sur les listes électorales
+                                            Ensemble des personnes inscrites sur les listes électorales
+                                                                                            certaines d’aller voter (9+10 : 660 personnes)
+                                                         (964 personnes)
+                                                                                                Expriment un vote : 504 personnes
+                                   Publié
+                                                                           Socio-Démo +                                Socio-Démo +
+                                                                Socio-Démo +                                Socio-Démo +
+                                             Brut    Socio-Démo            Présid2022 +  Brut    Socio-Démo            Présid2022 +
+                                                                 Presid2022                                  Presid2022
+                                                                            Légis2024                                   Légis2024
+                      Édouard Philippe 44%  42%        43%        46%        45%        42%        43%        45%        44%
+                        Marine Le Pen 56%   58%        57%        54%        55%        58%        57%        55%        56%
+         N’expriment pas d’intention de vote 36% 34%   36%        38%        37%        24%        24%        26%        26%
+
+                 POUR                                                                                                             15
+
+--- page 16 ---
+
+L’intention         de   vote     au   second        tour    de    l’élection       présidentielle
+
+             Hypothèse    2 : Jean-Luc Mélenchon    contre  Marine   Le Pen
+
+             Q. Si le second tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants y aurait-il le plus de chances
+             que vous votiez ?
+
+                                                                                        Ensemble des personnes inscrites sur les listes électorales
+                                            Ensemble des personnes inscrites sur les listes électorales
+                                                                                            certaines d’aller voter (9+10 : 660 personnes)
+                                                         (964 personnes)
+                                                                                                Expriment un vote : 471 personnes
+                                   Publié
+                                                                           Socio-Démo +                                Socio-Démo +
+                                                                Socio-Démo +                                Socio-Démo +
+                                             Brut    Socio-Démo            Présid2022 +  Brut    Socio-Démo            Présid2022 +
+                                                                 Presid2022                                  Presid2022
+                                                                            Légis2024                                   Légis2024
+                   Jean-Luc Mélenchon 32%   28%        29%        31%        29%        29%        29%        32%        32%
+                        Marine Le Pen 68%   72%         71%       69%        71%        71%        71%        68%        68%
+         N’expriment pas d’intention de vote 40% 38%   40%        43%        43%        29%        29%        31%        30%
+
+                 POUR                                                                                                             16
+
+--- page 17 ---
+
+L’intention         de   vote     au   second        tour    de    l’élection       présidentielle
+
+             Hypothèse    3 : Raphaël Glucksmann     contre  Marine   Le Pen
+
+             Q. Si le second tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants y aurait-il le plus de chances
+             que vous votiez ?
+
+                                                                                        Ensemble des personnes inscrites sur les listes électorales
+                                            Ensemble des personnes inscrites sur les listes électorales
+                                                                                            certaines d’aller voter (9+10 : 660 personnes)
+                                                         (964 personnes)
+                                                                                                Expriment un vote : 512 personnes
+                                   Publié
+                                                                           Socio-Démo +                                Socio-Démo +
+                                                                Socio-Démo +                                Socio-Démo +
+                                             Brut    Socio-Démo            Présid2022 +  Brut    Socio-Démo            Présid2022 +
+                                                                 Presid2022                                  Presid2022
+                                                                            Légis2024                                   Légis2024
+                   Raphaël Glucksmann 42%   39%        39%        41%        40%        39%        40%        42%        42%
+                        Marine Le Pen 58%    61%       61%        59%        60%        61%        60%        58%        58%
+         N’expriment pas d’intention de vote 36% 34%   36%        39%        38%        22%        23%        26%        25%
+
+                 POUR                                                                                                             17
+
+--- page 18 ---
+
+PARIS  BORDEAUX  VARSOVIE  CASABLANCA  ABIDJAN
+
+   Fondé en 2000 sur cette idée Enabletoday,shapetomorrow
+                                                                      Restons         connectés          !
+   radicalement innovante pour
+                          C’est la mission qui anime les
+   l’époque, OpinionWay a été
+                          collaborateurs d’OpinionWay et
+   précurseur  dans     le
+                          quifondelarelationqu’ils tissent
+   renouvellement des pratiques de
+                          avecleursclients.                           Une image Une image Une image Une image
+   la  profession des études
+                                                                      contenant contenant contenant contenant
+   marketingetd’opinion.  Le plaisir ressenti à apporter les          clipart, ligne, logo, symbole,
+                          réponses  aux   questions                   cercle, symbole, Graphique, logo
+   Forte d’une croissance continue qu’ils se posent, à réduire        symbole, blanc, symbole,
+   depuis sa création, l’entreprise n’a
+                          l’incertitude sur les décisions
+   eu de cesse de s’ouvrir vers de
+                          à prendre, à tracker les insights           Recevez chaque   semaine  nos derniers résultats
+   nouveaux horizons pour mieux
+                          pertinents et à co-construire les
+   adresser   toutes   les                                            d’études dans votre boite mail en vous abonnant
+                          solutions d’avenir, nourrit tous les
+   problématiques marketing et
+                          projets sur  lesquels ils                   à notre newsletter !
+   sociétales, en intégrant à ses
+                          interviennent.
+   méthodologies le Social Média
+   Intelligence, l’exploitation de la Cet enthousiasme associé à un
+                                                                          Je m’abonne
+   smart data, les dynamiques véritable goût pour l’innovation et
+   créatives de co-construction, les la transmission expliquent que nos
+   approches communautaires et le clients expriment une haute
+   storytelling.          satisfaction après chaque
+   Aujourd’hui OpinionWay poursuit collaboration -8,9/10, et un fort  Vos contacts OpinionWay
+                          taux de recommandation –3,88/4.
+   sa dynamique de croissance en
+   s’implantant géographiquement Le plaisir, l’engagement et la                                 Frédéric Micheau
+                                                                      Bruno Jeanbart
+   sur des zones à fort potentiel que stimulation intellectuelle sont les
+                                                                                                Directeur général adjoint
+   sontl’Europedel’Estetl’Afrique. trois mantras de nos interventions. Vice-président
+                                                                                                Directeur du Pôle opinion
+                                                                      Tel: 01 81 81 83 00
+                                                                                                Tel: 01 81 81 83 00
+                                                                      bjeanbart@opinion-way.com
+                                                                                                fmicheau@opinion-way.com
