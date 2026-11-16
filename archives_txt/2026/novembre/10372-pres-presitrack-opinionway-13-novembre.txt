@@ -1,0 +1,647 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10372-pres-presitrack-opinionway-13-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Quatrième   vague
+
+                                                                                        Le 12 novembre    2026
+
+                                                                              Notice  à la commission    des  sondages
+
+  Photo de Erwmat sur Wikipedia
+
+--- page 2 ---
+
+Les    indications         générales         sur    le  sondage
+
+                                                                                                                             903
+                                                                                                                           personnes
+
+                     Nom  de l’organisme ayant réalisé le sondage : OpinionWay
+
+                     Nom  et qualité du/des commanditaire(s) du
+                                                                   Les Echos / Radio Classique
+                     sondage  :
+
+                     Nom  et qualité de l’acheteur du sondage :    Les Echos / Radio Classique
+
+                                                                   Pour les remercier de leur participation, les panélistes
+                     Existence d’une gratification :               ont touché des incentives ou ont fait un don à
+                                                                   l’association proposée de leur choix.
+
+                    «Toute personne a le droit de consulter auprès de la Commission des sondages la notice prévue par l’article 3.
+                        Cette commission rend publique cette notice sur son service de communication au public en ligne.
+                                            http://www.commission-des-sondages.fr/notices/»
+
+                                                                                                                                  2
+
+--- page 3 ---
+
+La
+                                                                      Echantillon de 982 personnes inscrites sur les listes électorales, issu
+                                                                      d’un échantillon de 1017 personnes représentatif de la population
+                                                                      française âgée de 18 ans et plus.
+   méthodologie
+                                                                      L’échantillon a été constitué selon la méthode des quotas, au regard des
+                                                                      critères de sexe, d’âge, de catégorie socioprofessionnelle, de catégorie
+                                                                      d’agglomération et de région de résidence.
+
+   Toute publication totale ou
+                                       L’échantillon a été interrogé par questionnaire auto-
+   partielle doit impérativement
+                                       administré  en ligne sur système CAWI  (Computer  Assisted
+   utiliser la mention complète
+                                       Web  Interview).
+   suivante :
+   « Sondage  OpinionWay  pour
+   Les Echos et Radio Classique »
+                                                                      Les interviews ont été réalisées du 9 au 10 novembre 2026.
+   et aucune  reprise de                                              Pour les remercier de leur participation, les panélistes ont touché des
+   l’enquête ne pourra être                                           incentives ou ont fait un don à l’association proposée de leur choix.
+   dissociée de cet intitulé
+
+                                       OpinionWay   a réalisé cette enquête en appliquant les
+                                       procédures  et règles de la norme ISO 20252
+
+                                                                    La colonne de référence que nous avons choisie pour le résultat publié des intentions
+                                                                    de vote est le redressement sociodémographique + vote au premier tour de l’élection
+                                                                    présidentielle de 2022 + vote au premier tour des élections législatives de 2024 sur les
+           par
+                                                                    certains d’aller voter (note 9+10).
+                                                                    Pour déterminer le pourcentage de personnes n’exprimant pas d’intentions de vote,
+             pour                                                   nous avons utilisé le redressement sociodémographique sur la base de l’ensemble
+                                                                    des répondants.
+                                                                    La colonne de référence pour les autres résultats publiés est le redressement
+                                                                    sociodémographique + le vote au premier tour de l’élection présidentielle de 2022 +
+                                                                                                                                  3
+                                                                    vote au premier tour des élections législatives de 2024 base ensemble.
+
+--- page 4 ---
+
+La   notice      sur   les   marges        d’erreur
+
+                                                                                                                             903
+             Les résultats présentés dans ce document  sont calculés sur la base des personnes  interrogées, inscrites sur
+                                                                                                                           personnes
+             les listes électorales et certaines d’aller voter. « Tout sondage ou enquête d’opinion est affecté de marges
+             d’erreur. »
+
+             Pour un échantillon de 982, 728 et 600 personnes interrogées, les marges d’erreur sont les suivantes, avec un
+             niveau de confiance de 95%  :
+
+                              Pour un pourcentage de :   5%   10%   20%   30%   40%   50%  60%   70%   80%   90%   95%
+
+                                                         +/-   + /- + /-  + /-  + /-  + /-  + /-  + /-  + /- + /-  + /-
+                              La marge d’erreur est de : 1,4   1,9   2,5   2,9   3,1  3,1   3,1   2,9   2,5   1,9   1,4
+                 982 personnes
+                                                         3,6   8 ,1 1 7 , 5 2 7 , 1 3 6 , 9 4 6 , 9 5 6 , 9 6 7 , 1 7 7 ,5 8 8 , 1 9 3 ,6
+                              Le résultat réel se situe dans et e t  e t   e t  e t   e t   e t   e t   e t   e t   e t
+                              une fourchette de :        6,4   11,9 22,5  32,9  43,1  53,1  63,1 72,9  82,5  91,9  96,4
+                                                         +/-   + /- + /-  + /-  + /-  + /-  + /-  + /-  + /- + /-  + /-
+                              La marge d’erreur est de : 1,6   2,2   2,9   3,3  3,6   3,6   3,6   3,3   2,9   2,2   1,6
+                 728 personnes
+                                                         3,4   7 , 8 1 7 , 1 2 6 , 7 3 6 , 4 4 6 ,4 5 6 , 4 6 6 ,7 7 7 ,1 8 7 , 8 9 3 , 4
+                              Le résultat réel se situe dans et e t  e t   e t  e t   e t   e t   e t   e t   e t   e t
+                              une fourchette de :        6,6  12,2  22,9  33,3  43,6 53,6  63,6  73,3  82,9  92,2  96,6
+
+                                                         +/-   + /- + /-  + /-  + /-  + /-  + /-  + /-  + /- + /-  + /-
+                              La marge d’erreur est de : 1,7   2,4   3,2   3,7  3,9    4    3,9   3,7   3,2   2,4   1,7
+                 600 personnes
+                                                         3,3   7 ,6 1 6 , 8 2 6 , 3 3 6 , 1 4 6 5 6 ,1 6 6 , 3 7 6 ,8 8 7 ,6 9 3 , 3
+                              Le résultat réel se situe dans et e t  e t   e t  e t   e t   e t   e t   e t   e t   e t
+                              une fourchette de :        6,7  12,4  23,2  33,7  43,9  54   63,9  73,7  83,2  92,4  96,7
+
+                                                                                                                                  4
+
+--- page 5 ---
+
+Le   questionnaire
+
+             Q. Lors de la prochaine élection présidentielle, sur une échelle de 1 à 10, quelle est la probabilité que vous alliez voter au premier
+             tour ?
+
+             Note de 1 à 10
+
+             Hypothèse 1 :
+
+             Q. Si le premier tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants y aurait-il le
+             plus de chance que vous votiez ?
+
+             1. Nathalie Arthaud
+
+             2. Jean-Luc Mélenchon
+             3. Fabien Roussel
+
+             4. Marine Tondelier
+
+             5. Raphaël Glucksmann
+             6. Gabriel Attal
+
+             7. Edouard Philippe
+
+             8. Bruno Retailleau
+             9. David Lisnard
+
+             10. Nicolas Dupont-Aignan
+
+             11. Marine Le Pen
+             12. Eric Zemmour
+
+             13. Vous voteriez blanc ou nul
+
+             14. Vous vous abstiendriez
+
+                                                                                                                                  5
+
+--- page 6 ---
+
+Le   questionnaire
+
+        Rotation aléatoire des hypothèses 2 et 3
+
+        Hypothèse 2 :                                                   Hypothèse 3 :
+        Q. Si le premier tour de l’élection présidentielle avait lieu dimanche Q. Si le premier tour de l’élection présidentielle avait lieu dimanche
+        prochain, pour lequel des candidats suivants y aurait-il le plus de prochain, pour lequel des candidats suivants y aurait-il le plus de
+        chance que vous votiez ?                                        chance que vous votiez ?
+
+        1. Nathalie Arthaud                                             1. Nathalie Arthaud
+
+        2. Jean-Luc Mélenchon                                           2. Jean-Luc Mélenchon
+
+        3. Fabien Roussel                                               3. Fabien Roussel
+        4. Marine Tondelier                                             4. Marine Tondelier
+
+        5. Raphaël Glucksmann                                           5. Raphaël Glucksmann
+
+        6. Gabriel Attal                                                6. Edouard Philippe
+        7. Bruno Retailleau                                             7. Bruno Retailleau
+
+        8. David Lisnard                                                8. David Lisnard
+
+        9. Nicolas Dupont-Aignan                                        9. Nicolas Dupont-Aignan
+        10. Marine Le Pen                                               10. Marine Le Pen
+
+        11. Eric Zemmour                                                11. Eric Zemmour
+
+        12. Vous voteriez blanc ou nul                                  12. Vous voteriez blanc ou nul
+
+        13. Vous vous abstiendriez                                      13. Vous vous abstiendriez
+
+                                                                                                                                  6
+
+--- page 7 ---
+
+Le   questionnaire
+
+             Q. Diriez-vous qu’aujourd’hui…
+
+             1. ...vous vous intéressez déjà à la présidentielle et suivez attentivement la campagne et ce que disent les candidats
+
+             2. ...vous ne vous intéressez pas encore à la campagne présidentielle
+
+             Q. Face aux mouvements sociaux qui se déroulent depuis plusieurs semaines, quels sont les candidats à l’élection présidentielle
+             qui vous semblent avoir une attitude à la hauteur de la situation ?
+
+             Plusieurs réponses possibles
+             1. Nathalie Arthaud
+
+             2. Jean-Luc Mélenchon
+
+             3. Fabien Roussel
+
+             4. Marine Tondelier
+             5. Raphaël Glucksmann
+
+             6. Gabriel Attal
+
+             7. Edouard Philippe
+
+             8. Bruno Retailleau
+
+             9. David Lisnard
+             10. Nicolas Dupont-Aignan
+
+             11. Éric Zemmour
+
+             12. Marine Le Pen
+
+             13. Aucun de ces candidats
+                                                                                                                                  7
+
+--- page 8 ---
+
+Le   questionnaire
+
+             Q. Souhaitez-vous que chacune des personnalités suivantes présente sa candidature à l’élection présidentielle de 2027 ?
+
+             1. Oui
+
+             2. Non
+
+             1) François Baroin
+
+             2) François Hollande
+
+             3) Xavier Bertrand
+
+             4) Bernard Cazeneuve
+             5) François Ruffin
+
+             6) Dominique de Villepin
+
+             7) Michel Barnier
+
+             8) Christine Lagarde
+             9) Jean Castex
+
+             10)Mathieu Pigasse
+
+             11) Bruno Le Maire
+
+                                                                                                                                  8
+
+--- page 9 ---
+
+Le   redressement             socio-démographique                     de   l’échantillon
+
+             1 017 personnes
+
+     Sexe                             Brut    Redressé            Catégorie socio-professionnelle de l’individu Brut  Redressé
+
+                                                                             Agriculteurs, artisans commerçants,
+                          Hommes      50%       48%                                                           3%        4%
+                                                                                            chefs d’entreprise
+                           Femmes     50%       52%                                 Professions libérales, cadres 1 5 % 10%
+
+                                                                                     Professions intermédiaires 1 3 %   15%
+
+                                                                                                   Employés   1 6 %     17%
+     Age                              Brut    Redressé
+                                                                                                    Ouvriers  1 0 %     12%
+                          18 à 24 ans 9%        10%
+                                                                                                    Retraités 3 2 %     28%
+                         25 à 34 ans  14%       15%
+
+                                                                                               Autres inactifs 1 1 %    14%
+                         35 à 49 ans  23%       24%
+
+                         50 à 64 ans  25%       24%
+
+                       65 ans et plus 29%       27%
+
+                                                                                                                                  9
+
+--- page 10 ---
+
+Le   redressement             socio-démographique                     de   l’échantillon
+
+             1 017 personnes
+
+                                      Région                           Brut    Redressé
+
+                                                      Région Parisienne 21%      19%
+
+                                                           Nord Ouest  24%       23%
+
+                                                              Nord Est 23%       22%
+
+                                                            Sud Ouest  10%        11%
+
+                                                              Sud Est  22%       25%
+
+                                      Catégorie d’agglomération        Brut    Redressé
+
+                                                   Une commune rurale  1 8%      21%
+
+                                                2 000 à 19 999 habitants 17%     18%
+
+                                               20 000 à 99 999 habitants 15%     14%
+
+                                                100 000 habitants et plus 32%    30%
+
+                                               Agglomération parisienne 18%       17%
+
+                                                                                                                                  10
+
+--- page 11 ---
+
+Le   redressement             politique        de   l’échantillon
+
+             982  personnes
+
+                                                                                                                             903
+                                                                                                                           personnes
+                                    1er tour de l’élection présidentielle de 2022 Brut Redressé
+
+                                                           Nathalie Arthaud   2%         <1%
+
+                                                             Philippe Poutou  1%         1%
+
+                                                             Fabien Roussel   3%         2%
+
+                                                        Jean-Luc Mélenchon    15%       16%
+
+                                                              Anne Hidalgo    3%         1%
+
+                                                              Yannick Jadot   5%         3%
+
+                                                          Emmanuel Macron     22%       20%
+
+                                                            Valérie Pécresse  5%         3%
+
+                                                              Jean Lassalle   2%         2%
+
+                                                      Nicolas Dupont-Aignan   2%         2%
+
+                                                              Éric Zemmour    3%         5%
+
+                                                              Marine Le Pen  25%         17%
+
+                                               Blanc ou nul + Abstention + NSP 12%      28%
+
+                                                                                                                                  11
+
+--- page 12 ---
+
+Le   redressement             politique        de   l’échantillon
+
+             982  personnes
+
+                                                                                                                             903
+                                                                                                                           personnes
+
+                              1er tour des élections législatives de 2024 Brut  Redressé
+
+                                                      Extrême-gauche    2%         1%
+
+                                                                 NFP    20%        18%
+
+                                                 Majorité présidentielle 16%       13%
+
+                                                           LR et alliés 7%         7%
+
+                                                          Reconquête    2%         <1%
+
+                                                           RN et alliés 25%        22%
+
+                                                               Autres   10%        4%
+
+                                          Blanc ou nul + Abstention + NSP 18%      35%
+
+                                                                                                                                  12
+
+--- page 13 ---
+
+L’intention         de   vote     au   premier        tour     de   l’élection       présidentielle
+
+             Hypothèse    1 : Gabriel Attal et Edouard  Philippe  candidats   du  centre
+
+             Q. Si le premier tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants y aurait-il le plus de
+             chances que vous votiez ?
+
+                                                                                        Ensemble des personnes inscrites sur les listes électorales
+                                            Ensemble des personnes inscrites sur les listes électorales
+                                                                                            certaines d’aller voter (9+10 : 728 personnes)
+                                                         (982 personnes)
+                                                                                                Expriment un vote : 680 personnes
+                                   Publié
+                                                                           Socio-Démo +                                Socio-Démo +
+                                                                Socio-Démo +                                Socio-Démo +
+                                             Brut    Socio-Démo            Présid 2022 + Brut    Socio-Démo            Présid 2022 +
+                                                                 Presid 2022                                 Presid 2022
+                                                                            Légis 2024                                  Légis 2024
+                      Nathalie Arthaud 1%    2%         2%         1%         1%         1%         1%         1%         1%
+                   Jean-Luc Mélenchon 17%    16%       16%        19%        18%        15%        15%        17%        17%
+                       Fabien Roussel 1%     3%         3%         2%         2%         2%         2%         1%         1%
+                      Marine Tondelier 3%    3%         3%         3%         3%         3%         3%         3%        3%
+                   Raphaël Glucksmann 11%    12%        11%        11%        11%       12%         11%       11%        11%
+                         Gabriel Attal 4%    5%         4%         5%         5%         4%         4%         5%        4%
+                      Edouard Philippe 11%   10%       10%        10%        10%         11%       10%        11%        11%
+
+                      Bruno Retailleau 4%    4%         4%         4%         4%         4%         3%         3%        4%
+                        David Lisnard 10%    8%         8%         9%         9%         9%         9%        10%        10%
+
+                 Nicolas Dupont-Aignan 1%    1%         2%         2%         2%         2%         2%         2%         1%
+
+                        Eric Zemmour 3%      2%         1%         3%         2%         2%         2%         3%        3%
+
+                        Marine Le Pen 34%   34%        36%        31%        33%        35%        38%        33%        34%
+
+         N’expriment pas d’intention de vote 14% 13%   14%        22%        24%         7%         7%        11%        12%
+
+                                                                                                                                  13
+
+--- page 14 ---
+
+L’intention         de   vote     au   premier        tour     de   l’élection       présidentielle
+
+             Hypothèse    2 : Gabriel Attal candidat  du  centre
+
+             Q. Si le premier tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants y aurait-il le plus de
+             chances que vous votiez ?
+
+                                                                                        Ensemble des personnes inscrites sur les listes électorales
+                                            Ensemble des personnes inscrites sur les listes électorales
+                                                                                            certaines d’aller voter (9+10 : 728 personnes)
+                                                         (982 personnes)
+                                                                                                Expriment un vote : 657 personnes
+                                   Publié
+                                                                           Socio-Démo +                                Socio-Démo +
+                                                                Socio-Démo +                                Socio-Démo +
+                                             Brut    Socio-Démo            Présid 2022 + Brut    Socio-Démo            Présid 2022 +
+                                                                 Presid 2022                                 Presid 2022
+                                                                            Légis 2024                                  Légis 2024
+                      Nathalie Arthaud 1%    2%         2%         1%         1%         2%         1%         1%         1%
+                   Jean-Luc Mélenchon 16%    15%       16%        18%        17%        14%        14%        16%        16%
+                       Fabien Roussel 1%     2%         2%         2%         2%         2%         2%         1%         1%
+                      Marine Tondelier 3%    5%         4%         4%         4%         4%         4%         4%        3%
+                  Raphaël Glucksmann 13%     14%        12%       12%        12%        14%        13%        12%        13%
+                         Gabriel Attal 10%   9%         9%         9%         9%         9%         9%         9%        10%
+                      Bruno Retailleau 6%    5%         5%         5%         6%         5%         5%        6%         6%
+
+                        David Lisnard 12%    10%       10%        12%        12%         11%        11%       13%        12%
+                 Nicolas Dupont-Aignan 1%    2%         2%         3%         2%         2%         2%         2%         1%
+
+                        Éric Zemmour 3%      1%         1%         2%         1%         1%         1%         3%        3%
+
+                        Marine Le Pen 34%   35%        37%        32%        34%        36%        38%        33%        34%
+
+         N’expriment pas d’intention de vote 17% 16%   17%        25%        26%        10%        10%        13%        14%
+
+                                                                                                                                  14
+
+--- page 15 ---
+
+L’intention         de   vote     au   premier        tour     de   l’élection       présidentielle
+
+             Hypothèse    3 : Édouard  Philippe  candidat  du  centre
+
+             Q. Si le premier tour de l’élection présidentielle avait lieu dimanche prochain, pour lequel des candidats suivants y aurait-il le plus de
+             chances que vous votiez ?
+
+                                                                                        Ensemble des personnes inscrites sur les listes électorales
+                                            Ensemble des personnes inscrites sur les listes électorales
+                                                                                            certaines d’aller voter (9+10 : 728 personnes)
+                                                         (982 personnes)
+                                                                                                Expriment un vote : 650 personnes
+                                   Publié
+                                                                           Socio-Démo +                                Socio-Démo +
+                                                                Socio-Démo +                                Socio-Démo +
+                                             Brut    Socio-Démo            Présid 2022 + Brut    Socio-Démo            Présid 2022 +
+                                                                 Presid 2022                                 Presid 2022
+                                                                            Légis 2024                                  Légis 2024
+                      Nathalie Arthaud 1%    2%         2%         1%         1%         1%         2%         1%         1%
+                   Jean-Luc Mélenchon 16%    16%       16%        17%        17%        15%        14%        16%        16%
+                       Fabien Roussel 2%     2%         2%         2%         2%         2%         2%         2%         2%
+                      Marine Tondelier 3%    4%         4%         4%         5%         4%         4%         4%        3%
+                  Raphaël Glucksmann 12%     14%       13%        13%        12%        13%        12%        11%        12%
+                      Edouard Philippe 12%   12%        12%       12%        12%        12%         11%       12%        12%
+                      Bruno Retailleau 4%    4%         4%         4%         4%         4%         3%         4%        4%
+
+                        David Lisnard 11%    9%         8%        10%        10%         9%         9%        10%        11%
+                 Nicolas Dupont-Aignan 2%    2%         2%         3%         2%         2%         2%         2%         2%
+
+                        Éric Zemmour 3%      1%         1%         2%         2%         2%         2%         3%        3%
+
+                        Marine Le Pen 34%   34%        36%        32%        33%        36%        39%        35%        34%
+
+         N’expriment pas d’intention de vote 17% 17%   17%        25%        26%        11%        11%        15%        16%
+
+                                                                                                                                  15
+
+--- page 16 ---
+
+Les    résultats
+
+                                                                          Ensemble des personnes inscrites sur les listes électorales
+                                                                                       (982 personnes)
+
+              Q. Diriez-vous qu'aujourd'hui... ?                                 Brut                Publié
+
+               ...vous vous intéressez déjà à la présidentielle et suivez attentivement
+                                                                                 65%                 57%
+                                    la campagne et ce que disent les candidats
+
+                 ...vous ne vous intéressez pas encore à la campagne présidentielle 34%              41%
+
+                                                                     NSP         2%                   1%
+
+                                                                                                                                  16
+
+--- page 17 ---
+
+Les    résultats
+
+                                                                         Ensemble des personnes inscrites sur les listes électorales
+                                                                                      (982 personnes)
+
+             Face aux mouvements sociaux qui se déroulent depuis plusieurs semaines,
+             quels sont les candidats à l'élection présidentielle qui vous semblent avoir
+                                                                                Brut               Publié
+             une attitude à la hauteur de la situation ?
+             Plusieurs réponses possibles – Total supérieur à 100%
+                                                            Marine Le Pen       30%                25%
+                                                      Jean-Luc Mélenchon        15%                 15%
+
+                                                            David Lisnard       11%                 10%
+                                                     Raphaël Glucksmann         9%                  7%
+
+                                                          Bruno Retailleau      9%                  8%
+                                                         Edouard Philippe       9%                  7%
+
+                                                             Gabriel Attal      6%                  5%
+                                                            Éric Zemmour        5%                  5%
+
+                                                         Marine Tondelier       4%                  3%
+                                                    Nicolas Dupont-Aignan       3%                  3%
+
+                                                           Fabien Roussel       3%                  2%
+                                                         Nathalie Arthaud       2%                  1%
+
+                                                   Aucun de ces candidats       28%                38%
+
+                                                                                                                                  17
+
+--- page 18 ---
+
+Les    résultats
+
+                                                                         Ensemble des personnes inscrites sur les listes électorales
+                                                                                      (982 personnes)
+
+             Souhaitez-vous que chacune des personnalités suivantes présente sa
+             candidature à l'élection présidentielle de 2027 ?                  Brut               Publié
+             % Oui
+
+                                                        Christine Lagarde       25%                22%
+                                                           François Ruffin      16%                 14%
+
+                                                          Xavier Bertrand       16%                 14%
+                                                        François Hollande       15%                 12%
+
+                                                       Bernard Cazeneuve        14%                 12%
+                                                     Dominique de Villepin      14%                 12%
+
+                                                          François Baroin       12%                 10%
+                                                           Bruno Le Maire       11%                 10%
+
+                                                           Michel Barnier       10%                 10%
+                                                             Jean Castex        8%                  8%
+
+                                                          Mathieu Pigasse       6%                  5%
+
+                                                                                                                                  18
+
+--- page 19 ---
+
+PARIS  BORDEAUX  VARSOVIE  CASABLANCA  ABIDJAN
+
+   Fondé en 2000 sur cette idée Enable today, shape tomorrow
+                                                                      Restons         connectés          !
+   radicalement innovante pour
+                          C’est la mission qui anime les
+   l’époque, OpinionWay a été
+                          collaborateurs d’OpinionWay et
+   précurseur  dans     le
+                          qui fonde la relation qu’ils tissent
+   renouvellement des pratiques de
+                          avec leurs clients.                         Une image Une image Une image Une image
+   la  profession des études
+                                                                      contenant contenant contenant contenant
+   marketing et d’opinion. Le plaisir ressenti à apporter les         clipart, ligne, logo, symbole,
+                          réponses  aux   questions                   cercle, symbole, Graphique, logo
+   Forte d’une croissance continue qu’ils se posent, à réduire        symbole, blanc, symbole,
+   depuis sa création, l’entreprise n’a
+                          l’incertitude sur les décisions
+   eu de cesse de s’ouvrir vers de
+                          à prendre, à tracker les insights           Recevez chaque   semaine  nos derniers résultats
+   nouveaux horizons pour mieux
+                          pertinents et à co-construire les
+   adresser   toutes   les                                            d’études dans votre boite mail en vous abonnant
+                          solutions d’avenir, nourrit tous les
+   problématiques marketing et
+                          projets sur  lesquels ils                   à notre newsletter !
+   sociétales, en intégrant à ses
+                          interviennent.
+   méthodologies le Social Média
+   Intelligence, l’exploitation de la Cet enthousiasme associé à un
+                                                                          Je m’abonne
+   smart data, les dynamiques véritable goût pour l’innovation et
+   créatives de co-construction, les la transmission expliquent que nos
+   approches communautaires et le clients expriment une haute
+   storytelling.          satisfaction après chaque
+   Aujourd’hui OpinionWay poursuit collaboration - 8,9/10, et un fort Vos contacts OpinionWay
+                          taux de recommandation – 3,88/4.
+   sa dynamique de croissance en
+   s’implantant géographiquement Le plaisir, l’engagement et la                                 Frédéric Micheau
+                                                                      Bruno Jeanbart
+   sur des zones à fort potentiel que stimulation intellectuelle sont les
+                                                                                                Directeur général adjoint
+   sont l’Europe de l’Est et l’Afrique. trois mantras de nos interventions. Vice-président
+                                                                                                Directeur du Pôle opinion
+                                                                      Tel: 01 81 81 83 00
+                                                                                                Tel: 01 81 81 83 00
+                                                                      bjeanbart@opinion-way.com
+                                                                                                fmicheau@opinion-way.com
