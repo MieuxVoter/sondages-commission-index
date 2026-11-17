@@ -1,0 +1,3699 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10378-pres-radiographie-antisemitisme-ifop-16-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Radiographie     de  l’antisémitisme      - Volet
+
+        Grand   public
+
+        Notice   technique
+
+                                                             FD / MT / LM N° 122485
+                                                                CONTACTS IFOP :
+                                               Frédéric Dabi / Mathilde Tchounikine / Léo Major
+                                                              Département Opinion
+                                                            et Stratégies d'Entreprise
+                                                             prénom.nom@ifop.com
+                                                                NOVEMBRE 2026
+
+--- page 2 ---
+
+1
+
+                                                  La  méthodologie
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol              1
+
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 3 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Etude réalisée par Ifop pour AJC Paris, en partenariat avec la
+
+         Fondapol
+
+         Echantillon
+
+                            L’enquête a été menée auprès d’un échantillon de 2 000 personnes
+                            représentatif de la population française âgée de 18 ans et plus.
+
+                            La représentativité de l’échantillon a été assurée par la méthode des
+         Méthodologie
+                            quotas au regard de critères :
+
+                            - sociodémographiques (sexe, âge de l’individu) ;
+
+                            - socioprofessionnels (profession de l’individu) ;
+
+                            - géographiques (région, taille d’unité urbaine).
+
+            Mode de recueil
+
+                            Les interviews ont été réalisées par questionnaire auto-administré
+                            en ligne du 17 au 24 septembre 2026.
+
+        L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2022) et d’un redressement
+        politique sur la base de la reconstitution des votes suivants : présidentielle 2022 1er tour.
+        La présente notice est consultable sur le site de la commission des sondages.
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             2
+
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 4 ---
+
+Précision  relative  aux marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+        comme le montre le tableau ci-dessous :
+
+                    INTERVALLE DE CONFIANCE   A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 2 000 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 1,3. Le vrai pourcentage est donc compris entre 8,7% et 11,3%.
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             3
+
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 5 ---
+
+Structure  de l’échantillon
+
+                                                 Brut   Redressé
+                                                  %        %
+        SEXE
+           Un homme                              47,8     47,7
+           Une femme                             52,3     52,3
+
+        AGE
+           De18a24ans                            11,8     10,3
+           De25a34ans                            12,5     14,8
+           De35a49ans                            23,0     24,0
+           De50a64ans                            24,1     24,4
+           De65a74ans                            15,0     14,0
+           A75ansetplus                          13,7     12,5
+
+        REGION
+           GrandEst                               9,4     8,5
+           NouvelleAquitaine                      8,7     9,5
+           AuvergneRhoneAlpes1                   12,3     12,3
+           BourgogneFrancheComte1                 3,5     4,3
+           Bretagne2                              5,1     5,2
+
+           CentreValDeLoire1                      3,9     3,9
+           IleDeFrance2                          19,4     18,4
+           Occitanie                              8,7     9,4
+           HautsdeFrance                         10,5     8,9
+           Normandie1                             4,2     5,1
+           PaysDeLaLoire2                         6,6     5,8
+           PACACorse                              7,8     8,5
+
+        AGGLO
+           Commune rurale                        24,0     21,1
+           Unité urbaine de 2 000 à 19 999 hab.  19,0     18,2
+           Unité urbaine de 20 000 à 99 999 hab. 13,8     13,9
+           Unité urbaine de 100 000 à 199 999 hab. 30,5   30,6
+           Agglomération parisienne              12,8     16,3
+
+        PROFESSION
+           Agriculteurs1                          0,7     0,7
+           Artisans1                              3,1     3,8
+           Cadres1                               10,3     11,2
+           Intermediaires1                       14,9     15,0
+           Employes1                             16,0     15,8
+           Ouvriers1                             14,1     12,1
+
+           Inactifs                              41,2     41,3
+        DIPLOME
+           ENCOURSDETUDES                        10,9     6,8
+           Total SANSDIPLOME, CEP, BEPC           7,3     23,0
+           CAPBEP                                16,3     22,3
+           BACBP                                 22,2     16,5
+
+           Total SUPCOURT, SUPLONG               43,5     31,4
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             4
+
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 6 ---
+
+PRESIDENTIELLE 2022 1er tour (Ne se prononce pas =
+        25,4%)
+           Nathalie Arthaud                       1,8     0,6
+           Philippe Poutou                        2,4     0,8
+           Fabien Roussel                         4,4     2,3
+           Jean-Luc Mélenchon                    12,0     21,5
+           Anne Hidalgo                           3,0     1,7
+           Yannick Jadot                          6,3     4,6
+
+           Emmanuel Macron                       25,7     27,8
+           Valérie Pécresse                       6,1     4,8
+           Nicolas Dupont-Aignan                  3,3     2,1
+           Marine Le Pen                         27,4     23,5
+           Éric Zemmour                           4,4     7,1
+           Jean Lassalle                          3,2     3,2
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             5
+
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 7 ---
+
+Le niveau  d’optimisme    concernant    l’avenir
+
+        Question : D’une manière générale, concernant l’avenir diriez-vous que vous
+                   êtes... ?
+
+                                              Brut     Redressé
+                   Très optimiste              4,7       5,3
+                   Plutôt optimiste           20,5       20,9
+
+                   Plutôt pessimiste          53,0       50,8
+                   Très pessimiste            21,9       23,0
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             6
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 8 ---
+
+Le sentiment   d'insécurité  selon  les lieux - Base ensemble
+
+        Question : Vous arrive-t-il personnellement de vous sentir en insécurité… ?
+
+                                              Brut     Redressé
+
+                   Dans les transports en commun
+                   Souvent                    14,1       13,1
+                   De temps en temps          25,8       25,7
+                   Rarement                   23,3       21,8
+                   Jamais                     12,6       14,3
+                   Non concerné(e)            24,3       25,0
+                   Sur les réseaux sociaux
+                   Souvent                    10,6       10,4
+                   De temps en temps          21,4       20,2
+                   Rarement                   25,5       24,3
+                   Jamais                     25,2       27,2
+                   Non concerné(e)            17,4       17,8
+                   Dans votre quartier
+                   Souvent                     8,4       9,5
+                   De temps en temps          18,4       18,3
+                   Rarement                   35,0       33,7
+                   Jamais                     36,3       35,9
+                   Non concerné(e)             1,9       2,6
+                   Dans les taxis ou VTC (Uber)
+                   Souvent                     6,2       6,3
+                   De temps en temps          10,8       10,5
+                   Rarement                   16,3       15,5
+                   Jamais                     19,1       19,5
+                   Non concerné(e)            47,7       48,1
+                   À votre domicile
+                   Souvent                     8,0       8,2
+                   De temps en temps          14,5       14,4
+                   Rarement                   31,6       29,4
+                   Jamais                     44,8       46,5
+                   Non concerné(e)             1,2       1,4
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             7
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 9 ---
+
+Le groupe   ethnique   ou  religieux perçu  comme    étant  le
+
+                   plus victime  d'actes  violents  en France
+
+        Question : Selon vous quel est le groupe ethnique ou religieux qui est le plus
+                   largement victime d’actes violents en France ?
+
+                                              Brut     Redressé
+                   Les Juifs                  44,4       41,8
+                   Les Musulmans              21,9       24,9
+                   Les Noirs                   9,1       9,1
+
+                   Les Roms                    3,5       3,9
+                   Les Catholiques            21,3       20,4
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             8
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 10 ---
+
+La sympathie    à l'égard de  différents groupes   de
+
+                                   personnes
+
+        Question : Pour chacune de ces catégories ou groupes de personnes, dites-moi si
+                   vous éprouvez à son égard plutôt de la sympathie, plutôt de
+                   l’antipathie ou ni sympathie, ni antipathie ?
+
+                                              Brut     Redressé
+                   Les Asiatiques
+                   Plutôt de la sympathie     47,9       47,8
+                   Plutôt de l’antipathie      4,7       4,6
+                   Ni sympathie, ni antipathie 47,5      47,6
+                   Les homosexuels
+                   Plutôt de la sympathie     43,6       44,2
+                   Plutôt de l’antipathie      7,0       6,5
+                   Ni sympathie, ni antipathie 49,5      49,3
+                   Les Protestants
+                   Plutôt de la sympathie     38,3       37,5
+                   Plutôt de l’antipathie      5,6       6,3
+                   Ni sympathie, ni antipathie 56,2      56,2
+                   Les Juifs
+                   Plutôt de la sympathie     38,9       37,4
+                   Plutôt de l’antipathie      7,1       7,9
+                   Ni sympathie, ni antipathie 54,1      54,8
+                   Les Noirs
+                   Plutôt de la sympathie     34,6       34,6
+                   Plutôt de l’antipathie     12,2       13,4
+                   Ni sympathie, ni antipathie 53,3      52,0
+                   Les étrangers en général
+                   Plutôt de la sympathie     31,3       30,8
+                   Plutôt de l’antipathie     12,9       12,9
+                   Ni sympathie, ni antipathie 55,9      56,3
+
+                   Les Musulmans
+                   Plutôt de la sympathie     23,7       24,0
+                   Plutôt de l’antipathie     27,4       26,7
+                   Ni sympathie, ni antipathie 49,0      49,4
+                   Les Maghrébins
+                   Plutôt de la sympathie     23,3       23,0
+                   Plutôt de l’antipathie     27,1       27,0
+                   Ni sympathie, ni antipathie 49,6      50,0
+                   Les Roms
+                   Plutôt de la sympathie     13,3       13,2
+                   Plutôt de l’antipathie     38,2       37,8
+                   Ni sympathie, ni antipathie 48,6      49,0
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             9
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 11 ---
+
+L’estimation   du nombre    de  personnes   juives vivant  en
+
+                                     France
+
+        Question : D’après vous, quel est le nombre approximatif de Juifs en France ?
+
+                                              Brut     Redressé
+                   100 000                     7,7       8,2
+                   500 000                    28,4       28,5
+                   1 million                  33,3       34,1
+
+                   2 millions                 23,9       22,4
+                   Plus de 10 millions         6,8       6,8
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             10
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 12 ---
+
+La perception   de l'antisémitisme   en  France
+
+        Question : Selon vous, l’antisémitisme est-il aujourd’hui en France, un
+                   phénomène… ?
+
+                                                  Brut     Redressé
+
+               En augmentation par rapport à il y a une dizaine
+               d’années
+               Oui, tout à fait                   36,2       38,1
+               Oui, plutôt                        43,7       40,6
+               Non, plutôt pas                    16,0       16,3
+               Non, pas du tout                    4,2       5,1
+               En augmentation depuis le 7 octobre 2023
+               Oui, tout à fait                   34,3       34,6
+               Oui, plutôt                        42,0       42,1
+               Non, plutôt pas                    19,1       18,1
+               Non, pas du tout                    4,7       5,1
+               Répandu
+               Oui, tout à fait                   28,1       29,0
+               Oui, plutôt                        48,8       47,0
+               Non, plutôt pas                    19,2       19,4
+               Non, pas du tout                    4,0       4,6
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             11
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 13 ---
+
+La perception   de  l'antisémitisme   en  Europe
+
+        Question : Selon vous, l’antisémitisme est-il aujourd’hui en Europe, un
+                   phénomène… ?
+
+                                                  Brut     Redressé
+
+               En augmentation par rapport à il y a une dizaine
+               d’années
+               Oui, tout à fait                   34,0       35,5
+               Oui, plutôt                        45,6       43,5
+               Non, plutôt pas                    16,2       15,7
+               Non, pas du tout                    4,3       5,3
+               En augmentation depuis le 7 octobre 2023
+               Oui, tout à fait                   33,4       34,6
+               Oui, plutôt                        44,8       43,6
+               Non, plutôt pas                    17,3       16,5
+               Non, pas du tout                    4,6       5,3
+               Répandu
+               Oui, tout à fait                   28,5       29,9
+               Oui, plutôt                        49,7       48,0
+               Non, plutôt pas                    17,7       17,3
+               Non, pas du tout                    4,2       4,8
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             12
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 14 ---
+
+Le regard  sur le traitement   judiciaire des  actes
+
+                                  antisémites
+
+        Question : Concernant le traitement des actes antisémites par la justice, diriez-
+                   vous que… ?
+
+                                                  Brut     Redressé
+               La justice ne condamne pas assez sévèrement
+               les auteurs des actes antisémites
+               Oui, tout à fait                   36,9       37,8
+
+               Oui, plutôt                        38,9       37,4
+               Non, plutôt pas                    18,1       18,2
+               Non, pas du tout                    6,2       6,6
+               La justice peine à identifier le caractère
+               antisémite des actes commis
+               Oui, tout à fait                   25,1       25,4
+               Oui, plutôt                        46,8       44,5
+               Non, plutôt pas                    21,9       23,0
+               Non, pas du tout                    6,3       7,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             13
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 15 ---
+
+La  place accordée   au  problème    de l'antisémitisme
+
+        Question : Selon vous, est-ce que l’on parle trop, suffisamment ou pas assez du
+                   problème de l’antisémitisme en France ?
+
+                                              Brut     Redressé
+
+                   Trop                       16,4       18,3
+                   Suffisamment               50,1       49,0
+                   Pas assez                  33,6       32,6
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             14
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 16 ---
+
+La  perception   de l'antisémitisme   comme     un problème    de
+
+                                     société
+
+        Question : De ces deux opinions, de laquelle vous sentez-vous le plus proche ?
+
+                                                  Brut     Redressé
+               L’antisémitisme est uniquement le problème des
+               Juifs et ne concerne pas la société dans son 10,4 11,3
+               ensemble
+
+               L’antisémitisme est un problème qui concerne la
+                                                  74,9       71,3
+               société dans son ensemble
+               Vous ne savez pas                  14,7       17,4
+               Total                              100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             15
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 17 ---
+
+L'inquiétude   à l'égard  de la situation des  Français  de
+
+                          confession   ou culture  juive
+
+        Question : Aujourd’hui, les Français de confession ou de culture juive se sentent
+                   inquiets et s’interrogent sur leur avenir en France. Personnellement,
+                   vous diriez que cela vous inquiète… ?
+
+                                              Brut     Redressé
+                   Oui, tout à fait           17,0       16,0
+                   Oui, plutôt                45,9       46,3
+                   Non, plutôt pas            28,0       26,9
+                   Non, pas du tout            9,3       10,8
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             16
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 18 ---
+
+La disposition  à manifester   contre  l'antisémitisme
+
+        Question : Vous personnellement, seriez-vous prêt à descendre dans la rue pour
+                   manifester contre l’antisémitisme ?
+
+                                              Brut     Redressé
+
+                   Oui, certainement           9,0       9,0
+                   Oui, probablement          23,3       22,0
+                   Non, probablement pas      27,9       28,2
+                   Non, certainement pas      20,2       21,6
+                   Vous ne savez pas          19,7       19,2
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             17
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 19 ---
+
+Les  candidats  à l'élection présidentielle   contribuant   à la
+
+                          montée   de  l'antisémitisme
+
+        Question : Selon vous, chacun des candidats certains ou potentiels à l’élection
+                   présidentielle suivant contribue-t-il à la montée de l’antisémitisme en
+                   France ?
+
+                                              Brut     Redressé
+                   Jean-Luc Mélenchon
+                   Oui, tout à fait           38,0       35,1
+                   Oui, plutôt                22,2       23,3
+                   Non, plutôt pas            19,5       19,2
+                   Non, pas du tout           20,4       22,4
+                   Éric Zemmour
+                   Oui, tout à fait           27,5       28,4
+                   Oui, plutôt                23,3       24,2
+                   Non, plutôt pas            22,7       21,2
+                   Non, pas du tout           26,6       26,1
+                   Marine Le Pen
+                   Oui, tout à fait           22,8       23,7
+                   Oui, plutôt                23,0       23,7
+                   Non, plutôt pas            28,1       26,7
+                   Non, pas du tout           26,3       25,8
+                   Marine Tondelier
+                   Oui, tout à fait           10,6       11,0
+                   Oui, plutôt                19,1       19,2
+                   Non, plutôt pas            41,9       40,5
+                   Non, pas du tout           28,5       29,2
+                   Bruno Retailleau
+                   Oui, tout à fait            7,8       8,7
+                   Oui, plutôt                18,2       18,3
+                   Non, plutôt pas            45,6       44,2
+
+                   Non, pas du tout           28,5       28,8
+                   François Ruffin
+                   Oui, tout à fait            7,2       7,7
+                   Oui, plutôt                15,6       16,7
+                   Non, plutôt pas            47,9       44,8
+                   Non, pas du tout           29,4       30,8
+                   Fabien Roussel
+                   Oui, tout à fait            7,1       7,7
+                   Oui, plutôt                16,3       16,2
+                   Non, plutôt pas            47,1       46,3
+                   Non, pas du tout           29,6       29,8
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             18
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 20 ---
+
+Brut     Redressé
+                   Olivier Faure
+                   Oui, tout à fait            6,6       7,4
+                   Oui, plutôt                15,7       16,1
+                   Non, plutôt pas            48,6       47,1
+                   Non, pas du tout           29,2       29,4
+                   Gabriel Attal
+                   Oui, tout à fait            5,9       6,4
+                   Oui, plutôt                14,8       15,2
+                   Non, plutôt pas            46,0       45,0
+                   Non, pas du tout           33,4       33,4
+                   Raphaël Glucksmann
+                   Oui, tout à fait            6,2       7,6
+                   Oui, plutôt                14,0       13,9
+                   Non, plutôt pas            46,0       45,2
+                   Non, pas du tout           33,8       33,3
+                   Dominique de Villepin
+                   Oui, tout à fait            5,9       6,5
+                   Oui, plutôt                14,4       14,1
+                   Non, plutôt pas            49,4       46,6
+                   Non, pas du tout           30,4       32,9
+                   Sébastien Lecornu
+                   Oui, tout à fait            4,4       5,0
+                   Oui, plutôt                14,7       14,8
+                   Non, plutôt pas            47,2       46,5
+                   Non, pas du tout           33,8       33,7
+                   Édouard Philippe
+                   Oui, tout à fait            5,5       5,7
+                   Oui, plutôt                13,7       14,1
+                   Non, plutôt pas            48,5       46,5
+
+                   Non, pas du tout           32,4       33,7
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             19
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 21 ---
+
+Les  candidats  à l'élection  présidentielle  faisant rempart   à
+
+                                l'antisémitisme
+
+        Question : Selon vous, chacun des candidats certains ou potentiels à l’élection
+                   présidentielle suivant représente-t-il un rempart face à la montée de
+                   l’antisémitisme en France ?
+
+                                              Brut     Redressé
+                   Gabriel Attal
+                   Oui, tout à fait            8,1       8,0
+                   Oui, plutôt                27,4       28,0
+                   Non, plutôt pas            36,3       35,5
+                   Non, pas du tout           28,3       28,6
+                   Édouard Philippe
+                   Oui, tout à fait            6,8       7,2
+                   Oui, plutôt                28,6       28,0
+                   Non, plutôt pas            36,7       36,4
+                   Non, pas du tout           28,1       28,4
+                   Bruno Retailleau
+                   Oui, tout à fait            7,3       6,3
+                   Oui, plutôt                25,3       27,8
+                   Non, plutôt pas            38,5       37,1
+                   Non, pas du tout           29,1       28,9
+                   Sébastien Lecornu
+                   Oui, tout à fait            7,2       6,7
+                   Oui, plutôt                24,9       26,0
+                   Non, plutôt pas            39,3       38,9
+                   Non, pas du tout           28,7       28,4
+                   Raphaël Glucksmann
+                   Oui, tout à fait            8,9       8,4
+                   Oui, plutôt                24,2       24,1
+                   Non, plutôt pas            37,9       38,4
+
+                   Non, pas du tout           29,1       29,2
+                   Marine Le Pen
+                   Oui, tout à fait           15,1       15,2
+                   Oui, plutôt                16,2       16,8
+                   Non, plutôt pas            30,6       29,9
+                   Non, pas du tout           38,2       38,2
+                   Dominique de Villepin
+                   Oui, tout à fait            5,5       6,6
+                   Oui, plutôt                25,1       25,0
+                   Non, plutôt pas            38,6       37,8
+                   Non, pas du tout           30,8       30,6
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             20
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 22 ---
+
+Brut     Redressé
+                   Olivier Faure
+                   Oui, tout à fait            4,9       4,8
+                   Oui, plutôt                22,5       23,1
+                   Non, plutôt pas            40,5       40,6
+                   Non, pas du tout           32,1       31,6
+                   Fabien Roussel
+                   Oui, tout à fait            4,6       5,0
+                   Oui, plutôt                22,7       22,7
+                   Non, plutôt pas            41,0       40,8
+                   Non, pas du tout           31,8       31,6
+                   François Ruffin
+                   Oui, tout à fait            6,0       6,3
+                   Oui, plutôt                20,2       20,8
+                   Non, plutôt pas            42,1       42,4
+                   Non, pas du tout           31,8       30,5
+                   Éric Zemmour
+                   Oui, tout à fait           11,3       12,3
+                   Oui, plutôt                14,5       14,3
+                   Non, plutôt pas            29,3       27,9
+                   Non, pas du tout           45,0       45,4
+                   Marine Tondelier
+                   Oui, tout à fait            5,2       5,4
+                   Oui, plutôt                18,5       19,5
+                   Non, plutôt pas            41,6       40,9
+                   Non, pas du tout           34,8       34,2
+                   Jean-Luc Mélenchon
+                   Oui, tout à fait            8,4       9,7
+                   Oui, plutôt                10,9       12,4
+                   Non, plutôt pas            28,0       26,7
+
+                   Non, pas du tout           52,8       51,2
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             21
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 23 ---
+
+Le départ  de  France  en  cas de victoire  de certains
+
+                                    candidats
+
+        Question : Vous personnellement, pourriez-vous quitter la France si les candidats
+                   suivants étaient élus Président de la République en 2027… ?
+
+                                              Brut     Redressé
+                   Jean-Luc Mélenchon
+                   Oui, certainement          15,6       15,1
+                   Oui, probablement          12,9       11,8
+
+                   Non, probablement pas      24,2       22,1
+                   Non, certainement pas      47,3       51,0
+                   Marine Le Pen
+                   Oui, certainement           9,4       9,9
+                   Oui, probablement          11,6       11,2
+                   Non, probablement pas      22,5       21,1
+                   Non, certainement pas      56,6       57,8
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             22
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 24 ---
+
+Les principales  causes  de  l'antisémitisme
+
+        Question : Selon vous, quelles sont les principales causes de l’antisémitisme ? En
+                   premier ? En second ?
+
+                                                  Brut     Redressé
+
+               En premier
+               Le rejet, la haine d’Israël        30,8       29,6
+               Les idées d’extrême droite         13,4       14,5
+               Les idées d’extrême gauche         10,8       11,1
+               L'islamisme                        18,9       17,1
+               Le complotisme, les théories du complot 8,8   9,6
+               Les médias                         11,9       11,9
+               La situation économique             5,5       6,3
+               En second
+               Le rejet, la haine d’Israël        19,8       19,0
+               Les idées d’extrême droite         10,8       10,6
+               Les idées d’extrême gauche         14,7       14,2
+               L'islamisme                        16,2       15,7
+               Le complotisme, les théories du complot 15,6  16,1
+               Les médias                         10,4       10,1
+               La situation économique             5,4       6,1
+               Aucune autre cause                  7,3       8,2
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             23
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 25 ---
+
+L'exposition  aux  propos  antisémites   dans  l'entourage
+
+        Question : Vous est-il déjà arrivé d’entendre dire, dans votre entourage, du mal
+                   des Juifs ?
+
+                                              Brut     Redressé
+
+                   Souvent                     3,6       3,3
+                   De temps en temps          16,2       16,7
+                   Rarement                   29,3       26,2
+                   Jamais                     51,0       53,7
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             24
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 26 ---
+
+L'observation   d'actes  antisémites
+
+        Question : Au cours de votre vie, avez-vous déjà assisté à chacun des actes et
+                   comportements suivants ?
+
+                                                  Brut     Redressé
+
+               Des blagues et discussions véhiculant des
+               préjugés ou mettant en cause les juifs
+               Oui, plusieurs fois                30,8       29,5
+               Oui, une fois                      19,3       18,1
+               Non jamais                         50,0       52,4
+               Des blagues mettant en cause l’existence de la
+               Shoah
+               Oui, plusieurs fois                10,6       10,6
+               Oui, une fois                      12,9       12,0
+               Non jamais                         76,6       77,4
+               Une agression verbale proférée à l’encontre
+               d’une personne de confession ou de culture
+               juive (insultes, moqueries désobligeantes,
+               menaces ou intimidations) en raison de son
+               identité ou de sa religion
+               Oui, plusieurs fois                 7,5       6,2
+               Oui, une fois                      11,6       10,8
+               Non jamais                         80,9       83,0
+               Une atteinte aux biens commise à l’encontre
+               d’une personne de confession ou de culture
+               juive (vol, dégradation, tag ou destruction d’un
+               bien) en raison de son identité ou de sa religion
+               Oui, plusieurs fois                 4,9       4,2
+               Oui, une fois                       8,3       7,3
+               Non jamais                         86,9       88,5
+               Une agression physique commise à l’encontre
+               d’une personne de confession ou de culture
+               juive (gifle, coup, bousculades, empoignade…)
+               en raison de son identité ou de sa religion
+               Oui, plusieurs fois                 3,9       3,1
+
+               Oui, une fois                       6,2       5,6
+               Non jamais                         89,9       91,3
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             25
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 27 ---
+
+Les lieux d’observation   d’attitudes   et agressions
+
+                                  antisémites
+
+        Question : Et plus précisément, avez-vous déjà assisté à une blague, une
+                   agression verbale, une atteinte aux biens ou une agression physique
+                   antisémite dans chacun des lieux suivants ?
+
+               Base : à ceux qui ont déjà assisté à au moins un
+                                                  Brut     Redressé
+               acte antisémite au cours de leur vie
+               Sur les réseaux sociaux
+               Oui                                54,9       56,7
+               Non                                45,1       43,3
+               Dans la rue
+               Oui                                35,6       36,6
+               Non                                64,4       63,4
+               Avec vos amis
+               Oui                                33,4       35,8
+               Non                                66,6       64,2
+               Sur votre lieu de travail ou dans votre
+               environnement professionnel (ex : bureau,
+               usine, colloque, salon…)
+               Oui                                29,3       28,7
+               Non                                70,7       71,3
+               Dans un établissement scolaire (ex : collège,
+               lycée, université…) ou lors d’activités
+               périscolaires
+               Oui                                28,8       28,7
+               Non                                71,2       71,3
+               Au sein de votre famille (par exemple, au cours
+               d’une discussion ou d’un repas)
+               Oui                                26,7       28,3
+               Non                                73,3       71,7
+               Dans un bar, un pub, un restaurant ou une
+               discothèque
+               Oui                                26,8       27,0
+               Non                                73,2       73,0
+               Dans des lieux publics (ex : parcs, squares,
+               jardins…)
+               Oui                                25,2       26,6
+               Non                                74,8       73,4
+               Dans les transports en commun (ex : bus, métro,
+               tram, train…)
+               Oui                                25,4       23,5
+               Non                                74,6       76,5
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             26
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 28 ---
+
+Base : à ceux qui ont déjà assisté à au moins un
+                                                  Brut     Redressé
+               acte antisémite au cours de leur vie
+               Dans le cadre d’activités sportives (ex : club de
+               sport,…)
+               Oui                                13,8       15,4
+               Non                                86,2       84,6
+               Dans un lieu de culte
+               Oui                                 8,1       9,8
+               Non                                91,9       90,2
+               Dans un taxi ou un Uber
+               Oui                                 8,5       8,7
+               Non                                91,5       91,3
+               Dans un autre endroit
+               Oui                                19,1       19,9
+               Non                                80,9       80,1
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             27
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 29 ---
+
+Le jugement    sur l’acceptabilité  de différents
+
+                                comportements
+
+        Question : Pour chacun des comportements suivants, diriez-vous qu’il s’agit d’un
+                   comportement acceptable, pas acceptable mais compréhensible ou
+                   jamais acceptable ?
+
+                                                  Brut     Redressé
+               Faire une blague à un Français juif en lui disant
+               qu’il est radin
+               Acceptable                         18,7       18,6
+               Pas acceptable mais compréhensible 24,2       24,3
+               Jamais acceptable                  57,1       57,2
+               Boycotter des personnalités en raison de leur
+               soutien à Israël
+               Acceptable                         14,9       15,1
+               Pas acceptable mais compréhensible 27,0       26,4
+               Jamais acceptable                  58,2       58,5
+               Boycotter des spectacles ou événements avec
+               des personnalités juives soupçonnées d’avoir
+               des positions pro-israéliennes
+               Acceptable                         12,9       13,9
+               Pas acceptable mais compréhensible 27,2       25,9
+               Jamais acceptable                  60,0       60,2
+               Appeler à la destruction de l’État d’Israël
+               Acceptable                          4,5       4,9
+               Pas acceptable mais compréhensible 14,3       14,2
+               Jamais acceptable                  81,3       80,9
+               Faire une blague sur la Shoah, les camps
+               d’extermination
+               Acceptable                          6,2       6,1
+               Pas acceptable mais compréhensible 12,3       11,2
+
+               Jamais acceptable                  81,6       82,7
+               Menacer sur les réseaux sociaux un individu en
+               raison de son soutien public à Israël
+               Acceptable                          3,1       2,9
+               Pas acceptable mais compréhensible 11,7       12,0
+               Jamais acceptable                  85,3       85,1
+               Bousculer ou avoir un comportement physique
+               agressif envers un individu en raison de son
+               soutien à Israël lors d’un rassemblement public
+               Acceptable                          3,0       3,0
+               Pas acceptable mais compréhensible 10,4       9,7
+               Jamais acceptable                  86,7       87,4
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             28
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 30 ---
+
+Brut     Redressé
+               Taguer une synagogue ou un commerce juif
+               pour manifester son opposition à Israël
+               Acceptable                          2,4       2,1
+               Pas acceptable mais compréhensible  7,2       6,7
+               Jamais acceptable                  90,4       91,2
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             29
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 31 ---
+
+La qualification  de comportement      comme    actes
+
+                                  antisémites
+
+        Question : Pour chacun de ces comportements, dites-moi comment vous
+                   personnellement vous le qualifieriez ?
+
+                                                  Brut     Redressé
+               Taguer une synagogue ou un commerce juif
+               pour manifester son opposition à Israël
+               Il s’agit d’un acte antisémite     80,0       79,2
+
+               Ce n’est pas un acte antisémite     7,2       6,0
+               Vous ne savez pas                  12,9       14,8
+               Appeler à la destruction de l’État d’Israël
+               Il s’agit d’un acte antisémite     71,1       70,1
+               Ce n’est pas un acte antisémite    12,6       11,8
+               Vous ne savez pas                  16,4       18,1
+               Bousculer ou avoir un comportement physique
+               agressif envers un individu en raison de son
+               soutien à Israël lors d’un rassemblement public
+               Il s’agit d’un acte antisémite     68,4       66,2
+               Ce n’est pas un acte antisémite    13,5       13,6
+               Vous ne savez pas                  18,1       20,1
+               Menacer sur les réseaux sociaux un individu en
+               raison de son soutien public à Israël
+               Il s’agit d’un acte antisémite     65,8       64,2
+               Ce n’est pas un acte antisémite    16,0       16,1
+               Vous ne savez pas                  18,2       19,8
+               Faire une blague sur la Shoah, les camps
+               d’extermination
+               Il s’agit d’un acte antisémite     63,5       61,5
+               Ce n’est pas un acte antisémite    18,8       17,5
+               Vous ne savez pas                  17,8       21,1
+               Boycotter des spectacles ou événements avec
+               des personnalités juives soupçonnées d’avoir
+               des positions pro-israéliennes
+               Il s’agit d’un acte antisémite     48,1       45,5
+               Ce n’est pas un acte antisémite    31,9       32,3
+               Vous ne savez pas                  20,1       22,1
+               Boycotter des personnalités en raison de leur
+               soutien à Israël
+
+               Il s’agit d’un acte antisémite     46,0       43,6
+               Ce n’est pas un acte antisémite    34,6       35,8
+               Vous ne savez pas                  19,5       20,5
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             30
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 32 ---
+
+Brut     Redressé
+               Faire une blague à un Français juif en lui disant
+               qu’il est radin
+               Il s’agit d’un acte antisémite     32,8       31,8
+               Ce n’est pas un acte antisémite    48,3       47,2
+               Vous ne savez pas                  19,0       20,9
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             31
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 33 ---
+
+L'adhésion   à différentes  affirmations  sur  Israël et le
+
+                                    sionisme
+
+        Question : Êtes-vous d’accord ou pas d’accord avec chacune des affirmations
+                   suivantes relatives à Israël et au sionisme… ?
+
+                                                  Brut     Redressé
+               Israël se comporte avec les Palestiniens comme
+               les nazis se comportaient avec les Juifs
+               Tout à fait d’accord               12,7       14,1
+
+               Plutôt d’accord                    26,2       24,8
+               Plutôt pas d’accord                15,2       13,7
+               Pas du tout d’accord               14,9       15,2
+               Vous ne savez pas                  31,1       32,1
+               Les Français juifs sont plus loyaux envers Israël
+               qu'envers la France
+               Tout à fait d’accord                6,2       6,4
+               Plutôt d’accord                    17,7       17,8
+               Plutôt pas d’accord                21,1       19,9
+               Pas du tout d’accord               13,7       12,7
+               Vous ne savez pas                  41,4       43,2
+               La Shoah a été utilisée par les Juifs pour justifier
+               la création de l’État d’Israël
+               Tout à fait d’accord                5,9       5,7
+               Plutôt d’accord                    17,0       16,3
+               Plutôt pas d’accord                14,5       12,5
+               Pas du tout d’accord               23,6       24,4
+               Vous ne savez pas                  39,1       41,1
+               La création d'Israël est le fruit d'une entreprise
+               raciste
+               Tout à fait d’accord                4,6       5,1
+               Plutôt d’accord                    10,3       11,0
+               Plutôt pas d’accord                17,2       16,3
+               Pas du tout d’accord               29,2       27,5
+               Vous ne savez pas                  38,8       40,2
+               Les Français juifs sont responsables des
+               politiques menées par Israël
+               Tout à fait d’accord                2,5       2,5
+               Plutôt d’accord                     5,8       6,0
+               Plutôt pas d’accord                19,9       18,4
+
+               Pas du tout d’accord               41,2       40,3
+               Vous ne savez pas                  30,7       32,7
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             32
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 34 ---
+
+La sympathie    à l'égard de  différents  acteurs  des conflits
+
+        Question : Vous personnellement, éprouvez de la sympathie, de l'antipathie ou
+                   ni sympathie ni antipathie pour… ?
+
+                                              Brut     Redressé
+
+                   Israël
+                   De la sympathie            17,4       18,0
+                   De l’antipathie            23,6       23,4
+                   Ni sympathie, ni antipathie 59,1      58,5
+                   Les États-Unis
+                   De la sympathie            16,6       16,9
+                   De l’antipathie            29,0       27,9
+                   Ni sympathie, ni antipathie 54,5      55,2
+                   L’autorité palestinienne
+                   De la sympathie            13,1       14,2
+                   De l’antipathie            27,3       26,5
+                   Ni sympathie, ni antipathie 59,6      59,3
+                   L’Iran
+                   De la sympathie             5,1       6,1
+                   De l’antipathie            49,3       46,6
+                   Ni sympathie, ni antipathie 45,6      47,3
+                   Le Hamas
+                   De la sympathie             3,5       4,2
+                   De l’antipathie            58,4       55,2
+                   Ni sympathie, ni antipathie 38,2      40,6
+                   Le Hezbollah
+                   De la sympathie             2,9       3,3
+                   De l’antipathie            57,6       54,5
+                   Ni sympathie, ni antipathie 39,6      42,2
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             33
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 35 ---
+
+Les sympathies    dans  la guerre
+
+        Question : Dans la guerre qui oppose les États-Unis et Israël à l’Iran, à qui vont
+                   vos sympathies ?
+
+                                              Brut     Redressé
+
+                   Les États-Unis             13,9       13,0
+                   Israël                     10,4       9,8
+                   L’Iran                      6,6       7,4
+                   À aucune des deux parties  69,3       69,7
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             34
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 36 ---
+
+La justification des  prises à partie  des Français  juifs
+
+        Question : Des Français juifs sont parfois pris à partie en raison de leur soutien
+                   réel ou supposé au gouvernement israélien. Comment qualifiez-vous
+
+                   ce comportement ?
+
+                                              Brut     Redressé
+                   Tout à fait justifié        3,7       3,6
+                   Plutôt justifié            19,9       19,6
+                   Plutôt pas justifié        38,4       38,7
+                   Pas du tout justifié       38,1       38,2
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             35
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 37 ---
+
+L'adhésion   aux  préjugés  antisémites
+
+        Question : Êtes-vous d’accord ou pas d’accord avec les affirmations suivantes ?
+
+                                                  Brut     Redressé
+
+               Les juifs sont très unis entre eux
+               Tout à fait d’accord               24,7       25,7
+               Plutôt d’accord                    44,1       41,0
+               Plutôt pas d’accord                 7,3       7,1
+               Pas du tout d’accord                4,5       5,1
+               Vous ne savez pas                  19,6       21,2
+               Les juifs sont plus riches que la moyenne des
+               Français
+               Tout à fait d’accord                7,0       8,6
+               Plutôt d’accord                    21,4       20,3
+               Plutôt pas d’accord                19,0       17,7
+               Pas du tout d’accord               18,4       17,6
+               Vous ne savez pas                  34,3       35,7
+               Les juifs utilisent aujourd’hui dans leur propre
+               intérêt leur statut de victimes du génocide nazi
+               pendant la Seconde Guerre mondiale
+               Tout à fait d’accord                7,3       8,1
+               Plutôt d’accord                    19,0       18,1
+               Plutôt pas d’accord                22,4       20,2
+               Pas du tout d’accord               24,7       23,8
+               Vous ne savez pas                  26,7       29,8
+               Les juifs ont trop de pouvoir dans le domaine
+               des médias
+               Tout à fait d’accord                6,3       7,0
+               Plutôt d’accord                    16,2       16,6
+               Plutôt pas d’accord                23,0       21,1
+               Pas du tout d’accord               24,0       22,9
+               Vous ne savez pas                  30,6       32,4
+               Les juifs ont trop de pouvoir dans le domaine de
+               l’économie et de la finance
+
+               Tout à fait d’accord                6,7       7,7
+               Plutôt d’accord                    16,3       15,9
+               Plutôt pas d’accord                23,2       22,0
+               Pas du tout d’accord               23,1       21,0
+               Vous ne savez pas                  30,8       33,3
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             36
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 38 ---
+
+Brut     Redressé
+               Les juifs ont trop de pouvoir dans le domaine de
+               la politique
+               Tout à fait d’accord                6,0       6,8
+               Plutôt d’accord                    13,0       13,0
+               Plutôt pas d’accord                25,4       24,2
+               Pas du tout d’accord               24,6       22,7
+               Vous ne savez pas                  31,1       33,4
+               Les juifs sont responsables de nombreuses crises
+               économiques
+               Tout à fait d’accord                3,2       3,5
+               Plutôt d’accord                     7,8       7,7
+               Plutôt pas d’accord                23,3       22,5
+               Pas du tout d’accord               35,7       34,2
+               Vous ne savez pas                  30,1       32,1
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             37
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 39 ---
+
+Les moyens    jugés  efficaces pour  lutter contre
+
+                                l'antisémitisme
+
+        Question : Parmi les réponses suivantes pour lutter contre l’antisémitisme,
+                   laquelle vous paraît la plus efficace ? En premier ? En second ?
+
+                                                  Brut     Redressé
+               En premier
+               L’éducation à la Shoah             12,4       12,3
+               Des peines plus sévères pour les auteurs d’actes
+                                                  42,7       41,3
+               antisémites
+               La lutte contre l’islamisme        19,2       17,9
+               La lutte contre le complotisme     13,9       15,1
+               La lutte contre les ingérences étrangères (Russie,
+                                                  11,9       13,3
+               Iran, Qatar)
+               En second
+               L’éducation à la Shoah             16,7       15,5
+               Des peines plus sévères pour les auteurs d’actes
+                                                  22,5       22,9
+               antisémites
+               La lutte contre l’islamisme        20,7       19,7
+               La lutte contre le complotisme     19,6       20,2
+               La lutte contre les ingérences étrangères (Russie,
+                                                  20,7       21,7
+               Iran, Qatar)
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             38
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 40 ---
+
+L'effet perçu  de la médiatisation   du  conflit sur
+
+                                l'antisémitisme
+
+        Question : Selon vous, la très forte médiatisation du conflit au Moyen-Orient
+                   contribue-t-elle à une augmentation de l’antisémitisme en France ?
+
+                                              Brut     Redressé
+                   Oui, tout à fait           24,6       25,5
+                   Oui, plutôt                52,7       50,5
+                   Non, plutôt pas            17,5       17,2
+
+                   Non, pas du tout            5,3       6,9
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             39
+        Radiographie de l’antisémitisme - Volet Grand public (vague 4)  Octobre 2026
+
+--- page 41 ---
+
+Radiographie     de  l’antisémitisme      -
+
+        Volet  Musulmans       (vague   4)
+
+        Notice   technique
+
+                                                             FD / MT / LM N° 122485
+                                                                CONTACTS IFOP :
+                                                     Frédéric Dabi / Mathilde Tchounikine /
+                                                                     Léo Major
+                                                              Département Opinion
+                                                            et Stratégies d'Entreprise
+                                                             prénom.nom@ifop.com
+                                                                NOVEMBRE 2026
+
+--- page 42 ---
+
+1
+
+                                                  La  méthodologie
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol              1
+
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 43 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Etude réalisée par Ifop pour AJC Paris, en partenariat avec la
+
+         Fondapol
+
+         Echantillon
+                            L’enquête a été menée auprès d’un échantillon de 500 personnes,
+                            représentatif de la population de confession musulmane âgée de 18
+
+                            ans et plus.
+
+         Méthodologie
+
+                            La représentativité de l’échantillon a été assurée par la méthode des
+                            quotas (sexe, âge, profession de la personne interrogée et
+                            nationalité) après stratification par région.
+
+            Mode de recueil
+                            Les interviews ont été réalisées par questionnaire auto-administré
+
+                            en ligne du 17 au 28 septembre 2026.
+
+        L’enquête a fait l’objet d’un redressement sociodémographique (données Ifop-Montaigne 20161) sur les
+        critères suivants : sexe, âge, profession de la personne interrogée, nationalité et région.
+        La présente notice est consultable sur le site de la commission des sondages.
+
+        1 L’enquête a ainsi été réalisée par téléphone du 13 avril au 23 mai 2016 auprès de 1 029 personnes de religion ou
+        d’origine musulmane, extrait d’un échantillon national représentatif de 15 459 personnes âgées de 15 ans et plus
+        résidant en métropole.
+        Les personnes de religion ou d’origine musulmane se répartissent de la façon suivante :
+          •  874 personnes de religion musulmane (soit 5,7% de l’échantillon global)
+          •  155 non musulmans ayant au moins un parent de religion musulmane (soit 1% de l’échantillon global)
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             2
+
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 44 ---
+
+Précision  relative  aux marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+        comme le montre le tableau ci-dessous :
+
+                    INTERVALLE DE CONFIANCE   A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 500 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 2,7. Le vrai pourcentage est donc compris entre 7,3% et 12,7%.
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             3
+
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 45 ---
+
+Structure  de l’échantillon
+
+                                                 Brut   Redressé
+                                                  %        %
+        SEXE
+           Un homme                              30,0     50,8
+           Une femme                             70,0     49,2
+
+        AGE
+           18 à 24 ans                            7,4     17,5
+           25 à 34 ans                           17,6     29,8
+           35 à 49 ans                           52,6     38,1
+           50 ans et plus                        22,4     14,5
+        REGION
+           Île-de-France                         42,6     38,6
+
+           Province                              57,4     61,4
+        PROFESSION
+           Total Agriculteurs, Artisans           2,8     4,6
+           Cadres                                15,0     4,5
+           Intermédiaires                        14,6     9,8
+           Employés                              32,0     22,4
+
+           Ouvriers                              11,2     24,7
+           Retraités                              4,8     3,3
+           Autres                                19,6     30,7
+        NATIONALITE
+           Français de naissance                 67,6     46,9
+           Français par naturalisation           20,8     24,3
+           Étrangère                             11,6     28,8
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             4
+
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 46 ---
+
+Le niveau  d’optimisme    concernant    l’avenir
+
+        Question : D’une manière générale, concernant l’avenir diriez-vous que vous
+                   êtes… ?
+
+                                              Brut     Redressé
+                   Très optimiste              9,0       13,4
+                   Plutôt optimiste           28,8       34,9
+
+                   Plutôt pessimiste          39,2       31,4
+                   Très pessimiste            23,0       20,3
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             5
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 47 ---
+
+Le sentiment   d'insécurité  selon  les lieux - Base ensemble
+
+        Question : Vous arrive-t-il personnellement de vous sentir en insécurité… ?
+
+                                              Brut     Redressé
+
+                   Dans les transports en commun
+                   Souvent                    16,0       16,2
+                   De temps en temps          29,0       25,7
+                   Rarement                   30,6       35,0
+                   Jamais                     16,4       15,7
+                   Non concerné(e)             8,0       7,4
+                   Dans votre quartier
+                   Souvent                    11,2       12,2
+                   De temps en temps          17,6       17,0
+                   Rarement                   30,2       34,3
+                   Jamais                     37,4       31,5
+                   Non concerné(e)             3,6       5,0
+                   Sur les réseaux sociaux
+                   Souvent                    16,2       16,8
+                   De temps en temps          17,2       16,7
+                   Rarement                   24,0       24,4
+                   Jamais                     32,8       32,2
+                   Non concerné(e)             9,8       9,9
+                   Dans les taxis ou VTC (Uber)
+                   Souvent                     8,2       7,2
+                   De temps en temps          13,6       12,4
+                   Rarement                   21,6       28,8
+                   Jamais                     30,6       29,1
+                   Non concerné(e)            26,0       22,5
+                   A votre domicile
+                   Souvent                    11,4       12,8
+                   De temps en temps          11,8       11,7
+                   Rarement                   22,6       22,5
+                   Jamais                     51,0       49,2
+                   Non concerné(e)             3,2       3,8
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             6
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 48 ---
+
+Le groupe   ethnique   ou  religieux perçu  comme    étant  le
+
+                   plus victime  d'actes  violents  en France
+
+        Question : Selon vous quel est le groupe ethnique ou religieux qui est le plus
+                   largement victime d’actes violents en France ?
+
+                                              Brut     Redressé
+                   Les Juifs                  12,8       12,0
+                   Les Musulmans              69,2       68,8
+                   Les Noirs                   9,4       12,1
+
+                   Les Roms                    3,8       2,0
+                   Les Catholiques             4,8       5,2
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             7
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 49 ---
+
+La sympathie    à l'égard de  différents groupes   de
+
+                                   personnes
+
+        Question : Pour chacune de ces catégories ou groupes de personnes, dites-moi si
+                   vous éprouvez à son égard plutôt de la sympathie, plutôt de
+                   l’antipathie ou ni sympathie, ni antipathie ?
+
+                                              Brut     Redressé
+                   Les Musulmans
+                   Plutôt de la sympathie     77,0       76,7
+                   Plutôt de l’antipathie      4,2       7,1
+                   Ni sympathie, ni antipathie 18,8      16,2
+                   Les Maghrébins
+                   Plutôt de la sympathie     71,0       68,4
+                   Plutôt de l’antipathie      6,0       7,5
+                   Ni sympathie, ni antipathie 23,0      24,1
+                   Les Asiatiques
+                   Plutôt de la sympathie     65,0       64,3
+                   Plutôt de l’antipathie      5,4       7,0
+                   Ni sympathie, ni antipathie 29,6      28,7
+                   Les étrangers en général
+                   Plutôt de la sympathie     64,6       63,0
+                   Plutôt de l’antipathie      8,0       8,4
+                   Ni sympathie, ni antipathie 27,4      28,6
+                   Les Noirs
+                   Plutôt de la sympathie     67,0       60,7
+                   Plutôt de l’antipathie      5,0       7,8
+                   Ni sympathie, ni antipathie 28,0      31,4
+                   Les Protestants
+                   Plutôt de la sympathie     57,8       56,3
+                   Plutôt de l’antipathie      5,8       7,8
+                   Ni sympathie, ni antipathie 36,4      36,0
+
+                   Les homosexuels
+                   Plutôt de la sympathie     48,2       43,5
+                   Plutôt de l’antipathie     12,4       15,9
+                   Ni sympathie, ni antipathie 39,4      40,6
+                   Les Juifs
+                   Plutôt de la sympathie     42,6       40,0
+                   Plutôt de l’antipathie     12,2       13,0
+                   Ni sympathie, ni antipathie 45,2      47,0
+                   Les Roms
+                   Plutôt de la sympathie     32,8       34,0
+                   Plutôt de l’antipathie     22,6       20,2
+                   Ni sympathie, ni antipathie 44,6      45,8
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             8
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 50 ---
+
+L’estimation   du nombre    de  personnes   juives vivant  en
+
+                                     France
+
+        Question : D’après vous, quel est le nombre approximatif de Juifs en France ?
+
+                                              Brut     Redressé
+                   100 000                     8,4       9,2
+                   500 000                    34,8       33,5
+                   1 million                  25,8       28,4
+
+                   2 millions                 20,6       21,1
+                   Plus de 10 millions        10,4       7,8
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             9
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 51 ---
+
+La perception   de l'antisémitisme   en  France
+
+        Question : Selon vous, l’antisémitisme est-il aujourd’hui en France, un
+                   phénomène… ?
+
+                                                  Brut     Redressé
+
+               En augmentation depuis le 7 octobre 2023
+               Oui, tout à fait                   17,4       18,7
+               Oui, plutôt                        31,0       35,8
+               Non, plutôt pas                    27,8       23,6
+               Non, pas du tout                   23,8       22,0
+               En augmentation par rapport à il y a une dizaine
+               d’années
+               Oui, tout à fait                   20,0       24,8
+               Oui, plutôt                        29,6       28,9
+               Non, plutôt pas                    28,8       27,4
+               Non, pas du tout                   21,6       18,8
+               Répandu
+               Oui, tout à fait                   16,0       17,9
+               Oui, plutôt                        32,0       32,3
+               Non, plutôt pas                    32,6       33,0
+               Non, pas du tout                   19,4       16,7
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             10
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 52 ---
+
+La perception   de  l'antisémitisme   en  Europe
+
+        Question : Selon vous, l’antisémitisme est-il aujourd’hui en Europe, un
+                   phénomène… ?
+
+                                                  Brut     Redressé
+
+               En augmentation par rapport à il y a une dizaine
+               d’années
+               Oui, tout à fait                   19,4       22,0
+               Oui, plutôt                        30,6       32,2
+               Non, plutôt pas                    27,6       26,7
+               Non, pas du tout                   22,4       19,0
+               En augmentation depuis le 7 octobre 2023
+               Oui, tout à fait                   18,4       19,6
+               Oui, plutôt                        29,4       34,3
+               Non, plutôt pas                    29,4       25,7
+               Non, pas du tout                   22,8       20,4
+               Répandu
+               Oui, tout à fait                   17,6       18,0
+               Oui, plutôt                        31,6       35,6
+               Non, plutôt pas                    30,4       29,9
+               Non, pas du tout                   20,4       16,5
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             11
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 53 ---
+
+Le regard  sur le traitement   judiciaire des  actes
+
+                                  antisémites
+
+        Question : Concernant le traitement des actes antisémites par la justice, diriez-
+                   vous que… ?
+
+                                                  Brut     Redressé
+               Que la justice peine à identifier le caractère
+               antisémite des actes commis
+               Oui, tout à fait                   13,6       14,9
+
+               Oui, plutôt                        30,6       35,4
+               Non, plutôt pas                    29,2       26,9
+               Non, pas du tout                   26,6       22,8
+               Que la justice ne condamne pas assez
+               sévèrement les auteurs des actes antisémites
+               Oui, tout à fait                   15,2       16,2
+               Oui, plutôt                        23,8       28,1
+               Non, plutôt pas                    31,0       30,1
+               Non, pas du tout                   30,0       25,5
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             12
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 54 ---
+
+La  place accordée   au  problème    de l'antisémitisme
+
+        Question : Selon vous, est-ce que l’on parle trop, suffisamment ou pas assez du
+                   problème de l’antisémitisme en France ?
+
+                                              Brut     Redressé
+
+                   Trop                       46,2       41,3
+                   Suffisamment               38,6       39,2
+                   Pas assez                  15,2       19,4
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             13
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 55 ---
+
+La  perception   de l'antisémitisme   comme     un problème    de
+
+                                     société
+
+        Question : De ces deux opinions, de laquelle vous sentez-vous le plus proche ?
+
+                                                  Brut     Redressé
+               L’antisémitisme est uniquement le problème des
+               Juifs et ne concerne pas la société dans son 20,6 22,0
+               ensemble
+
+               L’antisémitisme est un problème qui concerne la
+                                                  54,8       51,9
+               société dans son ensemble
+               Vous ne savez pas                  24,6       26,0
+               Total                              100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             14
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 56 ---
+
+L'inquiétude   à l'égard  de la situation des  Français  de
+
+                          confession   ou culture  juive
+
+        Question : Aujourd’hui, les Français de confession ou de culture juive se sentent
+                   inquiets et s’interrogent sur leur avenir en France. Personnellement,
+                   vous diriez que cela vous inquiète… ?
+
+                                              Brut     Redressé
+                   Oui, tout à fait            9,4       9,2
+                   Oui, plutôt                25,2       28,0
+                   Non, plutôt pas            31,4       31,7
+                   Non, pas du tout           34,0       31,1
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             15
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 57 ---
+
+La disposition  à manifester   contre  l'antisémitisme
+
+        Question : Vous personnellement, seriez-vous prêt à descendre dans la rue pour
+                   manifester contre l’antisémitisme ?
+
+                                              Brut     Redressé
+
+                   Oui, certainement          10,8       11,7
+                   Oui, probablement          19,2       22,1
+                   Non, probablement pas      21,4       19,5
+                   Non, certainement pas      33,0       33,6
+                   Vous ne savez pas          15,6       13,1
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             16
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 58 ---
+
+Les  candidats  à l'élection présidentielle   contribuant   à la
+
+                          montée   de  l'antisémitisme
+
+        Question : Selon vous, chacun des candidats certains ou potentiels à l’élection
+                   présidentielle suivants contribue-t-il à la montée de l’antisémitisme en
+                   France ?
+
+                                              Brut     Redressé
+                   Marine Le Pen
+                   Oui, tout à fait           38,2       31,4
+                   Oui, plutôt                16,6       17,0
+                   Non, plutôt pas            19,0       22,4
+                   Non, pas du tout           26,2       29,2
+                   Éric Zemmour
+                   Oui, tout à fait           39,6       31,3
+                   Oui, plutôt                14,6       16,5
+                   Non, plutôt pas            17,0       18,0
+                   Non, pas du tout           28,8       34,2
+                   Bruno Retailleau
+                   Oui, tout à fait           21,2       14,4
+                   Oui, plutôt                18,4       20,5
+                   Non, plutôt pas            27,8       31,3
+                   Non, pas du tout           32,6       33,8
+                   Gabriel Attal
+                   Oui, tout à fait           17,8       14,0
+                   Oui, plutôt                15,6       16,2
+                   Non, plutôt pas            27,6       28,7
+                   Non, pas du tout           39,0       41,1
+                   Sébastien Lecornu
+                   Oui, tout à fait           10,6       8,4
+                   Oui, plutôt                17,4       18,8
+                   Non, plutôt pas            31,8       30,7
+
+                   Non, pas du tout           40,2       42,1
+                   Édouard Philippe
+                   Oui, tout à fait           11,6       11,2
+                   Oui, plutôt                12,8       14,6
+                   Non, plutôt pas            36,0       34,2
+                   Non, pas du tout           39,6       40,0
+                   Jean-Luc Mélenchon
+                   Oui, tout à fait           10,4       10,9
+                   Oui, plutôt                13,4       13,4
+                   Non, plutôt pas            27,6       28,3
+                   Non, pas du tout           48,6       47,4
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             17
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 59 ---
+
+Brut     Redressé
+                   Raphaël Glucksmann
+                   Oui, tout à fait           10,2       7,5
+                   Oui, plutôt                13,2       13,0
+                   Non, plutôt pas            35,0       37,1
+                   Non, pas du tout           41,6       42,3
+                   Fabien Roussel
+                   Oui, tout à fait            6,2       5,4
+                   Oui, plutôt                10,2       13,0
+                   Non, plutôt pas            38,2       35,7
+                   Non, pas du tout           45,4       45,9
+                   Marine Tondelier
+                   Oui, tout à fait            8,2       6,4
+                   Oui, plutôt                10,8       11,7
+                   Non, plutôt pas            35,2       36,2
+                   Non, pas du tout           45,8       45,8
+                   François Ruffin
+                   Oui, tout à fait            7,6       4,6
+                   Oui, plutôt                11,0       12,9
+                   Non, plutôt pas            36,8       39,7
+                   Non, pas du tout           44,6       42,8
+                   Olivier Faure
+                   Oui, tout à fait            8,0       4,7
+                   Oui, plutôt                11,0       12,0
+                   Non, plutôt pas            37,6       38,3
+                   Non, pas du tout           43,4       45,0
+                   Dominique de Villepin
+                   Oui, tout à fait            6,6       6,7
+                   Oui, plutôt                 7,6       8,5
+                   Non, plutôt pas            35,6       34,6
+
+                   Non, pas du tout           50,2       50,2
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             18
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 60 ---
+
+Les  candidats  à l'élection  présidentielle  faisant rempart   à
+
+                                l'antisémitisme
+
+        Question : Selon vous, chacun des candidats certains ou potentiels à l’élection
+                   présidentielle suivants représente-t-il un rempart face à la montée de
+                   l’antisémitisme en France ?
+
+                                              Brut     Redressé
+                   Jean-Luc Mélenchon
+                   Oui, tout à fait           18,2       18,0
+                   Oui, plutôt                21,0       22,4
+                   Non, plutôt pas            28,2       28,7
+                   Non, pas du tout           32,6       30,9
+                   Dominique de Villepin
+                   Oui, tout à fait           13,8       12,2
+                   Oui, plutôt                24,4       24,2
+                   Non, plutôt pas            27,8       28,5
+                   Non, pas du tout           34,0       35,1
+                   Édouard Philippe
+                   Oui, tout à fait            8,8       12,1
+                   Oui, plutôt                21,0       20,4
+                   Non, plutôt pas            31,6       32,7
+                   Non, pas du tout           38,6       34,7
+                   Olivier Faure
+                   Oui, tout à fait            7,2       8,3
+                   Oui, plutôt                22,4       20,2
+                   Non, plutôt pas            33,4       35,0
+                   Non, pas du tout           37,0       36,5
+                   Raphaël Glucksmann
+                   Oui, tout à fait            7,8       8,3
+                   Oui, plutôt                20,2       19,8
+                   Non, plutôt pas            32,4       32,3
+
+                   Non, pas du tout           39,6       39,5
+                   Marine Tondelier
+                   Oui, tout à fait           10,2       9,8
+                   Oui, plutôt                20,6       17,6
+                   Non, plutôt pas            33,0       33,7
+                   Non, pas du tout           36,2       38,9
+                   Fabien Roussel
+                   Oui, tout à fait            9,0       10,2
+                   Oui, plutôt                20,8       17,0
+                   Non, plutôt pas            32,4       34,7
+                   Non, pas du tout           37,8       38,1
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             19
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 61 ---
+
+Brut     Redressé
+                   Sébastien Lecornu
+                   Oui, tout à fait            8,2       8,3
+                   Oui, plutôt                19,4       18,6
+                   Non, plutôt pas            32,4       35,5
+                   Non, pas du tout           40,0       37,6
+                   François Ruffin
+                   Oui, tout à fait            9,6       10,0
+                   Oui, plutôt                19,2       16,3
+                   Non, plutôt pas            34,4       39,8
+                   Non, pas du tout           36,8       33,8
+                   Gabriel Attal
+                   Oui, tout à fait            8,8       10,1
+                   Oui, plutôt                19,2       16,0
+                   Non, plutôt pas            30,4       33,5
+                   Non, pas du tout           41,6       40,4
+                   Bruno Retailleau
+                   Oui, tout à fait            7,6       8,0
+                   Oui, plutôt                16,4       15,1
+                   Non, plutôt pas            30,2       32,6
+                   Non, pas du tout           45,8       44,2
+                   Éric Zemmour
+                   Oui, tout à fait           10,4       8,7
+                   Oui, plutôt                12,0       13,8
+                   Non, plutôt pas            23,4       26,2
+                   Non, pas du tout           54,2       51,3
+                   Marine Le Pen
+                   Oui, tout à fait           10,2       10,3
+                   Oui, plutôt                10,8       12,0
+                   Non, plutôt pas            25,2       28,2
+
+                   Non, pas du tout           53,8       49,5
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             20
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 62 ---
+
+Le départ  de  France  en  cas de victoire  de certains
+
+                                    candidats
+
+        Question : Vous personnellement, pourriez-vous quitter la France si les candidats
+                   suivants étaient élus Président de la République en 2027… ?
+
+                                              Brut     Redressé
+                   Marine Le Pen
+                   Oui, certainement          18,4       17,0
+                   Oui, probablement          18,6       21,4
+
+                   Non, probablement pas      17,2       16,9
+                   Non, certainement pas      45,8       44,7
+                   Jean-Luc Mélenchon
+                   Oui, certainement           8,4       7,8
+                   Oui, probablement           7,0       10,0
+                   Non, probablement pas      17,4       16,1
+                   Non, certainement pas      67,2       66,1
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             21
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 63 ---
+
+Les principales  causes  de  l'antisémitisme
+
+        Question : Selon vous, quelles sont les principales causes de l’antisémitisme ? En
+                   premier ? En second ?
+
+                                                  Brut     Redressé
+
+               En premier
+               Le rejet, la haine d’Israël        26,6       27,2
+               Les idées d’extrême droite         21,2       21,5
+               Les idées d’extrême gauche          2,4       2,3
+               L'islamisme                         2,2       3,3
+               Le complotisme, les théories du complot 10,8  12,0
+               Les médias                         34,4       31,3
+               La situation économique             2,4       2,3
+               En second
+               Le rejet, la haine d’Israël        17,4       19,1
+               Les idées d’extrême droite         18,4       16,9
+               Les idées d’extrême gauche          3,6       4,5
+               L'islamisme                         2,4       1,3
+               Le complotisme, les théories du complot 19,8  19,9
+               Les médias                         18,0       16,8
+               La situation économique             6,0       6,5
+               Aucune autre cause                 14,4       15,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             22
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 64 ---
+
+L'exposition  aux  propos  antisémites   dans  l'entourage
+
+        Question : Vous est-il déjà arrivé d’entendre dire, dans votre entourage, du mal
+                   des Juifs ?
+
+                                              Brut     Redressé
+
+                   Souvent                     7,8       8,8
+                   De temps en temps          16,4       17,5
+                   Rarement                   26,2       23,7
+                   Jamais                     49,6       50,1
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             23
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 65 ---
+
+L'observation   d'actes  antisémites
+
+        Question : Au cours de votre vie, avez-vous déjà assisté à chacun des actes et
+                   comportements suivants ?
+
+                                                  Brut     Redressé
+
+               Des blagues et discussions véhiculant des
+               préjugés mettant en cause les juifs
+               Oui, plusieurs fois                18,4       16,0
+               Oui, une fois                      15,6       17,5
+               Non jamais                         66,0       66,5
+               Des blagues mettant en cause l’existence de la
+               Shoah
+               Oui, plusieurs fois                 7,0       8,4
+               Oui, une fois                       9,6       10,1
+               Non jamais                         83,4       81,5
+               Une agression verbale proférée à l’encontre
+               d’une personne de confession ou de culture
+               juive (insultes, moqueries désobligeantes,
+               menaces ou intimidations) en raison de son
+               identité ou de sa religion
+               Oui, plusieurs fois                 4,2       5,4
+               Oui, une fois                       9,4       13,1
+               Non jamais                         86,4       81,5
+               Une atteinte aux biens commise à l’encontre
+               d’une personne de confession ou de culture
+               juive (vol, dégradation, tag ou destruction d’un
+               bien) en raison de son identité ou de sa religion
+               Oui, plusieurs fois                 3,4       4,2
+               Oui, une fois                       5,6       7,3
+               Non jamais                         91,0       88,5
+               Une agression physique commise à l’encontre
+               d’une personne de confession ou de culture
+               juive (gifle, coup, bousculades, empoignade…)
+               en raison de son identité ou de sa religion
+               Oui, plusieurs fois                 3,6       3,0
+
+               Oui, une fois                       4,8       8,4
+               Non jamais                         91,6       88,6
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             24
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 66 ---
+
+Les lieux d’observation   d’attitudes   et agressions
+
+                                  antisémites
+
+        Question : Et plus précisément, avez-vous déjà assisté à une blague, une
+                   agression verbale, une atteinte aux biens ou une agression physique
+                   antisémite dans chacun des lieux suivants ?
+
+               Base : à ceux qui ont déjà assisté à au moins un
+                                                  Brut     Redressé
+               acte antisémite au cours de leur vie
+               Sur les réseaux sociaux
+               Oui                                64,9       65,9
+               Non                                35,1       34,1
+               Dans la rue
+               Oui                                36,6       39,5
+               Non                                63,4       60,5
+               Avec vos amis
+               Oui                                32,5       39,2
+               Non                                67,5       60,8
+               Dans des lieux publics (ex : parcs, squares,
+               jardins…)
+               Oui                                25,8       29,1
+               Non                                74,2       70,9
+               Dans les transports en commun (ex : bus, métro,
+               tram, train…)
+               Oui                                26,3       26,1
+               Non                                73,7       73,9
+               Dans un établissement scolaire (ex : collège,
+               lycée, université…) ou lors d’activités
+               périscolaires
+               Oui                                28,9       25,6
+               Non                                71,1       74,4
+               Au sein de votre famille (par exemple, au cours
+               d’une discussion ou d’un repas)
+               Oui                                24,7       24,0
+               Non                                75,3       76,0
+               Sur votre lieu de travail ou dans votre
+               environnement professionnel (ex : bureau,
+               usine, colloque, salon…)
+               Oui                                25,3       23,5
+               Non                                74,7       76,5
+               Dans un bar, un pub, un restaurant ou une
+               discothèque
+               Oui                                19,1       21,5
+               Non                                80,9       78,5
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             25
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 67 ---
+
+Base : à ceux qui ont déjà assisté à au moins un
+                                                  Brut     Redressé
+               acte antisémite au cours de leur vie
+               Dans le cadre d’activités sportives (ex : club de
+               sport,…)
+               Oui                                14,4       18,6
+               Non                                85,6       81,4
+               Dans un taxi ou un Uber
+               Oui                                11,3       14,7
+               Non                                88,7       85,3
+               Dans un lieu de culte
+               Oui                                11,3       12,5
+               Non                                88,7       87,5
+               Dans un autre endroit
+               Oui                                17,0       19,9
+               Non                                83,0       80,1
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             26
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 68 ---
+
+Le jugement    sur l’acceptabilité  de différents
+
+                                comportements
+
+        Question : Pour chacun des comportements suivants, diriez-vous qu’il s’agit d’un
+                   comportement acceptable, pas acceptable mais compréhensible ou
+                   jamais acceptable ?
+
+                                                  Brut     Redressé
+               Boycotter des spectacles ou événements avec
+               des personnalités juives soupçonnées d’avoir
+               des positions pro-israéliennes
+               Acceptable                         46,2       47,9
+               Pas acceptable mais compréhensible 23,8       24,1
+               Jamais acceptable                  30,0       28,0
+               Boycotter des personnalités en raison de leur
+               soutien à Israël
+               Acceptable                         46,2       47,6
+               Pas acceptable mais compréhensible 24,2       23,5
+               Jamais acceptable                  29,6       28,9
+               Faire une blague à un Français Juif en lui disant
+               qu’il est radin
+               Acceptable                         22,0       22,6
+               Pas acceptable mais compréhensible 18,4       19,3
+               Jamais acceptable                  59,6       58,0
+               Appeler à la destruction de l’Etat d’Israël
+               Acceptable                         14,2       14,1
+               Pas acceptable mais compréhensible 28,0       27,4
+               Jamais acceptable                  57,8       58,4
+               Menacer sur les réseaux sociaux un individu en
+               raison de son soutien public à Israël
+               Acceptable                          6,4       8,0
+               Pas acceptable mais compréhensible 20,4       22,6
+
+               Jamais acceptable                  73,2       69,5
+               Bousculer ou avoir un comportement physique
+               agressif envers un individu en raison de son
+               soutien à Israël lors d’un rassemblement public
+               Acceptable                          5,8       6,4
+               Pas acceptable mais compréhensible 16,6       20,7
+               Jamais acceptable                  77,6       72,9
+               Faire une blague sur la Shoah, les camps
+               d’extermination
+               Acceptable                          7,2       10,3
+               Pas acceptable mais compréhensible  8,4       10,3
+               Jamais acceptable                  84,4       79,5
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             27
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 69 ---
+
+Brut     Redressé
+               Taguer une synagogue ou un commerce juif
+               pour manifester son opposition à Israël
+               Acceptable                          3,6       5,4
+               Pas acceptable mais compréhensible  8,2       11,1
+               Jamais acceptable                  88,2       83,6
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             28
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 70 ---
+
+La qualification  de comportement      comme    actes
+
+                                  antisémites
+
+        Question : Pour chacun de ces comportements, dites-moi comment vous
+                   personnellement vous le qualifieriez ?
+
+                                                  Brut     Redressé
+               Taguer une synagogue ou un commerce juif
+               pour manifester son opposition à Israël
+               Il s’agit d’un acte antisémite     66,8       60,6
+
+               Ce n’est pas un acte antisémite    12,2       13,0
+               Vous ne savez pas                  21,0       26,3
+               Faire une blague sur la Shoah, les camps
+               d’extermination
+               Il s’agit d’un acte antisémite     54,2       49,6
+               Ce n’est pas un acte antisémite    23,4       24,7
+               Vous ne savez pas                  22,4       25,7
+               Bousculer ou avoir un comportement physique
+               agressif envers un individu en raison de son
+               soutien à Israël lors d’un rassemblement public
+               Il s’agit d’un acte antisémite     47,0       44,6
+               Ce n’est pas un acte antisémite    30,2       26,7
+               Vous ne savez pas                  22,8       28,7
+               Menacer sur les réseaux sociaux un individu en
+               raison de son soutien public à Israël
+               Il s’agit d’un acte antisémite     43,0       42,9
+               Ce n’est pas un acte antisémite    33,8       29,2
+               Vous ne savez pas                  23,2       28,0
+               Appeler à la destruction de l’Etat d’Israël
+               Il s’agit d’un acte antisémite     40,8       41,4
+               Ce n’est pas un acte antisémite    33,0       29,1
+               Vous ne savez pas                  26,2       29,5
+               Faire une blague à un Français Juif en lui disant
+               qu’il est radin
+               Il s’agit d’un acte antisémite     24,6       24,4
+               Ce n’est pas un acte antisémite    54,0       50,7
+               Vous ne savez pas                  21,4       24,9
+               Boycotter des spectacles ou événements avec
+               des personnalités juives soupçonnées d’avoir
+               des positions pro-israéliennes
+
+               Il s’agit d’un acte antisémite     18,6       19,2
+               Ce n’est pas un acte antisémite    61,6       56,6
+               Vous ne savez pas                  19,8       24,3
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             29
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 71 ---
+
+Brut     Redressé
+               Boycotter des personnalités en raison de leur
+               soutien à Israël
+               Il s’agit d’un acte antisémite     16,6       15,3
+               Ce n’est pas un acte antisémite    64,8       62,7
+               Vous ne savez pas                  18,6       22,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             30
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 72 ---
+
+L'adhésion   à différentes  affirmations  sur  Israël et le
+
+                                    sionisme
+
+        Question : Êtes-vous d’accord ou pas d’accord avec chacune des affirmations
+                   suivantes relatives à Israël et au sionisme… ?
+
+                                                  Brut     Redressé
+               Israël se comporte avec les Palestiniens comme
+               les nazis se comportaient avec les Juifs
+               Tout à fait d’accord               55,0       48,6
+
+               Plutôt d’accord                    19,6       19,5
+               Plutôt pas d’accord                 4,6       7,0
+               Pas du tout d’accord                4,6       7,3
+               Vous ne savez pas                  16,2       17,6
+               Les Français juifs sont plus loyaux envers Israël
+               qu'envers la France
+               Tout à fait d’accord               27,0       25,6
+               Plutôt d’accord                    18,8       19,7
+               Plutôt pas d’accord                11,2       12,1
+               Pas du tout d’accord                7,4       8,7
+               Vous ne savez pas                  35,6       33,9
+               La création d'Israël est le fruit d'une entreprise
+               raciste
+               Tout à fait d’accord               23,4       23,9
+               Plutôt d’accord                    16,4       18,1
+               Plutôt pas d’accord                10,0       9,4
+               Pas du tout d’accord               15,6       13,9
+               Vous ne savez pas                  34,6       34,6
+               La Shoah a été utilisée par les Juifs pour justifier
+               la création de l’Etat d’Israël
+               Tout à fait d’accord               18,8       15,2
+               Plutôt d’accord                    17,8       19,3
+               Plutôt pas d’accord                 9,4       10,9
+               Pas du tout d’accord               16,8       17,4
+               Vous ne savez pas                  37,2       37,2
+               Les Français juifs sont responsables des
+               politiques menées par Israël
+               Tout à fait d’accord               10,4       11,8
+               Plutôt d’accord                    12,0       11,8
+               Plutôt pas d’accord                16,0       18,2
+
+               Pas du tout d’accord               32,6       27,8
+               Vous ne savez pas                  29,0       30,4
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             31
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 73 ---
+
+La sympathie    à l'égard de  différents  acteurs  des conflits
+
+        Question : Vous personnellement, éprouvez de la sympathie, de l'antipathie ou
+                   ni sympathie, ni antipathie pour… ?
+
+                                              Brut     Redressé
+
+                   L’autorité palestinienne
+                   De la sympathie            57,6       57,2
+                   De l’antipathie             9,8       9,8
+                   Ni sympathie, ni antipathie 32,6      33,0
+                   L’Iran
+                   De la sympathie            21,0       20,5
+                   De l’antipathie            22,2       23,8
+                   Ni sympathie, ni antipathie 56,8      55,7
+                   Les Etats-Unis
+                   De la sympathie            10,0       12,7
+                   De l’antipathie            38,8       39,3
+                   Ni sympathie, ni antipathie 51,2      48,0
+                   Le Hamas
+                   De la sympathie            12,0       11,4
+                   De l’antipathie            31,6       31,7
+                   Ni sympathie, ni antipathie 56,4      56,8
+                   Le Hezbollah
+                   De la sympathie             8,8       8,5
+                   De l’antipathie            29,8       29,3
+                   Ni sympathie, ni antipathie 61,4      62,2
+                   Israël
+                   De la sympathie             5,6       5,7
+                   De l’antipathie            47,0       49,0
+                   Ni sympathie, ni antipathie 47,4      45,3
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             32
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 74 ---
+
+Les sympathies    dans  la guerre
+
+        Question : Dans la guerre qui oppose les États-Unis et Israël à l’Iran, à qui vont
+                   vos sympathies ?
+
+                                              Brut     Redressé
+
+                   Les États-Unis              3,6       6,2
+                   Israël                      2,2       2,2
+                   L’Iran                     36,6       35,6
+                   A aucune des deux parties  57,6       56,0
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             33
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 75 ---
+
+La justification des  prises à partie  des Français  juifs
+
+        Question : Des Français juifs sont pris à partie en raison de leur soutien réel ou
+                   supposé au gouvernement israélien. Comment qualifiez-vous ce
+
+                   comportement ?
+
+                                              Brut     Redressé
+                   Tout à fait justifié       12,6       11,5
+                   Plutôt justifié            20,8       24,6
+                   Plutôt pas justifié        38,4       38,1
+                   Pas du tout justifié       28,2       25,8
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             34
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 76 ---
+
+L'adhésion   aux  préjugés  antisémites
+
+        Question : Êtes-vous d’accord ou pas d’accord avec les affirmations suivantes ?
+
+                                                  Brut     Redressé
+
+               Les juifs sont très unis entre eux
+               Tout à fait d’accord               39,6       34,3
+               Plutôt d’accord                    29,2       30,2
+               Plutôt pas d’accord                 6,2       8,4
+               Pas du tout d’accord                4,2       4,6
+               Vous ne savez pas                  20,8       22,6
+               Les juifs ont trop de pouvoir dans le domaine de
+               l’économie et de la finance
+               Tout à fait d’accord               30,0       28,1
+               Plutôt d’accord                    25,2       29,1
+               Plutôt pas d’accord                 8,4       9,2
+               Pas du tout d’accord               11,2       9,1
+               Vous ne savez pas                  25,2       24,6
+               Les juifs ont trop de pouvoir dans le domaine
+               des médias
+               Tout à fait d’accord               35,0       33,0
+               Plutôt d’accord                    21,8       23,0
+               Plutôt pas d’accord                 8,4       9,2
+               Pas du tout d’accord               10,8       11,5
+               Vous ne savez pas                  24,0       23,3
+               Les juifs ont trop de pouvoir dans le domaine de
+               la politique
+               Tout à fait d’accord               27,6       24,8
+               Plutôt d’accord                    23,8       29,6
+               Plutôt pas d’accord                 9,4       10,8
+               Pas du tout d’accord               11,2       7,9
+               Vous ne savez pas                  28,0       26,8
+               Les juifs utilisent aujourd’hui dans leur propre
+               intérêt leur statut de victimes du génocide nazi
+               pendant la Seconde Guerre Mondiale
+
+               Tout à fait d’accord               28,8       26,0
+               Plutôt d’accord                    24,0       28,1
+               Plutôt pas d’accord                 8,8       8,0
+               Pas du tout d’accord               12,2       10,7
+               Vous ne savez pas                  26,2       27,2
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             35
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 77 ---
+
+Brut     Redressé
+               Les juifs sont plus riches que la moyenne des
+               Français
+               Tout à fait d’accord               24,4       24,4
+               Plutôt d’accord                    20,2       23,9
+               Plutôt pas d’accord                10,8       11,0
+               Pas du tout d’accord               11,2       7,4
+               Vous ne savez pas                  33,4       33,2
+               Les juifs sont responsables de nombreuses crises
+               économiques
+               Tout à fait d’accord               16,0       18,7
+               Plutôt d’accord                    14,8       14,8
+               Plutôt pas d’accord                13,8       17,3
+               Pas du tout d’accord               22,8       16,1
+               Vous ne savez pas                  32,6       33,1
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             36
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 78 ---
+
+Les moyens    jugés  efficaces pour  lutter contre
+
+                                l'antisémitisme
+
+        Question : Parmi les réponses suivantes pour lutter contre l’antisémitisme,
+                   laquelle vous paraît la plus efficace ? En premier ? En second ?
+
+                                                  Brut     Redressé
+               En premier
+               L’éducation à la Shoah             12,6       11,7
+               Des peines plus sévères pour les auteurs d’actes
+                                                  29,8       33,4
+               antisémites
+               La lutte contre l’islamisme         7,8       8,6
+               La lutte contre le complotisme     35,0       32,4
+               La lutte contre les ingérences étrangères (Russie,
+                                                  14,8       13,9
+               Iran, Qatar)
+               En second
+               L’éducation à la Shoah             18,0       14,2
+               Des peines plus sévères pour les auteurs d’actes
+                                                  21,8       22,8
+               antisémites
+               La lutte contre l’islamisme         5,2       3,6
+               La lutte contre le complotisme     34,0       38,6
+               La lutte contre les ingérences étrangères (Russie,
+                                                  21,0       20,8
+               Iran, Qatar)
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             37
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 79 ---
+
+L'effet perçu  de la médiatisation   du  conflit sur
+
+                                l'antisémitisme
+
+        Question : Selon vous, la très forte médiatisation du conflit au Moyen-Orient
+                   contribue-t-elle à une augmentation de l’antisémitisme en France ?
+
+                                              Brut     Redressé
+                   Oui, tout à fait           20,8       22,3
+                   Oui, plutôt                37,2       34,6
+                   Non, plutôt pas            21,4       22,4
+
+                   Non, pas du tout           20,6       20,8
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             38
+        Radiographie de l’antisémitisme - Volet Musulmans (vague 4)  Octobre 2026
+
+--- page 80 ---
+
+Radiographie     de  l’antisémitisme      – Volet
+
+        Français   juifs  (vague   4)
+
+        Notice   technique
+
+                                                             FD / MT / LM N° 122485
+                                                                CONTACTS IFOP :
+                                                      Frédéric Dabi / Mathilde Tchounikine
+                                                                    / Léo Major
+                                                              Département Opinion
+                                                            et Stratégies d'Entreprise
+                                                             prénom.nom@ifop.com
+                                                                NOVEMBRE 2026
+
+--- page 81 ---
+
+1
+
+                                                  La  méthodologie
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol              1
+
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 82 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Etude réalisée par Ifop pour AJC Paris, en partenariat avec la
+
+         Fondapol
+
+         Echantillon        L’enquête a été menée auprès d’un échantillon de 500 Français se
+
+                            déclarant de confession juive, extrait d’un cumul d’échantillons
+                            correspondant à un total de 34 500 personnes, représentatif de la
+
+                            population française âgée de 18 ans et plus.
+
+                            La représentativité de l’échantillon a été assurée, à partir de
+
+         Méthodologie       l’échantillon global, par la méthode des quotas au regard de
+                            critères :
+
+                            - sociodémographiques (sexe, âge de l’individu) ;
+
+                            - socioprofessionnels (profession de l’individu) ;
+
+                            - géographiques (région, taille d’unité urbaine).
+
+            Mode de recueil
+
+                            Les interviews ont été réalisées par questionnaire auto-administré
+                            en ligne du 29 juillet au 28 septembre 2026.
+
+        L’enquête a fait l’objet d’un redressement sociodémographique de l’échantillon global (données INSEE 2022).
+
+        La présente notice est consultable sur le site de la commission des sondages.
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             2
+
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 83 ---
+
+Précision  relative  aux marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+        comme le montre le tableau ci-dessous :
+
+                    INTERVALLE DE CONFIANCE   A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 500 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 2,7. Le vrai pourcentage est donc compris entre 7,3% et 12,7%.
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             3
+
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 84 ---
+
+Structure  de l’échantillon
+
+                                                 Brut   Redressé
+                                                  %        %
+        SEXE
+           Un homme                              50,2     49,7
+           Une femme                             49,8     50,3
+
+        AGE
+           De18a24ans1                           11,4     10,2
+           De25a34ans1                           13,4     15,1
+           De35a49ans1                           18,2     24,6
+           De50a64ans1                           18,6     24,6
+           De65aPlus                             38,4     25,5
+        REGION
+
+           RegionIleDeFrance                     69,0     56,0
+           PROVINCE                              31,0     44,0
+          AGGLO
+           Commune rurale                         0,6     0,8
+           Unité urbaine de 2 000 à 19 999 hab.   0,8     0,8
+           Unité urbaine de 20 000 à 99 999 hab.  2,2     3,0
+           Unité urbaine de 100 000 à 199 999 hab. 27,4   39,3
+
+           Agglomération parisienne              69,0     56,1
+          PROFESSION
+           Artisans1                              6,8     7,9
+           Cadres1                               24,0     27,3
+           Intermediaires1                        8,2     10,9
+           Employes1                             12,4     14,1
+
+           Ouvriers1                              3,4     3,7
+           Inactifs                              45,2     36,1
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             4
+
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 85 ---
+
+Le niveau  d’optimisme    concernant    l’avenir
+
+        Question : D’une manière générale, concernant l’avenir diriez-vous que vous
+                   êtes... ?
+
+                                              Brut     Redressé
+                   Très optimiste              7,4       8,2
+                   Plutôt optimiste           30,8       30,9
+
+                   Plutôt pessimiste          44,2       43,1
+                   Très pessimiste            17,6       17,7
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             5
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 86 ---
+
+Le sentiment   d’insécurité  dans  différents  endroits  - Base
+
+                                   ensemble
+
+        Question : Vous arrive-t-il personnellement de vous sentir en insécurité… ?
+
+                                              Brut     Redressé
+                   Dans les transports en commun
+                   Souvent                    17,2       18,3
+                   De temps en temps          34,4       34,6
+
+                   Rarement                   22,8       21,8
+                   Jamais                     16,6       15,9
+                   Non concerné                9,0       9,4
+                   Sur les réseaux sociaux
+                   Souvent                    14,8       15,5
+                   De temps en temps          26,0       27,0
+                   Rarement                   18,2       17,3
+                   Jamais                     25,8       26,1
+                   Non concerné               15,2       14,1
+                   Dans votre quartier
+                   Souvent                     9,8       10,1
+                   De temps en temps          25,8       25,4
+                   Rarement                   32,0       31,1
+                   Jamais                     31,8       33,1
+                   Non concerné                0,6       0,4
+                   Dans les taxis ou VTC (uber)
+                   Souvent                    10,6       9,7
+                   De temps en temps          22,2       21,9
+                   Rarement                   24,2       22,1
+                   Jamais                     26,8       26,2
+                   Non concerné               16,2       20,0
+                   À votre domicile
+                   Souvent                     6,8       6,3
+                   De temps en temps          13,0       14,1
+                   Rarement                   26,8       24,5
+                   Jamais                     52,8       54,5
+                   Non concerné                0,6       0,6
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             6
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 87 ---
+
+La perception   de l'antisémitisme   en  France
+
+        Question : Selon vous, l’antisémitisme est-il aujourd’hui en France, un
+                   phénomène… ?
+
+                                                  Brut     Redressé
+
+               En augmentation depuis le 7 octobre 2023
+               Oui, tout à fait                   72,6       72,5
+               Oui, plutôt                        21,8       21,7
+               Non, plutôt pas                     3,6       3,8
+               Non, pas du tout                    2,0       2,0
+               En augmentation par rapport à il y a une dizaine
+               d’années
+               Oui, tout à fait                   69,8       68,9
+               Oui, plutôt                        23,2       23,9
+               Non, plutôt pas                     3,8       4,2
+               Non, pas du tout                    3,2       3,0
+               Répandu
+               Oui, tout à fait                   57,0       56,4
+               Oui, plutôt                        31,8       32,7
+               Non, plutôt pas                     8,4       8,1
+               Non, pas du tout                    2,8       2,8
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             7
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 88 ---
+
+La perception   de  l'antisémitisme   en  Europe
+
+        Question : Selon vous, l’antisémitisme est-il aujourd’hui en Europe, un
+                   phénomène… ?
+
+                                                  Brut     Redressé
+
+               En augmentation depuis le 7 octobre 2023
+               Oui, tout à fait                   71,4       70,6
+               Oui, plutôt                        24,2       24,8
+               Non, plutôt pas                     2,6       2,6
+               Non, pas du tout                    1,8       2,0
+               En augmentation par rapport à il y a une dizaine
+               d’années
+               Oui, tout à fait                   66,4       65,5
+               Oui, plutôt                        27,2       27,4
+               Non, plutôt pas                     4,4       4,9
+               Non, pas du tout                    2,0       2,1
+               Répandu
+               Oui, tout à fait                   58,8       58,6
+               Oui, plutôt                        26,4       26,4
+               Non, plutôt pas                    11,8       12,3
+               Non, pas du tout                    3,0       2,7
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             8
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 89 ---
+
+Les candidats   à l’élection présidentielle   contribuant   à la
+
+                          montée   de  l'antisémitisme
+
+        Question : Selon vous, chacun des candidats certains ou potentiels à l’élection
+                   présidentielle suivants contribue-t-il à la montée de l’antisémitisme en
+                   France ?
+
+                                              Brut     Redressé
+                   Jean-Luc Mélenchon
+                   Oui, tout à fait           77,0       76,4
+                   Oui, plutôt                 8,6       9,6
+                   Non, plutôt pas             6,2       5,5
+                   Non, pas du tout            8,2       8,5
+                   Vous ne savez pas           0,0       0,0
+                   Marine Tondelier
+                   Oui, tout à fait           36,8       37,7
+                   Oui, plutôt                29,0       27,7
+                   Non, plutôt pas            16,4       16,2
+                   Non, pas du tout           14,0       14,0
+                   Vous ne savez pas           3,8       4,4
+                   Dominique de Villepin
+                   Oui, tout à fait           40,8       40,7
+                   Oui, plutôt                23,4       22,8
+                   Non, plutôt pas            17,2       17,5
+                   Non, pas du tout           16,4       17,0
+                   Vous ne savez pas           2,2       2,0
+                   Olivier Faure
+                   Oui, tout à fait           22,8       22,6
+                   Oui, plutôt                37,4       36,0
+                   Non, plutôt pas            22,0       23,3
+                   Non, pas du tout           12,8       12,3
+                   Vous ne savez pas           5,0       6,0
+
+                   Fabien Roussel
+                   Oui, tout à fait           20,6       21,4
+                   Oui, plutôt                31,4       31,2
+                   Non, plutôt pas            29,4       28,9
+                   Non, pas du tout           14,0       13,0
+                   Vous ne savez pas           4,6       5,4
+                   François Ruffin
+                   Oui, tout à fait           18,8       19,5
+                   Oui, plutôt                27,4       27,2
+                   Non, plutôt pas            33,2       32,4
+                   Non, pas du tout           14,8       14,7
+                   Vous ne savez pas           5,8       6,2
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             9
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 90 ---
+
+Brut     Redressé
+                   Marine Le Pen
+                   Oui, tout à fait           14,8       16,3
+                   Oui, plutôt                19,6       19,5
+                   Non, plutôt pas            29,6       28,9
+                   Non, pas du tout           35,0       34,3
+                   Vous ne savez pas           1,0       1,0
+                   Éric Zemmour
+                   Oui, tout à fait           13,4       13,9
+                   Oui, plutôt                18,2       18,6
+                   Non, plutôt pas            30,2       29,2
+                   Non, pas du tout           36,6       36,1
+                   Vous ne savez pas           1,6       2,1
+                   Raphaël Glucksmann
+                   Oui, tout à fait            9,6       10,3
+                   Oui, plutôt                17,2       18,7
+                   Non, plutôt pas            40,6       38,8
+                   Non, pas du tout           29,2       28,3
+                   Vous ne savez pas           3,4       3,9
+                   Gabriel Attal
+                   Oui, tout à fait            8,2       8,5
+                   Oui, plutôt                15,8       16,7
+                   Non, plutôt pas            38,8       37,9
+                   Non, pas du tout           35,4       34,9
+                   Vous ne savez pas           1,8       2,0
+                   Édouard Philippe
+                   Oui, tout à fait            5,6       6,3
+                   Oui, plutôt                14,8       15,2
+                   Non, plutôt pas            46,8       46,7
+                   Non, pas du tout           30,4       29,3
+
+                   Vous ne savez pas           2,4       2,5
+                   Sébastien Lecornu
+                   Oui, tout à fait            5,6       6,2
+                   Oui, plutôt                14,8       15,2
+                   Non, plutôt pas            42,6       41,9
+                   Non, pas du tout           34,2       33,5
+                   Vous ne savez pas           2,8       3,3
+                   Bruno Retailleau
+                   Oui, tout à fait            5,2       5,6
+                   Oui, plutôt                10,8       10,7
+                   Non, plutôt pas            37,8       37,9
+                   Non, pas du tout           42,4       41,7
+                   Vous ne savez pas           3,8       4,1
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             10
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 91 ---
+
+Les  candidats  à l'élection  présidentielle  faisant rempart   à
+
+                                l'antisémitisme
+
+        Question : Selon vous, chacun des candidats certains ou potentiels à l’élection
+                   présidentielle suivants représente-t-il un rempart face à la montée de
+                   l’antisémitisme en France ?
+
+                                              Brut     Redressé
+                   Bruno Retailleau
+                   Oui, tout à fait           21,6       20,3
+                   Oui, plutôt                36,2       34,9
+                   Non, plutôt pas            23,4       24,8
+                   Non, pas du tout           15,4       16,6
+                   Vous ne savez pas           3,4       3,4
+                   Éric Zemmour
+                   Oui, tout à fait           25,0       25,4
+                   Oui, plutôt                24,6       23,7
+                   Non, plutôt pas            19,8       19,0
+                   Non, pas du tout           29,4       30,4
+                   Vous ne savez pas           1,2       1,6
+                   Marine Le Pen
+                   Oui, tout à fait           25,4       25,3
+                   Oui, plutôt                25,0       24,3
+                   Non, plutôt pas            22,8       21,7
+                   Non, pas du tout           26,8       28,7
+                   Vous ne savez pas           0,0       0,0
+                   Gabriel Attal
+                   Oui, tout à fait           16,6       16,8
+                   Oui, plutôt                29,6       28,2
+                   Non, plutôt pas            25,4       25,5
+                   Non, pas du tout           27,0       27,8
+                   Vous ne savez pas           1,4       1,7
+
+                   Édouard Philippe
+                   Oui, tout à fait           13,0       11,8
+                   Oui, plutôt                33,4       33,0
+                   Non, plutôt pas            27,6       26,8
+                   Non, pas du tout           23,6       25,9
+                   Vous ne savez pas           2,4       2,6
+                   Sébastien Lecornu
+                   Oui, tout à fait           17,4       16,2
+                   Oui, plutôt                27,6       27,5
+                   Non, plutôt pas            29,6       28,9
+                   Non, pas du tout           23,0       24,7
+                   Vous ne savez pas           2,4       2,7
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             11
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 92 ---
+
+Brut     Redressé
+                   Raphaël Glucksmann
+                   Oui, tout à fait           13,4       13,0
+                   Oui, plutôt                25,0       24,4
+                   Non, plutôt pas            24,4       24,3
+                   Non, pas du tout           34,4       35,4
+                   Vous ne savez pas           2,8       2,9
+                   Dominique de Villepin
+                   Oui, tout à fait            8,6       8,6
+                   Oui, plutôt                13,0       12,9
+                   Non, plutôt pas            20,8       21,2
+                   Non, pas du tout           55,2       55,0
+                   Vous ne savez pas           2,4       2,2
+                   François Ruffin
+                   Oui, tout à fait            2,8       2,5
+                   Oui, plutôt                14,2       14,2
+                   Non, plutôt pas            30,0       28,2
+                   Non, pas du tout           47,6       49,5
+                   Vous ne savez pas           5,4       5,7
+                   Fabien Roussel
+                   Oui, tout à fait            4,0       3,8
+                   Oui, plutôt                12,8       12,7
+                   Non, plutôt pas            25,6       25,0
+                   Non, pas du tout           53,4       53,7
+                   Vous ne savez pas           4,2       4,8
+                   Jean-Luc Mélenchon
+                   Oui, tout à fait            8,0       8,6
+                   Oui, plutôt                 7,2       7,9
+                   Non, plutôt pas             6,6       6,5
+                   Non, pas du tout           78,2       77,0
+
+                   Vous ne savez pas           0,0       0,0
+                   Olivier Faure
+                   Oui, tout à fait            3,0       2,5
+                   Oui, plutôt                12,2       12,6
+                   Non, plutôt pas            29,0       27,7
+                   Non, pas du tout           52,2       53,0
+                   Vous ne savez pas           3,6       4,2
+                   Marine Tondelier
+                   Oui, tout à fait            5,8       5,9
+                   Oui, plutôt                 9,0       9,2
+                   Non, plutôt pas            23,8       22,5
+                   Non, pas du tout           58,2       58,9
+                   Vous ne savez pas           3,2       3,6
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             12
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 93 ---
+
+Le départ  de  France  en  cas de victoire  de certains
+
+                                    candidats
+
+        Question : Vous personnellement, pourriez-vous quitter la France si les candidats
+                   suivants étaient élus Président de la République en 2027… ?
+
+                                              Brut     Redressé
+                   Jean-Luc Mélenchon
+                   Oui, certainement          41,2       40,0
+                   Oui, probablement          29,2       29,4
+
+                   Non, probablement pas      13,2       13,5
+                   Non, certainement pas      16,4       17,1
+                   Marine Le Pen
+                   Oui, certainement          11,4       10,8
+                   Oui, probablement          19,6       20,0
+                   Non, probablement pas      32,8       32,5
+                   Non, certainement pas      36,2       36,8
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             13
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 94 ---
+
+Les principales  causes  de  l'antisémitisme
+
+        Question : Selon vous, quelles sont les principales causes de l’antisémitisme ? En
+                   premier ? En second ?
+
+                                                  Brut     Redressé
+
+               En premier
+               Le rejet, la haine d’Israël        37,2       37,9
+               Les idées d’extrême droite          9,2       9,5
+               Les idées d’extrême gauche         20,6       19,8
+               L’islamisme                        20,0       19,4
+               Le complotisme, les théories du complot 3,2   3,3
+               Les médias                          8,6       9,1
+               La situation économique             1,2       0,9
+               En second
+               Le rejet, la haine d’Israël        24,0       24,3
+               Les idées d’extrême droite          5,4       5,4
+               Les idées d’extrême gauche         19,8       19,5
+               L’islamisme                        22,6       22,4
+               Le complotisme, les théories du complot 12,4  12,3
+               Les médias                          9,2       9,2
+               La situation économique             3,2       3,5
+               Aucune autre cause                  3,4       3,5
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             14
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 95 ---
+
+L'impact  perçu  de  la médiatisation   du  conflit au Moyen-
+
+                    Orient  sur l'antisémitisme    en France
+
+        Question : Selon vous, la très forte médiatisation du conflit au Moyen-Orient
+                   contribue-t-elle à une augmentation de l’antisémitisme en France ?
+
+                                              Brut     Redressé
+                   Oui, tout à fait           65,8       66,3
+                   Oui, plutôt                28,0       27,4
+                   Non, plutôt pas             4,0       3,9
+
+                   Non, pas du tout            2,2       2,4
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             15
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 96 ---
+
+La sécurité  perçue  des  Français  juifs dans différents  pays
+
+        Question : Selon vous, les pays suivants sont-ils sûrs ou pas sûrs pour les Français
+                   de confession ou de culture juive ?
+
+                                              Brut     Redressé
+
+                   Israël
+                   Tout à fait sûr            69,6       69,2
+                   Plutôt sûr                 20,6       21,5
+                   Plutôt pas sûr              5,8       5,3
+                   Pas du tout sûr             4,0       4,1
+                   NSP                         0,0       0,0
+                   États-Unis
+                   Tout à fait sûr            19,8       21,1
+                   Plutôt sûr                 60,0       58,4
+                   Plutôt pas sûr             15,0       14,9
+                   Pas du tout sûr             5,2       5,6
+                   NSP                         0,0       0,0
+                   Canada
+                   Tout à fait sûr            18,4       19,9
+                   Plutôt sûr                 52,8       49,7
+                   Plutôt pas sûr             19,6       20,3
+                   Pas du tout sûr             8,0       8,9
+                   NSP                         1,2       1,3
+                   Portugal
+                   Tout à fait sûr            12,4       12,9
+                   Plutôt sûr                 49,6       48,9
+                   Plutôt pas sûr             22,4       21,9
+                   Pas du tout sûr             8,0       8,1
+                   NSP                         7,6       8,2
+                   Italie
+                   Tout à fait sûr            11,2       12,0
+                   Plutôt sûr                 47,6       45,8
+                   Plutôt pas sûr             28,0       27,8
+                   Pas du tout sûr             9,4       10,3
+                   NSP                         3,8       4,2
+
+                   République Tchèque
+                   Tout à fait sûr            11,6       11,6
+                   Plutôt sûr                 44,6       42,1
+                   Plutôt pas sûr             23,8       24,1
+                   Pas du tout sûr             7,8       8,7
+                   NSP                        12,2       13,5
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             16
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 97 ---
+
+Brut     Redressé
+                   Allemagne
+                   Tout à fait sûr             7,6       7,5
+                   Plutôt sûr                 43,0       41,7
+                   Plutôt pas sûr             38,4       39,0
+                   Pas du tout sûr             8,6       8,9
+                   NSP                         2,4       2,8
+                   Bulgarie
+                   Tout à fait sûr            10,4       9,8
+                   Plutôt sûr                 41,0       39,2
+                   Plutôt pas sûr             28,0       27,9
+                   Pas du tout sûr             8,2       9,2
+                   NSP                        12,4       13,8
+                   Grèce
+                   Tout à fait sûr             8,8       8,8
+                   Plutôt sûr                 39,8       39,1
+                   Plutôt pas sûr             29,2       29,3
+                   Pas du tout sûr            12,8       13,0
+                   NSP                         9,4       9,8
+                   Pologne
+                   Tout à fait sûr            12,6       13,2
+                   Plutôt sûr                 34,2       33,2
+                   Plutôt pas sûr             27,6       27,5
+                   Pas du tout sûr            16,4       16,4
+                   NSP                         9,2       9,6
+                   Royaume-Uni
+                   Tout à fait sûr             8,6       8,6
+                   Plutôt sûr                 30,8       30,9
+                   Plutôt pas sûr             37,8       35,8
+                   Pas du tout sûr            22,2       24,1
+
+                   NSP                         0,6       0,8
+                   France
+                   Tout à fait sûr             9,0       9,3
+                   Plutôt sûr                 25,6       25,4
+                   Plutôt pas sûr             44,8       44,8
+                   Pas du tout sûr            20,6       20,5
+                   NSP                         0,0       0,0
+                   Belgique
+                   Tout à fait sûr             5,0       5,4
+                   Plutôt sûr                 20,8       20,8
+                   Plutôt pas sûr             27,0       27,7
+                   Pas du tout sûr            46,2       44,9
+                   NSP                         1,0       1,1
+                   Espagne
+                   Tout à fait sûr             5,4       5,3
+                   Plutôt sûr                 19,0       19,1
+                   Plutôt pas sûr             21,0       21,6
+                   Pas du tout sûr            53,8       53,1
+                   NSP                         0,8       0,8
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             17
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 98 ---
+
+L’expérience    d’actes antisémites
+
+        Question : Au cours de votre vie, avez-vous, parce que vous étiez Juif, fait
+                   personnellement l’objet… ?
+
+                                                  Brut     Redressé
+
+               De moqueries désobligeantes ou de propos
+               vexants
+               Oui, plusieurs fois                48,6       50,2
+               Oui, une fois                      24,2       23,6
+               Non jamais                         24,6       24,6
+               Ne se prononcent pas                2,6       1,6
+               D’insultes ou d’injures
+               Oui, plusieurs fois                37,2       38,1
+               Oui, une fois                      22,4       21,7
+               Non jamais                         38,2       38,5
+               Ne se prononcent pas                2,2       1,6
+               De menaces, d’insultes sur les réseaux sociaux
+               Oui, plusieurs fois                20,4       21,7
+               Oui, une fois                      14,4       14,8
+               Non jamais                         55,6       54,1
+               Ne se prononcent pas                9,6       9,5
+               De menaces d’agression sur vos biens ou votre
+               personne
+               Oui, plusieurs fois                15,4       16,0
+               Oui, une fois                      17,0       18,7
+               Non jamais                         64,4       62,9
+               Ne se prononcent pas                3,2       2,5
+               De vols, dégradations ou destructions de vos
+               biens personnels
+               Oui, plusieurs fois                 7,6       7,9
+               Oui, une fois                      14,2       15,5
+               Non jamais                         74,8       74,2
+               Ne se prononcent pas                3,4       2,4
+               D’actes de violences physiques (gifle, coup,
+               bousculades, empoignade…)
+
+               Oui, plusieurs fois                 9,2       9,3
+               Oui, une fois                      12,4       13,2
+               Non jamais                         76,4       75,8
+               Ne se prononcent pas                2,0       1,7
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             18
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 99 ---
+
+Les lieux  d’exposition  à des  actes  antisémites
+
+        Question : Et parce que vous étiez Juif, avez-vous fait l’objet d’injures, de
+                   menaces verbales ou d’actes de violences physiques dans chacun des
+
+                   lieux suivants ?
+
+               Base : aux personnes victimes de moqueries,
+               d’injures, de menaces verbales ou d’actes de Brut Redressé
+               violences physiques
+               Dans un établissement scolaire (ex : collège,
+               lycée, université…) ou lors d’activités
+               périscolaires
+               Oui, plusieurs fois                40,0       41,0
+               Oui, une fois                      23,3       22,8
+               Non jamais                         34,0       33,7
+               Ne se prononcent pas                2,7       2,5
+               Dans la rue
+               Oui, plusieurs fois                17,9       19,2
+               Oui, une fois                      25,1       26,4
+               Non jamais                         54,1       51,8
+               Ne se prononcent pas                3,0       2,6
+               Sur les réseaux sociaux
+               Oui, plusieurs fois                26,3       27,5
+               Oui, une fois                      17,6       16,7
+               Non jamais                         42,2       42,7
+               Ne se prononcent pas               13,9       13,2
+               Sur votre lieu de travail ou dans votre
+
+               environnement professionnel (ex : bureau,
+               usine, colloque, salon…)
+               Oui, plusieurs fois                13,4       14,1
+               Oui, une fois                      23,3       24,4
+               Non jamais                         58,6       57,7
+               Ne se prononcent pas                4,7       3,9
+               Avec vos amis
+               Oui, plusieurs fois                11,4       11,7
+               Oui, une fois                      24,3       25,0
+               Non jamais                         62,5       61,7
+               Ne se prononcent pas                1,7       1,5
+               Dans les transports en commun (ex : bus, métro,
+               tram, train…)
+               Oui, plusieurs fois                10,7       11,4
+               Oui, une fois                      21,1       21,5
+               Non jamais                         63,3       62,1
+               Ne se prononcent pas                5,0       5,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             19
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 100 ---
+
+Base : aux personnes victimes de moqueries,
+               d’injures, de menaces verbales ou d’actes de Brut Redressé
+               violences physiques
+               Dans des lieux publics (ex : parcs, squares,
+               jardins…)
+               Oui, plusieurs fois                13,6       13,6
+               Oui, une fois                      17,1       18,5
+               Non jamais                         65,8       65,1
+               Ne se prononcent pas                3,5       2,8
+               Dans le hall de votre immeuble, à votre domicile
+               (sur votre lieu de vie)
+               Oui, plusieurs fois                 6,5       6,3
+               Oui, une fois                      16,4       17,8
+               Non jamais                         75,4       74,5
+               Ne se prononcent pas                1,7       1,5
+               Au sein de votre famille (par exemple, au cours
+               d'une discussion ou d'un repas)
+               Oui, plusieurs fois                 6,2       6,9
+               Oui, une fois                      17,1       17,1
+               Non jamais                         74,9       74,4
+               Ne se prononcent pas                1,7       1,7
+               Dans le cadre d’activités sportives (ex : club de
+               sport,…)
+               Oui, plusieurs fois                 7,2       7,8
+               Oui, une fois                      13,6       14,3
+               Non jamais                         74,7       74,2
+               Ne se prononcent pas                4,5       3,7
+               Dans un taxi ou un VTC (Uber…)
+               Oui, plusieurs fois                 6,2       6,4
+               Oui, une fois                      14,6       14,8
+
+               Non jamais                         72,7       72,1
+               Ne se prononcent pas                6,5       6,7
+               Dans un bar, un pub, un restaurant ou une
+               discothèque
+               Oui, plusieurs fois                 6,2       6,2
+               Oui, une fois                      13,9       14,8
+               Non jamais                         77,4       77,1
+               Ne se prononcent pas                2,5       1,9
+               Dans un lieu de culte
+               Oui, plusieurs fois                 4,0       3,8
+               Oui, une fois                       9,9       10,9
+               Non jamais                         83,6       83,2
+               Ne se prononcent pas                2,5       2,1
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             20
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 101 ---
+
+La connaissance    de  l'auteur de  l'agression
+
+        Question : Connaissiez-vous l’auteur de cet acte avant l’agression ?
+                   Si vous avez été victime de plusieurs actes antisémites, vous pouvez
+
+                   répondre en pensant à l’agression la plus grave
+
+               Base : aux personnes victimes d’un acte
+                                                  Brut     Redressé
+               antisémite
+               Oui, vous le connaissiez précisément 32,0     31,7
+               Oui, vous le connaissiez mais seulement de vue 20,1 20,2
+               Non, vous ne le connaissiez pas    47,9       48,1
+               Total                              100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             21
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 102 ---
+
+Le dépôt  d’une  plainte  et l’évocation  de  l’agression  à des
+
+                                     proches
+
+        Question : À la suite de cette agression, avez-vous… ?
+
+               Base : aux personnes victimes d’un acte
+                                                  Brut     Redressé
+               antisémite
+               Parlé de cette agression à un ou des proches
+               Oui                                64,8       65,5
+               Non                                35,2       34,5
+               Parlé de cette agression à une association
+               communautaire (exemple : SPCJ)
+               Oui                                25,8       27,6
+               Non                                74,2       72,4
+               Déposé plainte
+               Oui                                21,3       22,3
+               Non                                78,7       77,7
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             22
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 103 ---
+
+Les  raisons du  non-dépôt    de la plainte
+
+        Question : Pourquoi n’avez-vous pas porté plainte ?
+                   Plusieurs réponses possibles.
+
+               Base : à ceux qui ont fait l’expérience d’un acte
+                                                  Brut     Redressé
+               antisémite mais n’ont pas porté plainte
+               Ce n’était pas assez grave, cela n’en valait pas la
+                                                  37,9       37,7
+               peine
+               Vous n’avez pas eu le temps        10,4       11,0
+               Vous n’y avez pas pensé sur le moment 20,8    21,2
+               Vous pensiez que la poursuite judiciaire n’aurait
+                                                  41,0       41,5
+               pas abouti
+               Par peur des représailles          20,2       20,2
+               Vous avez eu une mauvaise expérience lors d’une
+                                                   5,4       5,0
+               déclaration passée
+               Vous préfériez ne pas avoir affaire à la police ou à
+                                                   8,5       9,2
+               la justice
+               C’était trop douloureux             6,0       5,3
+               Autre                               6,0       6,1
+               Ne se prononcent pas                6,3       4,8
+               Total                               (*)       (*)
+               (*) Le total est supérieur à 100, les interviewés ayant pu donner plusieurs réponses.
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             23
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 104 ---
+
+Les moyens    jugés les plus efficaces  pour  lutter contre
+
+                                l'antisémitisme
+
+        Question : Parmi les réponses suivantes pour lutter contre l’antisémitisme,
+                   laquelle vous parait la plus efficace ? En premier ? En second ?
+
+                                                  Brut     Redressé
+               En premier
+               L’éducation à la Shoah             13,4       14,3
+               Des peines plus sévères pour les auteurs d’actes
+                                                  37,6       37,1
+               antisémites
+               La lutte contre l’islamisme        32,6       31,7
+               La lutte contre le complotisme      8,8       9,3
+               La lutte contre les ingérences étrangères (Russie,
+                                                   7,6       7,8
+               Iran, Qatar)
+               En second
+               L’éducation à la Shoah             15,6       15,5
+               Des peines plus sévères pour les auteurs d’actes
+                                                  27,8       28,2
+               antisémites
+               La lutte contre l’islamisme        22,4       22,9
+               La lutte contre le complotisme     16,4       16,7
+               La lutte contre les ingérences étrangères (Russie,
+                                                  17,8       16,8
+               Iran, Qatar)
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             24
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 105 ---
+
+Le  sentiment   d'être rendu   responsable   des  actions  du
+
+                           gouvernement      israélien
+
+        Question : Avez-vous déjà eu le sentiment d’être accusé ou rendu responsable
+                   des actions du gouvernement israélien parce que vous êtes juif ?
+
+                                              Brut     Redressé
+                   Souvent                    29,6       30,7
+                   De temps en temps          34,2       34,3
+                   Rarement                   13,8       13,6
+
+                   Jamais                     22,4       21,4
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             25
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 106 ---
+
+La crainte  d'être victime  d'un  acte  antisémite  depuis
+
+                            l'attaque  du  7 octobre
+
+        Question : Depuis l’attaque du 7 octobre en Israël, diriez-vous que vous craignez
+                   davantage d’être victime d’un acte antisémite en France (moquerie,
+                   insulte, agression physique, tag…) ?
+
+                                              Brut     Redressé
+                   Oui, tout à fait           40,0       40,4
+                   Oui, plutôt                40,2       39,2
+                   Non, plutôt pas            11,4       11,3
+                   Non, pas du tout            8,4       9,1
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             26
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 107 ---
+
+L'expérience   d'un acte  antisémite   depuis  le 7 octobre
+
+        Question : Depuis l’attaque du 7 octobre en Israël, avez-vous été victime d’un
+                   acte antisémite (moquerie, insulte, agression physique, tag…) ?
+
+                                              Brut     Redressé
+
+                   Oui, plusieurs fois        23,0       25,4
+                   Oui, une fois              18,0       18,5
+                   Non                        59,0       56,1
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             27
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 108 ---
+
+L'adoption   de comportements      d'évitement    depuis  le 7
+
+                                     octobre
+
+        Question : Depuis l’attaque du 7 octobre en Israël, avez-vous fait chacune des
+                   choses suivantes ?
+
+                                                  Brut     Redressé
+               Vous avez arrêté de porter des signes religieux
+               distinctifs dans les espaces publics
+               Oui, vous l’avez fait              36,8       37,9
+
+               Non, vous ne l’avez pas fait       42,0       40,8
+               Vous n’êtes pas concerné           21,2       21,3
+               Vous avez évité de fréquenter certaines rues ou
+               certaines zones (ex : quartiers, rues, parcs)
+               Oui, vous l’avez fait              41,2       41,2
+               Non, vous ne l’avez pas fait       52,2       52,5
+               Vous n’êtes pas concerné            6,6       6,3
+               Vous avez évité d'afficher des signes de vos
+               origines sur Internet ou sur les réseaux sociaux
+               (ex : Facebook, Instagram, TikTok)
+               Oui, vous l’avez fait              34,8       35,0
+               Non, vous ne l’avez pas fait       44,2       44,4
+               Vous n’êtes pas concerné           21,0       20,6
+               Vous avez retiré votre Mezuza
+               Oui, vous l’avez fait              23,2       23,2
+               Non, vous ne l’avez pas fait       55,0       55,5
+               Vous n’êtes pas concerné           21,8       21,3
+               Vous avez réduit ou arrêté vos déplacements en
+               Uber
+               Oui, vous l’avez fait              19,4       18,2
+               Non, vous ne l’avez pas fait       59,0       57,4
+               Vous n’êtes pas concerné           21,6       24,4
+               Vous avez créé un groupe WhatsApp ou
+               Messenger uniquement dédié à votre sécurité et
+               à celle de vos proches
+               Oui, vous l’avez fait              16,0       16,7
+               Non, vous ne l’avez pas fait       72,4       71,9
+               Vous n’êtes pas concerné           11,6       11,5
+               Vous avez changé votre nom sur les applications
+               de livraison comme Deliveroo ou Amazon
+
+               Oui, vous l’avez fait              15,4       16,2
+               Non, vous ne l’avez pas fait       74,4       73,1
+               Vous n’êtes pas concerné           10,2       10,7
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             28
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 109 ---
+
+L'impact  du 7  octobre  sur l'identité juive et les
+
+                             convictions   sionistes
+
+        Question : Est-ce que l’attaque du 7 octobre a renforcé… ?
+
+                                                  Brut     Redressé
+               Votre identité juive
+               Beaucoup                           49,2       48,2
+               Un peu                             22,8       23,8
+
+               Peu                                12,0       12,6
+               Pas du tout                        16,0       15,4
+               Vos convictions sionistes, votre attachement à
+               Israël
+               Beaucoup                           47,4       48,0
+               Un peu                             23,6       23,7
+               Peu                                 9,4       8,4
+               Pas du tout                        19,6       19,9
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             29
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 110 ---
+
+Le sentiment    de solitude  dû  à la réaction de  la société
+
+                                    française
+
+        Question : Avez-vous ressenti un sentiment de solitude et d’isolement en tant
+                   que Français juif en raison de la réaction ou manque de réaction de la
+                   société française face aux événements du 7 octobre et à leurs
+
+                   répercussions en France ?
+
+                                              Brut     Redressé
+                   Oui, beaucoup              49,4       49,3
+                   Oui, un peu                30,8       30,4
+                   Non, pas vraiment          10,8       10,6
+                   Non, pas du tout            9,0       9,6
+                   Total                      100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             30
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 111 ---
+
+L'intention  de  quitter la France
+
+        Question : Avez-vous déjà envisagé de quitter la France ?
+
+                                                  Brut     Redressé
+
+               Oui, principalement car vous avez des craintes
+               concernant l’avenir des personnes de culture ou 26,2 25,4
+               de confession juive en France
+               Oui, principalement pour des raisons
+                                                   8,0       8,0
+               économiques
+               Oui, principalement car vous avez des craintes
+                                                  21,2       22,0
+               concernant l’avenir de la France
+               Oui, car vous êtes attiré ailleurs pour des raisons
+                                                   4,0       5,0
+               culturelles ou religieuses
+               Oui, principalement pour rejoindre votre famille à
+                                                   3,8       3,3
+               l’étranger
+               Non                                36,8       36,3
+               Total                              100,0     100,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             31
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 112 ---
+
+Le pays  envisagé  en  cas de départ   de la France
+
+        Question : Dans quel pays seriez-vous le plus susceptible de vous installer ? En
+                   premier ? Et en second ?
+
+               Base : à ceux qui ont déjà envisagé de quitter la
+                                                  Brut     Redressé
+               France
+               En premier
+               Israël                             55,1       53,6
+               Les États-Unis                     11,1       12,3
+               Le Canada                           7,6       6,8
+               Le Royaume-Uni                      4,4       4,4
+               Allemagne                           1,3       1,7
+               Portugal                            2,8       2,4
+               Espagne                             1,9       2,4
+               Italie                              3,8       3,7
+               Pologne                             0,0       0,0
+               Bulgarie                            0,0       0,0
+               République Tchèque                  0,0       0,0
+               Grèce                               1,6       1,4
+               Belgique                            0,3       0,6
+               Un autre pays                      10,1       10,8
+               En second
+               Israël                             10,4       11,5
+               Les États-Unis                     31,0       29,4
+               Le Canada                          14,2       15,2
+               Le Royaume-Uni                      4,4       4,4
+               Allemagne                           1,9       2,2
+               Portugal                            2,5       2,3
+               Espagne                             2,5       2,4
+               Italie                              6,0       6,1
+               Pologne                             0,3       0,3
+               Bulgarie                            0,9       1,4
+               République Tchèque                  1,3       0,8
+               Grèce                               0,9       1,2
+               Belgique                            0,9       0,9
+
+               Un autre pays                      22,5       21,8
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             32
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 113 ---
+
+La confiance  à l'égard  des différents  acteurs  de  la société
+
+        Question : Pour chacun des acteurs suivants, vous personnellement, lui faites-
+                   vous confiance ou pas confiance ?
+
+                                              Brut     Redressé
+
+                   La police
+                   Tout à fait confiance      17,4       16,8
+                   Plutôt confiance           55,2       55,4
+                   Plutôt pas confiance       21,0       21,4
+                   Pas du tout confiance       6,4       6,4
+                   Les institutions religieuses
+                   Tout à fait confiance      13,0       13,6
+                   Plutôt confiance           57,4       55,6
+                   Plutôt pas confiance       19,4       19,4
+                   Pas du tout confiance      10,2       11,3
+                   Les entreprises
+                   Tout à fait confiance      10,0       9,6
+                   Plutôt confiance           51,8       51,3
+                   Plutôt pas confiance       26,6       26,5
+                   Pas du tout confiance      11,6       12,6
+                   Les maires et les élus locaux
+                   Tout à fait confiance       6,8       7,2
+                   Plutôt confiance           47,0       46,6
+                   Plutôt pas confiance       32,2       31,1
+                   Pas du tout confiance      14,0       15,1
+                   Les associations
+                   Tout à fait confiance       9,8       9,9
+                   Plutôt confiance           36,2       36,5
+                   Plutôt pas confiance       24,4       23,9
+                   Pas du tout confiance      29,6       29,8
+                   La justice
+                   Tout à fait confiance       7,2       6,8
+                   Plutôt confiance           30,2       31,9
+                   Plutôt pas confiance       36,0       34,7
+                   Pas du tout confiance      26,6       26,7
+
+                   Les députés et les sénateurs
+                   Tout à fait confiance       4,6       4,3
+                   Plutôt confiance           29,0       28,7
+                   Plutôt pas confiance       42,8       41,7
+                   Pas du tout confiance      23,6       25,3
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             33
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
+
+--- page 114 ---
+
+Brut     Redressé
+                   Le gouvernement
+                   Tout à fait confiance       6,8       6,6
+                   Plutôt confiance           23,6       23,8
+                   Plutôt pas confiance       40,8       39,6
+                   Pas du tout confiance      28,8       30,0
+                   Le Président de la République
+                   Tout à fait confiance       8,0       7,6
+                   Plutôt confiance           19,0       20,3
+                   Plutôt pas confiance       30,2       27,3
+                   Pas du tout confiance      42,8       44,7
+                   Les médias
+                   Tout à fait confiance       3,8       3,7
+                   Plutôt confiance           17,0       16,5
+                   Plutôt pas confiance       41,0       39,8
+                   Pas du tout confiance      38,2       40,0
+
+        Ifop pour AJC Paris, en partenariat avec la Fondapol             34
+        Radiographie de l’antisémitisme - Volet Français juifs (vague 4)  Septembre 2026
