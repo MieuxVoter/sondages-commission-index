@@ -1,0 +1,330 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10380-pres-mesures-pouvoir-achat-gauche-ifop-lhumanite-13-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Le  regard  des  Français  sur différentes   mesures    en
+
+                 matière  de  pouvoir  d’achat  portées   par la gauche
+
+                                                      Notice  technique
+
+           FD N° 122 924
+           Contact Ifop:
+           Frédéric Dabi
+           Département Opinion et Stratégies d'Entreprise
+           TEL : 01 45 84 14 44
+           prenom.nom@ifop.com
+           NOVEMBRE 2026
+
+--- page 2 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Ifop pour L’Humanité
+
+             Echantillon
+                            L’enquête a été menée auprès d’un échantillon de 1 003 personnes
+                            représentatif de la population française âgée de 18 ans et plus.
+
+            Méthodologie
+                            La représentativité de l’échantillon a été assurée par la méthode des
+                            quotas (sexe, âge, profession de la personne interrogée) après
+
+                            stratification par région et catégorie d'agglomération.
+
+            Mode de recueil
+
+                            Les interviews ont été réalisées par questionnaire auto-administré en ligne
+                            du 9 au 10 novembre 2026.
+
+        Conditions d’interrogation : Les questions ont été placées à la suite des questions permettant d’établir les
+        quotas.
+        Tout interviewé ayant complété un questionnaire a obtenu des points cumulables pour une valeur inférieure à
+        1 euro. L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2022) et d’un
+        redressement politique sur la base de la reconstitution des votes suivants : présidentielle 2022 1er tour,
+        législatives 2024 1er tour.
+
+        NOTICE TECHNIQUE : Ifop                                           2
+
+        Le regard des Français sur différentes mesures en matière de pouvoir d’achat portées par la gauche  Novembre
+        2026
+
+--- page 3 ---
+
+Précision  relative  aux  marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de part
+        et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+        comme le montre le tableau ci-dessous :
+
+                  INTERVALLE  DE CONFIANCE    A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 1 000 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 1,8. Le vrai pourcentage est donc compris entre 8,2% et 11,8%.
+
+        NOTICE TECHNIQUE : Ifop                                           3
+
+        Le regard des Français sur différentes mesures en matière de pouvoir d’achat portées par la gauche  Novembre
+        2026
+
+--- page 4 ---
+
+Structure  de l’échantillon
+
+                                                       Brut      Redressé
+                                                       (%)         (%)
+
+         SEXE DE L'INTERVIEWÉ(E)
+          Homme                                        51,9       47,7
+          Femme                                        48,1       52,3
+         AGE DE L'INTERVIEWÉ(E)
+
+           De18a24ans                                  10,9       10,3
+           De25a34ans                                  15,4       14,8
+           De35a49ans                                  24,4       24,0
+           De50a64ans                                  22,5       24,4
+           De65a74ans                                  12,8       14,0
+
+           A75ansetplus                                14,1       12,5
+         PROFESSION DE L'INTERVIEWÉ(E)
+           Agriculteurs                                0,7         0,7
+           Artisans                                    4,0         3,8
+           Cadres                                      10,4       11,2
+
+           Intermediaires                              14,8       15,0
+           Employes                                    16,6       15,8
+           Ouvriers                                    13,2       12,1
+           Inactifs                                    40,5       41,3
+
+         CATEGORIE D’AGGLOMERATION
+           Commune rurale                              22,1       21,1
+           Unité urbaine de 2 000 à 19 999 hab.        14,4       18,2
+           Unité urbaine de 20 000 à 99 999 hab.       13,2       13,9
+           Unité urbaine de 100 000 à 199 999 hab.     34,2       30,6
+
+           Agglomération parisienne                    16,2       16,3
+         REGION
+          Grand-Est                                    8,4         8,5
+          Nouvelle-Aquitaine                           8,9         9,5
+          Auvergne-Rhône-Alpes                         13,1       12,3
+
+          Bourgogne-Franche-Comté                      4,0         4,3
+          Bretagne                                     4,6         5,2
+          Centre-Val-De-Loire                          3,3         3,9
+          Ile-De-France                                19,9       18,4
+          Occitanie                                    9,4         9,4
+
+          Hauts-de-France                              9,5         8,9
+          Normandie                                    3,9         5,1
+          Pays de la Loire                             6,0         5,8
+          PACA, Corse                                  9,2         8,5
+
+         TOTAL                                        100,0       100,0
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE : Ifop                                           4
+
+        Le regard des Français sur différentes mesures en matière de pouvoir d’achat portées par la gauche  Novembre
+        2026
+
+--- page 5 ---
+
+Reconstitution    du 1er  tour de  l’élection présidentielle
+
+                                      2022
+
+                                                      Brut       Redressé
+                                                       (%)        (%)
+
+         • Nathalie Arthaud ......................................................................... 1,0 0,6
+         • Philippe Poutou ........................................................................... 1,4 0,8
+
+         • Fabien Roussel ............................................................................. 3,2 2,3
+
+         • Jean-Luc Mélenchon .................................................................... 14,6 21,5
+         • Anne Hidalgo................................................................................ 3,4 1,7
+
+         • Yannick Jadot ............................................................................... 4,1 4,6
+         • Emmanuel Macron ...................................................................... 24,4 27,8
+
+         • Valérie Pécresse ........................................................................... 6,6 4,8
+
+         • Nicolas Dupont-Aignan ................................................................ 2,9 2,1
+         • Marine Le Pen .............................................................................. 30,6 23,5
+
+         • Éric Zemmour............................................................................... 5,2 7,1
+         • Jean Lassalle ................................................................................. 2,7 3,2
+
+           TOTAL ......................................................................................... 100 100
+
+            - Ne se prononcent pas ......................................................... 28,7
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE : Ifop                                           5
+
+        Le regard des Français sur différentes mesures en matière de pouvoir d’achat portées par la gauche  Novembre
+        2026
+
+--- page 6 ---
+
+Reconstitution    du 1er  tour des  élections  législatives 2024
+
+                                                      Brut       Redressé
+                                                       (%)         (%)
+
+           Extrême gauche                              0,9         1,2
+           NFP                                        27,5        28,7
+
+           Divers gauche                               0,8         1,0
+
+           ENS Ensemble !                             20,9        22,4
+           Divers centre                               1,1         0,8
+
+           LR & DVD                                   12,2         9,5
+
+           RN & alliés                                33,6        34,0
+           Droite souverainiste, divers EXD - Reconquête 1,9       1,1
+
+           DIVERS                                      1,1         1,3
+         TOTAL                                        100,0       100,0
+
+          Ne se prononcent pas                        36,6
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE : Ifop                                           6
+
+        Le regard des Français sur différentes mesures en matière de pouvoir d’achat portées par la gauche  Novembre
+        2026
+
+--- page 7 ---
+
+L’adhésion   à différentes   mesures   portées  par  la gauche
+
+                        en matière   de pouvoir   d’achat
+
+        Question:   Pour chacune des mesures suivantes, diriez-vous que vous y êtes tout
+
+                    à fait favorable, plutôt favorable, plutôt pas favorable ou pas du tout
+                    favorable ?
+
+         Base : Ensemble des répondants (1003)
+                                                      Brut       Redressé
+                                                       (%)        (%)
+
+         Bloquer temporairement les prix des carburants
+
+         • Tout à fait favorable                      47,3        47,2
+
+         • Plutôt favorable                           40,0        39,5
+
+         • Plutôt pas favorable                        8,4         8,8
+
+         • Pas du tout favorable                       4,4         4,5
+
+         Indexer automatiquement les salaires sur l’évolution des prix
+
+         • Tout à fait favorable                      44,3        45,1
+
+         • Plutôt favorable                           41,6        40,7
+
+         • Plutôt pas favorable                       10,6        10,8
+
+         • Pas du tout favorable                       3,6         3,4
+
+         Encadrer le prix du foncier, c’est-à-dire le prix des terrains, afin de
+         limiter la hausse du coût des logements
+
+         • Tout à fait favorable                      35,7        36,0
+
+         • Plutôt favorable                           48,3        49,5
+
+         • Plutôt pas favorable                       11,5        10,2
+
+         • Pas du tout favorable                       4,6         4,4
+
+        NOTICE TECHNIQUE : Ifop                                           7
+
+        Le regard des Français sur différentes mesures en matière de pouvoir d’achat portées par la gauche  Novembre
+        2026
+
+--- page 8 ---
+
+Base : Ensemble des répondants (1003)
+                                                      Brut       Redressé
+                                                       (%)        (%)
+
+         Bloquer l’augmentation des loyers
+
+         • Tout à fait favorable                      36,5        39,8
+
+         • Plutôt favorable                           44,0        43,7
+
+         • Plutôt pas favorable                       13,5        11,6
+
+         • Pas du tout favorable                       6,1         5,0
+
+         Créer un pôle public de l’énergie regroupant notamment EDF, Engie et
+         TotalEnergies, afin de renforcer le contrôle public sur la production,
+         l’approvisionnement et les prix de l’énergie
+
+         • Tout à fait favorable                      35,2        36,5
+
+         • Plutôt favorable                           44,5        41,3
+
+         • Plutôt pas favorable                       15,3        16,4
+
+         • Pas du tout favorable                       5,1         5,7
+
+         Porter le SMIC à 1 700 euros nets par mois, contre environ 1 480
+         euros actuellement
+
+         • Tout à fait favorable                      32,0        35,0
+
+         • Plutôt favorable                           27,6        26,3
+
+         • Plutôt pas favorable                       26,0        25,6
+
+         • Pas du tout favorable                      14,4        13,1
+
+        NOTICE TECHNIQUE : Ifop                                           8
+
+        Le regard des Français sur différentes mesures en matière de pouvoir d’achat portées par la gauche  Novembre
+        2026

@@ -1,0 +1,650 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10384-pres-iv-ifop-18-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Les  intentions    de  vote   à l’élection    présidentielle
+
+                                                  Notice    technique
+
+           FD N°122919
+           Contact Ifop :
+
+           Frédéric Dabi
+           Département Opinion et Stratégies d'Entreprise
+           TEL : 01 45 84 14 44
+           prenom.nom@ifop.com
+           NOVEMBRE 2026
+
+--- page 2 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Etude réalisée par Ifop-Fiducial pour TF1-LCI,  Le Figaro et Sud
+         Radio
+
+             Echantillon    L’enquête a été menée auprès d’un échantillon de 1 690 personnes
+
+                            inscrites sur les listes électorales, extrait d’un échantillon de 1 823
+                            personnes, représentatif de la population française âgée de 18 ans
+
+                            et plus.
+
+            Méthodologie
+                            La représentativité de l’échantillon a été assurée par la méthode des
+                            quotas (sexe, âge, profession de la personne interrogée) après
+
+                            stratification par région et catégorie d'agglomération.
+
+            Mode de recueil
+                            Les interviews ont été réalisées par questionnaire auto-administré
+
+                            en ligne du 13 au 16 novembre 2026.
+
+        Conditions d’interrogation : Les questions ont été placées à la suite des questions permettant d’établir les
+        quotas.
+
+        Tout interviewé ayant complété un questionnaire a obtenu des points cumulables pour une valeur inférieure
+        à 1 euro.
+          •  L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2022) et d’un
+             redressement politique sur la base de la reconstitution des votes suivants : présidentielle 2022 1er
+             tour, européennes 2024, législatives 2024 1er tour
+
+               La présente notice est consultable sur le site de la commission des sondages
+
+        NOTICE TECHNIQUE                                                  2
+
+        Les intentions de vote à l’élection présidentielle  Novembre 2026
+
+--- page 3 ---
+
+Précision  relative  aux marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+
+        comme le montre le tableau ci-dessous :
+
+                   INTERVALLE  DE CONFIANCE  A 95% DE CHANCE
+
+                  Si le pourcentage trouvé est…
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+
+           100       4,4      6,0       8,0      9,2       9,8      10,0
+           200       3,1      4,2       5,7      6,5       6,9      7,1
+           300       2,5      3,5       4,6      5,3       5,7      5,8
+           400       2,2      3,0       4,0      4,6       4,9      5,0
+           500       1,9      2,7       3,6      4,1       4,4      4,5
+           600       1,8      2,4       3,3      3,7       4,0      4,1
+           700       1,6      2,3       3,0      3,5       3,7      3,8
+           800       1,5      2,1       2,8      3,2       3,5      3,5
+           900       1,4      2,0       2,6      3,0       3,2      3,3
+
+           1 000     1,4      1,8       2,5      2,8       3,0      3,1
+           1 100     1,3      1,8       2,4      2,7       2,9      3,0
+           1 200     1,2      1,7       2,3      2,6       2,8      2,8
+           1 300     1,2      1,6       2,2      2,5       2,7      2,7
+           1 400     1,1      1,6       2,1      2,4       2,6      2,6
+           1 500     1,1      1,5       2,0      2,3       2,4      2,5
+           2 000     1,0      1,3       1,8      2,0       2,2      2,2
+           3 000     0,8      1,1       1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d'un échantillon de 1 000 personnes, si le pourcentage mesuré est de 10 %,
+        la marge d'erreur est égale à 1,8. Le vrai pourcentage est donc compris entre 8,2 % et 11,8 %.
+        Exemple de lecture du tableau : dans le cas d'un échantillon de 1 100 personnes, si le pourcentage mesuré est de 10 %,
+        la marge d'erreur est égale à 1,8. Le vrai pourcentage est donc compris entre 8,2 % et 11,8 %.
+        Exemple de lecture du tableau : dans le cas d'un échantillon de 1 200 personnes, si le pourcentage mesuré est de 10 %,
+        la marge d'erreur est égale à 1,7. Le vrai pourcentage est donc compris entre 8,3 % et 11,7 %.
+
+        Exemple de lecture du tableau : dans le cas d'un échantillon de 1 300 personnes, si le pourcentage mesuré est de 10 %,
+        la marge d'erreur est égale à 1,6. Le vrai pourcentage est donc compris entre 8,4 % et 11,6 %.
+        Exemple de lecture du tableau : dans le cas d'un échantillon de 1 400 personnes, si le pourcentage mesuré est de 10 %,
+        la marge d'erreur est égale à 1,6. Le vrai pourcentage est donc compris entre 8,4 % et 11,6 %.
+        Exemple de lecture du tableau : dans le cas d'un échantillon de 1 500 personnes, si le pourcentage mesuré est de 10 %,
+        la marge d'erreur est égale à 1,5. Le vrai pourcentage est donc compris entre 8,5 % et 11,5 %.
+
+        NOTICE TECHNIQUE                                                  3
+
+        Les intentions de vote à l’élection présidentielle  Novembre 2026
+
+--- page 4 ---
+
+Structure  de l’échantillon
+
+                                                         Brut     Redressé
+                                                          %         %
+        SEXE
+           Un homme                                      47,9       47,7
+
+           Une femme                                     52,1       52,3
+        AGE
+           De18a24ans                                    10,5       10,3
+           De25a34ans                                    14,1       14,8
+           De35a49ans                                    24,4       24,0
+           De50a64ans                                    23,4       24,4
+           De65a74ans                                    14,4       14,0
+
+           A75ansetplus                                  13,2       12,5
+        REGION
+           GrandEst                                       8,6       8,5
+           NouvelleAquitaine                              9,0       9,5
+           AuvergneRhoneAlpes1                           11,8       12,3
+           BourgogneFrancheComte1                         4,1       4,3
+
+           Bretagne2                                      5,2       5,2
+           CentreValDeLoire1                              4,0       3,9
+           IleDeFrance2                                  19,3       18,4
+           Occitanie                                      9,8       9,4
+           HautsdeFrance                                  8,4       8,9
+           Normandie1                                     5,3       5,1
+           PaysDeLaLoire2                                 6,2       5,8
+
+           PACACorse                                      8,3       8,5
+        AGGLO
+           Commune rurale                                22,3       21,1
+           Unité urbaine de 2 000 à 19 999 hab.          17,8       18,2
+           Unité urbaine de 20 000 à 99 999 hab.         13,9       13,9
+           Unité urbaine de 100 000 à 199 999 hab.       31,2       30,6
+
+           Agglomération parisienne                      14,7       16,3
+        PROFESSION
+           Agriculteurs1                                  0,5       0,7
+           Artisans1                                      4,0       3,8
+           Cadres1                                       10,0       11,2
+           Intermediaires1                               15,6       15,0
+           Employes1                                     16,5       15,8
+
+           Ouvriers1                                     12,7       12,1
+           Inactifs                                      40,6       41,3
+        DIPLOME
+           ENCOURSDETUDES                                13,3       6,8
+           Total SANSDIPLOME, CEP, BEPC                   7,4       23,0
+           CAPBEP                                        15,9       22,3
+
+           BACBP                                         20,1       16,5
+           Total SUPCOURT, SUPLONG                       43,3       31,4
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+        NOTICE TECHNIQUE                                                  4
+
+        Les intentions de vote à l’élection présidentielle  Novembre 2026
+
+--- page 5 ---
+
+Reconstitution   du  1er tour de l’élection  présidentielle
+
+                                      2022
+
+                                                      Brut       Redressé
+
+                                                       (%)        (%)
+         • Nathalie Arthaud ......................................................................... 1,6 0,6
+
+         • Philippe Poutou ........................................................................... 2,2 0,8
+
+         • Fabien Roussel ............................................................................. 3,5 2,3
+         • Jean-Luc Mélenchon .................................................................... 12,1 21,5
+
+         • Anne Hidalgo................................................................................ 2,4 1,7
+         • Yannick Jadot ............................................................................... 4,6 4,6
+
+         • Emmanuel Macron ...................................................................... 26,4 27,8
+
+         • Valérie Pécresse ........................................................................... 6,8 4,8
+         • Nicolas Dupont-Aignan ................................................................ 2,8 2,1
+
+         • Marine Le Pen .............................................................................. 29,3 23,5
+         • Éric Zemmour............................................................................... 3,7 7,1
+
+         • Jean Lassalle ................................................................................. 4,5 3,2
+
+           TOTAL .......................................................................................... 100 100
+
+            - Ne se prononcent pas ......................................................... 23,7
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE                                                  5
+
+        Les intentions de vote à l’élection présidentielle  Novembre 2026
+
+--- page 6 ---
+
+Reconstitution    du vote  aux  élections  européennes    2024
+
+                                                      Brut       Redressé
+
+                                                       (%)         (%)
+           Une liste d’extrême gauche                  0,6        0,7
+
+           La liste de La France insoumise             9,2        10,0
+
+           La liste du Parti Communiste                2,1        2,4
+           La liste du Parti Socialiste et de Place Publique 13,5 14,1
+
+           La liste des Ecologistes                    7,2        5,5
+           La liste de Renaissance                    15,3        14,8
+
+           La liste du Parti Animaliste                2,0        2,0
+
+           Une liste divers écologistes                0,3        1,1
+           La liste Les Républicains                  10,5        7,4
+
+           La liste Alliance Rurale                    0,9        2,4
+           La liste du Rassemblement National         33,6        32,3
+
+           La liste Reconquête                         2,8        5,5
+
+           La liste des Patriotes                       -          -
+           La liste de l’UPR                           0,9        1,0
+
+           Une autre liste                             1,1        0,7
+          TOTAL                                       100,0       100,0
+
+          Ne se prononcent pas                        34,3
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE                                                  6
+
+        Les intentions de vote à l’élection présidentielle  Novembre 2026
+
+--- page 7 ---
+
+Reconstitution   du  1er tour des  élections législatives  2024
+
+                                                      Brut       Redressé
+
+                                                       (%)         (%)
+           Extrême gauche                              1,7         1,2
+
+           NFP                                        25,7        28,7
+
+           Divers gauche                               1,3         1,0
+           ENS Ensemble !                             22,9        22,4
+
+           Divers centre                               0,8         0,8
+           LR & DVD                                   11,9         9,5
+
+           RN & alliés                                32,3        34,0
+
+           Droite souverainiste, divers EXD - Reconquête 1,5       1,1
+           DIVERS                                      1,9         1,3
+
+         TOTAL                                        100,0       100,0
+          Ne se prononcent pas                        32,8
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE                                                  7
+
+        Les intentions de vote à l’élection présidentielle  Novembre 2026
+
+--- page 8 ---
+
+L’intention   d’aller voter
+
+        Question :  [Aux personnes inscrites sur les listes électorales] Vous personnellement,
+                    envisagez-vous d’aller voter à la prochaine élection présidentielle qui aura lieu le
+                    18 avril 2027 ?
+
+         Base : Ensemble des personnes inscrites sur les listes électorales Brut Redressé
+                                                       (%)        (%)
+
+         • Oui ............................................................................................... 95,4 94,7
+
+         • Non .............................................................................................. 4,6 5,3
+           TOTAL .......................................................................................... 100 100
+
+        Question :  [Aux personnes inscrites sur les listes électorales envisageant d’aller voter à la
+                    prochaine élection présidentielle] Et diriez-vous que… ?
+
+                                                      Brut       Redressé
+                                                       (%)        (%)
+
+         • C’est tout à fait certain ............................................................... 79,0 79,3
+
+         • C’est pratiquement certain ......................................................... 16,1 15,1
+         • Il y a de grandes chances ............................................................ 3,7 3,8
+
+         • Ce n’est pas certain ..................................................................... 1,2 1,8
+
+           TOTAL .......................................................................................... 100 100
+
+        * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point
+
+        NOTICE TECHNIQUE                                                  8
+
+        Les intentions de vote à l’élection présidentielle  Novembre 2026
+
+--- page 9 ---
+
+Les intentions  de  vote à l’élection  présidentielle  –
+
+                       Hypothèse    élargie avec  T. Riner
+
+        Question : Si dimanche prochain se déroulait le premier tour de l’élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+                                                         Résultats
+                         Base : Ensemble des personnes inscrites sur les listes électorales (1)
+                                                         publiés
+
+                                                          (%)
+                     Nathalie Arthaud                     -
+                     Jean-Luc Mélenchon                   17
+                     Fabien Roussel                       1,5
+                     François Ruffin                      2
+                     Marine Tondelier                     2
+                     Raphaël Glucksmann                   8
+                     Gabriel Attal                        4,5
+
+                     Edouard Philippe                     10
+                     Dominique de Villepin                1,5
+                     Bruno Retailleau                     4
+                     David Lisnard                        8
+                     Nicolas Dupont-Aignan                1,5
+                     Marine Le Pen                        32
+                     Éric Zemmour                         3
+                     Natacha Polony                       1
+                     Teddy Riner                          4
+                     TOTAL                                100
+                     • Ne se prononcent pas              22,2
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1314 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1078 personnes ont exprimé une intention de vote.
+        Nota Bene : les scores établis tiennent compte des redressements de l'élection présidentielle 2022 (1er tour) sur la base des électeurs certains d'aller voter (colonne grise).
+
+        NOTICE TECHNIQUE                                                  9
+
+        Les intentions de vote à l’élection présidentielle  Novembre 2026
+
+--- page 10 ---
+
+Les intentions  de  vote à l’élection  présidentielle  –
+
+          Hypothèse    avec  quatre  candidats   de la droite et/ou  du
+                                     centre
+
+        Question : Si dimanche prochain se déroulait le premier tour de l’élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+                                                         Résultats
+                         Base : Ensemble des personnes inscrites sur les listes électorales (1)
+                                                         publiés
+
+                                                          (%)
+                     Nathalie Arthaud                     0,5
+                     Jean-Luc Mélenchon                   19
+                     Fabien Roussel                       1,5
+                     Marine Tondelier                     2,5
+                     Raphaël Glucksmann                   10
+                     Gabriel Attal                        4
+                     Edouard Philippe                     11
+                     Bruno Retailleau                     4
+                     David Lisnard                        9
+                     Nicolas Dupont-Aignan                1,5
+                     Marine Le Pen                        34
+                     Éric Zemmour                         3
+                     TOTAL                                100
+                     • Ne se prononcent pas              24,5
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1276 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1055 personnes ont exprimé une intention de vote.
+        Nota Bene : les scores établis tiennent compte des redressements de l'élection présidentielle 2022 (1er tour) sur la base des électeurs certains d'aller voter (colonne grise).
+
+        NOTICE TECHNIQUE                                                  10
+
+        Les intentions de vote à l’élection présidentielle  Novembre 2026
+
+--- page 11 ---
+
+La sûreté  du choix  à l’élection présidentielle   2027
+
+        Question : Diriez-vous que vous êtes sûr(e) de votre choix ou que vous pouvez
+                   encore changer d’avis ?
+
+         Base : Ensemble des personnes inscrites sur les listes électorales ayant Brut Redressé
+         exprimé l’intention d’aller voter pour un candidat
+                                                       (%)        (%)
+
+         • Oui ............................................................................................... 67,9 68,7
+
+         • Non .............................................................................................. 32,1 31,3
+           TOTAL .......................................................................................... 100 100
+
+        NOTICE TECHNIQUE                                                  11
+
+        Les intentions de vote à l’élection présidentielle  Novembre 2026
+
+--- page 12 ---
+
+Les intentions  de  vote à l’élection  présidentielle  –
+
+             Hypothèse    E. Philippe,  B. Retailleau  et D. Lisnard
+
+        Question : Si dimanche prochain se déroulait le premier tour de l’élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+                                                         Résultats
+                         Base : Ensemble des personnes inscrites sur les listes électorales (1)
+                                                         publiés
+
+                                                          (%)
+                     Nathalie Arthaud                     -
+                     Jean-Luc Mélenchon                  19,5
+                     Fabien Roussel                       2,5
+                     Marine Tondelier                     2,5
+                     Raphaël Glucksmann                   10
+                     Edouard Philippe                     12
+                     Bruno Retailleau                     4
+                     David Lisnard                        10
+                     Nicolas Dupont-Aignan                1,5
+                     Marine Le Pen                        35
+                     Éric Zemmour                         3
+                     TOTAL                                100
+                     • Ne se prononcent pas              25,2
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1264 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1049 personnes ont exprimé une intention de vote.
+        Nota Bene : les scores établis tiennent compte des redressements de l'élection présidentielle 2022 (1er tour) sur la base des électeurs certains d'aller voter (colonne grise).
+
+        NOTICE TECHNIQUE                                                  12
+
+        Les intentions de vote à l’élection présidentielle  Novembre 2026
+
+--- page 13 ---
+
+Les intentions  de  vote à l’élection  présidentielle  –
+
+               Hypothèse    G. Attal, B. Retailleau  et D. Lisnard
+
+        Question : Si dimanche prochain se déroulait le premier tour de l’élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+                                                         Résultats
+                         Base : Ensemble des personnes inscrites sur les listes électorales (1)
+                                                         publiés
+
+                                                          (%)
+                     Nathalie Arthaud                     0,5
+                     Jean-Luc Mélenchon                   19
+                     Fabien Roussel                       2
+                     Marine Tondelier                     2,5
+                     Raphaël Glucksmann                   11
+                     Gabriel Attal                        9
+                     Bruno Retailleau                     5
+                     David Lisnard                        11
+                     Nicolas Dupont-Aignan                2
+                     Marine Le Pen                        35
+                     Éric Zemmour                         3
+                     TOTAL                                100
+                     • Ne se prononcent pas              24,7
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1272 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1057 personnes ont exprimé une intention de vote.
+        Nota Bene : les scores établis tiennent compte des redressements de l'élection présidentielle 2022 (1er tour) sur la base des électeurs certains d'aller voter (colonne grise).
+
+        NOTICE TECHNIQUE                                                  13
+
+        Les intentions de vote à l’élection présidentielle  Novembre 2026
+
+--- page 14 ---
+
+Les intentions  de  vote à l’élection  présidentielle  –
+
+                     Hypothèse    E. Philippe  et D. Lisnard
+
+        Question : Si dimanche prochain se déroulait le premier tour de l’élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+                                                         Résultats
+                         Base : Ensemble des personnes inscrites sur les listes électorales (1)
+                                                         publiés
+
+                                                          (%)
+                     Nathalie Arthaud                     0,5
+                     Jean-Luc Mélenchon                  19,5
+                     Fabien Roussel                       2
+                     Marine Tondelier                     2,5
+                     Raphaël Glucksmann                   11
+                     Edouard Philippe                     14
+                     David Lisnard                        12
+                     Nicolas Dupont-Aignan                1,5
+                     Marine Le Pen                        34
+                     Éric Zemmour                         3
+                     TOTAL                                100
+                     • Ne se prononcent pas              25,2
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1264 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1051 personnes ont exprimé une intention de vote.
+        Nota Bene : les scores établis tiennent compte des redressements de l'élection présidentielle 2022 (1er tour) sur la base des électeurs certains d'aller voter (colonne grise).
+
+        NOTICE TECHNIQUE                                                  14
+
+        Les intentions de vote à l’élection présidentielle  Novembre 2026
+
+--- page 15 ---
+
+Les  déterminants    du vote
+
+        Question : Chacun des éléments suivants va-t-il jouer un rôle déterminant,
+                   important mais pas déterminant ou secondaire dans votre vote au
+
+                   premier tour de l’élection présidentielle ?
+
+                                                       Brut    Redressé
+           La santé
+           Déterminant                                 77,4      78,3
+           Important mais pas déterminant              20,7      19,7
+           Secondaire                                  2,0       2,0
+           Le relèvement des salaires et du pouvoir d’achat
+           Déterminant                                 69,1      73,9
+           Important mais pas déterminant              27,2      21,7
+           Secondaire                                  3,7       4,3
+           La sécurité, la lutte contre la délinquance
+           Déterminant                                 69,9      69,4
+           Important mais pas déterminant              24,9      25,3
+           Secondaire                                  5,3       5,3
+           L’éducation
+
+           Déterminant                                 67,1      67,7
+           Important mais pas déterminant              28,2      27,3
+           Secondaire                                  4,7       5,0
+           Les retraites et l'avenir du système de retraite
+           Déterminant                                 62,2      64,4
+           Important mais pas déterminant              34,3      32,4
+           Secondaire                                  3,5       3,2
+           L’évolution du prix des carburants et de l’énergie
+           Déterminant                                 62,0      63,6
+           Important mais pas déterminant              31,9      31,0
+           Secondaire                                  6,2       5,5
+           La réduction de la dette publique
+           Déterminant                                 60,1      60,2
+           Important mais pas déterminant              31,2      31,6
+           Secondaire                                  8,7       8,3
+           La lutte contre le terrorisme
+           Déterminant                                 58,6      58,0
+           Important mais pas déterminant              33,8      34,3
+           Secondaire                                  7,6       7,7
+           La maîtrise du niveau des impôts
+           Déterminant                                 56,9      57,3
+           Important mais pas déterminant              37,5      38,2
+           Secondaire                                  5,6       4,4
+
+        NOTICE TECHNIQUE                                                  15
+
+        Les intentions de vote à l’élection présidentielle  Novembre 2026
+
+--- page 16 ---
+
+Les  déterminants    du vote
+
+        Question : Chacun des éléments suivants va-t-il jouer un rôle déterminant,
+                   important mais pas déterminant ou secondaire dans votre vote au
+
+                   premier tour de l’élection présidentielle ?
+
+                                                       Brut    Redressé
+           La sauvegarde des services publics
+           Déterminant                                 51,0      51,9
+           Important mais pas déterminant              39,7      39,4
+           Secondaire                                  9,3       8,7
+           La lutte contre le chômage
+           Déterminant                                 48,2      51,0
+           Important mais pas déterminant              44,3      42,4
+           Secondaire                                  7,5       6,6
+           La lutte contre l’immigration clandestine
+           Déterminant                                 50,9      50,7
+           Important mais pas déterminant              31,6      30,3
+           Secondaire                                  17,5      18,9
+           Le logement
+
+           Déterminant                                 40,5      44,1
+           Important mais pas déterminant              48,0      45,4
+           Secondaire                                  11,5      10,5
+           La protection de l’environnement, la lutte contre le
+           dérèglement climatique
+           Déterminant                                 41,5      39,3
+           Important mais pas déterminant              43,3      44,5
+           Secondaire                                  15,1      16,2
+           La place de la France en Europe et dans le monde
+           Déterminant                                 38,3      35,8
+           Important mais pas déterminant              46,2      48,6
+           Secondaire                                  15,5      15,5
+           La guerre en Ukraine
+           Déterminant                                 24,4      22,6
+           Important mais pas déterminant              43,4      46,2
+           Secondaire                                  32,2      31,2
+
+        NOTICE TECHNIQUE                                                  16
+
+        Les intentions de vote à l’élection présidentielle  Novembre 2026

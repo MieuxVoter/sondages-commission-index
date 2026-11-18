@@ -1,0 +1,514 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10383-pres-logement-ifop-18-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Les  Français    et la question    du logement     dans
+
+        l’élection   présidentielle
+
+        Notice   technique
+
+                                                                FK / LM N° 122836
+                                                                CONTACTS IFOP :
+                                                           François Kraus / Léo Major
+                                                              Département Opinion
+                                                            et Stratégies d'Entreprise
+                                                             prénom.nom@ifop.com
+                                                                NOVEMBRE 2026
+
+--- page 2 ---
+
+1
+
+                                                  La  méthodologie
+
+        Ifop pour la Fédération Française du Bâtiment                     1
+
+        Les Français et la question du logement dans l’élection présidentielle  Octobre 2026
+
+--- page 3 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Etude réalisée par Ifop pour la Fédération Française du
+
+         Bâtiment
+
+         Echantillon
+
+                            L’enquête a été menée auprès d’un échantillon de 2 000 personnes
+                            représentatif de la population française âgée de 18 ans et plus.
+
+                            La représentativité de l’échantillon a été assurée par la méthode des
+         Méthodologie
+                            quotas au regard de critères :
+
+                            - sociodémographiques (sexe, âge de l’individu) ;
+
+                            - socioprofessionnels (profession de l’individu) ;
+
+                            - géographiques (région, taille d’unité urbaine).
+
+            Mode de recueil
+
+                            Les interviews ont été réalisées par questionnaire auto-administré
+                            en ligne du 22 au 26 octobre 2026.
+
+        L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2022) et d’un redressement
+        politique sur la base de la reconstitution des votes suivants : présidentielle 2022 1er tour.
+        La présente notice est consultable sur le site de la commission des sondages.
+
+        Ifop pour la Fédération Française du Bâtiment                    2
+
+        Les Français et la question du logement dans l’élection présidentielle  Octobre 2026
+
+--- page 4 ---
+
+Précision  relative  aux marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+        comme le montre le tableau ci-dessous :
+
+                    INTERVALLE DE CONFIANCE   A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 2 000 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 1,3. Le vrai pourcentage est donc compris entre 8,7% et 11,3%.
+
+        Ifop pour la Fédération Française du Bâtiment                    3
+
+        Les Français et la question du logement dans l’élection présidentielle  Octobre 2026
+
+--- page 5 ---
+
+Structure  de l’échantillon
+
+                                                 Brut   Redressé
+                                                  %        %
+        SEXE
+           Un homme                              48,5     47,7
+           Une femme                             51,5     52,3
+
+        AGE
+           De18a24ans                            10,0     10,3
+           De25a34ans                            14,7     14,8
+           De35a49ans                            23,6     24,0
+           De50a64ans                            23,8     24,4
+           De65a74ans                            14,6     14,0
+           A75ansetplus                          13,4     12,5
+
+        REGION
+           GrandEst                               7,5     8,5
+           NouvelleAquitaine                      9,7     9,5
+           AuvergneRhoneAlpes1                   12,6     12,3
+           BourgogneFrancheComte1                 3,9     4,3
+           Bretagne2                              4,8     5,2
+
+           CentreValDeLoire1                      4,3     3,9
+           IleDeFrance2                          19,9     18,4
+           Occitanie                              8,8     9,4
+           HautsdeFrance                          9,3     8,9
+           Normandie1                             5,0     5,1
+           PaysDeLaLoire2                         6,0     5,8
+           PACACorse                              8,3     8,5
+
+        AGGLO
+           Commune rurale                        22,6     21,1
+           Unité urbaine de 2 000 à 19 999 hab.  15,8     18,2
+           Unité urbaine de 20 000 à 99 999 hab. 13,1     13,9
+           Unité urbaine de 100 000 à 199 999 hab. 32,8   30,6
+           Agglomération parisienne              15,6     16,3
+
+        PROFESSION
+           Agriculteurs1                          0,6     0,7
+           Artisans1                              3,1     3,8
+           Cadres1                               11,2     11,2
+           Intermediaires1                       15,3     15,0
+           Employes1                             16,7     15,8
+           Ouvriers1                             12,2     12,1
+
+           Inactifs                              40,9     41,3
+        DIPLOME
+           ENCOURSDETUDES                        11,5     6,8
+           Total SANSDIPLOME, CEP, BEPC           5,9     23,0
+           CAPBEP                                15,4     22,3
+           BACBP                                 22,1     16,5
+
+           Total SUPCOURT, SUPLONG               45,0     31,4
+        Ifop pour la Fédération Française du Bâtiment                    4
+
+        Les Français et la question du logement dans l’élection présidentielle  Octobre 2026
+
+--- page 6 ---
+
+PRESIDENTIELLE 2022 1er tour (Ne se prononce pas =
+        28,4%)
+           Nathalie Arthaud                       1,0     0,6
+           Philippe Poutou                        1,5     0,8
+           Fabien Roussel                         3,6     2,3
+           Jean-Luc Mélenchon                    14,7     21,5
+           Anne Hidalgo                           2,6     1,7
+           Yannick Jadot                          5,2     4,6
+
+           Emmanuel Macron                       25,3     27,8
+           Valérie Pécresse                       6,1     4,8
+           Nicolas Dupont-Aignan                  3,1     2,1
+           Marine Le Pen                         29,2     23,5
+           Éric Zemmour                           3,6     7,1
+           Jean Lassalle                          4,3     3,2
+          LEGISLATIVES 2024 1er tour (Ne se prononce pas =
+
+        39,8%)
+           Extrême gauche                         1,4     1,2
+           NFP                                   26,8     28,7
+           Divers gauche                          1,2     1,0
+           ENS Ensemble !                        19,9     22,4
+           Divers centre                          1,0     0,8
+           LR & DVD                              11,5     9,5
+
+           RN & alliés                           34,9     34,0
+           Droite souverainiste, divers EXD - Reconquête 1,5 1,1
+           DIVERS                                 1,8     1,3
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        Ifop pour la Fédération Française du Bâtiment                    5
+
+        Les Français et la question du logement dans l’élection présidentielle  Octobre 2026
+
+--- page 7 ---
+
+La difficulté à trouver   un logement    en France
+
+        Question : Aujourd'hui, en France, avez-vous le sentiment qu’il est très facile,
+                   plutôt facile, plutôt difficile ou très difficile de trouver un logement ?
+
+                   Effectifs : 2000 personnes
+
+                                              Brut     Redressé
+                   Très difficile             27,5       29,5
+                   Plutôt difficile           61,9       58,8
+
+                   Plutôt facile              10,1       10,9
+                   Très facile                 0,7       0,8
+                   NSP                         0,0       0,0
+                   Total                      100,0     100,0
+
+        Ifop pour la Fédération Française du Bâtiment                    6
+        Les Français et la question du logement dans l’élection présidentielle  Octobre 2026
+
+--- page 8 ---
+
+La  difficulté d'accès au  logement
+
+        Question : Aujourd'hui en France, diriez-vous qu'il est très facile, assez facile,
+                   assez difficile ou très difficile de… ?
+
+                   Effectifs : 2000 personnes
+
+                                                  Brut     Redressé
+               Faire construire ou rénover un logement
+               Très facile                         3,1       2,8
+               Assez facile                       22,6       22,3
+               Assez difficile                    51,8       50,3
+               Très difficile                     22,6       24,6
+               NSP                                 0,0       0,0
+               Trouver un logement en accession à la propriété
+               Très facile                         3,2       2,6
+               Assez facile                       22,6       22,2
+               Assez difficile                    51,0       50,3
+               Très difficile                     23,1       24,8
+
+               NSP                                 0,0       0,0
+               Trouver un logement en location dans le parc
+               privé
+               Très facile                         2,2       2,2
+               Assez facile                       17,4       16,8
+               Assez difficile                    54,1       52,7
+               Très difficile                     26,3       28,3
+               NSP                                 0,0       0,0
+               Trouver un logement social
+               Très facile                         4,2       4,3
+               Assez facile                       10,6       11,3
+               Assez difficile                    38,4       37,0
+               Très difficile                     46,9       47,4
+               NSP                                 0,0       0,0
+
+        Ifop pour la Fédération Française du Bâtiment                    7
+        Les Français et la question du logement dans l’élection présidentielle  Octobre 2026
+
+--- page 9 ---
+
+Les perspectives   d'évolution   de la situation  du logement
+
+        Question : Dans les années qui viennent, pensez-vous que les choses vont plutôt
+                   s'améliorer, vont rester les mêmes ou vont plutôt se dégrader en
+
+                   matière… ?
+
+                   Effectifs : 2000 personnes
+
+                                                  Brut     Redressé
+               … en ce qui concerne la situation du logement
+
+               des jeunes
+               Plutôt s'améliorer                  5,8       5,1
+               Rester les mêmes                   30,6       32,1
+               Plutôt se dégrader                 63,5       62,8
+               NSP                                 0,0       0,0
+               … de logement en France en général
+               Plutôt s'améliorer                  5,8       5,4
+               Rester les mêmes                   35,4       36,1
+               Plutôt se dégrader                 58,9       58,5
+               NSP                                 0,0       0,0
+               … en ce qui concerne votre situation personnelle
+               en matière de logement
+               Plutôt s'améliorer                  8,8       8,9
+               Rester les mêmes                   65,5       64,7
+               Plutôt se dégrader                 25,6       26,4
+               NSP                                 0,0       0,0
+
+        Ifop pour la Fédération Française du Bâtiment                    8
+        Les Français et la question du logement dans l’élection présidentielle  Octobre 2026
+
+--- page 10 ---
+
+Le renoncement     à un  emploi   ou une  formation   faute  de
+
+                                    logement
+
+        Question : Au cours de votre carrière, avez-vous déjà, faute de trouver un
+                   logement adapté à votre budget ou à proximité, dû… ?
+
+                   Effectifs : 1200 personnes
+
+               Base : actifs                      Brut     Redressé
+               … renoncer à un projet de déménagement dans
+               une ville ou une autre région
+               Oui, ces cinq dernières années     11,4       9,1
+               Oui, mais il y a plus de cinq ans  12,9       14,3
+               Non, jamais                        75,7       76,6
+               NSP                                 0,0       0,0
+               … retarder un projet de déménagement dans
+               une ville ou une autre région
+               Oui, ces cinq dernières années     10,8       8,9
+               Oui, mais il y a plus de cinq ans  13,1       12,1
+               Non, jamais                        76,1       79,0
+               NSP                                 0,0       0,0
+               … renoncer à un emploi, une mutation ou une
+               formation
+
+               Oui, ces cinq dernières années      7,9       6,1
+               Oui, mais il y a plus de cinq ans  12,8       13,2
+               Non, jamais                        79,3       80,7
+               NSP                                 0,0       0,0
+               … retarder un projet de premier enfant ou de
+               nouvel enfant
+               Oui, ces cinq dernières années      8,1       6,3
+               Oui, mais il y a plus de cinq ans  11,3       12,1
+               Non, jamais                        80,6       81,6
+               NSP                                 0,0       0,0
+               … renoncer à un projet de premier enfant ou de
+               nouvel enfant
+               Oui, ces cinq dernières années      7,5       5,9
+               Oui, mais il y a plus de cinq ans  10,8       11,0
+               Non, jamais                        81,8       83,1
+               NSP                                 0,0       0,0
+
+        Ifop pour la Fédération Française du Bâtiment                    9
+        Les Français et la question du logement dans l’élection présidentielle  Octobre 2026
+
+--- page 11 ---
+
+Base : actifs                      Brut     Redressé
+               … retarder le début d'un emploi, d'une mutation
+               ou d'une formation
+               Oui, ces cinq dernières années      7,6       5,3
+               Oui, mais il y a plus de cinq ans   9,8       11,2
+               Non, jamais                        82,6       83,5
+               NSP                                 0,0       0,0
+
+        Ifop pour la Fédération Française du Bâtiment                    10
+        Les Français et la question du logement dans l’élection présidentielle  Octobre 2026
+
+--- page 12 ---
+
+La  place du  logement   dans  les débats   de la campagne
+
+                                 présidentielle
+
+        Question : Compte tenu de leurs programmes et de leurs déclarations à l’élection
+                   présidentielle, diriez-vous que les candidat(e)s… ?
+
+                   Effectifs : 2000 personnes
+
+                                                  Brut     Redressé
+               … ont pris conscience de la crise actuelle du
+               logement
+               Oui, tout à fait                    3,8       4,4
+               Oui, plutôt                        19,9       20,2
+               Non, plutôt pas                    50,5       47,5
+               Non, pas du tout                   25,8       27,9
+               NSP                                 0,0       0,0
+               … parlent suffisamment du logement
+               Oui, tout à fait                    3,2       3,4
+               Oui, plutôt                        14,7       15,1
+               Non, plutôt pas                    54,4       52,7
+               Non, pas du tout                   27,7       28,8
+               NSP                                 0,0       0,0
+
+        Ifop pour la Fédération Française du Bâtiment                    11
+        Les Français et la question du logement dans l’élection présidentielle  Octobre 2026
+
+--- page 13 ---
+
+Le poids  des  questions  de  logement   et de  construction
+
+                   dans  le vote  à l'élection présidentielle
+
+        Question : Lors de l’élection présidentielle de 2027, les questions de logement et
+                   de construction vont-elles jouer un rôle déterminant dans votre vote ?
+
+                   Effectifs : 1792 personnes
+
+               Base : personnes inscrites sur les listes électorales
+               ayant l’intention de voter à l’élection Brut Redressé
+               présidentielle
+               Déterminant                         9,9       10,2
+               Important mais pas déterminant     58,1       58,5
+               Secondaire                         32,0       31,3
+               NSP                                 0,0       0,0
+               Total                              100,0     100,0
+
+        Ifop pour la Fédération Française du Bâtiment                    12
+        Les Français et la question du logement dans l’élection présidentielle  Octobre 2026
+
+--- page 14 ---
+
+Les priorités du  futur Président   de la République    en
+
+                    matière   de logement    et de bâtiment
+
+        Question : Selon vous, en matière de logement et de bâtiment, chacune des
+                   mesures suivantes devrait-elle être une priorité du prochain Président
+                   de la République ?
+
+                   Effectifs : 2000 personnes
+
+                                                  Brut     Redressé
+               Faciliter l'accès au logement pour les personnes
+               qui déménagent pour travailler ou étudier
+               Oui, tout à fait                   31,2       32,6
+               Oui, plutôt                        53,8       52,2
+               Non, pas vraiment                  12,3       11,5
+               Non, pas du tout                    2,7       3,7
+               NSP                                 0,0       0,0
+               Simplifier les démarches pour construire ou
+               rénover
+               Oui, tout à fait                   32,2       31,6
+               Oui, plutôt                        53,2       52,6
+               Non, pas vraiment                  12,2       11,9
+               Non, pas du tout                    2,4       3,8
+               NSP                                 0,0       0,0
+
+               Développer l'offre de logements à louer
+               Oui, tout à fait                   27,5       28,6
+               Oui, plutôt                        55,8       54,9
+               Non, pas vraiment                  14,0       12,7
+               Non, pas du tout                    2,7       3,8
+               NSP                                 0,0       0,0
+               Aider les ménages à financer la rénovation
+               énergétique
+               Oui, tout à fait                   33,7       33,7
+               Oui, plutôt                        49,6       49,3
+               Non, pas vraiment                  12,8       11,9
+               Non, pas du tout                    3,9       5,1
+               NSP                                 0,0       0,0
+               Faciliter l'achat d'une première résidence
+               principale
+               Oui, tout à fait                   30,8       31,4
+               Oui, plutôt                        51,2       50,2
+               Non, pas vraiment                  14,4       14,1
+               Non, pas du tout                    3,5       4,3
+               NSP                                 0,0       0,0
+
+        Ifop pour la Fédération Française du Bâtiment                    13
+        Les Français et la question du logement dans l’élection présidentielle  Octobre 2026
+
+--- page 15 ---
+
+Brut     Redressé
+               Accélérer le recrutement dans les métiers du
+               bâtiment
+               Oui, tout à fait                   26,1       26,0
+               Oui, plutôt                        55,7       54,8
+               Non, pas vraiment                  14,9       14,9
+               Non, pas du tout                    3,2       4,4
+               NSP                                 0,0       0,0
+               Construire davantage de logements sociaux
+               Oui, tout à fait                   22,8       24,2
+               Oui, plutôt                        38,5       37,3
+               Non, pas vraiment                  27,4       27,2
+               Non, pas du tout                   11,2       11,3
+               NSP                                 0,0       0,0
+
+        Ifop pour la Fédération Française du Bâtiment                    14
+        Les Français et la question du logement dans l’élection présidentielle  Octobre 2026
+
+--- page 16 ---
+
+Le recours   aux travailleurs  étrangers  qualifiés  dans  les
+
+                             métiers   du bâtiment
+
+        Question : Dans les métiers du bâtiment où les employeurs rencontrent des
+                   difficultés de recrutement, êtes-vous favorable ou opposé(e) à ce que
+                   l'on facilite l'embauche de travailleurs étrangers qualifiés disposant
+
+                   d'une autorisation de travail en France ?
+
+                                              Brut     Redressé
+                   Tout à fait favorable      21,6       21,6
+                   Plutôt favorable           40,4       38,8
+                   Plutôt opposé(e)           14,5       13,9
+                   Tout à fait opposé(e)      12,5       13,4
+                   Vous ne savez pas          11,0       12,4
+                   Total                      100,0     100,0
+
+        Ifop pour la Fédération Française du Bâtiment                    15
+        Les Français et la question du logement dans l’élection présidentielle  Octobre 2026
