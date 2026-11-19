@@ -1,0 +1,1921 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10388-pres-radioscopie-du-peuple-de-droite-ifop-valeurs-actuelles-19-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Radioscopie     du  peuple    de droite   – Bloc  ordre
+
+        Notice   technique
+
+                                                                  FD N° 122703
+                                                                CONTACTS IFOP :
+                                                                   Frédéric Dabi
+                                                              Département Opinion
+                                                            et Stratégies d'Entreprise
+                                                             prénom.nom@ifop.com
+                                                                NOVEMBRE 2026
+
+--- page 2 ---
+
+1
+
+                                                  La  méthodologie
+
+        Ifop pour Valeurs Actuelles                                       1
+
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 3 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Etude réalisée par Ifop pour Valeurs Actuelles
+
+         Echantillon
+                            L’enquête a été menée auprès d’un échantillon de 2 006 personnes
+                            représentatif de la population française âgée de 18 ans et plus, dont
+                            1 200 personnes se positionnant idéologiquement à droite.
+
+                            La représentativité de l’échantillon a été assurée par la méthode des
+         Méthodologie
+                            quotas au regard de critères :
+                            - sociodémographiques (sexe, âge de l’individu) ;
+
+                            - socioprofessionnels (profession de l’individu, niveau de diplôme) ;
+
+                            - géographiques (région, taille d’unité urbaine).
+
+            Mode de recueil
+
+                            Les interviews ont été réalisées par questionnaire auto-administré
+                            en ligne du 9 au 12 novembre 2026.
+
+        L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2022) et d’un redressement
+        politique sur la base de la reconstitution des votes suivants : présidentielle 2022 1er tour, législatives 2024 1er
+        tour.
+        Nota bene : à la demande du commanditaire du projet, nous n’avons pas proposé d’item « Ne se prononce
+        pas », lorsqu’il n’apparait pas dans la présente notice.
+
+        La présente notice est consultable sur le site de la commission des sondages.
+
+        Ifop pour Valeurs Actuelles                                      2
+
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 4 ---
+
+Précision  relative  aux marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+        comme le montre le tableau ci-dessous :
+
+                    INTERVALLE DE CONFIANCE   A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 2 000 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 1,3. Le vrai pourcentage est donc compris entre 8,7% et 11,3%.
+
+        Ifop pour Valeurs Actuelles                                      3
+
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 5 ---
+
+Structure  de l’échantillon
+
+                                                 Brut   Redressé
+                                                  %        %
+        SEXE
+           Un homme                              51,9     47,7
+           Une femme                             48,1     52,3
+
+        AGE
+           De18a24ans                            11,7     10,3
+           De25a34ans                            14,8     14,8
+           De35a49ans                            24,3     24,0
+           De50a64ans                            22,3     24,4
+           De65a74ans                            13,4     14,0
+           A75ansetplus                          13,7     12,5
+
+        REGION
+           GrandEst                               8,5     8,5
+           NouvelleAquitaine                      8,4     9,5
+           AuvergneRhoneAlpes1                   13,1     12,3
+           BourgogneFrancheComte1                 3,7     4,3
+           Bretagne2                              4,4     5,2
+
+           CentreValDeLoire1                      3,5     3,9
+           IleDeFrance2                          20,2     18,4
+           Occitanie                              9,5     9,4
+           HautsdeFrance                          9,3     8,9
+           Normandie1                             3,7     5,1
+           PaysDeLaLoire2                         6,3     5,8
+           PACACorse                              9,3     8,5
+
+          Diplôme
+           EN COURS D’ETUDES                     14,0     6,8
+           Total SANS DIPLOME, CEP, BEPC          6,1     23,0
+           CAP BEP                               15,7     22,3
+           BAC BP                                20,5     16,5
+           Total SUPCOURT, SUPLONG               43,6     31,4
+
+        AGGLO
+           Commune rurale                        23,0     21,1
+           Unité urbaine de 2 000 à 19 999 hab.  14,7     18,2
+           Unité urbaine de 20 000 à 99 999 hab. 13,4     13,9
+           Unité urbaine de 100 000 à 199 999 hab. 32,9   30,6
+           Agglomération parisienne              16,0     16,3
+        PROFESSION
+
+           Agriculteurs1                          0,6     0,7
+           Artisans1                              3,7     3,8
+           Cadres1                               10,0     11,2
+           Intermediaires1                       14,9     15,0
+           Employes1                             15,9     15,8
+           Ouvriers1                             13,3     12,1
+
+           Inactifs                              41,5     41,3
+        Ifop pour Valeurs Actuelles                                      4
+
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 6 ---
+
+PRESIDENTIELLE 2022 1er tour (Ne se prononce pas =
+        29,1%)
+           Nathalie Arthaud                       1,1     0,6
+           Philippe Poutou                        2,0     0,8
+           Fabien Roussel                         2,8     2,3
+           Jean-Luc Mélenchon                    13,2     21,5
+           Anne Hidalgo                           3,1     1,7
+           Yannick Jadot                          4,2     4,6
+
+           Emmanuel Macron                       25,7     27,8
+           Valérie Pécresse                       6,6     4,8
+           Nicolas Dupont-Aignan                  2,9     2,1
+           Marine Le Pen                         30,0     23,5
+           Éric Zemmour                           5,6     7,1
+           Jean Lassalle                          2,9     3,2
+
+        LEGISLATIVE 2024 1er tour (Ne se prononce pas = 39,0%)
+           Extrême gauche                         1,1     1,2
+           NFP                                   25,8     28,7
+           Divers gauche                          1,1     1,0
+           ENS Ensemble !                        20,7     22,4
+           Divers centre                          1,1     0,8
+           LR & DVD                              12,1     9,5
+
+           RN & alliés                           35,0     34,0
+           Droite souverainiste, divers EXD - Reconquête 2,1 1,1
+           DIVERS                                 1,1     1,3
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        Ifop pour Valeurs Actuelles                                      5
+
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 7 ---
+
+L’évolution  de  la situation sur  les différents thèmes   au
+                        cours  des  5 dernières  années
+
+        Question : Depuis les cinq dernières années, avez-vous le sentiment que la
+                   situation en France a changé plutôt en bien, plutôt en mal ou qu’elle
+                   n’a pas changé, dans chacun des domaines suivants… ?
+
+                              Base : Ensemble (2 006 répondants)
+                                                  Brut     Redressé
+                Le pouvoir d’achat
+                Plutôt en mal                     88,5       89,4
+                Elle n’a pas changé                7,4       7,1
+                Plutôt en bien                     4,0       3,4
+                La situation des finances publiques et de la
+                dette
+                Plutôt en mal                     88,8       88,6
+                Elle n’a pas changé                7,7       8,4
+                Plutôt en bien                     3,4       3,0
+                La cohésion de la société française
+                Plutôt en mal                     81,1       81,4
+                Elle n’a pas changé               14,1       14,3
+                Plutôt en bien                     4,8       4,3
+                L’éducation et l’école
+                Plutôt en mal                     80,8       80,1
+                Elle n’a pas changé               14,3       15,2
+                Plutôt en bien                     5,0       4,7
+                La santé et l’accès aux soins
+                Plutôt en mal                     75,7       76,8
+                Elle n’a pas changé               15,7       14,9
+                Plutôt en bien                     8,6       8,3
+                Le logement
+                Plutôt en mal                     74,1       75,0
+                Elle n’a pas changé               20,5       19,9
+                Plutôt en bien                     5,4       5,0
+                La sécurité des personnes et des biens
+                Plutôt en mal                     73,9       74,1
+                Elle n’a pas changé               19,0       19,5
+                Plutôt en bien                     7,1       6,3
+                L’agriculture et l’alimentation
+                Plutôt en mal                     72,4       73,5
+                Elle n’a pas changé               19,9       20,2
+                Plutôt en bien                     7,7       6,3
+                Les retraites
+                Plutôt en mal                     72,8       73,7
+                Elle n’a pas changé               21,6       21,4
+                Plutôt en bien                     5,6       4,9
+        Ifop pour Valeurs Actuelles                                      6
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 8 ---
+
+Brut     Redressé
+                La lutte contre la pauvreté et la précarité
+                Plutôt en mal                     72,6       74,3
+                Elle n’a pas changé               21,8       20,9
+                Plutôt en bien                     5,6       4,8
+                La justice
+                Plutôt en mal                     72,3       73,1
+                Elle n’a pas changé               20,5       20,3
+                Plutôt en bien                     7,2       6,6
+                La démocratie et le fonctionnement des
+                institutions
+                Plutôt en mal                     73,1       72,7
+                Elle n’a pas changé               21,1       22,2
+                Plutôt en bien                     5,7       5,1
+                La défense des services publics
+                Plutôt en mal                     71,2       72,0
+                Elle n’a pas changé               22,2       22,2
+                Plutôt en bien                     6,5       5,8
+                La place de la France en Europe et dans le
+                monde
+                Plutôt en mal                     70,3       70,5
+                Elle n’a pas changé               20,5       21,5
+                Plutôt en bien                     9,2       8,0
+                La réindustrialisation et la souveraineté
+                économique
+                Plutôt en mal                     69,8       70,3
+                Elle n’a pas changé               21,1       22,0
+                Plutôt en bien                     9,1       7,7
+                La protection de la France face aux ingérences
+                étrangères
+                Plutôt en mal                     66,4       67,5
+                Elle n’a pas changé               24,8       24,9
+                Plutôt en bien                     8,9       7,6
+                La défense de la ruralité
+                Plutôt en mal                     65,1       66,2
+                Elle n’a pas changé               27,3       27,1
+                Plutôt en bien                     7,6       6,6
+                La lutte contre le chômage
+                Plutôt en mal                     63,2       64,6
+                Elle n’a pas changé               26,8       27,0
+                Plutôt en bien                    10,1       8,4
+                L’immigration et la maîtrise des frontières
+                Plutôt en mal                     66,5       65,2
+                Elle n’a pas changé               26,7       28,1
+                Plutôt en bien                     6,8       6,7
+                La lutte contre les discriminations
+                Plutôt en mal                     57,4       60,6
+                Elle n’a pas changé               29,4       28,3
+                Plutôt en bien                    13,2       11,1
+                La lutte contre le narcotrafic
+                Plutôt en mal                     57,1       59,0
+                Elle n’a pas changé               26,7       26,6
+                Plutôt en bien                    16,2       14,5
+                L’environnement et la transition écologique
+                Plutôt en mal                     55,0       54,8
+                Elle n’a pas changé               28,5       30,5
+                Plutôt en bien                    16,5       14,7
+                La culture et l’accès à la culture
+                Plutôt en mal                     45,9       47,2
+                Elle n’a pas changé               36,4       36,5
+                Plutôt en bien                    17,7       16,4
+        Ifop pour Valeurs Actuelles                                      7
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 9 ---
+
+La satisfaction  détaillée  sur différents  thèmes
+
+        Question : Et plus précisément, êtes-vous plutôt satisfait ou plutôt mécontent du
+                   travail accompli par Emmanuel Macron et ses gouvernements au
+
+                   cours de ses deux mandats concernant… ?
+
+                              Base : Ensemble (2 006 répondants)
+                                                  Brut     Redressé
+                La culture et l’accès à la culture
+                Tout à fait satisfait              5,4       4,3
+                Plutôt satisfait                  31,0       27,9
+                Plutôt mécontent                  35,0       35,7
+                Tout à fait mécontent             28,6       32,2
+                L’environnement et la transition écologique
+                Tout à fait satisfait              3,8       2,9
+                Plutôt satisfait                  21,4       19,3
+                Plutôt mécontent                  39,8       39,6
+                Tout à fait mécontent             34,9       38,2
+                La lutte contre le narcotrafic
+                Tout à fait satisfait              3,7       3,4
+                Plutôt satisfait                  20,7       18,2
+                Plutôt mécontent                  37,1       36,6
+                Tout à fait mécontent             38,4       41,9
+                La place de la France en Europe et dans le
+                monde
+                Tout à fait satisfait              4,4       4,1
+                Plutôt satisfait                  19,2       16,4
+                Plutôt mécontent                  37,7       39,1
+                Tout à fait mécontent             38,7       40,4
+                La lutte contre les discriminations
+                Tout à fait satisfait              3,2       2,9
+                Plutôt satisfait                  19,5       16,4
+                Plutôt mécontent                  41,4       41,0
+                Tout à fait mécontent             35,8       39,8
+                La protection de la France face aux ingérences
+                étrangères
+                Tout à fait satisfait              3,9       3,1
+                Plutôt satisfait                  17,3       15,0
+                Plutôt mécontent                  41,0       41,5
+                Tout à fait mécontent             37,8       40,4
+                La lutte contre le chômage
+                Tout à fait satisfait              3,0       2,3
+                Plutôt satisfait                  16,7       15,4
+                Plutôt mécontent                  43,9       42,9
+                Tout à fait mécontent             36,3       39,3
+                La défense de la ruralité
+                Tout à fait satisfait              3,2       2,6
+                Plutôt satisfait                  15,5       14,0
+                Plutôt mécontent                  45,0       43,9
+                Tout à fait mécontent             36,3       39,6
+        Ifop pour Valeurs Actuelles                                      8
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 10 ---
+
+Brut     Redressé
+                L’immigration et la maîtrise des frontières
+                Tout à fait satisfait              2,8       2,3
+                Plutôt satisfait                  15,6       13,9
+                Plutôt mécontent                  35,8       36,9
+                Tout à fait mécontent             45,8       46,9
+                La démocratie et le fonctionnement des
+                institutions
+                Tout à fait satisfait              2,7       2,3
+                Plutôt satisfait                  15,4       13,5
+                Plutôt mécontent                  41,7       42,1
+                Tout à fait mécontent             40,2       42,1
+                La santé et l’accès aux soins
+                Tout à fait satisfait              3,8       3,6
+                Plutôt satisfait                  13,9       12,0
+                Plutôt mécontent                  35,7       35,0
+                Tout à fait mécontent             46,6       49,5
+                L’agriculture et l’alimentation
+                Tout à fait satisfait              2,8       2,2
+                Plutôt satisfait                  14,0       13,1
+                Plutôt mécontent                  43,5       42,3
+                Tout à fait mécontent             39,6       42,4
+                La réindustrialisation et la souveraineté
+                économique
+                Tout à fait satisfait              2,9       3,0
+                Plutôt satisfait                  14,4       11,8
+                Plutôt mécontent                  42,3       42,3
+                Tout à fait mécontent             40,4       42,8
+                La défense des services publics
+                Tout à fait satisfait              3,4       2,4
+                Plutôt satisfait                  13,9       12,4
+                Plutôt mécontent                  41,7       40,5
+                Tout à fait mécontent             41,1       44,7
+                Le logement
+                Tout à fait satisfait              2,7       2,2
+                Plutôt satisfait                  13,7       12,4
+                Plutôt mécontent                  46,5       44,8
+                Tout à fait mécontent             37,1       40,5
+                La justice
+                Tout à fait satisfait              2,8       2,4
+                Plutôt satisfait                  13,6       12,1
+                Plutôt mécontent                  38,9       37,9
+                Tout à fait mécontent             44,6       47,6
+                La sécurité des personnes et des biens
+                Tout à fait satisfait              3,0       2,8
+                Plutôt satisfait                  12,9       10,8
+                Plutôt mécontent                  39,5       40,0
+                Tout à fait mécontent             44,6       46,4
+                Les retraites
+                Tout à fait satisfait              2,9       2,2
+                Plutôt satisfait                  12,9       11,3
+                Plutôt mécontent                  41,6       39,7
+                Tout à fait mécontent             42,7       46,9
+                L’éducation et l’école
+                Tout à fait satisfait              2,4       2,0
+                Plutôt satisfait                  11,2       10,8
+                Plutôt mécontent                  40,9       39,0
+                Tout à fait mécontent             45,5       48,2
+        Ifop pour Valeurs Actuelles                                      9
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 11 ---
+
+Brut     Redressé
+                La cohésion de la société française
+                Tout à fait satisfait              3,1       2,6
+                Plutôt satisfait                   9,4       8,8
+                Plutôt mécontent                  41,7       40,6
+                Tout à fait mécontent             45,7       48,0
+                La lutte contre la pauvreté et la précarité
+                Tout à fait satisfait              2,9       2,2
+                Plutôt satisfait                   9,9       8,1
+                Plutôt mécontent                  43,5       42,1
+                Tout à fait mécontent             43,7       47,6
+                Le pouvoir d’achat
+                Tout à fait satisfait              2,3       1,9
+                Plutôt satisfait                   7,1       5,8
+                Plutôt mécontent                  35,3       34,6
+                Tout à fait mécontent             55,3       57,6
+                La situation des finances publiques et de la
+                dette
+                Tout à fait satisfait              2,1       1,9
+                Plutôt satisfait                   6,3       5,4
+                Plutôt mécontent                  31,7       31,4
+                Tout à fait mécontent             60,0       61,3
+
+        Ifop pour Valeurs Actuelles                                      10
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 12 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+             situation  - La sécurité des  personnes   et des  biens
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+
+                   concernant la sécurité des personnes et des biens ?
+                                   Base : Ensemble (2 006 répondants)
+
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait           7,4       9,3
+                    Oui, plutôt               12,5       12,5
+                    Non, plutôt pas           18,5       18,9
+                    Non, pas du tout          61,5       59,3
+                    François Hollande
+                    Oui, tout à fait           4,2       4,1
+                    Oui, plutôt               20,0       20,5
+                    Non, plutôt pas           27,9       26,7
+                    Non, pas du tout          47,9       48,6
+                    Raphaël Glucksmann
+                    Oui, tout à fait           3,6       3,0
+                    Oui, plutôt               20,6       19,5
+                    Non, plutôt pas           28,6       29,3
+                    Non, pas du tout          47,3       48,1
+                    Gabriel Attal
+                    Oui, tout à fait           2,9       2,8
+                    Oui, plutôt               24,5       22,2
+                    Non, plutôt pas           28,1       27,9
+                    Non, pas du tout          44,5       47,0
+                    Édouard Philippe
+                    Oui, tout à fait           5,3       4,9
+                    Oui, plutôt               27,0       24,6
+                    Non, plutôt pas           25,6       25,7
+                    Non, pas du tout          42,1       44,7
+                    Bruno Retailleau
+                    Oui, tout à fait          11,6       9,5
+                    Oui, plutôt               27,4       25,4
+                    Non, plutôt pas           22,7       23,3
+                    Non, pas du tout          38,3       41,8
+                    David Lisnard
+                    Oui, tout à fait           9,6       6,9
+                    Oui, plutôt               25,0       23,0
+                    Non, plutôt pas           25,4       25,9
+                    Non, pas du tout          40,1       44,2
+                    Marine Le Pen
+                    Oui, tout à fait          25,5       23,1
+                    Oui, plutôt               24,1       24,0
+                    Non, plutôt pas           14,7       13,9
+                    Non, pas du tout          35,7       39,0
+                    Éric Zemmour
+                    Oui, tout à fait          13,4       11,1
+                    Oui, plutôt               17,5       16,8
+                    Non, plutôt pas           17,3       16,3
+                    Non, pas du tout          51,8       55,8
+        Ifop pour Valeurs Actuelles                                      11
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 13 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+           situation  - L’immigration   et la maîtrise des  frontières
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+
+                   concernant l’immigration et la maîtrise des frontières ?
+
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait           8,2       9,6
+                    Oui, plutôt               10,0       9,9
+                    Non, plutôt pas           16,9       17,3
+                    Non, pas du tout          64,9       63,2
+                    François Hollande
+                    Oui, tout à fait           3,3       3,8
+                    Oui, plutôt               15,2       15,3
+                    Non, plutôt pas           28,2       27,5
+                    Non, pas du tout          53,2       53,5
+                    Raphaël Glucksmann
+                    Oui, tout à fait           3,3       2,8
+                    Oui, plutôt               15,7       15,2
+                    Non, plutôt pas           29,1       30,0
+                    Non, pas du tout          51,9       52,0
+                    Gabriel Attal
+                    Oui, tout à fait           3,1       2,7
+                    Oui, plutôt               19,7       18,2
+                    Non, plutôt pas           28,1       27,9
+                    Non, pas du tout          49,1       51,1
+                    Édouard Philippe
+                    Oui, tout à fait           4,5       3,9
+                    Oui, plutôt               22,5       20,7
+                    Non, plutôt pas           26,7       27,2
+                    Non, pas du tout          46,3       48,1
+                    Bruno Retailleau
+                    Oui, tout à fait          11,0       9,9
+                    Oui, plutôt               26,3       23,5
+                    Non, plutôt pas           22,3       23,8
+                    Non, pas du tout          40,4       42,7
+                    David Lisnard
+                    Oui, tout à fait          10,3       6,8
+                    Oui, plutôt               22,0       20,6
+                    Non, plutôt pas           25,5       27,5
+                    Non, pas du tout          42,2       45,1
+                    Marine Le Pen
+                    Oui, tout à fait          34,5       30,8
+                    Oui, plutôt               22,4       22,5
+                    Non, plutôt pas           11,0       11,1
+                    Non, pas du tout          32,1       35,6
+                    Éric Zemmour
+                    Oui, tout à fait          21,7       18,6
+                    Oui, plutôt               18,4       17,6
+                    Non, plutôt pas           13,9       14,0
+                    Non, pas du tout          46,0       49,8
+        Ifop pour Valeurs Actuelles                                      12
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 14 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+                       situation  - L’éducation  et l’école
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+
+                   concernant l’éducation et l’école ?
+                                   Base : Ensemble (2 006 répondants)
+
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait          11,3       12,9
+                    Oui, plutôt               15,0       15,0
+                    Non, plutôt pas           18,9       18,2
+                    Non, pas du tout          54,7       54,0
+                    François Hollande
+                    Oui, tout à fait           5,4       5,1
+                    Oui, plutôt               23,5       23,4
+                    Non, plutôt pas           25,9       25,2
+                    Non, pas du tout          45,3       46,4
+                    Raphaël Glucksmann
+                    Oui, tout à fait           5,6       4,4
+                    Oui, plutôt               25,5       25,0
+                    Non, plutôt pas           25,4       25,7
+                    Non, pas du tout          43,5       44,9
+                    Gabriel Attal
+                    Oui, tout à fait           6,0       5,6
+                    Oui, plutôt               26,4       24,4
+                    Non, plutôt pas           23,1       22,8
+                    Non, pas du tout          44,5       47,2
+                    Édouard Philippe
+                    Oui, tout à fait           4,9       4,8
+                    Oui, plutôt               27,6       25,7
+                    Non, plutôt pas           25,7       25,1
+                    Non, pas du tout          41,9       44,4
+                    Bruno Retailleau
+                    Oui, tout à fait           5,4       4,5
+                    Oui, plutôt               26,9       24,6
+                    Non, plutôt pas           26,5       26,4
+                    Non, pas du tout          41,2       44,5
+                    David Lisnard
+                    Oui, tout à fait           6,7       4,5
+                    Oui, plutôt               25,1       23,6
+                    Non, plutôt pas           26,2       26,2
+                    Non, pas du tout          42,0       45,6
+                    Marine Le Pen
+                    Oui, tout à fait          16,3       14,4
+                    Oui, plutôt               24,8       24,0
+                    Non, plutôt pas           18,6       17,1
+                    Non, pas du tout          40,3       44,5
+                    Éric Zemmour
+                    Oui, tout à fait           8,2       6,9
+                    Oui, plutôt               16,1       14,8
+                    Non, plutôt pas           21,2       20,2
+                    Non, pas du tout          54,5       58,1
+        Ifop pour Valeurs Actuelles                                      13
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 15 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+                        situation  - Le pouvoir  d’achat
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+
+                   concernant le pouvoir d’achat ?
+                                   Base : Ensemble (2 006 répondants)
+
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait          12,1       13,8
+                    Oui, plutôt               15,2       14,4
+                    Non, plutôt pas           17,6       18,0
+                    Non, pas du tout          55,1       53,8
+                    François Hollande
+                    Oui, tout à fait           3,6       3,8
+                    Oui, plutôt               19,0       18,6
+                    Non, plutôt pas           29,0       28,3
+                    Non, pas du tout          48,4       49,3
+                    Raphaël Glucksmann
+                    Oui, tout à fait           3,9       3,2
+                    Oui, plutôt               21,5       20,8
+                    Non, plutôt pas           28,0       28,3
+                    Non, pas du tout          46,6       47,7
+                    Gabriel Attal
+                    Oui, tout à fait           2,3       1,7
+                    Oui, plutôt               19,7       18,7
+                    Non, plutôt pas           29,9       29,5
+                    Non, pas du tout          48,1       50,0
+                    Édouard Philippe
+                    Oui, tout à fait           3,7       3,6
+                    Oui, plutôt               21,3       19,3
+                    Non, plutôt pas           29,4       29,6
+                    Non, pas du tout          45,6       47,5
+                    Bruno Retailleau
+                    Oui, tout à fait           3,7       3,1
+                    Oui, plutôt               22,2       20,5
+                    Non, plutôt pas           30,2       29,9
+                    Non, pas du tout          43,9       46,6
+                    David Lisnard
+                    Oui, tout à fait           6,6       5,4
+                    Oui, plutôt               22,3       20,6
+                    Non, plutôt pas           27,8       28,0
+                    Non, pas du tout          43,3       46,0
+                    Marine Le Pen
+                    Oui, tout à fait          17,0       16,3
+                    Oui, plutôt               23,4       22,4
+                    Non, plutôt pas           19,1       17,3
+                    Non, pas du tout          40,5       43,9
+                    Éric Zemmour
+                    Oui, tout à fait           6,8       6,5
+                    Oui, plutôt               15,2       14,1
+                    Non, plutôt pas           21,0       19,7
+                    Non, pas du tout          57,1       59,8
+        Ifop pour Valeurs Actuelles                                      14
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 16 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+                   situation  - La santé et l’accès  aux soins
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+
+                   concernant la santé et l’accès aux soins ?
+                                   Base : Ensemble (2 006 répondants)
+
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait          12,0       13,3
+                    Oui, plutôt               16,7       16,6
+                    Non, plutôt pas           20,2       19,4
+                    Non, pas du tout          51,0       50,6
+                    François Hollande
+                    Oui, tout à fait           4,4       4,1
+                    Oui, plutôt               24,6       25,3
+                    Non, plutôt pas           25,6       24,1
+                    Non, pas du tout          45,4       46,5
+                    Raphaël Glucksmann
+                    Oui, tout à fait           4,7       3,7
+                    Oui, plutôt               26,3       25,2
+                    Non, plutôt pas           25,0       25,0
+                    Non, pas du tout          44,0       46,1
+                    Gabriel Attal
+                    Oui, tout à fait           3,5       3,2
+                    Oui, plutôt               24,9       22,7
+                    Non, plutôt pas           27,6       27,0
+                    Non, pas du tout          44,0       47,0
+                    Édouard Philippe
+                    Oui, tout à fait           4,8       4,1
+                    Oui, plutôt               26,6       24,5
+                    Non, plutôt pas           25,9       25,6
+                    Non, pas du tout          42,7       45,8
+                    Bruno Retailleau
+                    Oui, tout à fait           4,1       2,9
+                    Oui, plutôt               25,6       24,2
+                    Non, plutôt pas           28,4       27,5
+                    Non, pas du tout          42,0       45,4
+                    David Lisnard
+                    Oui, tout à fait           5,4       3,4
+                    Oui, plutôt               25,1       22,9
+                    Non, plutôt pas           27,4       27,1
+                    Non, pas du tout          42,1       46,6
+                    Marine Le Pen
+                    Oui, tout à fait          15,6       13,8
+                    Oui, plutôt               25,5       24,9
+                    Non, plutôt pas           19,1       17,2
+                    Non, pas du tout          39,8       44,2
+                    Éric Zemmour
+                    Oui, tout à fait           6,2       5,0
+                    Oui, plutôt               16,7       15,7
+                    Non, plutôt pas           20,9       19,7
+                    Non, pas du tout          56,2       59,6
+        Ifop pour Valeurs Actuelles                                      15
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 17 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+                 situation  - La défense  des  services  publics
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+
+                   concernant la défense des services publics ?
+                                   Base : Ensemble (2 006 répondants)
+
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait          12,1       13,6
+                    Oui, plutôt               16,6       16,1
+                    Non, plutôt pas           18,6       17,4
+                    Non, pas du tout          52,7       52,9
+                    François Hollande
+                    Oui, tout à fait           4,5       4,1
+                    Oui, plutôt               25,7       25,5
+                    Non, plutôt pas           23,8       22,9
+                    Non, pas du tout          46,0       47,5
+                    Raphaël Glucksmann
+                    Oui, tout à fait           4,9       4,0
+                    Oui, plutôt               26,7       25,2
+                    Non, plutôt pas           24,1       23,9
+                    Non, pas du tout          44,2       46,9
+                    Gabriel Attal
+                    Oui, tout à fait           2,5       2,4
+                    Oui, plutôt               25,5       23,0
+                    Non, plutôt pas           27,6       26,9
+                    Non, pas du tout          44,4       47,7
+                    Édouard Philippe
+                    Oui, tout à fait           4,1       3,5
+                    Oui, plutôt               25,8       23,1
+                    Non, plutôt pas           26,5       27,2
+                    Non, pas du tout          43,6       46,2
+                    Bruno Retailleau
+                    Oui, tout à fait           5,1       3,8
+                    Oui, plutôt               25,5       24,4
+                    Non, plutôt pas           26,2       25,5
+                    Non, pas du tout          43,2       46,3
+                    David Lisnard
+                    Oui, tout à fait           7,1       4,6
+                    Oui, plutôt               22,5       21,2
+                    Non, plutôt pas           27,2       27,0
+                    Non, pas du tout          43,1       47,2
+                    Marine Le Pen
+                    Oui, tout à fait          16,8       15,7
+                    Oui, plutôt               24,7       23,1
+                    Non, plutôt pas           19,0       17,2
+                    Non, pas du tout          39,4       43,9
+                    Éric Zemmour
+                    Oui, tout à fait           7,1       5,7
+                    Oui, plutôt               16,9       15,6
+                    Non, plutôt pas           21,5       20,1
+                    Non, pas du tout          54,4       58,6
+        Ifop pour Valeurs Actuelles                                      16
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 18 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+                    situation  - La lutte contre le chômage
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+
+                   concernant la lutte contre le chômage ?
+                                   Base : Ensemble (2 006 répondants)
+
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait          10,7       12,8
+                    Oui, plutôt               13,4       13,4
+                    Non, plutôt pas           19,3       17,2
+                    Non, pas du tout          56,6       56,5
+                    François Hollande
+                    Oui, tout à fait           3,5       3,8
+                    Oui, plutôt               18,9       19,4
+                    Non, plutôt pas           29,4       27,3
+                    Non, pas du tout          48,1       49,5
+                    Raphaël Glucksmann
+                    Oui, tout à fait           3,5       3,2
+                    Oui, plutôt               21,2       19,7
+                    Non, plutôt pas           28,9       29,2
+                    Non, pas du tout          46,4       47,8
+                    Gabriel Attal
+                    Oui, tout à fait           3,1       2,6
+                    Oui, plutôt               21,6       20,4
+                    Non, plutôt pas           29,2       28,6
+                    Non, pas du tout          46,1       48,4
+                    Édouard Philippe
+                    Oui, tout à fait           4,5       4,1
+                    Oui, plutôt               25,0       23,0
+                    Non, plutôt pas           26,4       26,2
+                    Non, pas du tout          44,1       46,7
+                    Bruno Retailleau
+                    Oui, tout à fait           4,5       3,8
+                    Oui, plutôt               25,7       23,4
+                    Non, plutôt pas           27,9       27,1
+                    Non, pas du tout          41,9       45,7
+                    David Lisnard
+                    Oui, tout à fait           6,2       3,9
+                    Oui, plutôt               23,4       21,6
+                    Non, plutôt pas           27,9       27,8
+                    Non, pas du tout          42,5       46,8
+                    Marine Le Pen
+                    Oui, tout à fait          15,3       13,8
+                    Oui, plutôt               25,2       24,2
+                    Non, plutôt pas           19,5       17,7
+                    Non, pas du tout          40,0       44,3
+                    Éric Zemmour
+                    Oui, tout à fait           6,2       5,5
+                    Oui, plutôt               16,0       15,1
+                    Non, plutôt pas           22,5       21,1
+                    Non, pas du tout          55,3       58,2
+        Ifop pour Valeurs Actuelles                                      17
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 19 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+            situation  - La réindustrialisation  et la souveraineté
+                                  économique
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+                   concernant la réindustrialisation et la souveraineté économique ?
+
+                                   Base : Ensemble (2 006 répondants)
+
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait           8,9       10,4
+                    Oui, plutôt               12,2       11,8
+                    Non, plutôt pas           19,6       18,6
+                    Non, pas du tout          59,3       59,2
+                    François Hollande
+                    Oui, tout à fait           3,7       3,1
+                    Oui, plutôt               18,6       18,1
+                    Non, plutôt pas           27,7       27,3
+                    Non, pas du tout          50,0       51,5
+                    Raphaël Glucksmann
+                    Oui, tout à fait           3,6       2,9
+                    Oui, plutôt               21,1       20,2
+                    Non, plutôt pas           27,6       27,1
+                    Non, pas du tout          47,7       49,8
+                    Gabriel Attal
+                    Oui, tout à fait           3,8       3,6
+                    Oui, plutôt               23,3       21,6
+                    Non, plutôt pas           26,9       26,0
+                    Non, pas du tout          46,0       48,8
+                    Édouard Philippe
+                    Oui, tout à fait           5,8       5,0
+                    Oui, plutôt               26,2       23,4
+                    Non, plutôt pas           25,0       25,7
+                    Non, pas du tout          43,0       45,9
+                    Bruno Retailleau
+                    Oui, tout à fait           6,4       5,3
+                    Oui, plutôt               25,9       23,8
+                    Non, plutôt pas           27,1       26,6
+                    Non, pas du tout          40,7       44,2
+                    David Lisnard
+                    Oui, tout à fait           7,4       5,4
+                    Oui, plutôt               24,0       21,4
+                    Non, plutôt pas           28,2       28,1
+                    Non, pas du tout          40,5       45,1
+                    Marine Le Pen
+                    Oui, tout à fait          17,9       16,0
+                    Oui, plutôt               23,7       23,9
+                    Non, plutôt pas           19,1       17,3
+                    Non, pas du tout          39,3       42,8
+                    Éric Zemmour
+                    Oui, tout à fait           7,4       6,4
+                    Oui, plutôt               17,0       15,8
+                    Non, plutôt pas           20,8       18,8
+                    Non, pas du tout          54,8       59,0
+        Ifop pour Valeurs Actuelles                                      18
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 20 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+          situation  - La situation  des finances  publiques   et de  la
+                                      dette
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+                   concernant la situation des finances publiques et de la dette ?
+
+                                   Base : Ensemble (2 006 répondants)
+
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait           8,7       10,3
+                    Oui, plutôt                8,8       8,9
+                    Non, plutôt pas           16,7       16,8
+                    Non, pas du tout          65,8       64,0
+                    François Hollande
+                    Oui, tout à fait           3,2       3,3
+                    Oui, plutôt               15,3       15,3
+                    Non, plutôt pas           29,1       28,5
+                    Non, pas du tout          52,4       52,8
+                    Raphaël Glucksmann
+                    Oui, tout à fait           3,0       2,3
+                    Oui, plutôt               16,6       15,6
+                    Non, plutôt pas           30,1       30,0
+                    Non, pas du tout          50,2       52,1
+                    Gabriel Attal
+                    Oui, tout à fait           3,5       3,0
+                    Oui, plutôt               18,6       18,2
+                    Non, plutôt pas           28,0       25,9
+                    Non, pas du tout          49,9       53,0
+                    Édouard Philippe
+                    Oui, tout à fait           5,7       5,3
+                    Oui, plutôt               22,4       20,9
+                    Non, plutôt pas           25,9       24,6
+                    Non, pas du tout          45,9       49,1
+                    Bruno Retailleau
+                    Oui, tout à fait           5,1       4,7
+                    Oui, plutôt               24,3       22,3
+                    Non, plutôt pas           26,7       25,8
+                    Non, pas du tout          43,9       47,2
+                    David Lisnard
+                    Oui, tout à fait           7,6       5,7
+                    Oui, plutôt               21,7       19,7
+                    Non, plutôt pas           27,1       26,4
+                    Non, pas du tout          43,6       48,1
+                    Marine Le Pen
+                    Oui, tout à fait          16,7       15,2
+                    Oui, plutôt               20,0       19,3
+                    Non, plutôt pas           20,6       19,0
+                    Non, pas du tout          42,7       46,5
+                    Éric Zemmour
+                    Oui, tout à fait           7,0       6,3
+                    Oui, plutôt               14,3       13,5
+                    Non, plutôt pas           21,3       19,3
+                    Non, pas du tout          57,4       60,9
+        Ifop pour Valeurs Actuelles                                      19
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 21 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+           situation  - La place de  la France  en Europe   et dans  le
+                                     monde
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+                   concernant la place de la France en Europe et dans le monde ?
+
+                                   Base : Ensemble (2 006 répondants)
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait           7,6       9,4
+                    Oui, plutôt               10,7       10,5
+                    Non, plutôt pas           17,0       17,3
+                    Non, pas du tout          64,7       62,8
+                    François Hollande
+                    Oui, tout à fait           4,9       4,8
+                    Oui, plutôt               21,6       21,1
+                    Non, plutôt pas           25,2       24,9
+                    Non, pas du tout          48,3       49,1
+                    Raphaël Glucksmann
+                    Oui, tout à fait           4,8       3,8
+                    Oui, plutôt               21,4       20,8
+                    Non, plutôt pas           26,6       26,5
+                    Non, pas du tout          47,3       48,8
+                    Gabriel Attal
+                    Oui, tout à fait           4,2       4,1
+                    Oui, plutôt               24,2       22,5
+                    Non, plutôt pas           26,0       24,5
+                    Non, pas du tout          45,6       48,9
+                    Édouard Philippe
+                    Oui, tout à fait           6,7       6,4
+                    Oui, plutôt               27,3       24,6
+                    Non, plutôt pas           24,2       23,9
+                    Non, pas du tout          41,8       45,1
+                    Bruno Retailleau
+                    Oui, tout à fait           5,7       4,7
+                    Oui, plutôt               25,4       23,0
+                    Non, plutôt pas           27,3       26,7
+                    Non, pas du tout          41,6       45,6
+                    David Lisnard
+                    Oui, tout à fait           7,0       5,1
+                    Oui, plutôt               23,5       21,1
+                    Non, plutôt pas           27,7       27,1
+                    Non, pas du tout          41,9       46,7
+                    Marine Le Pen
+                    Oui, tout à fait          16,9       16,6
+                    Oui, plutôt               20,1       18,6
+                    Non, plutôt pas           20,9       20,0
+                    Non, pas du tout          42,1       44,9
+                    Éric Zemmour
+                    Oui, tout à fait           6,8       6,8
+                    Oui, plutôt               14,2       12,5
+                    Non, plutôt pas           20,1       19,7
+                    Non, pas du tout          58,9       61,0
+        Ifop pour Valeurs Actuelles                                      20
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 22 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+         situation - La protection   de la France  face aux  ingérences
+                                   étrangères
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+                   concernant la protection de la France face aux ingérences étrangères
+
+                   ?
+                                   Base : Ensemble (2 006 répondants)
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait           7,8       8,9
+                    Oui, plutôt               11,2       11,7
+                    Non, plutôt pas           19,0       19,7
+                    Non, pas du tout          62,0       59,7
+                    François Hollande
+                    Oui, tout à fait           3,8       3,5
+                    Oui, plutôt               18,1       18,4
+                    Non, plutôt pas           28,0       28,0
+                    Non, pas du tout          50,0       50,1
+                    Raphaël Glucksmann
+                    Oui, tout à fait           3,8       3,2
+                    Oui, plutôt               18,4       17,3
+                    Non, plutôt pas           29,0       29,7
+                    Non, pas du tout          48,8       49,8
+                    Gabriel Attal
+                    Oui, tout à fait           3,6       2,9
+                    Oui, plutôt               21,5       20,7
+                    Non, plutôt pas           27,7       27,2
+                    Non, pas du tout          47,2       49,2
+                    Édouard Philippe
+                    Oui, tout à fait           5,4       4,8
+                    Oui, plutôt               24,1       21,6
+                    Non, plutôt pas           26,4       27,1
+                    Non, pas du tout          44,1       46,5
+                    Bruno Retailleau
+                    Oui, tout à fait           7,4       5,1
+                    Oui, plutôt               26,0       24,1
+                    Non, plutôt pas           24,9       25,3
+                    Non, pas du tout          41,8       45,5
+                    David Lisnard
+                    Oui, tout à fait           7,0       4,1
+                    Oui, plutôt               22,6       20,8
+                    Non, plutôt pas           27,3       28,4
+                    Non, pas du tout          43,1       46,7
+                    Marine Le Pen
+                    Oui, tout à fait          22,5       20,0
+                    Oui, plutôt               21,8       21,4
+                    Non, plutôt pas           16,9       15,6
+                    Non, pas du tout          38,8       43,0
+                    Éric Zemmour
+                    Oui, tout à fait          11,3       10,1
+                    Oui, plutôt               16,7       14,6
+                    Non, plutôt pas           18,7       18,7
+                    Non, pas du tout          53,3       56,6
+        Ifop pour Valeurs Actuelles                                      21
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 23 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+          situation  - L’environnement    et la transition  écologique
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+
+                   concernant l’environnement et la transition écologique ?
+                                   Base : Ensemble (2 006 répondants)
+
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait          10,4       11,5
+                    Oui, plutôt               16,1       16,7
+                    Non, plutôt pas           20,3       20,3
+                    Non, pas du tout          53,2       51,5
+                    François Hollande
+                    Oui, tout à fait           3,7       3,5
+                    Oui, plutôt               22,3       22,0
+                    Non, plutôt pas           28,2       28,7
+                    Non, pas du tout          45,8       45,7
+                    Raphaël Glucksmann
+                    Oui, tout à fait           4,9       3,4
+                    Oui, plutôt               26,2       24,8
+                    Non, plutôt pas           25,4       26,5
+                    Non, pas du tout          43,5       45,3
+                    Gabriel Attal
+                    Oui, tout à fait           2,5       2,2
+                    Oui, plutôt               22,5       20,8
+                    Non, plutôt pas           30,1       30,2
+                    Non, pas du tout          44,9       46,8
+                    Édouard Philippe
+                    Oui, tout à fait           3,8       3,4
+                    Oui, plutôt               22,5       19,4
+                    Non, plutôt pas           29,9       31,6
+                    Non, pas du tout          43,8       45,5
+                    Bruno Retailleau
+                    Oui, tout à fait           2,8       1,8
+                    Oui, plutôt               21,2       19,5
+                    Non, plutôt pas           31,2       31,2
+                    Non, pas du tout          44,8       47,5
+                    David Lisnard
+                    Oui, tout à fait           3,7       2,2
+                    Oui, plutôt               22,4       19,6
+                    Non, plutôt pas           29,2       30,3
+                    Non, pas du tout          44,7       47,9
+                    Marine Le Pen
+                    Oui, tout à fait          12,5       11,2
+                    Oui, plutôt               18,6       18,0
+                    Non, plutôt pas           24,5       23,0
+                    Non, pas du tout          44,4       47,8
+                    Éric Zemmour
+                    Oui, tout à fait           4,5       3,9
+                    Oui, plutôt               12,7       11,6
+                    Non, plutôt pas           23,8       22,4
+                    Non, pas du tout          59,0       62,1
+        Ifop pour Valeurs Actuelles                                      22
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 24 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+                            situation  - Le logement
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+
+                   concernant le logement ?
+                                   Base : Ensemble (2 006 répondants)
+
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait          10,9       11,9
+                    Oui, plutôt               16,2       15,9
+                    Non, plutôt pas           19,7       19,1
+                    Non, pas du tout          53,2       53,1
+                    François Hollande
+                    Oui, tout à fait           4,0       3,5
+                    Oui, plutôt               20,1       20,9
+                    Non, plutôt pas           29,1       28,2
+                    Non, pas du tout          46,8       47,4
+                    Raphaël Glucksmann
+                    Oui, tout à fait           4,3       3,3
+                    Oui, plutôt               22,5       21,6
+                    Non, plutôt pas           28,4       29,6
+                    Non, pas du tout          44,8       45,4
+                    Gabriel Attal
+                    Oui, tout à fait           2,8       2,4
+                    Oui, plutôt               21,2       19,2
+                    Non, plutôt pas           30,2       29,6
+                    Non, pas du tout          45,8       48,7
+                    Édouard Philippe
+                    Oui, tout à fait           3,8       3,0
+                    Oui, plutôt               23,0       20,7
+                    Non, plutôt pas           28,9       28,5
+                    Non, pas du tout          44,3       47,8
+                    Bruno Retailleau
+                    Oui, tout à fait           3,4       3,0
+                    Oui, plutôt               22,1       20,2
+                    Non, plutôt pas           30,6       29,3
+                    Non, pas du tout          43,8       47,5
+                    David Lisnard
+                    Oui, tout à fait           4,7       3,2
+                    Oui, plutôt               22,7       20,7
+                    Non, plutôt pas           29,6       28,9
+                    Non, pas du tout          43,0       47,2
+                    Marine Le Pen
+                    Oui, tout à fait          15,0       14,1
+                    Oui, plutôt               22,1       21,1
+                    Non, plutôt pas           21,8       20,0
+                    Non, pas du tout          41,1       44,8
+                    Éric Zemmour
+                    Oui, tout à fait           5,7       5,3
+                    Oui, plutôt               14,2       13,1
+                    Non, plutôt pas           24,0       22,2
+                    Non, pas du tout          56,1       59,3
+        Ifop pour Valeurs Actuelles                                      23
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 25 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+                  situation  - L’agriculture et l’alimentation
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+
+                   concernant l’agriculture et l’alimentation ?
+                                   Base : Ensemble (2 006 répondants)
+
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait           9,8       11,3
+                    Oui, plutôt               15,9       15,7
+                    Non, plutôt pas           20,8       20,6
+                    Non, pas du tout          53,5       52,4
+                    François Hollande
+                    Oui, tout à fait           4,3       4,4
+                    Oui, plutôt               23,4       22,3
+                    Non, plutôt pas           26,2       26,1
+                    Non, pas du tout          46,1       47,2
+                    Raphaël Glucksmann
+                    Oui, tout à fait           3,8       3,1
+                    Oui, plutôt               24,2       23,4
+                    Non, plutôt pas           27,1       27,2
+                    Non, pas du tout          44,9       46,3
+                    Gabriel Attal
+                    Oui, tout à fait           2,9       2,8
+                    Oui, plutôt               23,2       21,8
+                    Non, plutôt pas           28,4       28,4
+                    Non, pas du tout          45,5       47,1
+                    Édouard Philippe
+                    Oui, tout à fait           4,6       4,6
+                    Oui, plutôt               25,5       22,8
+                    Non, plutôt pas           26,9       26,9
+                    Non, pas du tout          43,0       45,6
+                    Bruno Retailleau
+                    Oui, tout à fait           4,5       3,4
+                    Oui, plutôt               24,4       22,6
+                    Non, plutôt pas           29,1       29,1
+                    Non, pas du tout          42,0       44,9
+                    David Lisnard
+                    Oui, tout à fait           5,6       3,7
+                    Oui, plutôt               24,3       21,9
+                    Non, plutôt pas           29,2       29,3
+                    Non, pas du tout          40,9       45,1
+                    Marine Le Pen
+                    Oui, tout à fait          15,8       14,2
+                    Oui, plutôt               24,7       23,8
+                    Non, plutôt pas           20,5       19,5
+                    Non, pas du tout          39,0       42,5
+                    Éric Zemmour
+                    Oui, tout à fait           6,5       5,6
+                    Oui, plutôt               16,3       15,0
+                    Non, plutôt pas           23,3       22,0
+                    Non, pas du tout          53,9       57,5
+        Ifop pour Valeurs Actuelles                                      24
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 26 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+               situation  - La cohésion   de la société française
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+
+                   concernant la cohésion de la société française ?
+                                   Base : Ensemble (2 006 répondants)
+
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait           8,6       9,7
+                    Oui, plutôt               10,6       11,7
+                    Non, plutôt pas           16,2       16,9
+                    Non, pas du tout          64,6       61,7
+                    François Hollande
+                    Oui, tout à fait           5,2       4,7
+                    Oui, plutôt               22,0       21,7
+                    Non, plutôt pas           25,8       26,0
+                    Non, pas du tout          47,0       47,6
+                    Raphaël Glucksmann
+                    Oui, tout à fait           4,8       3,7
+                    Oui, plutôt               23,4       22,3
+                    Non, plutôt pas           25,4       26,9
+                    Non, pas du tout          46,4       47,1
+                    Gabriel Attal
+                    Oui, tout à fait           3,4       3,0
+                    Oui, plutôt               22,4       20,7
+                    Non, plutôt pas           27,4       27,1
+                    Non, pas du tout          46,7       49,1
+                    Édouard Philippe
+                    Oui, tout à fait           4,8       3,9
+                    Oui, plutôt               24,0       22,2
+                    Non, plutôt pas           26,8       26,2
+                    Non, pas du tout          44,4       47,7
+                    Bruno Retailleau
+                    Oui, tout à fait           4,1       3,2
+                    Oui, plutôt               22,5       21,5
+                    Non, plutôt pas           27,5       26,7
+                    Non, pas du tout          45,9       48,6
+                    David Lisnard
+                    Oui, tout à fait           6,1       3,8
+                    Oui, plutôt               23,0       21,5
+                    Non, plutôt pas           26,6       26,6
+                    Non, pas du tout          44,3       48,2
+                    Marine Le Pen
+                    Oui, tout à fait          15,1       14,0
+                    Oui, plutôt               18,5       19,1
+                    Non, plutôt pas           19,7       17,5
+                    Non, pas du tout          46,7       49,4
+                    Éric Zemmour
+                    Oui, tout à fait           6,0       5,2
+                    Oui, plutôt               11,9       12,0
+                    Non, plutôt pas           19,7       19,0
+                    Non, pas du tout          62,5       63,9
+        Ifop pour Valeurs Actuelles                                      25
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 27 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+                              situation - La justice
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+
+                   concernant la justice ?
+                                   Base : Ensemble (2 006 répondants)
+
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait           9,2       10,9
+                    Oui, plutôt               11,7       12,9
+                    Non, plutôt pas           17,7       16,2
+                    Non, pas du tout          61,4       60,1
+                    François Hollande
+                    Oui, tout à fait           4,8       4,5
+                    Oui, plutôt               20,8       20,7
+                    Non, plutôt pas           25,2       24,4
+                    Non, pas du tout          49,2       50,4
+                    Raphaël Glucksmann
+                    Oui, tout à fait           4,6       3,8
+                    Oui, plutôt               23,1       20,9
+                    Non, plutôt pas           25,0       26,8
+                    Non, pas du tout          47,3       48,6
+                    Gabriel Attal
+                    Oui, tout à fait           4,2       3,2
+                    Oui, plutôt               25,0       22,3
+                    Non, plutôt pas           25,1       26,1
+                    Non, pas du tout          45,6       48,4
+                    Édouard Philippe
+                    Oui, tout à fait           5,7       5,0
+                    Oui, plutôt               26,7       24,5
+                    Non, plutôt pas           24,8       25,0
+                    Non, pas du tout          42,8       45,6
+                    Bruno Retailleau
+                    Oui, tout à fait           8,7       7,1
+                    Oui, plutôt               25,5       24,0
+                    Non, plutôt pas           24,6       23,8
+                    Non, pas du tout          41,2       45,1
+                    David Lisnard
+                    Oui, tout à fait           8,0       5,6
+                    Oui, plutôt               24,3       21,2
+                    Non, plutôt pas           26,1       26,7
+                    Non, pas du tout          41,7       46,5
+                    Marine Le Pen
+                    Oui, tout à fait          22,0       20,6
+                    Oui, plutôt               21,5       20,4
+                    Non, plutôt pas           15,6       13,8
+                    Non, pas du tout          40,9       45,1
+                    Éric Zemmour
+                    Oui, tout à fait          10,5       8,8
+                    Oui, plutôt               16,2       15,1
+                    Non, plutôt pas           17,6       16,2
+                    Non, pas du tout          55,7       59,8
+        Ifop pour Valeurs Actuelles                                      26
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 28 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+           situation  - La lutte contre  la pauvreté   et la précarité
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+
+                   concernant la lutte contre la pauvreté et la précarité ?
+                                   Base : Ensemble (2 006 répondants)
+
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait          13,8       15,9
+                    Oui, plutôt               18,1       15,8
+                    Non, plutôt pas           17,7       17,7
+                    Non, pas du tout          50,4       50,5
+                    François Hollande
+                    Oui, tout à fait           4,4       4,3
+                    Oui, plutôt               21,8       20,9
+                    Non, plutôt pas           27,3       26,9
+                    Non, pas du tout          46,5       47,9
+                    Raphaël Glucksmann
+                    Oui, tout à fait           4,3       3,3
+                    Oui, plutôt               24,1       22,2
+                    Non, plutôt pas           26,4       27,8
+                    Non, pas du tout          45,2       46,7
+                    Gabriel Attal
+                    Oui, tout à fait           2,7       2,2
+                    Oui, plutôt               20,0       18,1
+                    Non, plutôt pas           30,0       29,2
+                    Non, pas du tout          47,4       50,6
+                    Édouard Philippe
+                    Oui, tout à fait           3,8       2,8
+                    Oui, plutôt               20,2       18,4
+                    Non, plutôt pas           30,2       30,0
+                    Non, pas du tout          45,8       48,8
+                    Bruno Retailleau
+                    Oui, tout à fait           3,3       3,2
+                    Oui, plutôt               19,7       16,9
+                    Non, plutôt pas           31,3       31,5
+                    Non, pas du tout          45,6       48,4
+                    David Lisnard
+                    Oui, tout à fait           4,8       3,2
+                    Oui, plutôt               21,1       18,0
+                    Non, plutôt pas           30,0       30,7
+                    Non, pas du tout          44,1       48,1
+                    Marine Le Pen
+                    Oui, tout à fait          15,1       13,8
+                    Oui, plutôt               22,5       21,5
+                    Non, plutôt pas           20,3       19,5
+                    Non, pas du tout          42,1       45,2
+                    Éric Zemmour
+                    Oui, tout à fait           5,8       5,5
+                    Oui, plutôt               14,4       12,9
+                    Non, plutôt pas           22,7       20,6
+                    Non, pas du tout          57,1       60,9
+        Ifop pour Valeurs Actuelles                                      27
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 29 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+                   situation  - La lutte contre le narcotrafic
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+
+                   concernant la lutte contre le narcotrafic ?
+                                   Base : Ensemble (2 006 répondants)
+
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait           7,3       7,6
+                    Oui, plutôt               11,0       11,9
+                    Non, plutôt pas           20,8       21,7
+                    Non, pas du tout          60,9       58,8
+                    François Hollande
+                    Oui, tout à fait           3,2       2,7
+                    Oui, plutôt               15,7       15,4
+                    Non, plutôt pas           28,2       27,5
+                    Non, pas du tout          52,9       54,4
+                    Raphaël Glucksmann
+                    Oui, tout à fait           3,3       2,0
+                    Oui, plutôt               17,9       16,9
+                    Non, plutôt pas           27,3       28,0
+                    Non, pas du tout          51,5       53,1
+                    Gabriel Attal
+                    Oui, tout à fait           4,9       4,3
+                    Oui, plutôt               21,6       20,2
+                    Non, plutôt pas           26,4       25,8
+                    Non, pas du tout          47,0       49,7
+                    Édouard Philippe
+                    Oui, tout à fait           6,3       5,5
+                    Oui, plutôt               24,1       22,0
+                    Non, plutôt pas           25,0       24,9
+                    Non, pas du tout          44,6       47,6
+                    Bruno Retailleau
+                    Oui, tout à fait          11,0       9,4
+                    Oui, plutôt               28,1       25,4
+                    Non, plutôt pas           20,7       21,8
+                    Non, pas du tout          40,2       43,4
+                    David Lisnard
+                    Oui, tout à fait           8,7       6,4
+                    Oui, plutôt               25,8       22,5
+                    Non, plutôt pas           24,6       25,7
+                    Non, pas du tout          40,8       45,3
+                    Marine Le Pen
+                    Oui, tout à fait          25,2       22,9
+                    Oui, plutôt               24,7       23,6
+                    Non, plutôt pas           15,3       14,3
+                    Non, pas du tout          34,8       39,2
+                    Éric Zemmour
+                    Oui, tout à fait          14,5       12,0
+                    Oui, plutôt               18,5       18,2
+                    Non, plutôt pas           18,2       17,3
+                    Non, pas du tout          48,9       52,5
+        Ifop pour Valeurs Actuelles                                      28
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 30 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+                            situation  - Les retraites
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+
+                   concernant les retraites ?
+                                   Base : Ensemble (2 006 répondants)
+
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait          12,2       13,8
+                    Oui, plutôt               15,2       15,1
+                    Non, plutôt pas           16,9       17,3
+                    Non, pas du tout          55,6       53,8
+                    François Hollande
+                    Oui, tout à fait           4,1       4,2
+                    Oui, plutôt               18,7       19,1
+                    Non, plutôt pas           27,7       26,4
+                    Non, pas du tout          49,6       50,2
+                    Raphaël Glucksmann
+                    Oui, tout à fait           3,7       3,0
+                    Oui, plutôt               19,7       19,3
+                    Non, plutôt pas           28,5       28,4
+                    Non, pas du tout          48,1       49,3
+                    Gabriel Attal
+                    Oui, tout à fait           3,0       2,3
+                    Oui, plutôt               19,3       18,0
+                    Non, plutôt pas           28,1       27,3
+                    Non, pas du tout          49,6       52,4
+                    Édouard Philippe
+                    Oui, tout à fait           4,7       4,5
+                    Oui, plutôt               20,0       17,5
+                    Non, plutôt pas           26,5       26,7
+                    Non, pas du tout          48,7       51,4
+                    Bruno Retailleau
+                    Oui, tout à fait           4,6       3,7
+                    Oui, plutôt               21,2       18,5
+                    Non, plutôt pas           28,5       29,0
+                    Non, pas du tout          45,7       48,8
+                    David Lisnard
+                    Oui, tout à fait           5,4       3,8
+                    Oui, plutôt               20,8       18,8
+                    Non, plutôt pas           28,4       28,0
+                    Non, pas du tout          45,5       49,4
+                    Marine Le Pen
+                    Oui, tout à fait          14,9       12,5
+                    Oui, plutôt               21,3       21,7
+                    Non, plutôt pas           21,1       19,8
+                    Non, pas du tout          42,7       46,0
+                    Éric Zemmour
+                    Oui, tout à fait           6,1       4,9
+                    Oui, plutôt               13,5       11,9
+                    Non, plutôt pas           22,9       22,3
+                    Non, pas du tout          57,4       61,0
+        Ifop pour Valeurs Actuelles                                      29
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 31 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+            situation  - La démocratie   et le fonctionnement     des
+                                   institutions
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+                   concernant la démocratie et le fonctionnement des institutions ?
+
+                                   Base : Ensemble (2 006 répondants)
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait           9,8       11,9
+                    Oui, plutôt               11,0       11,0
+                    Non, plutôt pas           18,2       18,0
+                    Non, pas du tout          61,0       59,0
+                    François Hollande
+                    Oui, tout à fait           6,2       6,6
+                    Oui, plutôt               25,8       24,6
+                    Non, plutôt pas           23,8       23,3
+                    Non, pas du tout          44,2       45,4
+                    Raphaël Glucksmann
+                    Oui, tout à fait           6,0       5,1
+                    Oui, plutôt               25,8       24,3
+                    Non, plutôt pas           24,8       26,2
+                    Non, pas du tout          43,4       44,5
+                    Gabriel Attal
+                    Oui, tout à fait           4,4       3,9
+                    Oui, plutôt               28,4       26,2
+                    Non, plutôt pas           24,6       24,9
+                    Non, pas du tout          42,7       44,9
+                    Édouard Philippe
+                    Oui, tout à fait           6,1       5,5
+                    Oui, plutôt               28,9       26,2
+                    Non, plutôt pas           24,6       25,6
+                    Non, pas du tout          40,4       42,7
+                    Bruno Retailleau
+                    Oui, tout à fait           6,2       4,7
+                    Oui, plutôt               27,5       25,6
+                    Non, plutôt pas           24,7       25,8
+                    Non, pas du tout          41,6       44,0
+                    David Lisnard
+                    Oui, tout à fait           7,1       4,9
+                    Oui, plutôt               25,7       23,2
+                    Non, plutôt pas           25,5       27,1
+                    Non, pas du tout          41,7       44,7
+                    Marine Le Pen
+                    Oui, tout à fait          17,3       15,7
+                    Oui, plutôt               22,8       22,9
+                    Non, plutôt pas           17,6       17,1
+                    Non, pas du tout          42,2       44,3
+                    Éric Zemmour
+                    Oui, tout à fait           7,8       6,7
+                    Oui, plutôt               14,8       13,5
+                    Non, plutôt pas           20,1       19,1
+                    Non, pas du tout          57,4       60,6
+        Ifop pour Valeurs Actuelles                                      30
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 32 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+                 situation  - La culture et l’accès à la culture
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+
+                   concernant la culture et l’accès à la culture ?
+                                   Base : Ensemble (2 006 répondants)
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait          11,6       13,4
+                    Oui, plutôt               17,7       17,0
+                    Non, plutôt pas           20,0       20,3
+                    Non, pas du tout          50,7       49,4
+                    François Hollande
+                    Oui, tout à fait           6,9       7,2
+                    Oui, plutôt               29,7       28,3
+                    Non, plutôt pas           22,3       22,1
+                    Non, pas du tout          41,2       42,4
+                    Raphaël Glucksmann
+                    Oui, tout à fait           7,4       6,2
+                    Oui, plutôt               29,2       28,3
+                    Non, plutôt pas           22,4       23,1
+                    Non, pas du tout          41,0       42,4
+                    Gabriel Attal
+                    Oui, tout à fait           4,9       3,6
+                    Oui, plutôt               30,0       28,8
+                    Non, plutôt pas           25,1       24,9
+                    Non, pas du tout          40,0       42,7
+                    Édouard Philippe
+                    Oui, tout à fait           4,9       3,9
+                    Oui, plutôt               30,2       28,4
+                    Non, plutôt pas           25,4       24,7
+                    Non, pas du tout          39,5       43,0
+                    Bruno Retailleau
+                    Oui, tout à fait           4,4       3,3
+                    Oui, plutôt               25,1       24,7
+                    Non, plutôt pas           29,4       27,9
+                    Non, pas du tout          41,2       44,1
+                    David Lisnard
+                    Oui, tout à fait           5,0       3,7
+                    Oui, plutôt               26,6       25,0
+                    Non, plutôt pas           27,0       27,0
+                    Non, pas du tout          41,4       44,4
+                    Marine Le Pen
+                    Oui, tout à fait          14,3       13,0
+                    Oui, plutôt               22,9       23,4
+                    Non, plutôt pas           21,0       19,0
+                    Non, pas du tout          41,8       44,6
+                    Éric Zemmour
+                    Oui, tout à fait           6,8       6,5
+                    Oui, plutôt               16,0       15,9
+                    Non, plutôt pas           22,2       20,8
+                    Non, pas du tout          55,0       56,7
+        Ifop pour Valeurs Actuelles                                      31
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 33 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+                situation - La lutte contre  les discriminations
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+
+                   concernant la lutte contre les discriminations ?
+                                   Base : Ensemble (2 006 répondants)
+
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait          13,9       15,0
+                    Oui, plutôt               14,4       14,0
+                    Non, plutôt pas           16,7       15,9
+                    Non, pas du tout          55,0       55,0
+                    François Hollande
+                    Oui, tout à fait           5,4       5,4
+                    Oui, plutôt               24,9       23,4
+                    Non, plutôt pas           23,8       23,8
+                    Non, pas du tout          45,9       47,4
+                    Raphaël Glucksmann
+                    Oui, tout à fait           6,5       5,2
+                    Oui, plutôt               26,8       26,1
+                    Non, plutôt pas           22,3       22,1
+                    Non, pas du tout          44,4       46,5
+                    Gabriel Attal
+                    Oui, tout à fait           4,1       3,8
+                    Oui, plutôt               25,4       22,7
+                    Non, plutôt pas           26,1       26,1
+                    Non, pas du tout          44,4       47,4
+                    Édouard Philippe
+                    Oui, tout à fait           4,0       4,0
+                    Oui, plutôt               25,6       21,9
+                    Non, plutôt pas           26,2       26,3
+                    Non, pas du tout          44,3       47,7
+                    Bruno Retailleau
+                    Oui, tout à fait           4,2       3,5
+                    Oui, plutôt               23,7       22,1
+                    Non, plutôt pas           27,1       26,7
+                    Non, pas du tout          45,0       47,8
+                    David Lisnard
+                    Oui, tout à fait           5,0       3,6
+                    Oui, plutôt               23,6       21,0
+                    Non, plutôt pas           26,9       26,8
+                    Non, pas du tout          44,6       48,7
+                    Marine Le Pen
+                    Oui, tout à fait          15,7       14,8
+                    Oui, plutôt               18,8       18,1
+                    Non, plutôt pas           19,1       18,0
+                    Non, pas du tout          46,4       49,0
+                    Éric Zemmour
+                    Oui, tout à fait           7,2       5,6
+                    Oui, plutôt               12,2       12,5
+                    Non, plutôt pas           19,6       18,7
+                    Non, pas du tout          61,0       63,1
+        Ifop pour Valeurs Actuelles                                      32
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 34 ---
+
+La capacité  de  différents  candidats  à améliorer   la
+
+                     situation  - La défense  de  la ruralité
+
+        Question : Et pour chacun des candidats suivants à l’élection présidentielle,
+                   pensez-vous qu’il serait capable ou non d'améliorer la situation
+
+                   concernant la défense de la ruralité ?
+                                   Base : Ensemble (2 006 répondants)
+
+                                              Brut     Redressé
+                    Jean-Luc Mélenchon
+                    Oui, tout à fait           8,5       10,1
+                    Oui, plutôt               15,2       14,7
+                    Non, plutôt pas           19,9       19,5
+                    Non, pas du tout          56,5       55,7
+                    François Hollande
+                    Oui, tout à fait           4,3       4,4
+                    Oui, plutôt               24,9       24,8
+                    Non, plutôt pas           23,5       22,3
+                    Non, pas du tout          47,3       48,4
+                    Raphaël Glucksmann
+                    Oui, tout à fait           3,2       3,1
+                    Oui, plutôt               22,2       20,6
+                    Non, plutôt pas           27,8       28,0
+                    Non, pas du tout          46,9       48,3
+                    Gabriel Attal
+                    Oui, tout à fait           2,3       2,1
+                    Oui, plutôt               21,3       19,6
+                    Non, plutôt pas           29,7       29,5
+                    Non, pas du tout          46,7       48,9
+                    Édouard Philippe
+                    Oui, tout à fait           4,3       3,8
+                    Oui, plutôt               23,6       21,5
+                    Non, plutôt pas           28,1       28,7
+                    Non, pas du tout          44,0       46,0
+                    Bruno Retailleau
+                    Oui, tout à fait           4,8       3,6
+                    Oui, plutôt               24,9       23,5
+                    Non, plutôt pas           28,2       27,5
+                    Non, pas du tout          42,0       45,4
+                    David Lisnard
+                    Oui, tout à fait           6,1       4,1
+                    Oui, plutôt               24,7       21,6
+                    Non, plutôt pas           27,5       28,5
+                    Non, pas du tout          41,7       45,8
+                    Marine Le Pen
+                    Oui, tout à fait          17,3       15,3
+                    Oui, plutôt               26,3       26,6
+                    Non, plutôt pas           18,5       16,6
+                    Non, pas du tout          37,9       41,5
+                    Éric Zemmour
+                    Oui, tout à fait           7,0       6,3
+                    Oui, plutôt               17,3       15,7
+                    Non, plutôt pas           21,8       20,3
+                    Non, pas du tout          53,9       57,8
+        Ifop pour Valeurs Actuelles                                      33
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 35 ---
+
+La confiance  dans   l’Etat pour assurer  sa sécurité
+
+        Question : Avez-vous confiance ou pas confiance dans la capacité de l’État à
+                   assurer votre sécurité ainsi que celle de votre famille et de votre
+
+                   domicile ?
+                                   Base : Ensemble (2 006 répondants)
+
+                                              Brut     Redressé
+                    Tout à fait confiance      3,7       2,8
+                    Plutôt confiance          28,4       27,0
+                    Plutôt pas confiance      41,9       42,0
+                    Pas du tout confiance     26,0       28,2
+                    Total                     100,0     100,0
+
+        Ifop pour Valeurs Actuelles                                      34
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026
+
+--- page 36 ---
+
+L’éventuelle   acquisition  d’armes   pour  assurer  soi-même
+
+                                   sa sécurité
+
+        Question : Avez-vous déjà envisagé d’acquérir légalement une arme pour assurer
+                   vous-même, en cas de nécessité, votre sécurité ou celle de votre
+                   famille ?
+
+                                   Base : Ensemble (2 006 répondants)
+
+                                                  Brut     Redressé
+                Oui, et vous en avez déjà acquis une dans ce but 3,2 2,4
+                Oui, vous l’avez sérieusement envisagé 11,7  9,3
+                Oui, vous y avez pensé, sans démarche concrète 20,2 18,2
+                Non, jamais                       60,9       64,6
+                Vous préférez ne pas répondre      4,0       5,6
+                Total                             100,0     100,0
+
+        Ifop pour Valeurs Actuelles                                      35
+        Radioscopie du peuple de droite – Bloc ordre  Novembre 2026

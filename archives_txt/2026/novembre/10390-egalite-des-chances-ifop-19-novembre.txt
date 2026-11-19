@@ -1,0 +1,298 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10390-egalite-des-chances-ifop-19-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Egalité  des  chances   : perceptions,   parcours   et attentes
+
+                                                             des  Français
+
+                                                         Notice  technique
+
+           FD / AD N° 122815
+           Contacts Ifop :
+           Frédéric Dabi / Angèle Douillard
+           Département Opinion et Stratégies d'Entreprise
+           TEL : 01 45 84 14 44
+           prenom.nom@ifop.com
+           NOVEMBRE 2026
+
+--- page 2 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Ifop pour Break Poverty  et Fondation Crédit Mutuel  Alliance
+         Fédérale
+
+             Echantillon
+
+                            L’enquête a été menée auprès d’un échantillon de 2 000 personnes
+                            représentatif de la population française âgée de 18 ans et plus.
+
+            Méthodologie
+
+                            La représentativité de l’échantillon a été assurée par la méthode des
+                            quotas (sexe, âge, profession de la personne interrogée) après
+
+                            stratification par région et catégorie d'agglomération.
+
+            Mode de recueil
+                            Les interviews ont été réalisées par questionnaire auto-administré en ligne
+
+                            du 22 au 27 octobre 2026.
+
+        Conditions d’interrogation : Les questions ont été placées à la suite des questions permettant d’établir les
+
+        quotas.
+        Tout interviewé ayant complété un questionnaire a obtenu des points cumulables pour une valeur inférieure à
+        1 euro. L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2022) et d’un
+        redressement politique sur la base de la reconstitution des votes suivants : présidentielle 2022, 1er tour.
+
+        NOTICE TECHNIQUE : Ifop                                           2
+
+        Egalité des chances : perceptions, parcours et attentes des Français  NOVEMBRE 2026
+
+--- page 3 ---
+
+Précision  relative  aux  marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de part
+        et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+        comme le montre le tableau ci-dessous :
+
+                  INTERVALLE  DE CONFIANCE    A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 2 000 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 1,3. Le vrai pourcentage est donc compris entre 8,7% et 11,3%.
+
+        NOTICE TECHNIQUE : Ifop                                           3
+
+        Egalité des chances : perceptions, parcours et attentes des Français  NOVEMBRE 2026
+
+--- page 4 ---
+
+Structure   de l’échantillon
+
+                                                      Brut       Redressé
+                                                       (%)        (%)
+
+         SEXE DE L'INTERVIEWÉ(E)
+          Homme                                       48,1        47,7
+          Femme                                       51,9        52,3
+
+         AGE DE L'INTERVIEWÉ(E)
+          18 à 24 ans                                 10,7        10,3
+          25 à 34 ans                                 16,1        14,8
+          34 à 49 ans                                 24,2        24,0
+          50 à 64 ans                                 23,9        24,4
+          65 ans et plus                              25,3        26,5
+
+         PROFESSION DE L'INTERVIEWÉ(E)
+          Travailleur indépendant                      4,5        4,5
+          Cadre et prof. int. supérieure               9,9        11,2
+          Profession intermédiaire                    15,6         15
+
+          Employé                                     17,5        15,8
+          Ouvrier                                     13,4        12,1
+          Retraité                                    26,5        29,3
+
+          Autre inactif                               12,8         12
+         CATEGORIE D’AGGLOMERATION
+          Communes rurales                            24,5        21,1
+          Communes urbaines de province               59,5        62,6
+
+          Agglomération parisienne                    16,1        16,3
+         REGION
+          Grand-Est                                    8,9        8,5
+          Nouvelle-Aquitaine                           9,2        9,5
+
+          Auvergne-Rhône-Alpes                        12,5        12,3
+          Bourgogne-Franche-Comté                      3,1        4,3
+          Bretagne                                     4,7        5,2
+
+          Centre-Val-De-Loire                          4,4        3,9
+          Ile-De-France                               20,1        18,4
+          Occitanie                                    9,1        9,4
+          Hauts-de-France                             10,0        8,9
+
+          Normandie                                    4,2        5,1
+          Pays de la Loire                             6,6        5,8
+          PACA, Corse                                  7,5        8,5
+
+         TOTAL                                        100,0       100,0
+
+          * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE : Ifop                                           4
+
+        Egalité des chances : perceptions, parcours et attentes des Français  NOVEMBRE 2026
+
+--- page 5 ---
+
+Reconstitution    du 1er  tour de l’élection  présidentielle
+
+                                      2022
+
+                                                      Brut       Redressé
+                                                       (%)        (%)
+
+         • Nathalie Arthaud .......................................................................... 1,1 0,6
+         • Philippe Poutou ............................................................................ 1,8 0,8
+
+         • Fabien Roussel............................................................................. 4,3 2,3
+
+         • Jean-Luc Mélenchon .................................................................... 13,1 21,5
+         • Anne Hidalgo ................................................................................ 2,6 1,7
+
+         • Yannick Jadot ............................................................................... 4,3 4,6
+         • Emmanuel Macron ....................................................................... 26,8 27,8
+
+         • Valérie Pécresse .......................................................................... 6,2 4,8
+
+         • Nicolas Dupont-Aignan ................................................................ 2,1 2,1
+         • Marine Le Pen............................................................................... 29,8 23,5
+
+         • Éric Zemmour ............................................................................... 4,9 7,1
+         • Jean Lassalle ................................................................................ 2,9 3,2
+
+           TOTAL ......................................................................................... 100 100
+
+            - Ne se prononcent pas ......................................................... 30,3
+
+          * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        NOTICE TECHNIQUE : Ifop                                           5
+
+        Egalité des chances : perceptions, parcours et attentes des Français  NOVEMBRE 2026
+
+--- page 6 ---
+
+L'adhésion   à différentes   mesures   politiques   en faveur  de
+
+                             l’égalité des chances
+
+        Question : Pour chacune des mesures suivantes, y seriez-vous personnellement…
+
+                                                 Brut        Redressé
+                                                 (%)           (%)
+            Développer des programmes de tutorat et de soutien scolaire pour tous les élèves en
+            difficulté
+            Tout à fait favorable                43,4          43,1
+            Plutôt favorable                     50,4          49,8
+            Plutôt opposé                        4,8           5,1
+            Tout à fait opposé                   1,6           2,0
+
+            Réduire le nombre d’élèves par classe
+            Tout à fait favorable                46,9          45,7
+            Plutôt favorable                     43,7          44,0
+            Plutôt opposé                        7,4           8,1
+
+            Tout à fait opposé                   2,0           2,1
+            Garantir un accès à un mode de garde public pour tous
+
+            Tout à fait favorable                35,5          34,6
+            Plutôt favorable                     52,5          54,2
+            Plutôt opposé                        8,9           8,0
+            Tout à fait opposé                   3,2           3,2
+            Mieux former et mieux rémunérer les enseignants
+
+            Tout à fait favorable                44,4          42,3
+            Plutôt favorable                     43,6          44,6
+            Plutôt opposé                        9,5           10,5
+            Tout à fait opposé                   2,6           2,7
+
+            Prioriser l’aide financière à l’apprentissage pour les jeunes les plus en difficulté
+            Tout à fait favorable                34,0          33,5
+            Plutôt favorable                     49,6          51,1
+            Plutôt opposé                        12,0          10,9
+            Tout à fait opposé                   4,5           4,5
+
+            Renforcer la mixité sociale dans les établissements scolaires
+            Tout à fait favorable                33,3          33,2
+
+            Plutôt favorable                     49,2          50,2
+            Plutôt opposé                        11,3          10,5
+            Tout à fait opposé                   6,3           5,9
+            Réserver une part des places dans les formations les plus sélectives aux élèves boursiers
+
+            Tout à fait favorable                28,0          27,4
+            Plutôt favorable                     49,2          49,5
+            Plutôt opposé                        16,0          15,8
+            Tout à fait opposé                   6,9           7,4
+        NOTICE TECHNIQUE : Ifop                                           6
+
+        Egalité des chances : perceptions, parcours et attentes des Français  NOVEMBRE 2026
+
+--- page 7 ---
+
+Former davantage les élèves aux usages du numérique et de l’intelligence artificielle
+
+            Tout à fait favorable                26,0          24,5
+            Plutôt favorable                     49,5          51,0
+            Plutôt opposé                        19,2          19,2
+            Tout à fait opposé                   5,4           5,4
+            Ouvrir le versement des allocations familiales dès le premier enfant
+
+            Tout à fait favorable                29,5          28,6
+            Plutôt favorable                     44,3          46,1
+            Plutôt opposé                        16,9          15,4
+            Tout à fait opposé                   9,4           9,8
+            Réformer les rythmes scolaires (réduire le nombre d’heures de cours par jour et raccourcir
+            les vacances scolaires)
+            Tout à fait favorable                28,0          28,2
+            Plutôt favorable                     45,4          45,2
+            Plutôt opposé                        18,2          18,5
+            Tout à fait opposé                   8,4           8,1
+
+            Garantir l’accès à un congé parental rémunéré jusqu’au 1 an de l’enfant
+
+            Tout à fait favorable                29,6          29,7
+            Plutôt favorable                     43,1          43,1
+            Plutôt opposé                        18,6          18,1
+            Tout à fait opposé                   8,8           9,1
+            Garantir une aide financière mensuelle (« allocation jeunesse ») pour tous les jeunes en
+            difficulté à partir de 18 ans
+            Tout à fait favorable                24,9          25,2
+            Plutôt favorable                     39,6          41,1
+            Plutôt opposé                        23,8          22,0
+            Tout à fait opposé                   11,7          11,7
+
+        A la demande du commanditaire du projet, nous n’avons pas proposé de modalité « Ne se prononce pas ».
+
+        NOTICE TECHNIQUE : Ifop                                           7
+
+        Egalité des chances : perceptions, parcours et attentes des Français  NOVEMBRE 2026

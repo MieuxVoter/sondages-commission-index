@@ -1,0 +1,312 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10386-pres-programmes-elabe-18-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+NOTICE TECHNIQUE
+
+                        Les Français et les programmes présidentiels
+
+     ARTICLE 2
+
+                                   Elabe
+     Organisme ayant réalisé le sondage :
+                                   BFMTV
+     Nom du/des commanditaire(s) :
+                                   Echantillon de 1 002 personnes, représentatif des résidents
+     Nombre de personnes interrogées :
+                                   de France métropolitaine âgés de 18 ans et plus.
+                                   Du 17 au 18 novembre 2026
+     Dates de réalisation de l'enquête :
+                                   Le 18 novembre 2026 à 16h50 sur www.elabe.fr
+     Date et support de première publication :
+
+                                                                             1
+
+--- page 2 ---
+
+QUESTIONNAIRE
+
+     Toutes les questions sont posées à tous les répondants.
+     Q1. Parmi les domaines suivants, lesquels devraient être, selon vous, les priorités d’action du prochain
+     président de la République et de son gouvernement ?
+     En 1er ? En 2ème ? En 3ème ? Jusqu’à 3 réponses à prioriser
+     Rotation aléatoire des items
+     1. Le pouvoir d'achat
+     2. La sécurité
+     3. La santé
+     4. La dette publique
+     5. L'immigration
+     6. L'éducation
+     7. Les inégalités, les injustices sociales
+     8. L'emploi
+     9. La lutte contre le dérèglement climatique, l’adaptation face à ses conséquences
+     10. Les retraites
+     11. La fiscalité
+     12. La menace terroriste
+     13. Le logement
+     14. Les conflits internationaux (guerre en Ukraine, au Moyen-Orient)
+     Q2. Personnellement, à quel candidat à l'élection présidentielle faites-vous le plus confiance pour mener
+     une bonne politique sur chacun des thèmes suivants ?*
+     En 1er ? En 2ème ? En 3ème ? Jusqu’à 3 réponses à prioriser
+     Rotation aléatoire des thèmes
+     1. Pouvoir d’achat
+     2. Economie et emploi
+     3. Santé
+     4. Sécurité
+     5. Immigration
+     6. Environnement
+     7. Education
+     8. Dette et finances publiques
+     9. Les retraites
+     10. Les relations internationales
+     1. Jean-Luc MÉLENCHON
+     2. Raphaël GLUCKSMANN
+     3. Gabriel ATTAL
+     4. Édouard PHILIPPE
+     5. Bruno RETAILLEAU
+     6. David LISNARD
+     7. Marine LE PEN
+     8. Aucun d’entre eux
+     (*) La liste des candidats testés a été établie sur la base des candidats ayant recueilli 5% ou plus lors de notre
+     dernière intention de vote (Elabe/BFMTV/La Tribune Dimanche, 14 novembre 2026)
+     Q3. Pour vous, qu’est-ce qui compte le plus dans le programme d’un candidat à l’élection présidentielle ?
+     En 1er ? En 2ème ? En 3ème ? Jusqu’à 3 réponses à prioriser
+     Rotation aléatoire des items
+     1. Être clair et facile à comprendre
+     2. Présenter des mesures concrètes et précises
+     3. Dire comment les mesures seront financées
+     4. Être cohérent dans leur ensemble
+     5. Hiérarchiser les priorités et les actions à mener
+     6. Proposer une vision de long terme pour le pays
+     7. Apporter des idées nouvelles
+     8. Transformer en profondeur la société
+     9. Rassembler les Français
+     10. Dire clairement les efforts et les changements que sa mise en œuvre impliquerait
+                                                                             2
+
+--- page 3 ---
+
+NOTE SUR LES MARGES D’ERREUR
+
+     Comme toute enquête statistique, un sondage présente une incertitude appelée « marge d’erreur » ou « marge
+     d’incertitude ». La marge d’erreur ou d’incertitude d’un sondage dépend des effectifs utiles interrogés et du résultat
+     observé. En fonction des effectifs utiles, les marges d’erreur sont les suivantes avec un niveau de confiance de 95 % :
+
+                                   MARGES D'ERREUR
+
+          Pour un pourcentage de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+            1000 répondants   1,4      1,9      2,5      2,8      3     3,1
+
+     Exemple de lecture :
+
+     Pour un résultat observé de 30% sur un effectif utile de 1000 répondants, il y a 95% de chances pour que le résultat réel soit
+     compris entre 27,2% et 32,8%.
+
+     La notice de ce sondage peut être consultée sur le site internet de la Commission des sondages : www.commission-des-sondages.fr
+
+     Toute publication ou toute reprise de ce sondage doit faire figurer la méthodologie et les marges d’erreurs :
+     « Echantillon de 1 002 personnes, représentatif des résidents de France métropolitaine âgés de 18 ans et plus. Interrogation par
+     Internet du 17 au 18 novembre 2026.
+
+     La représentativité de l’échantillon a été assurée selon la méthode des quotas appliquée aux variables suivantes : sexe, âge,
+     catégorie socio-professionnelle, région de résidence et catégorie d’agglomération.
+     Marge d’erreur comprise entre 1,4 et 3,1 pts de pourcentage. »
+
+                                                                             3
+
+--- page 4 ---
+
+ARTICLE 3
+
+                                   Les Français et les programmes présidentiels
+     Objet du sondage :
+                                   Echantillon de 1 002 personnes, représentatif des résidents
+                                   de France métropolitaine âgés de 18 ans et plus, constitué
+     Méthode :                     d’après la méthode des quotas (sexe, âge, profession de la
+                                   personne interrogée, catégorie d’agglomération et région
+                                   d e résidence).
+     Conditions d’interrogation :  Les répondants ont été interrogés en ligne (Internet).
+
+     Nombre de sans réponse :      Voir « Résultats publiés »*
+
+                                   Oui. Gratification sous la forme de points cumulables et dont
+     Existence d’une gratification : la valeur s’élève à moins de 1€ pour un questionnaire
+                                   complété.
+
+                                   L’échantillon brut a été redressé sur les variables
+                                   sociodémographiques et professionnelles utilisées comme
+                                   quotas (données Insee issues du recensement de la
+                                   population 2022) ainsi que sur le statut d’occupation du
+     Critères de redressement :    logement (données Insee issues du recensement de la
+                                   population 2022), le vote au premier tour des élections
+                                   législatives 2024, au premier tour et au second tour de
+                                   l’élection présidentielle 2022 (données du Ministère de
+                                   l’Intérieur).
+
+     (*) Nous vous présentons dans ce document le nombre de « sans-réponse » pour chacune des questions publiées.
+     Les questions de quota étant obligatoires (de façon à s’assurer de la représentativité de l’échantillon) aucune des
+     personnes interrogées ne peut ne pas avoir répondu à l’ensemble du sondage.
+
+                                                                             4
+
+--- page 5 ---
+
+QUESTIONS PUBLIEES
+
+     En raison de l’arrondi à 100, un décalage d’1 point maximum peut exister entre les colonnes redressées et publiées.
+
+                 Parmi les domaines suivants, lesquels devraient être, selon vous, les
+                 priorités d’action du prochain président de la République et de son PUBLIÉ
+                 gouvernement ? – % TOTAL DES CITATIONS
+                 Effectifs bruts                           1002
+                 Le pouvoir d'achat                        58
+                 La sécurité                               32
+                 La santé                                  34
+                 La dette publique                         31
+                 L'immigration                             26
+                 L'éducation                               22
+                 Les inégalités, les injustices sociales   17
+                 L'emploi                                  15
+                 La lutte contre le dérèglement climatique, l’adaptation face à ses
+                                                           15
+                 conséquences
+                 Les retraites                             13
+                 La fiscalité                               9
+                 La menace terroriste                       5
+                 Le logement                                9
+                 Les conflits internationaux (guerre en Ukraine, au Moyen-Orient) 8
+                 Sans-réponses                              0
+                 Personnellement, à quel candidat à l'élection présidentielle faites-
+                 vous le plus confiance pour mener une bonne politique sur le thème PUBLIÉ
+                 suivant : Pouvoir d’achat ? – % TOTAL DES CITATIONS
+                 Effectifs bruts                           1002
+                 Pouvoir d’achat
+                 Jean-Luc MÉLENCHON                        20
+                 Raphaël GLUCKSMANN                        16
+                 Gabriel ATTAL                             15
+                 Édouard PHILIPPE                          17
+                 Bruno RETAILLEAU                          17
+                 David LISNARD                             17
+                 Marine LE PEN                             32
+                 Aucun d'entre eux                         30
+                 Sans-réponses                              2
+                 Economie et emploi
+                 Jean-Luc MÉLENCHON                        18
+                 Raphaël GLUCKSMANN                        16
+                 Gabriel ATTAL                             15
+                 Édouard PHILIPPE                          21
+                 Bruno RETAILLEAU                          20
+                 David LISNARD                             20
+                 Marine LE PEN                             29
+                 Aucun d'entre eux                         29
+                 Sans-réponses                              2
+                 Santé
+                 Jean-Luc MÉLENCHON                        17
+                 Raphaël GLUCKSMANN                        18
+                 Gabriel ATTAL                             16
+                 Édouard PHILIPPE                          17
+                 Bruno RETAILLEAU                          15
+                 David LISNARD                             16
+                 Marine LE PEN                             28
+                 Aucun d'entre eux                         32
+                 Sans-réponses                              2
+                 Sécurité
+                 Jean-Luc MÉLENCHON                        16
+                 Raphaël GLUCKSMANN                        11
+                                                                             5
+
+--- page 6 ---
+
+Gabriel ATTAL                             12
+                 Édouard PHILIPPE                          17
+                 Bruno RETAILLEAU                          26
+                 David LISNARD                             19
+                 Marine LE PEN                             39
+                 Aucun d'entre eux                         27
+                 Sans-réponses                              1
+                 Immigration
+                 Jean-Luc MÉLENCHON                        16
+                 Raphaël GLUCKSMANN                        12
+                 Gabriel ATTAL                             12
+                 Édouard PHILIPPE                          14
+                 Bruno RETAILLEAU                          22
+                 David LISNARD                             18
+                 Marine LE PEN                             43
+                 Aucun d'entre eux                         26
+                 Sans-réponses                              1
+                 Environnement
+                 Jean-Luc MÉLENCHON                        18
+                 Raphaël GLUCKSMANN                        19
+                 Gabriel ATTAL                             16
+                 Édouard PHILIPPE                          15
+                 Bruno RETAILLEAU                          13
+                 David LISNARD                             14
+                 Marine LE PEN                             22
+                 Aucun d'entre eux                         38
+                 Sans-réponses                              1
+                 Education
+                 Jean-Luc MÉLENCHON                        18
+                 Raphaël GLUCKSMANN                        16
+                 Gabriel ATTAL                             21
+                 Édouard PHILIPPE                          18
+                 Bruno RETAILLEAU                          18
+                 David LISNARD                             18
+                 Marine LE PEN                             29
+                 Aucun d'entre eux                         28
+                 Sans-réponses                              2
+                 Dette et finances publiques
+                 Jean-Luc MÉLENCHON                        16
+                 Raphaël GLUCKSMANN                        13
+                 Gabriel ATTAL                             13
+                 Édouard PHILIPPE                          20
+                 Bruno RETAILLEAU                          19
+                 David LISNARD                             17
+                 Marine LE PEN                             30
+                 Aucun d'entre eux                         33
+                 Sans-réponses                              1
+                 Les retraites
+                 Jean-Luc MÉLENCHON                        19
+                 Raphaël GLUCKSMANN                        15
+                 Gabriel ATTAL                             13
+                 Édouard PHILIPPE                          17
+                 Bruno RETAILLEAU                          15
+                 David LISNARD                             17
+                 Marine LE PEN                             29
+                 Aucun d'entre eux                         33
+                 Sans-réponses                              2
+                 Les relations internationales
+                 Jean-Luc MÉLENCHON                        15
+                 Raphaël GLUCKSMANN                        15
+                 Gabriel ATTAL                             16
+                 Édouard PHILIPPE                          22
+                 Bruno RETAILLEAU                          18
+                                                                             6
+
+--- page 7 ---
+
+David LISNARD                             16
+                 Marine LE PEN                             28
+                 Aucun d'entre eux                         32
+                 Sans-réponses                              1
+
+                 Pour vous, qu’est-ce qui compte le plus dans le programme d’un
+                                                          PUBLIÉ
+                 candidat à l’élection présidentielle ? – % TOTAL DES CITATIONS
+                 Effectifs bruts                           1002
+                 Être clair et facile à comprendre         29
+                 Présenter des mesures concrètes et précises 50
+                 Dire comment les mesures seront financées 30
+                 Être cohérent dans leur ensemble          31
+                 Hiérarchiser les priorités et les actions à mener 22
+                 Proposer une vision de long terme pour le pays 26
+                 Apporter des idées nouvelles              12
+                 Transformer en profondeur la société      23
+                 Rassembler les Français                   28
+                 Dire clairement les efforts et les changements que sa mise en œuvre
+                                                           28
+                 impliquerait
+                 Sans-réponses                              2
+
+                                                                             7

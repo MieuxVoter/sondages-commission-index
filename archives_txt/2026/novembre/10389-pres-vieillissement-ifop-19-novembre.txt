@@ -1,0 +1,356 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10389-pres-vieillissement-ifop-19-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Le regard  des  Français   sur le vieillissement   de la
+
+        population
+
+        Notice   technique
+
+                                                                  FD N° 122588
+                                                                CONTACT IFOP :
+                                                                   Frédéric Dabi
+                                                              Département Opinion
+                                                            et Stratégies d'Entreprise
+                                                             prénom.nom@ifop.com
+                                                                NOVEMBRE 2026
+
+--- page 2 ---
+
+1
+
+                                                  La  méthodologie
+
+        Ifop pour Le Club des 20                                          1
+
+        Le regard des Français sur le vieillissement de la population  Novembre 2026
+
+--- page 3 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Etude réalisée par Ifop pour Le Club des 20
+
+         Echantillon
+                            L’enquête a été menée auprès d’un échantillon de 1 000 personnes
+                            représentatif de la population française âgée de 18 ans et plus.
+
+                            La représentativité de l’échantillon a été assurée par la méthode des
+         Méthodologie
+                            quotas au regard de critères :
+                            - sociodémographiques (sexe, âge de l’individu) ;
+
+                            - socioprofessionnels (profession de l’individu) ;
+
+                            - géographiques (région, taille d’unité urbaine).
+
+            Mode de recueil
+
+                            Les interviews ont été réalisées par questionnaire auto-administré
+                            en ligne du 16 au 17 juillet 2026.
+
+        L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2022) et d’un redressement
+        politique sur la base de la reconstitution des votes suivants : présidentielle 2022 1er tour, législatives 2024 1er
+        tour.
+        Nota bene : à la demande du commanditaire du projet, nous n’avons pas proposé d’item « Ne se prononce
+        pas ».
+
+        La présente notice est consultable sur le site de la commission des sondages.
+
+        Ifop pour Le Club des 20                                         2
+
+        Le regard des Français sur le vieillissement de la population  Novembre 2026
+
+--- page 4 ---
+
+Précision  relative  aux marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+        comme le montre le tableau ci-dessous :
+
+                    INTERVALLE DE CONFIANCE   A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 1 000 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 1,8. Le vrai pourcentage est donc compris entre 8,2% et 11,8%.
+
+        Ifop pour Le Club des 20                                         3
+
+        Le regard des Français sur le vieillissement de la population  Novembre 2026
+
+--- page 5 ---
+
+Structure  de l’échantillon
+
+                                                 Brut   Redressé
+                                                  %        %
+        SEXE
+           Un homme                              49,4     47,7
+           Une femme                             50,6     52,3
+
+        AGE
+           De18a24ans                             7,8     10,3
+           De25a34ans                            14,2     14,8
+           De35a49ans                            25,0     24,0
+           De50a64ans                            24,6     24,4
+           De65a74ans                            14,2     14,0
+           A75ansetplus                          14,2     12,5
+
+        REGION
+           GrandEst                               7,7     8,5
+           NouvelleAquitaine                      8,6     9,5
+           AuvergneRhoneAlpes1                   11,0     12,3
+           BourgogneFrancheComte1                 3,7     4,3
+           Bretagne2                              5,8     5,2
+
+           CentreValDeLoire1                      4,8     3,9
+           IleDeFrance2                          19,4     18,4
+           Occitanie                             10,4     9,4
+           HautsdeFrance                          8,3     8,9
+           Normandie1                             4,3     5,1
+           PaysDeLaLoire2                         6,5     5,8
+           PACACorse                              9,5     8,5
+
+        AGGLO
+           Commune rurale                        24,2     21,1
+           Unité urbaine de 2 000 à 19 999 hab.  15,2     18,2
+           Unité urbaine de 20 000 à 99 999 hab. 15,0     13,9
+           Unité urbaine de 100 000 à 199 999 hab. 31,5   30,6
+           Agglomération parisienne              14,1     16,3
+
+        PROFESSION
+           Agriculteurs1                          0,9     0,7
+           Artisans1                              4,0     3,8
+           Cadres1                               12,0     11,2
+           Intermediaires1                       15,6     15,0
+           Employes1                             17,0     15,8
+           Ouvriers1                             13,2     12,1
+
+           Inactifs                              37,3     41,3
+        PRESIDENTIELLE 2022 1er tour (Ne se prononce pas =
+        25,8%)
+           Nathalie Arthaud                       2,0     0,6
+           Philippe Poutou                        2,2     0,8
+           Fabien Roussel                         4,6     2,3
+           Jean-Luc Mélenchon                    14,7     21,5
+
+        Ifop pour Le Club des 20                                         4
+
+        Le regard des Français sur le vieillissement de la population  Novembre 2026
+
+--- page 6 ---
+
+Anne Hidalgo                           2,8     1,7
+           Yannick Jadot                          3,8     4,6
+           Emmanuel Macron                       24,8     27,8
+           Valérie Pécresse                       6,9     4,8
+           Nicolas Dupont-Aignan                  3,0     2,1
+           Marine Le Pen                         26,9     23,5
+           Éric Zemmour                           4,3     7,1
+
+           Jean Lassalle                          3,9     3,2
+        LEGISLATIVE 2024 1er tour (Ne se prononce pas = 29,0%)
+           Extrême gauche                         2,4     1,2
+           NFP                                   28,2     28,7
+           Divers gauche                          0,9     1,0
+           ENS Ensemble !                        19,2     22,4
+
+           Divers centre                          1,1     0,8
+           LR & DVD                              10,5     9,5
+           RN & alliés                           35,0     34,0
+           Droite souverainiste, divers EXD - Reconquête 1,5 1,1
+           DIVERS                                 1,1     1,3
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        Ifop pour Le Club des 20                                         5
+
+        Le regard des Français sur le vieillissement de la population  Novembre 2026
+
+--- page 7 ---
+
+La perception   de  l’évolution  de la population   française  à
+                                 l’horizon  2050
+
+        Question : D’après vous en 2050, la population française aura… ?
+                                   Base : Ensemble (1 000 répondants)
+
+                                              Brut     Redressé
+                    Augmenté fortement         9,2       9,6
+                    Augmenté légèrement       23,4       22,6
+                    Stagné                    27,5       28,7
+                    Baissé légèrement         32,2       31,8
+                    Baissé fortement           7,7       7,3
+                    Total                     100,0     100,0
+
+        Ifop pour Le Club des 20                                         6
+        Le regard des Français sur le vieillissement de la population  Juillet 2026
+
+--- page 8 ---
+
+Le caractère  inéluctable   ou réversible  du  vieillissement
+
+                                démographique
+
+        Question : Avec laquelle des deux affirmations suivantes êtes-vous le plus
+                   d’accord ? Le vieillissement de la population française est…
+                                   Base : Ensemble (1 000 répondants)
+
+                                                  Brut     Redressé
+                Un phénomène inéluctable, qu'on ne peut pas
+                                                  64,9       65,4
+                vraiment arrêter
+                Un phénomène sur lequel on peut encore agir 35,1 34,6
+                Total                             100,0     100,0
+
+        Ifop pour Le Club des 20                                         7
+        Le regard des Français sur le vieillissement de la population  Juillet 2026
+
+--- page 9 ---
+
+La perception    des effets du  vieillissement  de  la
+
+                                   population
+
+        Question : De l’idée que vous vous en faites, le vieillissement de la population en
+                   France représente-t-il plutôt une opportunité ou plutôt un
+                   désavantage… ?
+
+                              Base : Ensemble (1 000 répondants)
+                                                  Brut     Redressé
+                Pour la transmission des savoirs en entreprise
+                Tout à fait une opportunité       20,5       18,5
+                Plutôt une opportunité            40,0       39,8
+                Plutôt un désavantage             15,9       14,6
+                Tout à fait un désavantage        10,5       11,2
+                Ni l'un ni l'autre                13,1       15,8
+                Pour la jeune génération
+                Tout à fait une opportunité       11,5       10,5
+                Plutôt une opportunité            36,6       37,0
+                Plutôt un désavantage             22,6       21,0
+                Tout à fait un désavantage        13,2       12,8
+                Ni l'un ni l'autre                16,1       18,7
+                De manière générale pour la société
+                Tout à fait une opportunité        8,5       8,7
+                Plutôt une opportunité            27,0       25,6
+                Plutôt un désavantage             31,4       31,8
+                Tout à fait un désavantage        12,8       12,1
+                Ni l'un ni l'autre                20,3       21,7
+                Pour l’innovation
+                Tout à fait une opportunité        7,7       7,4
+                Plutôt une opportunité            24,0       23,2
+                Plutôt un désavantage             33,1       31,7
+                Tout à fait un désavantage        12,8       12,8
+                Ni l'un ni l'autre                22,4       24,9
+                Pour le dynamisme économique de la France
+                Tout à fait une opportunité        7,5       7,5
+                Plutôt une opportunité            23,0       22,1
+                Plutôt un désavantage             36,1       34,7
+                Tout à fait un désavantage        16,9       16,3
+                Ni l'un ni l'autre                16,5       19,4
+                Pour le système de protection sociale en France
+                Tout à fait une opportunité        8,0       7,4
+                Plutôt une opportunité            19,4       20,4
+                Plutôt un désavantage             33,4       31,6
+                Tout à fait un désavantage        21,5       19,5
+                Ni l'un ni l'autre                17,7       21,1
+
+        Ifop pour Le Club des 20                                         8
+        Le regard des Français sur le vieillissement de la population  Juillet 2026
+
+--- page 10 ---
+
+La  perception   de l’équilibre de  l’action publique   entre  les
+
+                                  générations
+
+        Question : Pensez-vous que l’Etat Français en fait davantage pour les jeunes ou
+                   pour les plus âgés ?
+                                   Base : Ensemble (1 000 répondants)
+
+                                                  Brut     Redressé
+                Plus pour les jeunes              23,1       19,9
+                Plus pour les plus âgés           21,0       21,7
+                Autant pour les jeunes que pour les plus âgés 55,9 58,4
+                Total                             100,0     100,0
+
+        Ifop pour Le Club des 20                                         9
+        Le regard des Français sur le vieillissement de la population  Juillet 2026
+
+--- page 11 ---
+
+L'apport  potentiel  de  l’intelligence artificielle face aux
+
+                            défis du  vieillissement
+
+        Question : L'intelligence artificielle peut-elle, selon vous, constituer une réponse
+                   efficace aux défis suivants posés par le vieillissement de la
+                   population ?
+
+                              Base : Ensemble (1 000 répondants)
+                                                  Brut     Redressé
+                Défis sanitaires et médico-sociaux (dépendance
+                / perte d'autonomie, manque de personnel
+                soignant)
+                Oui, tout à fait                  10,1       9,8
+                Oui, plutôt                       34,5       31,2
+                Non, plutôt pas                   28,0       28,6
+                Non, pas du tout                  27,4       30,4
+                Défis économiques et financiers (soutenabilité
+                des dépenses de santé, pénurie de main-
+                d'œuvre…)
+                Oui, tout à fait                   8,1       8,0
+                Oui, plutôt                       34,8       32,1
+                Non, plutôt pas                   30,4       29,6
+                Non, pas du tout                  26,7       30,3
+                Défis sociétaux et territoriaux (isolement social
+                et solitude des personnes âgées…)
+                Oui, tout à fait                   7,4       8,1
+                Oui, plutôt                       31,7       28,1
+                Non, plutôt pas                   31,9       30,6
+                Non, pas du tout                  29,0       33,1
+                Défis démographiques (Baisse de la natalité,
+                allongement de l’espérance de vie)
+                Oui, tout à fait                   6,4       5,6
+                Oui, plutôt                       25,1       23,4
+                Non, plutôt pas                   34,3       33,3
+                Non, pas du tout                  34,2       37,7
+
+        Ifop pour Le Club des 20                                         10
+        Le regard des Français sur le vieillissement de la population  Juillet 2026

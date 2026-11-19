@@ -1,0 +1,295 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10387-pres-primaire-centre-droite-ifop-18-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Les  Français    et une  primaire    du centre   et de
+
+        la droite
+
+        Notice   technique
+
+                                                                FD / MT N° 122938
+                                                                CONTACTS IFOP :
+                                                      Frédéric Dabi / Mathilde Tchounikine
+                                                              Département Opinion
+                                                            et Stratégies d'Entreprise
+                                                             prénom.nom@ifop.com
+                                                                NOVEMBRE 2026
+
+--- page 2 ---
+
+1
+
+                                                  La  méthodologie
+
+        Ifop pour Le Figaro                                               1
+
+        Les Français et une primaire du centre et de la droite  Novembre 2026
+
+--- page 3 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Etude réalisée par Ifop pour Le Figaro
+
+                            L’enquête a été menée auprès d’un échantillon de 2 542 personnes
+         Echantillon
+                            inscrites sur les listes électorales, extrait d’un échantillon de 2 823
+                            personnes, représentatif de la population française âgée de 18 ans
+                            et plus, dont 996 personnes ayant l’intention de participer à une
+
+                            éventuelle primaire du centre et de la droite.
+
+                            La représentativité de l’échantillon a été assurée par la méthode des
+         Méthodologie
+                            quotas au regard de critères :
+
+                            - sociodémographiques (sexe, âge de l’individu) ;
+
+                            - socioprofessionnels (profession de l’individu, niveau de diplôme) ;
+
+                            - géographiques (région, taille d’unité urbaine).
+
+            Mode de recueil
+
+                            Les interviews ont été réalisées par questionnaire auto-administré
+                            en ligne du 13 au 18 novembre 2026.
+
+        L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2022) et d’un redressement
+
+        politique sur la base de la reconstitution des votes suivants : présidentielle 2022 1er tour et législatives 2024
+        (1er tour).
+        La présente notice est consultable sur le site de la commission des sondages.
+
+        Ifop pour Le Figaro                                              2
+
+        Les Français et une primaire du centre et de la droite  Novembre 2026
+
+--- page 4 ---
+
+Précision  relative  aux marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+        comme le montre le tableau ci-dessous :
+
+                    INTERVALLE DE CONFIANCE   A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau :
+          -  dans le cas d’un échantillon de 1 000 personnes, si le pourcentage mesuré est de 10%, la marge
+             d’erreur est égale à 1,8. Le vrai pourcentage est donc compris entre 8,2 % et 11,8 %.
+          -  dans le cas d’un échantillon de 2 000 personnes, si le pourcentage mesuré est de 10%, la marge
+             d’erreur est égale à 1,3. Le vrai pourcentage est donc compris entre 8,7 % et 11,3%.
+          -  dans le cas d’un échantillon de 3 000 personnes, si le pourcentage mesuré est de 10%, la marge
+             d’erreur est égale à 1,1. Le vrai pourcentage est donc compris entre 8,9 % et 11,1%.
+
+        Ifop pour Le Figaro                                              3
+
+        Les Français et une primaire du centre et de la droite  Novembre 2026
+
+--- page 5 ---
+
+Structure  de l’échantillon
+
+                                                 Brut   Redressé
+                                                  %        %
+        SEXE
+           Un homme                              47,9     47,7
+           Une femme                             52,1     52,3
+
+        AGE
+           De18a24ans                            10,5     10,3
+           De25a34ans                            14,1     14,8
+           De35a49ans                            24,4     24,0
+           De50a64ans                            23,4     24,4
+           De65a74ans                            14,4     14,0
+           A75ansetplus                          13,2     12,5
+
+        REGION
+           GrandEst                               8,6     8,5
+           NouvelleAquitaine                      9,0     9,5
+           AuvergneRhoneAlpes1                   11,8     12,3
+           BourgogneFrancheComte1                 4,1     4,3
+           Bretagne2                              5,2     5,2
+
+           CentreValDeLoire1                      4,0     3,9
+           IleDeFrance2                          19,3     18,4
+           Occitanie                              9,8     9,4
+           HautsdeFrance                          8,4     8,9
+           Normandie1                             5,3     5,1
+           PaysDeLaLoire2                         6,2     5,8
+           PACACorse                              8,3     8,5
+
+        AGGLO
+           Commune rurale                        22,3     21,1
+           Unité urbaine de 2 000 à 19 999 hab.  17,8     18,2
+           Unité urbaine de 20 000 à 99 999 hab. 13,9     13,9
+           Unité urbaine de 100 000 à 199 999 hab. 31,2   30,6
+           Agglomération parisienne              14,7     16,3
+
+        PROFESSION
+           Agriculteurs1                          0,5     0,7
+           Artisans1                              4,0     3,8
+           Cadres1                               10,0     11,2
+           Intermediaires1                       15,6     15,0
+           Employes1                             16,5     15,8
+           Ouvriers1                             12,7     12,1
+
+           Inactifs                              40,6     41,3
+        DIPLOME
+           ENCOURSDETUDES                        13,3     6,8
+           Total SANSDIPLOME, CEP, BEPC           7,4     23,0
+           CAPBEP                                15,9     22,3
+           BACBP                                 20,1     16,5
+
+           Total SUPCOURT, SUPLONG               43,3     31,4
+        Ifop pour Le Figaro                                              4
+
+        Les Français et une primaire du centre et de la droite  Novembre 2026
+
+--- page 6 ---
+
+PRESIDENTIELLE 2022 1er tour (Ne se prononce pas =
+        29,3%)
+           Nathalie Arthaud                       1,6     0,6
+           Philippe Poutou                        2,2     0,8
+           Fabien Roussel                         3,5     2,3
+           Jean-Luc Mélenchon                    12,1     21,5
+           Anne Hidalgo                           2,4     1,7
+           Yannick Jadot                          4,6     4,6
+
+           Emmanuel Macron                       26,4     27,8
+           Valérie Pécresse                       6,8     4,8
+           Nicolas Dupont-Aignan                  2,8     2,1
+           Marine Le Pen                         29,3     23,5
+           Éric Zemmour                           3,7     7,1
+           Jean Lassalle                          4,5     3,2
+
+        LEGISLATIVES 2024 1er tour (Ne se prononce pas = 37,7%)
+           Extrême gauche                         1,7     1,2
+           NFP                                   25,7     28,7
+           Divers gauche                          1,3     1,0
+           ENS Ensemble !                        22,9     22,4
+           Divers centre                          0,8     0,8
+           LR & DVD                              11,9     9,5
+
+           RN & alliés                           32,3     34,0
+           Droite souverainiste, divers EXD - Reconquête 1,5 1,1
+           DIVERS                                 1,9     1,3
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        Ifop pour Le Figaro                                              5
+
+        Les Français et une primaire du centre et de la droite  Novembre 2026
+
+--- page 7 ---
+
+La participation   à une  primaire  du  centre  et de la droite
+
+        Question : Si entre la fin de l’année 2026 et le début de l’année 2027 Renaissance,
+                   le Modem, Horizons, l’UDI, Les Républicains et Nouvelle Énergie,
+                   s’entendaient pour organiser une primaire dans le but de désigner leur
+
+                   candidat à la prochaine élection présidentielle, vous personnellement,
+                   envisagez-vous d’aller voter à cette primaire ?
+
+               Base : personnes inscrites sur les listes électorales
+                                                  Brut     Redressé
+               (2542 personnes)
+               Oui, certainement                  16,7       16,6
+               Oui, probablement                  22,5       21,2
+               Non, probablement pas              24,6       24,5
+               Non, certainement pas              36,2       37,7
+               Total                              100,0     100,0
+
+        Nota bene : à la demande du commanditaire du projet, nous n’avons pas proposé d’item « Ne se
+        prononce pas » à cette question
+
+        Ifop pour Le Figaro                                              6
+        Les Français et une primaire du centre et de la droite  Novembre 2026
+
+--- page 8 ---
+
+Les  intentions  de vote  à une  primaire   du centre  et de  la
+
+                 droite  - Hypothèse   avec  Edouard   Philippe
+
+        Question : Si dimanche prochain se déroulait le premier tour de cette primaire de
+                   la droite et du centre, pour lequel des candidats suivants y aurait-il le
+                   plus de chances que vous votiez ?
+
+               Base : personnes inscrites sur les listes électorales
+               ayant l’intention de participer à une éventuelle Brut Redressé
+               primaire du centre et de la droite (996 personnes)
+               Gabriel Attal                      21,2       25,0
+               Edouard Philippe                   29,6       28,4
+               Bruno Retailleau                   17,0       17,6
+
+               David Lisnard                      32,2       28,9
+               Total                              100,0     100,0
+
+        Nota bene : à la demande du commanditaire du projet, nous n’avons pas proposé d’item « Ne se
+        prononce pas » à cette question
+
+        Ifop pour Le Figaro                                              7
+        Les Français et une primaire du centre et de la droite  Novembre 2026
+
+--- page 9 ---
+
+Les  intentions  de vote  à une  primaire   du centre  et de  la
+
+                 droite  - Hypothèse   sans  Edouard   Philippe
+
+        Question : Si dimanche prochain se déroulait le premier tour de cette primaire de
+                   la droite et du centre, pour lequel des candidats suivants y aurait-il le
+                   plus de chances que vous votiez ?
+
+               Base : personnes inscrites sur les listes électorales
+               ayant l’intention de participer à une éventuelle Brut Redressé
+               primaire du centre et de la droite (996 personnes)
+               Gabriel Attal                      34,7       38,3
+               Bruno Retailleau                   27,4       28,5
+               David Lisnard                      37,9       33,2
+               Total                              100,0     100,0
+
+        Nota bene : à la demande du commanditaire du projet, nous n’avons pas proposé d’item « Ne se
+        prononce pas » à cette question
+
+        Ifop pour Le Figaro                                              8
+        Les Français et une primaire du centre et de la droite  Novembre 2026
