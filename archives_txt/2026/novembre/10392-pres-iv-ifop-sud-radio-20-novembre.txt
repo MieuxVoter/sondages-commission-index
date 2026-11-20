@@ -1,0 +1,439 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10392-pres-iv-ifop-sud-radio-20-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Les intentions   de vote  à l’élection
+
+        présidentielle   2027
+
+        Notice   technique
+
+                                                                 FD N° 122879
+                                                                CONTACT IFOP :
+                                                                  Frédéric Dabi
+                                                             Département Opinion
+                                                           et Stratégies d'Entreprise
+                                                            prénom.nom@ifop.com
+                                                               NOVEMBRE 2026
+
+--- page 2 ---
+
+1
+
+                                                  La  méthodologie
+
+        Ifop-Fiducial pour Sud Radio                                      1
+
+        Les indices de popularité  Novembre 2026
+
+--- page 3 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Etude réalisée par Ifop-Fiducial pour Sud Radio
+
+         Echantillon        L’enquête a été menée auprès d’un échantillon de 1 834 personnes
+                            inscrites sur les listes électorales, extrait d’un échantillon de 1 978
+                            personnes représentatif de la population française âgée de 18 ans et
+
+                            plus.
+
+                            La représentativité de l’échantillon a été assurée par la méthode des
+         Méthodologie
+                            quotas au regard de critères :
+                            - sociodémographiques (sexe, âge de l’individu) ;
+
+                            - socioprofessionnels (profession de l’individu) ;
+
+                            - géographiques (région, taille d’unité urbaine).
+
+            Mode de recueil
+
+                            Les interviews ont été réalisées par questionnaire auto-administré
+                            en ligne du 2 au 4 novembre 2026.
+
+        L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2022) et d’un redressement
+        politique sur la base de la reconstitution des votes suivants : présidentielle 2022 1er tour, législatives 2024 1er
+        tour.
+        La présente notice est consultable sur le site de la commission des sondages.
+
+        Ifop-Fiducial pour Sud Radio                                     2
+
+        Les indices de popularité  Novembre 2026
+
+--- page 4 ---
+
+Précision  relative  aux marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+        comme le montre le tableau ci-dessous :
+
+                    INTERVALLE DE CONFIANCE   A 95% DE CHANCE
+                  Si le pourcentage trouvé est…
+
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+            100      4,4       6,0      8,0      9,2       9,8      10,0
+            200      3,1       4,2      5,7      6,5       6,9      7,1
+            300      2,5       3,5      4,6      5,3       5,7      5,8
+            400      2,2       3,0      4,0      4,6       4,9      5,0
+            500      1,9       2,7      3,6      4,1       4,4      4,5
+            600      1,8       2,4      3,3      3,7       4,0      4,1
+            700      1,6       2,3      3,0      3,5       3,7      3,8
+
+            800      1,5       2,1      2,8      3,2       3,5      3,5
+            900      1,4       2,0      2,6      3,0       3,2      3,3
+           1 000     1,4       1,8      2,5      2,8       3,0      3,1
+           1 100     1,3       1,8      2,4      2,7       2,9      3,0
+           1 200     1,2       1,7      2,3      2,6       2,8      2,8
+           1 300     1,2       1,6      2,2      2,5       2,7      2,7
+           1 400     1,1       1,6      2,1      2,4       2,6      2,6
+           1 500     1,1       1,5      2,0      2,3       2,4      2,5
+           2 000     1,0       1,3      1,8      2,0       2,2      2,2
+           3 000     0,8       1,1      1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 1 100 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 1,8. Le vrai pourcentage est donc compris entre 8,2% et 11,8%.
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 1 200 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 1,7. Le vrai pourcentage est donc compris entre 8,3% et 11,7%.
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 1 300 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 1,6. Le vrai pourcentage est donc compris entre 8,4% et 11,6%.
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 2 000 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 1,3. Le vrai pourcentage est donc compris entre 8,7% et 11,3%.
+
+        Ifop-Fiducial pour Sud Radio                                     3
+
+        Les indices de popularité  Novembre 2026
+
+--- page 5 ---
+
+Structure  de l’échantillon
+
+                                                 Brut   Redressé
+                                                  %        %
+        SEXE
+           Un homme                              49,0     47,7
+           Une femme                             51,0     52,3
+
+        AGE
+           De18a24ans                            10,4     10,3
+           De25a34ans                            14,1     14,8
+           De35a49ans                            24,1     24,0
+           De50a64ans                            23,2     24,4
+           De65a74ans                            15,2     14,0
+           A75ansetplus                          13,1     12,5
+
+        REGION
+           GrandEst                               8,8     8,5
+           NouvelleAquitaine                      9,9     9,5
+           AuvergneRhoneAlpes1                   12,3     12,3
+           BourgogneFrancheComte1                 3,7     4,3
+           Bretagne2                              5,0     5,2
+
+           CentreValDeLoire1                      3,9     3,9
+           IleDeFrance2                          19,1     18,4
+           Occitanie                              9,1     9,4
+           HautsdeFrance                          8,9     8,9
+           Normandie1                             4,6     5,1
+           PaysDeLaLoire2                         5,9     5,8
+           PACACorse                              8,9     8,5
+
+        AGGLO
+           Commune rurale                        22,3     21,1
+           Unité urbaine de 2 000 à 19 999 hab.  15,7     18,2
+           Unité urbaine de 20 000 à 99 999 hab. 14,6     13,9
+           Unité urbaine de 100 000 à 199 999 hab. 32,3   30,6
+           Agglomération parisienne              15,2     16,3
+
+        PROFESSION
+           Agriculteurs1                          0,9     0,7
+           Artisans1                              3,2     3,8
+           Cadres1                               10,0     11,2
+           Intermediaires1                       15,0     15,0
+           Employes1                             16,6     15,8
+           Ouvriers1                             12,3     12,1
+
+           Inactifs                              42,1     41,3
+        PRESIDENTIELLE 2022 1er tour (Ne se prononce pas =
+        28,7%)
+           Nathalie Arthaud                       1,4     0,6
+           Philippe Poutou                        1,7     0,8
+           Fabien Roussel                         5,2     2,3
+           Jean-Luc Mélenchon                    14,1     21,5
+
+        Ifop-Fiducial pour Sud Radio                                     4
+
+        Les indices de popularité  Novembre 2026
+
+--- page 6 ---
+
+Anne Hidalgo                           2,7     1,7
+           Yannick Jadot                          5,2     4,6
+           Emmanuel Macron                       24,1     27,8
+           Valérie Pécresse                       7,5     4,8
+           Nicolas Dupont-Aignan                  2,7     2,1
+           Marine Le Pen                         28,3     23,5
+           Éric Zemmour                           4,1     7,1
+
+           Jean Lassalle                          2,9     3,2
+        LEGISLATIVE 2024 1er tour (Ne se prononce pas = 34,1%)
+           Extrême gauche                         1,8     1,2
+           NFP                                   28,0     28,7
+           Divers gauche                          1,1     1,0
+           ENS Ensemble !                        19,4     22,4
+
+           Divers centre                          0,5     0,8
+           LR & DVD                              12,6     9,5
+           RN & alliés                           33,1     34,0
+           Droite souverainiste, divers EXD - Reconquête 1,6 1,1
+           DIVERS                                 1,9     1,3
+        EUROPENNES 2024 (Ne se prononce pas = 40,3%)
+           Une liste d’extrême gauche             0,5     0,7
+
+           La liste de La France insoumise        8,8     9,8
+           La liste du Parti Communiste           2,3     2,4
+           La liste du Parti Socialiste et de Place Publique 15,6 13,8
+           La liste des Ecologistes               5,8     5,4
+
+           La liste de Renaissance               12,4     14,5
+           La liste du Parti Animaliste           2,3     2,0
+           Une liste divers écologistes           0,9     2,0
+          La liste Les Républicains              11,5     7,3
+
+           La liste Alliance Rurale               1,0     2,4
+           La liste du Rassemblement National    33,7     31,7
+           La liste Reconquête                    3,4     5,4
+           La liste des Patriotes                 0,2     0,9
+           La liste de l’UPR                      0,3     1,0
+
+           Une autre liste                        1,4     0,7
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        Ifop-Fiducial pour Sud Radio                                     5
+
+        Les indices de popularité  Novembre 2026
+
+--- page 7 ---
+
+L’intention   d’aller voter
+
+        Question :  [Aux personnes inscrites sur les listes électorales] Vous personnellement,
+                    envisagez-vous d’aller voter à la prochaine élection présidentielle qui aura lieu le
+                    18 avril 2027 ?
+
+         Base : Ensemble des personnes inscrites sur les listes électorales Brut Redressé
+                                                       (%)        (%)
+
+         • Oui ............................................................................................... 96,4 95,1
+         • Non .............................................................................................. 3,6 4,9
+
+           TOTAL .......................................................................................... 100 100
+
+        Nota bene : à la demande du commanditaire du projet, nous n’avons pas proposé d’item « Ne se
+        prononce pas »
+
+        Question :  [Aux personnes inscrites sur les listes électorales envisageant d’aller voter à la
+                    prochaine élection présidentielle] Et diriez-vous que… ?
+
+                                                      Brut       Redressé
+                                                       (%)        (%)
+
+         • C’est tout à fait certain ............................................................... 78,4 78,6
+         • C’est pratiquement certain ......................................................... 16,2 16,0
+
+         • Il y a de grandes chances ............................................................ 4,0 3,7
+
+         • Ce n’est pas certain ..................................................................... 1,4 1,7
+           TOTAL .......................................................................................... 100 100
+
+        Nota bene : à la demande du commanditaire du projet, nous n’avons pas proposé d’item « Ne se
+        prononce pas »
+
+        * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point
+
+        Ifop-Fiducial pour Sud Radio                                     6
+
+        Les indices de popularité  Novembre 2026
+
+--- page 8 ---
+
+Les  intentions  de vote  à l’élection présidentielle   – E.
+
+             Philippe  candidat  unique   de la droite  et du centre
+
+        Question : Si dimanche prochain se déroulait le premier tour de l’élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+                                  Base : Ensemble des
+                                             Résultats
+                                 personnes inscrites sur les
+                                              publiés
+                                  listes électorales (1)
+                                Nathalie Arthaud 0,5
+                                Jean-Luc
+                                               18
+                                Mélenchon
+                                Fabien Roussel 3
+                                Marine Tondelier 3
+                                Raphaël
+                                               13
+                                Glucksmann
+                                Edouard Philippe 19
+                                Nicolas Dupont-
+                                              1,5
+                                Aignan
+                                Marine Le Pen  37
+                                Éric Zemmour   5
+                                TOTAL          100
+                                • Ne se prononcent pas 32,0
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1346 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1115 personnes ont exprimé une intention de vote.
+
+        Ifop-Fiducial pour Sud Radio                                     7
+
+        Les indices de popularité  Novembre 2026
+
+--- page 9 ---
+
+Les intentions   de vote  à l’élection présidentielle   – B.
+
+            Retailleau  candidat  unique   de la droite  et du centre
+
+        Question : Si dimanche prochain se déroulait le premier tour de l’élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+                                Base : Ensemble des
+                                             Résultats
+                                personnes inscrites sur les
+                                              publiés
+                                listes électorales (1)
+                                Nathalie Arthaud 0,5
+                                Jean-Luc
+                                               18
+                                Mélenchon
+                                Fabien Roussel 3
+                                Marine Tondelier 3,5
+                                Raphaël
+                                               17
+                                Glucksmann
+                                Bruno Retailleau 14
+                                Nicolas Dupont-
+                                               2
+                                Aignan
+                                Marine Le Pen  38
+                                Éric Zemmour   4
+                                TOTAL          100
+                                • Ne se prononcent pas 34,4
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1297 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1083 personnes ont exprimé une intention de vote.
+
+        Ifop-Fiducial pour Sud Radio                                     8
+
+        Les indices de popularité  Novembre 2026
+
+--- page 10 ---
+
+Les intentions   de vote  à l’élection présidentielle   – D.
+
+             Lisnard  candidat   unique  de  la droite et du  centre
+
+        Question : Si dimanche prochain se déroulait le premier tour de l’élection
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+                                Base : Ensemble des
+                                             Résultats
+                                personnes inscrites sur les
+                                              publiés
+                                listes électorales (1)
+                                Nathalie Arthaud 1
+                                Jean-Luc
+                                               17
+                                Mélenchon
+                                Fabien Roussel 3,5
+                                Marine Tondelier 3,5
+                                Raphaël
+                                               18
+                                Glucksmann
+                                David Lisnard  14
+                                Nicolas Dupont-
+                                               2
+                                Aignan
+                                Marine Le Pen  37
+                                Éric Zemmour   4
+                                TOTAL          100
+                                • Ne se prononcent pas 33,2
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1321 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1103 personnes ont exprimé une intention de vote.
+
+        Ifop-Fiducial pour Sud Radio                                     9
+
+        Les indices de popularité  Novembre 2026
+
+--- page 11 ---
+
+Les intentions   de vote  à l’élection présidentielle  – G.  Attal
+
+                  candidat  unique   de la droite  et du centre
+
+        Question : Si dimanche prochain se déroulait le premier tour de l’élection
+
+                   présidentielle, pour lequel des candidats suivants y aurait-il le plus de
+                   chances que vous votiez ?
+
+                         En pourcentage des suffrages exprimés
+
+                                Base : Ensemble des
+                                             Résultats
+                                personnes inscrites sur les
+                                              publiés
+                                listes électorales (1)
+                                Nathalie Arthaud 1
+                                Jean-Luc
+                                               18
+                                Mélenchon
+                                Fabien Roussel 3
+                                Marine Tondelier 3
+                                Raphaël
+                                               16
+                                Glucksmann
+                                Gabriel Attal  13
+                                Nicolas Dupont-
+                                               3
+                                Aignan
+                                Marine Le Pen  38
+                                Éric Zemmour   5
+                                TOTAL          100
+                                • Ne se prononcent pas 34,6
+        (1) Sur toutes les personnes inscrites sur les listes électorales interrogées, 1293 personnes ont exprimé une intention de vote. Sur toutes les personnes inscrites sur les listes électorales et certaines
+        d’aller voter interrogées, 1080 personnes ont exprimé une intention de vote.
+
+        Ifop-Fiducial pour Sud Radio                                     10
+
+        Les indices de popularité  Novembre 2026
