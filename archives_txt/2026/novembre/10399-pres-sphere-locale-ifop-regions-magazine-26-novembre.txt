@@ -1,0 +1,719 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10399-pres-sphere-locale-ifop-regions-magazine-26-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Comment    la sphère locale peut-elle contribuer  au
+
+        redressement   de la France ?
+
+        Notice   technique
+
+                                                                  FD N° 122889
+                                                                CONTACTS IFOP :
+                                                                   Frédéric Dabi
+                                                              Département Opinion
+                                                            et Stratégies d'Entreprise
+                                                             prénom.nom@ifop.com
+                                                                NOVEMBRE 2026
+
+--- page 2 ---
+
+1
+
+                                                  La  méthodologie
+
+        Ifop pour Razel-Bec Fayat en partenariat avec Régions Magazine    1
+        Comment la sphère locale peut-elle contribuer au redressement de la France ? - Novembre 2026
+
+--- page 3 ---
+
+Méthodologie
+
+        Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement
+        les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements
+        qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une
+        prédiction.
+
+        Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop.
+
+         Etude réalisée par Ifop pour Razel-Bec Fayat  en partenariat
+
+         avec Régions  Magazine
+
+         Echantillon
+
+                            L’enquête a été menée auprès d’un échantillon de 1 033 personnes
+                            représentatif de la population française âgée de 18 ans et plus.
+
+         Méthodologie
+
+                            La représentativité de l’échantillon a été assurée par la méthode des
+                            quotas (sexe, âge, profession de la personne interrogée) après
+                            stratification par région et catégorie d'agglomération.
+
+            Mode de recueil
+                            Les interviews ont été réalisées par questionnaire auto-administré
+
+                            en ligne du 4 au 5 novembre 2026.
+
+        L’enquête a fait l’objet d’un redressement sociodémographique (données INSEE 2022) et d’un redressement
+        politique sur la base de la reconstitution des votes suivants : présidentielle 2022 1er tour, législatives 2024 1er
+        tour.
+
+        Nota bene : à la demande du commanditaire du projet, nous n’avons pas proposé d’item « Ne se prononce
+        pas », lorsqu’il n’apparait pas dans la présente notice.
+        La présente notice est consultable sur le site de la commission des sondages.
+
+        Ifop pour Razel-Bec Fayat en partenariat avec Régions Magazine   2
+        Comment la sphère locale peut-elle contribuer au redressement de la France ? - Novembre 2026
+
+--- page 4 ---
+
+Précision  relative  aux marges   d’erreur
+
+        La théorie statistique permet de mesurer l’incertitude à attacher à chaque résultat
+        d’une enquête. Cette incertitude s’exprime par un intervalle de confiance situé de
+
+        part et d’autre de la valeur observée et dans lequel la vraie valeur a une probabilité
+        déterminée de se trouver. Cette incertitude, communément appelée « marge
+        d’erreur », varie en fonction de la taille de l’échantillon et du pourcentage observé
+
+        comme le montre le tableau ci-dessous :
+
+                   INTERVALLE  DE CONFIANCE  A 95% DE CHANCE
+
+                  Si le pourcentage trouvé est…
+          Taille de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+         l’échantillon
+
+           100       4,4      6,0       8,0      9,2       9,8      10,0
+           200       3,1      4,2       5,7      6,5       6,9      7,1
+           300       2,5      3,5       4,6      5,3       5,7      5,8
+           400       2,2      3,0       4,0      4,6       4,9      5,0
+           500       1,9      2,7       3,6      4,1       4,4      4,5
+           600       1,8      2,4       3,3      3,7       4,0      4,1
+           700       1,6      2,3       3,0      3,5       3,7      3,8
+           800       1,5      2,1       2,8      3,2       3,5      3,5
+           900       1,4      2,0       2,6      3,0       3,2      3,3
+           1 000     1,4      1,8       2,5      2,8       3,0      3,1
+           1 100     1,3      1,8       2,4      2,7       2,9      3,0
+
+           1 200     1,2      1,7       2,3      2,6       2,8      2,8
+           1 300     1,2      1,6       2,2      2,5       2,7      2,7
+           1 400     1,1      1,6       2,1      2,4       2,6      2,6
+           1 500     1,1      1,5       2,0      2,3       2,4      2,5
+           2 000     1,0      1,3       1,8      2,0       2,2      2,2
+           3 000     0,8      1,1       1,4      1,6       1,8      1,8
+
+        Exemple de lecture du tableau : dans le cas d’un échantillon de 1 000 personnes, si le pourcentage mesuré
+        est de 10%, la marge d’erreur est égale à 1,8. Le vrai pourcentage est donc compris entre 8,2% et 11,8%.
+
+        Ifop pour Razel-Bec Fayat en partenariat avec Régions Magazine   3
+        Comment la sphère locale peut-elle contribuer au redressement de la France ? - Novembre 2026
+
+--- page 5 ---
+
+Structure  de l’échantillon
+
+                                                 Brut   Redressé
+                                                  %        %
+        SEXE
+           Un homme                              50,3     47,7
+           Une femme                             49,7     52,3
+
+        AGE
+           De18a24ans                            11,4     10,3
+           De25a34ans                            16,1     14,8
+           De35a49ans                            22,4     24,0
+           De50a64ans                            21,6     24,4
+           De65a74ans                            13,7     14,0
+           A75ansetplus                          14,8     12,5
+
+        REGION
+           GrandEst                               9,5     8,5
+           NouvelleAquitaine                      9,9     9,5
+           AuvergneRhoneAlpes1                   12,9     12,3
+           BourgogneFrancheComte1                 3,4     4,3
+           Bretagne2                              4,7     5,2
+
+           CentreValDeLoire1                      4,5     3,9
+           IleDeFrance2                          17,7     18,4
+           Occitanie                              8,9     9,4
+           HautsdeFrance                          9,3     8,9
+           Normandie1                             4,7     5,1
+           PaysDeLaLoire2                         6,2     5,8
+           PACACorse                              8,2     8,5
+
+        AGGLO
+           Commune rurale                        22,7     21,1
+           Unité urbaine de 2 000 à 19 999 hab.  14,3     18,2
+           Unité urbaine de 20 000 à 99 999 hab. 14,2     13,9
+           Unité urbaine de 100 000 à 199 999 hab. 34,6   30,6
+           Agglomération parisienne              14,1     16,3
+
+        PROFESSION
+           Agriculteurs1                          0,5     0,7
+           Artisans1                              3,4     3,8
+           Cadres1                               10,4     11,2
+           Intermediaires1                       13,2     15,0
+           Employes1                             16,1     15,8
+           Ouvriers1                             13,9     12,1
+
+           Inactifs                              42,6     41,3
+        PRESIDENTIELLE 2022 1er tour (Ne se prononce pas =
+        31,5%)
+           Nathalie Arthaud                       1,7     0,6
+           Philippe Poutou                        2,4     0,8
+           Fabien Roussel                         4,3     2,3
+           Jean-Luc Mélenchon                    13,8     21,5
+           Anne Hidalgo                           2,2     1,7
+
+        Ifop pour Razel-Bec Fayat en partenariat avec Régions Magazine   4
+        Comment la sphère locale peut-elle contribuer au redressement de la France ? - Novembre 2026
+
+--- page 6 ---
+
+Yannick Jadot                          4,0     4,6
+           Emmanuel Macron                       29,5     27,8
+           Valérie Pécresse                       6,3     4,8
+           Nicolas Dupont-Aignan                  2,1     2,1
+           Marine Le Pen                         25,3     23,5
+           Éric Zemmour                           5,4     7,1
+           Jean Lassalle                          2,9     3,2
+
+        LEGISLATIVE 2024 1er tour (Ne se prononce pas = 43,0%)
+           Extrême gauche                         2,0     1,2
+           NFP                                   27,5     28,7
+           Divers gauche                          0,8     1,0
+           ENS Ensemble !                        25,1     22,4
+           Divers centre                          0,7     0,8
+
+           LR & DVD                              11,5     9,5
+           RN & alliés                           28,4     34,0
+           Droite souverainiste, divers EXD - Reconquête 2,2 1,1
+           DIVERS                                 1,7     1,3
+
+         * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+        Ifop pour Razel-Bec Fayat en partenariat avec Régions Magazine   5
+        Comment la sphère locale peut-elle contribuer au redressement de la France ? - Novembre 2026
+
+--- page 7 ---
+
+La confiance   dans  différents  acteurs  pour  améliorer   la vie
+                                  au quotidien
+
+        Question : Vous personnellement, avez-vous confiance ou pas confiance dans
+                   chacun des acteurs suivants pour améliorer votre vie quotidienne ?
+                   (1 030 répondants)
+
+                                                  Brut     Redressé
+               Les policiers et les gendarmes
+               Tout à fait confiance              26,1       27,2
+               Plutôt confiance                   42,1       40,9
+               Plutôt pas confiance               17,5       16,9
+               Pas du tout confiance              14,3       15,1
+
+               Les associations
+               Tout à fait confiance              13,2       12,7
+               Plutôt confiance                   51,8       50,5
+               Plutôt pas confiance               20,8       20,6
+               Pas du tout confiance              14,2       16,3
+               Les conseillers municipaux de votre commune
+               Tout à fait confiance              13,2       13,1
+               Plutôt confiance                   51,1       49,4
+               Plutôt pas confiance               20,6       19,1
+               Pas du tout confiance              15,1       18,4
+               Votre maire
+               Tout à fait confiance              18,3       18,1
+               Plutôt confiance                   46,9       43,1
+               Plutôt pas confiance               20,3       21,6
+               Pas du tout confiance              14,5       17,3
+               Les PME
+               Tout à fait confiance              11,7       9,9
+               Plutôt confiance                   53,8       50,1
+               Plutôt pas confiance               23,4       24,6
+               Pas du tout confiance              11,1       15,4
+               Les élus de votre intercommunalité
+               Tout à fait confiance               8,2       6,8
+               Plutôt confiance                   47,4       46,6
+               Plutôt pas confiance               28,2       29,0
+               Pas du tout confiance              16,3       17,5
+               Les conseillers régionaux
+               Tout à fait confiance               6,4       6,6
+               Plutôt confiance                   41,6       40,2
+               Plutôt pas confiance               35,0       33,8
+               Pas du tout confiance              17,1       19,4
+
+        Ifop pour Razel-Bec Fayat en partenariat avec Régions Magazine   6
+        Comment la sphère locale peut-elle contribuer au redressement de la France ? - Novembre 2026
+
+--- page 8 ---
+
+Brut     Redressé
+               Les conseillers départementaux
+               Tout à fait confiance               5,7       4,4
+               Plutôt confiance                   41,6       40,6
+               Plutôt pas confiance               34,6       35,4
+               Pas du tout confiance              18,2       19,5
+               Le préfet et les services de l’État dans votre
+               département
+               Tout à fait confiance               6,4       5,8
+               Plutôt confiance                   37,3       36,2
+               Plutôt pas confiance               36,2       35,7
+               Pas du tout confiance              20,1       22,3
+               Les grandes entreprises privées
+               Tout à fait confiance               6,7       6,4
+               Plutôt confiance                   33,7       30,4
+               Plutôt pas confiance               36,0       34,9
+               Pas du tout confiance              23,6       28,3
+               Les sénateurs
+               Tout à fait confiance               4,1       3,6
+               Plutôt confiance                   22,9       19,9
+               Plutôt pas confiance               38,4       38,1
+               Pas du tout confiance              34,6       38,3
+               Les députés
+               Tout à fait confiance               3,3       3,2
+               Plutôt confiance                   22,0       19,8
+               Plutôt pas confiance               43,5       44,9
+               Pas du tout confiance              31,2       32,2
+               Le Président de la République
+               Tout à fait confiance               4,8       4,9
+               Plutôt confiance                   16,8       12,9
+
+               Plutôt pas confiance               25,3       23,5
+               Pas du tout confiance              53,1       58,8
+               Le Gouvernement
+               Tout à fait confiance               3,9       2,9
+               Plutôt confiance                   15,8       13,0
+               Plutôt pas confiance               31,5       30,4
+               Pas du tout confiance              48,8       53,8
+
+        Ifop pour Razel-Bec Fayat en partenariat avec Régions Magazine   7
+        Comment la sphère locale peut-elle contribuer au redressement de la France ? - Novembre 2026
+
+--- page 9 ---
+
+L’adhésion   à différentes  compositions    de gouvernement      à
+
+                 la suite de l’élection présidentielle  de  2027
+
+        Question : En pensant au gouvernement qui sera nommé à la suite de l’élection
+                   présidentielle de 2027, seriez-vous favorable ou pas favorable à un
+                   gouvernement… ?
+
+                   (1 030 répondants)
+
+                                                  Brut     Redressé
+               Composé majoritairement d’experts et de
+               techniciens reconnus dans leur domaine
+
+               (économistes, gestionnaires…)
+               Tout à fait favorable              19,8       17,3
+               Plutôt favorable                   52,2       51,4
+               Plutôt pas favorable               20,1       20,3
+               Pas du tout favorable               7,9       11,1
+               Composé majoritairement d’élus locaux de
+               communes de toutes tailles, grandes et petites
+               (maires, adjoints au maire, conseillers
+               municipaux…)
+               Tout à fait favorable              12,5       12,7
+               Plutôt favorable                   55,6       53,7
+               Plutôt pas favorable               21,4       21,3
+               Pas du tout favorable              10,5       12,3
+               Composé majoritairement d’élus locaux de
+               grandes villes et de grandes collectivités (maires,
+               adjoints au maire, présidents de conseil
+               départemental ou régional…)
+               Tout à fait favorable               8,9       7,8
+               Plutôt favorable                   46,8       47,1
+               Plutôt pas favorable               32,3       31,9
+               Pas du tout favorable              11,9       13,3
+               Composé majoritairement d’élus nationaux
+               (anciens ministres, personnalités politiques …)
+               Tout à fait favorable               6,4       5,8
+               Plutôt favorable                   22,5       21,2
+               Plutôt pas favorable               43,4       40,7
+               Pas du tout favorable              27,7       32,4
+
+        Ifop pour Razel-Bec Fayat en partenariat avec Régions Magazine   8
+        Comment la sphère locale peut-elle contribuer au redressement de la France ? - Novembre 2026
+
+--- page 10 ---
+
+L’acteur  le plus légitime  pour  mener   une  action  efficace
+
+                           dans  différents domaines
+
+        Question : Qui est, selon vous, l’acteur le plus légitime pour mener une action
+                   efficace dans chacun des domaines suivants ?
+                   (1 030 répondants)
+
+                                                  Brut     Redressé
+               La santé et l’accès aux soins
+               L’État et les pouvoirs publics nationaux 71,2 71,5
+
+               Les collectivités locales          28,8       28,5
+               Les réseaux ferroviaires
+               L’État et les pouvoirs publics nationaux 71,4 69,7
+               Les collectivités locales          28,6       30,3
+               Les ponts, tunnels et autres ouvrages d’art
+               L’État et les pouvoirs publics nationaux 60,4 60,7
+               Les collectivités locales          39,6       39,3
+               La protection contre les risques naturels
+               (inondations, glissements de terrain…)
+               L’État et les pouvoirs publics nationaux 51,7 54,4
+               Les collectivités locales          48,3       45,6
+               L’emploi et le développement économique
+               L’État et les pouvoirs publics nationaux 53,7 54,3
+               Les collectivités locales          46,3       45,7
+               La préparation des territoires à la transition
+               écologique
+               L’État et les pouvoirs publics nationaux 47,1 51,1
+               Les collectivités locales          52,9       48,9
+               La construction et l’entretien des routes
+               L’État et les pouvoirs publics nationaux 51,1 47,8
+               Les collectivités locales          48,9       52,2
+               Les réseaux d’eau et d’assainissement
+               L’État et les pouvoirs publics nationaux 32,5 31,4
+               Les collectivités locales          67,5       68,6
+               Les transports du quotidien
+               L’État et les pouvoirs publics nationaux 28,7 29,0
+               Les collectivités locales          71,3       71,0
+
+        Ifop pour Razel-Bec Fayat en partenariat avec Régions Magazine   9
+        Comment la sphère locale peut-elle contribuer au redressement de la France ? - Novembre 2026
+
+--- page 11 ---
+
+L’adhésion   à un budget   pluriannuel
+
+        Question : Aujourd’hui, le budget de l’État est voté chaque année. Seriez-vous
+                   favorable ou pas favorable à la mise en place d’un budget pluriannuel,
+
+                   c’est-à-dire un budget fixé pour une période de trois à cinq ans, qui ne
+                   pourrait pas être modifié pendant cette période ?
+                   (1 030 répondants)
+
+                                              Brut     Redressé
+                   Tout à fait favorable      13,6       11,7
+                   Plutôt favorable           39,8       39,8
+                   Plutôt pas favorable       32,1       31,4
+                   Pas du tout favorable      14,5       17,1
+                   Total                      100,0     100,0
+
+        Ifop pour Razel-Bec Fayat en partenariat avec Régions Magazine   10
+        Comment la sphère locale peut-elle contribuer au redressement de la France ? - Novembre 2026
+
+--- page 12 ---
+
+Les effets attendus   perçus  de  la mise en  place  du budget
+
+                                  pluriannuel
+
+        Question : Et diriez-vous de cette mesure qu’elle permettrait… ?
+                   (1 030 répondants)
+
+                                                  Brut     Redressé
+               Moins de discussions polémiques en France
+               Oui, tout à fait                   20,9       20,8
+
+               Oui, plutôt                        44,9       44,9
+               Non, plutôt pas                    22,0       20,2
+               Non, pas du tout                   12,2       14,2
+               Plus de sécurité pour les dirigeants d’entreprise
+               (grandes entreprises, PME…)
+               Oui, tout à fait                   16,0       14,8
+               Oui, plutôt                        50,9       49,9
+               Non, plutôt pas                    24,3       24,7
+               Non, pas du tout                    8,8       10,6
+               Plus de stabilité politique à l’échelle nationale et
+               dans les collectivités locales
+               Oui, tout à fait                   16,4       15,7
+               Oui, plutôt                        49,0       47,3
+               Non, plutôt pas                    24,1       23,6
+               Non, pas du tout                   10,5       13,4
+               Plus de visibilité sur les décisions des dirigeants
+               politiques
+               Oui, tout à fait                   17,3       16,6
+               Oui, plutôt                        48,3       46,3
+               Non, plutôt pas                    24,2       24,2
+               Non, pas du tout                   10,3       12,9
+
+        Ifop pour Razel-Bec Fayat en partenariat avec Régions Magazine   11
+        Comment la sphère locale peut-elle contribuer au redressement de la France ? - Novembre 2026
+
+--- page 13 ---
+
+L’adhésion   à la mise  en place  de différentes  mesures
+
+        Question : Et seriez-vous favorable ou pas favorable à chacune des mesures
+                   suivantes, même si cet investissement devait accroître la dette
+
+                   publique ?
+                   (1 030 répondants)
+
+                                                  Brut     Redressé
+               Un plan d’investissement pour l’hôpital et
+               l’accès aux soins
+               Tout à fait favorable              50,7       52,5
+               Plutôt favorable                   38,9       35,6
+               Plutôt pas favorable                6,0       5,4
+               Pas du tout favorable               4,4       6,5
+               Le recrutement de policiers supplémentaires
+               pour garantir la tranquillité publique
+               Tout à fait favorable              33,2       36,6
+               Plutôt favorable                   43,4       41,0
+               Plutôt pas favorable               14,1       11,7
+               Pas du tout favorable               9,3       10,7
+               Un plan de rénovation des infrastructures
+               (routes, ponts, réseaux d’eau, voies ferrées)
+               Tout à fait favorable              24,4       25,3
+               Plutôt favorable                   54,7       51,8
+               Plutôt pas favorable               15,7       15,9
+               Pas du tout favorable               5,2       7,0
+               Un plan massif pour le logement
+               Tout à fait favorable              26,4       28,0
+               Plutôt favorable                   49,5       48,1
+               Plutôt pas favorable               17,3       15,7
+               Pas du tout favorable               6,8       8,2
+               Un investissement massif dans les transports
+               Tout à fait favorable              15,8       16,1
+               Plutôt favorable                   50,5       50,9
+               Plutôt pas favorable               27,3       24,8
+               Pas du tout favorable               6,4       8,1
+               Un plan massif pour la transition écologique
+
+               Tout à fait favorable              23,1       23,5
+               Plutôt favorable                   42,1       38,9
+               Plutôt pas favorable               23,4       24,3
+               Pas du tout favorable              11,4       13,2
+
+        Ifop pour Razel-Bec Fayat en partenariat avec Régions Magazine   12
+        Comment la sphère locale peut-elle contribuer au redressement de la France ? - Novembre 2026
+
+--- page 14 ---
+
+Les priorités attendues   de  la part des  collectivités locales
+
+        Question : Parmi les domaines suivants, quels sont ceux auxquels les collectivités
+                   locales (commune, intercommunalité, département, région) devraient
+
+                   accorder la priorité dans les années à venir ? Trois réponses possibles
+                   (1 030 répondants)
+
+                                                  Brut     Redressé
+               La santé et l’accès aux soins      52,7       56,7
+               La sécurité et la tranquillité publique 35,6  35,2
+               Le logement                        25,7       28,5
+               La maîtrise des impôts locaux et des dépenses 28,8 26,5
+               L’école, la petite enfance et la jeunesse 25,4 24,2
+               Le développement économique et l’emploi local 23,0 22,2
+               La transition écologique et l’adaptation au
+                                                  19,6       18,7
+               changement climatique
+               L’action sociale et l’accompagnement des
+                                                  17,1       16,0
+               personnes âgées
+               L’entretien des routes, de la voirie et des réseaux
+                                                  15,9       13,8
+               (eau, assainissement…)
+               Les transports du quotidien        12,6       13,6
+               La propreté de l’espace public     10,9       8,9
+               La culture, le sport et les loisirs 8,3       7,5
+                 (*) Total supérieur à 100, les interviewés ayant pu donner plusieurs réponses.
+
+        Ifop pour Razel-Bec Fayat en partenariat avec Régions Magazine   13
+        Comment la sphère locale peut-elle contribuer au redressement de la France ? - Novembre 2026
+
+--- page 15 ---
+
+Le  levier prioritaire des  collectivités locales pour
+
+                  contribuer   au redressement    de  la France
+
+        Question : Et selon vous, pour contribuer au redressement de la France, les
+                   collectivités locales devraient avant tout… ?
+                   (1 030 répondants)
+
+                                                  Brut     Redressé
+               Baisser la fiscalité locale pour redonner du
+                                                  23,7       27,5
+               pouvoir d’achat aux ménages
+               Réduire leurs dépenses de fonctionnement pour
+                                                  26,8       24,2
+               participer au redressement des comptes publics
+               Renforcer les services publics de proximité 19,3 18,5
+               Se voir confier davantage de compétences
+                                                  17,6       17,7
+               aujourd’hui exercées par l’État
+               Maintenir ou augmenter leurs investissements
+               (équipements, infrastructures, réseaux) pour 12,6 12,2
+               soutenir l’activité et l’emploi local
+               Total                              100,0     100,0
+
+        Ifop pour Razel-Bec Fayat en partenariat avec Régions Magazine   14
+        Comment la sphère locale peut-elle contribuer au redressement de la France ? - Novembre 2026
+
+--- page 16 ---
+
+L’adhésion   au cumul   d’un mandat    de maire   avec  un
+
+                                mandat   national
+
+        Question : Aujourd’hui en France, un député ou un sénateur ne peut pas exercer
+                   en même temps la fonction de maire.
+
+                   Seriez-vous favorable ou pas favorable à ce qu’un maire puisse exercer
+                   en même temps un mandat de député ou de sénateur ?
+                   (1 030 répondants)
+
+                                              Brut     Redressé
+                   Tout à fait favorable      11,3       9,4
+                   Plutôt favorable           32,8       29,5
+                   Plutôt pas favorable       28,3       29,9
+                   Pas du tout favorable      27,6       31,2
+                   Total                      100,0     100,0
+
+        Ifop pour Razel-Bec Fayat en partenariat avec Régions Magazine   15
+        Comment la sphère locale peut-elle contribuer au redressement de la France ? - Novembre 2026
+
+--- page 17 ---
+
+L’adhésion   à différentes  évolutions   de l’organisation
+
+                       communale     et intercommunale
+
+        Question : Seriez-vous favorable ou pas favorable à chacune des évolutions
+                   suivantes de l’organisation des communes et des intercommunalités ?
+                   (1 030 répondants)
+
+                                                  Brut     Redressé
+               Encourager la fusion de communes voisines au
+               sein de « communes nouvelles »
+
+               Tout à fait favorable              16,2       13,7
+               Plutôt favorable                   48,6       49,1
+               Plutôt pas favorable               24,1       24,0
+               Pas du tout favorable              11,1       13,3
+               Transférer davantage de compétences des
+               communes vers les intercommunalités
+               Tout à fait favorable              13,9       13,9
+               Plutôt favorable                   48,0       47,0
+               Plutôt pas favorable               26,3       26,7
+               Pas du tout favorable              11,8       12,5
+               Élargir le périmètre des intercommunalités en y
+               regroupant davantage de communes
+               Tout à fait favorable              14,2       12,6
+               Plutôt favorable                   45,6       47,0
+               Plutôt pas favorable               27,0       26,3
+               Pas du tout favorable              13,2       14,2
+               Rendre obligatoire la fusion des plus petites
+               communes avec leurs voisines
+               Tout à fait favorable              15,7       14,3
+               Plutôt favorable                   41,3       43,3
+               Plutôt pas favorable               27,1       24,8
+               Pas du tout favorable              15,9       17,6
+
+        Ifop pour Razel-Bec Fayat en partenariat avec Régions Magazine   16
+        Comment la sphère locale peut-elle contribuer au redressement de la France ? - Novembre 2026
+
+--- page 18 ---
+
+La  notoriété  de  la « dette grise »
+
+        Question : Avez-vous déjà entendu parler de la « dette grise » ?
+                   (1 030 répondants)
+
+                                                  Brut     Redressé
+               Oui, et vous voyez précisément de quoi il s’agit 8,4 8,7
+               Oui, mais vous ne voyez pas précisément de quoi
+                                                  16,0       13,8
+               il s’agit
+               Non, vous n’en avez jamais entendu parler 75,5 77,4
+               Total                              100,0     100,0
+
+        Ifop pour Razel-Bec Fayat en partenariat avec Régions Magazine   17
+        Comment la sphère locale peut-elle contribuer au redressement de la France ? - Novembre 2026
+
+--- page 19 ---
+
+L’adhésion   au  concept  de  dette  grise
+
+        Question : La « dette grise » désigne le retard accumulé dans l’entretien et la
+                   modernisation des infrastructures (routes, ponts, réseaux d’eau, voies
+
+                   ferrées…). Lorsque ces travaux sont reportés, les infrastructures
+                   vieillissent et se fragilisent, et le coût de leur remise en état augmente
+                   pour les années à venir.
+
+                   Êtes-vous d’accord ou pas d’accord avec chacune des affirmations
+                   suivantes ?
+                   (1 030 répondants)
+
+                                                  Brut     Redressé
+               Reporter l’entretien des infrastructures
+               aujourd’hui coûtera plus cher demain
+               Tout à fait d’accord               45,0       42,6
+               Plutôt d’accord                    40,9       41,1
+               Plutôt pas d’accord                 9,4       10,2
+               Pas du tout d’accord                4,7       6,0
+               Réduire la dette grise devrait être une priorité
+               des pouvoirs publics dans les années à venir
+               Tout à fait d’accord               24,3       23,9
+               Plutôt d’accord                    56,9       56,2
+               Plutôt pas d’accord                13,9       12,8
+               Pas du tout d’accord                5,0       7,2
+               La dette grise est un problème aussi important
+               que la dette financière de la France
+               Tout à fait d’accord               29,1       30,5
+               Plutôt d’accord                    49,8       47,2
+               Plutôt pas d’accord                16,2       15,5
+               Pas du tout d’accord                4,9       6,9
+               Avec la situation budgétaire actuelle de la
+               France, la réduction de la dette grise est
+               impossible
+
+               Tout à fait d’accord               18,8       18,5
+               Plutôt d’accord                    51,0       50,4
+               Plutôt pas d’accord                22,8       21,8
+               Pas du tout d’accord                7,4       9,3
+
+        Ifop pour Razel-Bec Fayat en partenariat avec Régions Magazine   18
+        Comment la sphère locale peut-elle contribuer au redressement de la France ? - Novembre 2026
+
+--- page 20 ---
+
+La satisfaction  à l’égard  de différents  réseaux
+
+        Question : Êtes-vous satisfait ou pas satisfait de l’état des réseaux suivants là où
+                   vous habitez ?
+
+                   (1 029 répondants)
+
+                                                  Brut     Redressé
+               Le réseau d’eau potable et d’assainissement
+               Très satisfait                     18,4       18,3
+               Plutôt satisfait                   61,4       60,2
+               Plutôt pas satisfait               14,5       13,2
+               Pas du tout satisfait               5,7       8,2
+               Le réseau routier
+               Très satisfait                     10,1       9,7
+               Plutôt satisfait                   59,8       56,6
+               Plutôt pas satisfait               21,9       23,0
+               Pas du tout satisfait               8,3       10,8
+               Le réseau ferroviaire
+               Très satisfait                     10,4       9,4
+               Plutôt satisfait                   57,5       56,8
+               Plutôt pas satisfait               21,9       21,7
+               Pas du tout satisfait              10,2       12,1
+               Les rues et la voirie
+               Très satisfait                     10,4       9,0
+               Plutôt satisfait                   53,6       52,3
+               Plutôt pas satisfait               26,2       25,8
+               Pas du tout satisfait               9,7       12,8
+
+        Ifop pour Razel-Bec Fayat en partenariat avec Régions Magazine   19
+        Comment la sphère locale peut-elle contribuer au redressement de la France ? - Novembre 2026

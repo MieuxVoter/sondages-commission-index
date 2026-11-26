@@ -1,0 +1,337 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10398-pres-primaire-droite-et-centre-calendrier-elabe-25-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+NOTICE TECHNIQUE
+
+                Les Français, la primaire de la droite et du centre et le calendrier électoral
+
+        ARTICLE 2
+
+                                     Elabe
+         Organisme ayant réalisé le sondage :
+                                     BFMTV
+         Nom du/des commanditaire(s) :
+                                     Echantillon de 1 001 personnes, représentatif des résidents
+         Nombre de personnes interrogées :
+                                     de France métropolitaine âgés de 18 ans et plus.
+                                     Du 24 au 25 novembre 2026
+         Dates de réalisation de l'enquête :
+                                     Le 25 novembre 2026 à 16h50 sur www.elabe.fr
+         Date et support de première publication :
+
+                                                                            1
+
+--- page 2 ---
+
+QUESTIONNAIRE
+
+        Q1. Pour désigner un candidat commun de la droite et du centre à l’élection présidentielle de 2027, quelle
+        méthode préféreriez-vous ?
+        Rotation aléatoire des items sauf dernier
+            Organiser une primaire permettant aux électeurs de choisir le candidat
+            Parvenir à un accord entre les principaux candidats et partis, pour aboutir à la désignation d'un seul
+             candidat (et le retrait des autres)
+            Laisser chaque personnalité se présenter au premier tour, sans chercher à désigner un candidat commun
+            Je n'ai pas d'avis
+        Q2. Pour cette primaire, certains responsables politiques souhaitent élargir son périmètre : certains
+        demandent qu'elle intègre Éric Zemmour, d'autres qu'elle intègre Raphaël Glucksmann.
+        Selon vous, quel doit être le périmètre de cette primaire ?
+        Possibilité de choisir l'item 2 et l'item 3 en même temps.
+        Rotation aléatoire des items sauf dernier
+            Uniquement les candidats de droite et du centre (Édouard Philippe, Gabriel Attal, Bruno Retailleau, David
+             Lisnard, etc.)
+            L'élargir à Éric Zemmour
+            L'élargir à Raphaël Glucksmann
+            Je n'ai pas d'avis
+        Q3. Édouard Philippe a toujours refusé de participer à une primaire, il estime qu'elle "fera plus de mal que
+        de bien" en divisant plutôt qu’en rassemblant, qu'il n'y a pas de garantie que les perdants soutiennent le
+        gagnant, et qu'il y a des désaccords sur le périmètre politique (élargir à Éric Zemmour, voire Raphaël
+        Glucksmann).
+        Les défenseurs de la primaire estiment qu'elle permettra au candidat gagnant d'avoir des chances d'accéder
+        au 2nd tour et que c'est le moyen le plus démocratique de se départager.
+        Si cette primaire de la droite et du centre a lieu, pensez-vous qu'Édouard Philippe doit y participer ?
+        Rotation aléatoire des items sauf dernier
+            Oui, Édouard Philippe devrait y participer
+            Non, Édouard Philippe a raison de refuser d'y participer
+            Je n'ai pas d'avis
+        Q4. Si cette primaire de la droite et du centre a lieu, les candidats perdants doivent-ils s'engager à soutenir
+        le candidat gagnant ?
+        Rotation aléatoire des items
+            Oui
+            Non
+        Rotation aléatoire des questions BFM5 et BFM6
+        Q5. Pour chacune des propositions suivantes, diriez-vous qu’elle s’applique plutôt bien ou mal à David
+        Lisnard ?
+        S'applique très bien / S'applique assez bien / S'applique assez mal / S'applique très mal
+        Rotation aléatoire des items
+          1. Dynamique
+          2. Sympathique
+          3. Arrogant
+          4. Courageux
+          5. Il vous inquiète
+          6. Compétent
+          7. Veut vraiment changer les choses
+          8. A de bonnes idées pour la France
+          9. Sincère
+          10. Autoritaire
+          11. Capable de rassembler les Français
+          12. Comprend les gens comme vous
+          13. A les qualités nécessaires pour être Président
+
+                                                                            2
+
+--- page 3 ---
+
+Q6. Pour chacune des propositions suivantes, diriez-vous qu’elle s’applique plutôt bien ou mal à Édouard
+        Philippe ?
+        S'applique très bien / S'applique assez bien / S'applique assez mal / S'applique très mal
+        Rotation aléatoire des items
+          1. Dynamique
+          2. Sympathique
+          3. Arrogant
+          4. Courageux
+          5. Il vous inquiète
+          6. Compétent
+          7. Veut vraiment changer les choses
+          8. A de bonnes idées pour la France
+          9. Sincère
+          10. Autoritaire
+          11. Capable de rassembler les Français
+          12. Comprend les gens comme vous
+          13. A les qualités nécessaires pour être Président
+        Q7. Il est prévu que la prochaine élection présidentielle ait lieu les 18 avril et 2 mai (2nd tour). Plusieurs
+        responsables politiques et syndicaux ont demandé que le 2nd tour n'ait pas lieu le 2 mai (et d'avancer le
+        calendrier d'une semaine), lendemain de la traditionnelle journée de manifestations du 1er mai, en raison du
+        risque de débordements et de troubles pour la bonne tenue du 2nd tour le lendemain. Le gouvernement avait
+        le choix entre les dates choisies (18 avril / 2 mai), ou avancer d'une semaine (11 et 25 avril), et a justifié son
+        choix par la réduction de l'impact des vacances scolaires (le 25 avril aurait lieu au milieu des vacances des
+        zones A et B) sur la participation.
+        Quel est votre avis sur le calendrier électoral ?
+        Rotation aléatoire des items sauf dernier
+            Il faut avancer le calendrier d'une semaine, pour éviter que le 2nd tour ait lieu le lendemain des
+             manifestations du 1er mai, même si les zones A et B seront au milieu des vacances scolaires
+            Il faut garder le calendrier actuel, pour éviter que le 2nd tour au milieu des vacances scolaires des zones A
+             et B, même si cela le place au lendemain des manifestations du 1er mai
+            Je n'ai pas d'avis
+
+                                                                            3
+
+--- page 4 ---
+
+NOTE SUR LES MARGES D’ERREUR
+
+        Comme toute enquête statistique, un sondage présente une incertitude appelée « marge d’erreur » ou « marge
+        d’incertitude ». La marge d’erreur ou d’incertitude d’un sondage dépend des effectifs utiles interrogés et du résultat
+        observé. En fonction des effectifs utiles, les marges d’erreur sont les suivantes avec un niveau de confiance de 95 % :
+
+                                     MARGES D'ERREUR
+             Pour un pourcentage de 5 ou 95% 10 ou 90% 20 ou 80% 30 ou 70% 40 ou 60% 50%
+               1000 répondants  1,4     1,9     2,5      2,8      3    3,1
+
+        Exemple de lecture :
+
+        Pour un résultat observé de 30% sur un effectif utile de 1000 répondants, il y a 95% de chances pour que le résultat réel soit
+        compris entre 27,2% et 32,8%.
+
+        La notice de ce sondage peut être consultée sur le site internet de la Commission des sondages : www.commission-des-sondages.fr
+        Toute publication ou toute reprise de ce sondage doit faire figurer la méthodologie et les marges d’erreurs :
+
+        « Echantillon de 1 001 personnes, représentatif des résidents de France métropolitaine âgés de 18 ans et plus. Interrogation par
+        Internet du 24 au 25 novembre 2026.
+        La représentativité de l’échantillon a été assurée selon la méthode des quotas appliquée aux variables suivantes : sexe, âge,
+        catégorie socio-professionnelle, région de résidence et catégorie d’agglomération.
+        Marge d’erreur comprise entre 1,4 et 3,1 pts de pourcentage. »
+
+                                                                            4
+
+--- page 5 ---
+
+ARTICLE 3
+
+                                     Les Français, la primaire de la droite et du centre et le
+         Objet du sondage :
+                                     c alendrier électoral
+                                     Echantillon de 1 001 personnes, représentatif des résidents
+                                     de France métropolitaine âgés de 18 ans et plus, constitué
+         Méthode :                   d’après la méthode des quotas (sexe, âge, profession de la
+                                     personne interrogée, catégorie d’agglomération et région
+                                     d e résidence).
+         Conditions d’interrogation : Les répondants ont été interrogés en ligne (Internet).
+         Nombre de sans réponse :    Voir « Résultats publiés »*
+
+                                     Oui. Gratification sous la forme de points cumulables et dont
+         Existence d’une gratification : la valeur s’élève à moins de 1€ pour un questionnaire
+                                     complété.
+                                     L’échantillon brut a été redressé sur les variables
+                                     sociodémographiques et professionnelles utilisées comme
+                                     quotas (données Insee issues du recensement de la
+                                     population 2022) ainsi que sur le statut d’occupation du
+         Critères de redressement :  logement (données Insee issues du recensement de la
+                                     population 2022), le vote au premier tour des élections
+                                     législatives 2024, au premier tour et au second tour de
+                                     l’élection présidentielle 2022 (données du Ministère de
+                                     l’Intérieur).
+
+        (*) Nous vous présentons dans ce document le nombre de « sans-réponse » pour chacune des questions publiées.
+        Les questions de quota étant obligatoires (de façon à s’assurer de la représentativité de l’échantillon) aucune des
+        personnes interrogées ne peut ne pas avoir répondu à l’ensemble du sondage.
+
+                                                                            5
+
+--- page 6 ---
+
+QUESTIONS PUBLIEES
+
+        En raison de l’arrondi à 100, un décalage d’1 point maximum peut exister entre les colonnes redressées et publiées.
+        Pour désigner un candidat commun de la droite et du centre à l’élection présidentielle de 2027, quelle
+        méthode préféreriez-vous ?
+
+                                      PUBLIE
+         Effectifs bruts               1001
+         Parvenir à un accord entre les principaux
+         candidats et partis, pour aboutir à la désignation 26
+         d'un seul candidat (et le retrait des autres)
+         Organiser une primaire permettant aux électeurs
+                                        24
+         de choisir le candidat
+         Laisser chaque personnalité se présenter au
+         premier tour, sans chercher à désigner un 20
+         candidat commun
+         Je n'ai pas d'avis             30
+         Sans-réponses
+
+         Pour cette primaire, certains responsables politiques souhaitent élargir son périmètre : certains
+         demandent qu'elle intègre Éric Zemmour, d'autres qu'elle intègre Raphaël Glucksmann.
+
+         Selon vous, quel doit être le périmètre de cette primaire ?
+
+                                        PUBLIE
+
+         Effectifs bruts                1001
+         Uniquement les candidats de droite et du centre
+         (Édouard Philippe, Gabriel Attal, Bruno Retailleau, 34
+         David Lisnard, etc.)
+         L'élargir à Éric Zemmour         14
+         L'élargir à Raphaël Glucksmann   10
+         Je n'ai pas d'avis               44
+         Sans-réponses
+
+         Si cette primaire de la droite et du centre a lieu, pensez-vous qu'Édouard Philippe doit y
+         participer ?
+
+                                       PUBLIE
+
+         Effectifs bruts               1001
+         Oui, Édouard Philippe devrait y participer 40
+         Non, Édouard Philippe a raison de refuser d'y
+                                         16
+         participer
+         Je n'ai pas d'avis              44
+         Sans-réponses
+
+                                                                            6
+
+--- page 7 ---
+
+Si cette primaire de la droite et du centre a lieu, les candidats perdants doivent-ils s'engager à soutenir le
+        candidat gagnant ?
+
+                               PUBLIE
+         Effectifs bruts      1001
+         Oui                     70
+         Non                     30
+         Sans-réponses           0
+
+        Pour chacune des propositions suivantes, diriez-vous qu’elle s’applique plutôt bien ou mal à David
+        Lisnard ?
+
+         EN % - TOTAL S'APPLIQUE BIEN PUBLIE
+         Effectifs bruts         1001
+                Dynamique        47
+               Sans-réponses     3
+               Sympathique       39
+               Sans-réponses     3
+                 Arrogant        37
+               Sans-réponses     3
+                Courageux        44
+               Sans-réponses     3
+               Il vous inquiète  33
+               Sans-réponses     3
+                Compétent        40
+               Sans-réponses     3
+         Veut vraiment changer les choses 42
+               Sans-réponses     3
+         A de bonnes idées pour la France 38
+               Sans-réponses     3
+                 Sincère         37
+               Sans-réponses     3
+                Autoritaire      40
+               Sans-réponses     3
+         Capable de rassembler les Français 33
+               Sans-réponses     3
+          Comprend les gens comme vous 33
+               Sans-réponses     2
+         A les qualités nécessaires pour être
+                                 35
+                Président
+               Sans-réponses     3
+
+                                                                            7
+
+--- page 8 ---
+
+Pour chacune des propositions suivantes, diriez-vous qu’elle s’applique plutôt bien ou mal à
+        Édouard Philippe ?
+
+         EN % - TOTAL S'APPLIQUE BIEN PUBLIE
+
+         Effectifs bruts       1001
+                Dynamique       35
+              Sans-réponses      1
+               Sympathique      39
+              Sans-réponses      2
+                Arrogant        39
+              Sans-réponses      1
+                Courageux       42
+              Sans-réponses      2
+              Il vous inquiète  42
+              Sans-réponses      2
+                Compétent       40
+              Sans-réponses      1
+         Veut vraiment changer les choses 30
+              Sans-réponses      2
+
+         A de bonnes idées pour la France 31
+              Sans-réponses      2
+                 Sincère        32
+              Sans-réponses      2
+                Autoritaire     41
+              Sans-réponses      2
+           Capable de rassembler les
+                                26
+                Français
+              Sans-réponses      2
+         Comprend les gens comme vous 25
+              Sans-réponses      2
+          A les qualités nécessaires pour
+                                36
+               être Président
+              Sans-réponses      1
+
+        Quel est votre avis sur le calendrier électoral ?
+                                                PUBLIE
+
+         Effectifs bruts                        1001
+         Il faut garder le calendrier actuel, pour éviter que le 2nd tour au
+         milieu des vacances scolaires des zones A et B, même si cela le 35
+         place au lendemain des manifestations du 1er mai
+         Il faut avancer le calendrier d'une semaine, pour éviter que le 2nd
+         tour ait lieu le lendemain des manifestations du 1er mai, même si 32
+         les zones A et B seront au milieu des vacances scolaires
+         Je n'ai pas d'avis                      33
+         Sans-réponses
+
+                                                                            8
