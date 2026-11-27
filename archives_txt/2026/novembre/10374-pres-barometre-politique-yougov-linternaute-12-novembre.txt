@@ -1,0 +1,486 @@
+# notice commission des sondages
+# source_pdf: archives/2026/novembre/10374-pres-barometre-politique-yougov-linternaute-12-novembre.pdf
+# extraction: pdfplumber (layout=True)
+
+--- page 1 ---
+
+Baromètre                  politique
+
+            pour        l’internaute
+
+            Réalisé       par    YouGov
+
+            Terrain  du  9 au  12  novembre    2026
+
+            Notice   technique   à  la Commission     des
+            Sondages
+
+            Adam.chauchefoin@yougov.com
+            Eva.pierrey@yougov.com
+
+--- page 2 ---
+
+Informations                                    générales                             &
+
+            Méthodologie
+
+--- page 3 ---
+
+Notice YouGov pour L’internaute -Baromètre 11.2026 3
+
+      Informations      générales     sur  le  sondage
+
+       Organisme   ayant réalisé le sondage            YouGov
+
+       Commanditaires    du sondage                    L’internaute
+
+                                                       Gratification sous forme de points cumulables, dont le montant
+       Existence  d’une gratification
+                                                       correspondant environ à 0,4 € pour questionnaire complété.
+
+--- page 4 ---
+
+Notice YouGov pour L’internaute -Baromètre 11.2026 4
+
+      Méthodologie
+
+                   Echantillon
+                   •  1004  personnes  représentatives de la population française (18+)
+
+                   Méthodologie
+                   •  Le sondage  a été effectué en ligne, sur le panel propriétaire de YouGov
+
+                   •  Les  données  sont pondérées pour être représentatives des adultes français (quotas sur le genre,
+                      l’âge, la région, la taille d’agglomération, la CSP et les votes aux élections présidentielles de 2022)
+
+                   Terrain
+                   •  En  France
+
+                   •  Terrain réalisé du 9 au 12 novembre  2026
+
+         En raison des arrondis, la somme des pourcentages n’est pas égale à 100% dans certains cas.
+
+--- page 5 ---
+
+Notice YouGov pour L’internaute -Baromètre 11.2026 5
+
+      Méthodologie
+
+                Pour un échantillon de 1000 personnes  interrogées, les marges d’erreur sont les suivantes, avec un
+                niveau de confiance de 95%  :
+
+                    Pour un pourcentage de : 5% 10%    20%     30%    40%    50%     60%    70%    80%     90%    95%
+
+          Echantillon
+           de 1000  La marge d'erreur est de : 1,40 1,90 2,50  2,80   3,00   3,10    3,00   2,80   2,50    1,90   1,40
+          personnes
+
+                   Le résultat réel se situe dans 8,1 et 17,5 et 27,2 et 37,0 et 46,9 et 57,0 et 67,2 et 77,5 et 88,1 et 93,6 et
+                                       3,6 et 6,4
+                      une fourchette de :       11,9   22,5    32,8   43,0   53,1    63,0   72,8   82,5    91,9   96,4
+
+                 Exemple de lecture du tableau : pour un échantillon de 1 000 personnes, si le pourcentage mesuré est de 10%, la
+                 marge d’erreur est égale à 1,9. Le vrai pourcentage est donc compris entre 8,1% et 11,9%.
+
+--- page 6 ---
+
+Notice YouGov pour L’internaute -Baromètre 11.2026 6
+
+      Structure     de  l’échantillon
+
+                                      Brut (%)  Redressé (%)                                    Brut (%)  Redressé (%)
+
+                              Genre
+                                                                                  Taille d'agglomération
+      Un homme                         49.20       48.0
+                                                                Moins de 20 000 habitants                    38.7
+                                                                                                 40.44
+      Une femme                        50.80       52.0
+                                                                Entre 20 000 et 100 000 habitants            14.3
+                                                                                                 14.24
+                              Age
+                                                                Plus de 100 000 habitants                    47.0
+      18-24                             9.66       10.2                                          45.32
+      25-34                            12.75       14.6                   Vote au présidentielle de 2022 - premier tour
+      35-44                            16.14       15.7         Emmanuel Macron                              20.5
+                                                                                                 23.90
+      45-54                            15.64       15.8         Marine Le Pen                                17.1
+                                                                                                 20.62
+      55-64                            17.13       15.8
+                                                                Jean-Luc Mélenchon                           16.2
+                                                                                                 12.15
+      65+                              28.69       27.9
+                                                                Eric Zemmour                                 5.2
+                                                                                                  5.68
+                             Région
+                                                                Yannick Jadot                                3.4
+      Nord-Est                         23.01       21.4                                           2.39
+      Nord-Ouest                       19.42       22.9         Valérie Pécresse                  3.39       3.5
+      Region Parisienne                20.52       18.5         Autres                                       7.8
+                                                                                                  9.26
+      Sud-Est                          26.10       25.6         Vote blanc / N'a pas voté / Ne sait pas      26.3
+                                                                                                 22.61
+      Sud-Ouest                        10.96       11.6
+                                                                          Vote au présidentielle de 2022 - second tour
+                              CSP
+                                                                Macron                                       42.2
+                                                                                                 39.24
+      CSP+                             24.80       31.0
+                                                                Le Pen                                       29.8
+      CSP-                             30.18       28.0                                          30.38
+                                                                Non votant (vote blanc, ne sais pas, n'ai
+      Inactifs                         45.02       41.0                                                      28.0
+                                                                pas vote)                        30.38
+                                                           * En raison des arrondis, les totaux sont susceptibles d’être supérieurs ou inférieurs à 100 de 0,1 point.
+
+--- page 7 ---
+
+Questionnaire
+
+--- page 8 ---
+
+Notice YouGov pour L’internaute -Baromètre 11.2026 8
+
+      Questionnaire
+
+       [A tous] Parmi les personnalités candidates ou susceptibles de se présenter à l’élection présidentielle de 2027, y en a-t-il au
+
+       moins une dont vous seriez satisfait(e) de voir élue ? Veuillez sélectionner une seule réponse.
+       •  Oui, tout à fait
+       •  Oui, plutôt
+       •  Non, pas vraiment
+
+       •  Non, pas du tout
+       •  Je ne sais pas
+
+       [A tous] Vous arrive-t-il de vous disputer ou d’avoir des tensions avec vos proches au sujet de l’élection présidentielle de 2027 ?
+
+       Veuillez sélectionner une seule réponse.
+       •  Oui, très souvent
+       •  Oui, assez souvent
+
+       •  Non, rarement
+       •  Non, jamais
+       •  Je ne sais pas
+
+--- page 9 ---
+
+Notice YouGov pour L’internaute -Baromètre 11.2026 9
+
+      Questionnaire
+
+       [A tous] Parmi les personnalités suivantes, lesquelles correspondent le mieux à chacune des affirmations suivantes ? Veuillez
+
+       sélectionner toutes les réponses qui s’appliquent par affirmation.
+
+       A la stature présidentielle nécessaire et représenterait bien la France à l’étranger
+       Est honnête et intègre
+       Comprend la vie quotidienne et les difficultés des Français
+       Est crédible sur les dossiers économiques
+
+       Est capable d’améliorer concrètement la vie des Français
+       A la bonne posture à adopter face à la guerre en Ukraine
+
+       •  Jean-Luc Mélenchon
+       •  Fabien Roussel
+       •  Marine Tondelier
+       •  Raphaël Glucksmann
+       •  Gabriel Attal
+
+       •  Édouard Philippe
+       •  Dominique de Villepin
+       •  Bruno Retailleau
+       •  David Lisnard
+       •  Marine Le Pen
+       •  Éric Zemmour
+       •  François Hollande
+       •  Nicolas Dupont-Aignan
+       •  Nathalie Arthaud
+
+       •  Teddy Riner
+       •  Aucune de ces personnalités
+
+--- page 10 ---
+
+Notice YouGov pour L’internaute -Baromètre 11.2026 10
+
+      Questionnaire
+
+       [A tous] Selon vous, pour lequel ou lesquels des cas suivants une primaire devrait-elle être organisée afin de désigner un
+
+       candidat commun  avant l’élection présidentielle de 2027 ? Veuillez sélectionner toutes les réponses qui s’appliquent.
+
+       •  Les candidats de gauche
+       •  Les candidats de droite, hors Rassemblement National et ses alliés
+
+       •  Les candidats du bloc central
+       •  Les candidats du bloc central et de la droite
+       •  Aucune primaire ne devrait être organisée
+
+       •  Je ne sais pas
+
+--- page 11 ---
+
+Notice YouGov pour L’internaute -Baromètre 11.2026 11
+
+      Questionnaire
+
+       [A tous] Pour suivre la campagne de l’élection présidentielle de 2027, faites-vous confiance ou non à chacune des chaînes
+
+       d’information suivantes ? Veuillez sélectionner une réponse par chaîne.
+       •  Tout à fait confiance
+       •  Plutôt confiance
+       •  Plutôt pas confiance
+
+       •  Pas du tout confiance
+       •  Je ne connais pas suffisamment cette chaîne pour me prononcer
+
+       Chaînes d’information proposées
+
+       •  Franceinfo
+       •  BFMTV
+       •  LCI
+
+       •  CNews
+       •  France 24
+
+--- page 12 ---
+
+Résultats
+
+--- page 13 ---
+
+Notice YouGov pour L’internaute -Baromètre 11.2026 13
+
+      Questionnaire
+
+      [A tous] Parmi les personnalités candidates ou susceptibles de se présenter à l’élection présidentielle de 2027, y en a-t-il au
+
+      moins une dont vous seriez satisfait(e) de voir élue ? Veuillez sélectionner une seule réponse.
+
+                               Echantillon Brut Redressé
+                                     N=  1004    1004
+                               Oui, tout à fait 36% 34%
+                                 Oui, plutôt 27% 27%
+                             Non, pas vraiment 17% 17%
+
+                              Non, pas du tout 11% 12%
+                               Je ne sais pas 9% 10%
+                                  Net: Oui 63%   61%
+                                 Net: Non 28%    29%
+
+      [A tous] Vous arrive-t-il de vous disputer ou d'avoir des tensions avec vos proches au sujet de l'élection présidentielle de 2027 ?
+
+                             Echantillon Brut Redressé
+                                   N=   1004    1004
+                            Oui, très souvent 5% 6%
+
+                           Oui, assez souvent 18% 18%
+                              Non, rarement 36% 36%
+                               Non, jamais 39%  38%
+                              Je ne sais pas 2% 2%
+                                Net: Oui 23%    24%
+                                Net: Non 75%    75%
+
+--- page 14 ---
+
+Notice YouGov pour L’internaute -Baromètre 11.2026 14
+
+      Questionnaire
+
+       [A tous] Parmi les personnalités suivantes, lesquelles correspondent le mieux à chacune des affirmations suivantes ?
+
+       A la stature présidentielle nécessaire et
+                                                           Est honnête et intègre
+       représenterait bien la France à l’étranger
+                               Echantillon Brut Redressé                          Echantillon Brut Redressé
+                                    N=   1004    1004                                   N=   1004    1004
+                               Marine Le Pen 32% 29%                              Marine Le Pen 21%  19%
+                              Édouard Philippe 16% 16%                              Teddy Riner 13%  13%
+                           Dominique de Villepin 14% 14%                           David Lisnard 13% 12%
+                               David Lisnard 13% 13%                              Bruno Retailleau 11% 10%
+                            Jean-Luc Mélenchon 11% 13%                         Jean-Luc Mélenchon 10% 11%
+                              Bruno Retailleau 11% 11%                         Raphaël Glucksmann 10% 10%
+                             François Hollande 9% 10%                            Édouard Philippe 9% 9%
+                                Teddy Riner 8%    8%                                Gabriel Attal 9% 8%
+                                Gabriel Attal 8%  7%                             François Hollande 8% 8%
+                            Raphaël Glucksmann 8% 8%                              Fabien Roussel 8%  8%
+                               Éric Zemmour 6%    6%                               Éric Zemmour 7%   6%
+                           Nicolas Dupont-Aignan 5% 5%                         Dominique de Villepin 7% 7%
+                              Fabien Roussel 4%   3%                          Nicolas Dupont-Aignan 7% 6%
+
+                              Marine Tondelier 3% 4%                             Marine Tondelier 6% 7%
+                              Nathalie Arthaud 2% 2%                             Nathalie Arthaud 5% 6%
+                        Aucune de ces personnalités 26% 28%                Aucune de ces personnalités 38% 39%
+
+--- page 15 ---
+
+Notice YouGov pour L’internaute -Baromètre 11.2026 15
+
+      Questionnaire
+
+       [A tous] Parmi les personnalités suivantes, lesquelles correspondent le mieux à chacune des affirmations suivantes ?
+
+       Comprend la vie quotidienne et les difficultés
+                                                           Est crédible sur les dossiers économiques
+       des Français
+                               Echantillon Brut Redressé                          Echantillon Brut Redressé
+                                    N=   1004    1004                                   N=   1004    1004
+                               Marine Le Pen 32% 29%                              Marine Le Pen 25%  23%
+                            Jean-Luc Mélenchon 14% 16%                           Édouard Philippe 13% 13%
+                               David Lisnard 12% 12%                               David Lisnard 13% 13%
+                                Teddy Riner 12%  11%                           Jean-Luc Mélenchon 12% 13%
+                               Éric Zemmour 9%    8%                              Bruno Retailleau 11% 11%
+                              Bruno Retailleau 9% 8%                                Gabriel Attal 10% 10%
+                            Raphaël Glucksmann 9% 9%                           Dominique de Villepin 9% 9%
+                              Fabien Roussel 8%   8%                             François Hollande 8% 8%
+                              Édouard Philippe 8% 8%                               Éric Zemmour 8%   7%
+                           Nicolas Dupont-Aignan 7% 7%                         Raphaël Glucksmann 7% 7%
+                                Gabriel Attal 7%  7%                          Nicolas Dupont-Aignan 6% 6%
+                             François Hollande 7% 7%                             Marine Tondelier 4% 5%
+                              Marine Tondelier 6% 7%                                Teddy Riner 3%   3%
+
+                              Nathalie Arthaud 6% 6%                              Fabien Roussel 3%  3%
+                           Dominique de Villepin 5% 5%                           Nathalie Arthaud 2% 2%
+                        Aucune de ces personnalités 29% 32%                Aucune de ces personnalités 34% 36%
+
+--- page 16 ---
+
+Notice YouGov pour L’internaute -Baromètre 11.2026 16
+
+      Questionnaire
+
+       [A tous] Parmi les personnalités suivantes, lesquelles correspondent le mieux à chacune des affirmations suivantes ?
+
+       Est capable d’améliorer concrètement la vie         A la bonne posture à adopter face à la guerre
+       des Français                                        en Ukraine
+                               Echantillon Brut Redressé                          Echantillon Brut Redressé
+                                    N=   1004    1004                                   N=   1004    1004
+                               Marine Le Pen 32% 29%                              Marine Le Pen 25%  23%
+                            Jean-Luc Mélenchon 14% 15%                           Édouard Philippe 11% 11%
+                               David Lisnard 13% 13%                                Gabriel Attal 10% 11%
+                              Bruno Retailleau 9% 8%                              Bruno Retailleau 10% 10%
+
+                              Édouard Philippe 8% 8%                           Raphaël Glucksmann 10% 10%
+                               Éric Zemmour 8%    7%                           Dominique de Villepin 9% 10%
+                            Raphaël Glucksmann 7% 7%                             François Hollande 9% 9%
+                             François Hollande 7% 7%                               David Lisnard 9%  8%
+                                Teddy Riner 7%    7%                           Jean-Luc Mélenchon 9% 10%
+                                Gabriel Attal 6%  6%                               Éric Zemmour 7%   7%
+                           Nicolas Dupont-Aignan 5% 5%                        Nicolas Dupont-Aignan 5% 5%
+                           Dominique de Villepin 5% 5%                              Teddy Riner 4%   4%
+                              Fabien Roussel 4%   4%                             Marine Tondelier 4% 4%
+
+                              Marine Tondelier 4% 4%                              Fabien Roussel 3%  2%
+                              Nathalie Arthaud 3% 3%                             Nathalie Arthaud 2% 2%
+                        Aucune de ces personnalités 33% 36%                Aucune de ces personnalités 39% 41%
+
+--- page 17 ---
+
+Notice YouGov pour L’internaute -Baromètre 11.2026 17
+
+      Questionnaire
+
+       [A tous] Selon vous, pour lequel ou lesquels des cas suivants une primaire devrait-elle être organisée afin de désigner un
+       candidat commun  avant l’élection présidentielle de 2027 ?
+
+                              Echantillon Brut Redressé
+                                    N=   1004    1004
+
+                         Les candidats de gauche 19% 20%
+       Les candidats de droite, hors Rassemblement National et ses
+                                         19%     18%
+                                   alliés
+                Les candidats du bloc central et de la droite 21% 21%
+                       Les candidats du bloc central 13% 13%
+                 Aucune primaire ne devrait être organisée 24% 23%
+                               Je ne sais pas 30% 30%
+
+--- page 18 ---
+
+Notice YouGov pour L’internaute -Baromètre 11.2026 18
+
+      Questionnaire
+
+       Pour suivre la campagne de l'élection présidentielle de 2027, faites-vous confiance ou non à chacune des chaînes d'information
+
+       suivantes ?
+
+       Franceinfo                                          BFMTV
+
+                               Echantillon Brut Redressé                          Echantillon Brut Redressé
+                                    N=   1004    1004                                   N=   1004    1004
+                            Tout à fait confiance 11% 12%                       Tout à fait confiance 8% 8%
+                              Plutôt confiance 38% 38%                            Plutôt confiance 29% 29%
+                            Plutôt pas confiance 13% 14%                        Plutôt pas confiance 22% 22%
+                            Pas du tout confiance 22% 22%                      Pas du tout confiance 31% 33%
+            Je ne connais pas suffisamment cette chaîne p r p o o n u o r n m ce e r 15% 15% Je ne connais pas suffisamment cette chaîne p r p o o n u o r n m ce e r 9% 9%
+
+                              Net: Confiance 49% 50%                              Net: Confiance 38% 37%
+                            Net: Pas confiance 35% 36%                          Net: Pas confiance 53% 54%
+
+--- page 19 ---
+
+Notice YouGov pour L’internaute -Baromètre 11.2026 19
+
+      Questionnaire
+
+       Confiance accordée aux chaînes d’information pour suivre la campagne présidentielle
+
+       LCI                                                 CNews
+
+                               Echantillon Brut Redressé                          Echantillon Brut Redressé
+                                    N=   1004    1004                                   N=   1004    1004
+                            Tout à fait confiance 7% 8%                         Tout à fait confiance 17% 15%
+                              Plutôt confiance 34% 32%                            Plutôt confiance 21% 20%
+                            Plutôt pas confiance 18% 19%                        Plutôt pas confiance 14% 15%
+                            Pas du tout confiance 22% 23%                      Pas du tout confiance 36% 39%
+            Je ne connais pas suffisamment cette chaîne p r p o o n u o r n m ce e r 18% 18% Je ne connais pas suffisamment cette chaîne p r p o o n u o r n m ce e r 12% 12%
+
+                              Net: Confiance 41% 40%                              Net: Confiance 37% 35%
+                            Net: Pas confiance 41% 42%                          Net: Pas confiance 51% 53%
+
+--- page 20 ---
+
+Notice YouGov pour L’internaute -Baromètre 11.2026 20
+
+      Questionnaire
+
+       Confiance accordée aux chaînes d’information pour suivre la campagne présidentielle
+
+       France 24
+
+                               Echantillon Brut Redressé
+                                    N=   1004    1004
+                            Tout à fait confiance 8% 8%
+                              Plutôt confiance 31% 31%
+                            Plutôt pas confiance 14% 14%
+                            Pas du tout confiance 18% 18%
+            Je ne connais pas suffisamment cette chaîne pour me
+                                         29%     29%
+                                 prononcer
+                              Net: Confiance 39% 39%
+                            Net: Pas confiance 32% 32%
+
+--- page 21 ---
+
+Contacts
+
+          Eva Pierrey
+          Research Executive
+          eva.pierrey@yougov.com
+
+          Adam Chauchefoin
+          Senior Research Executive
+          Adam.chauchefoin@yougov.com
+
+                                                         YouGov, 2026, all rights reserved. All materials contained herein are protected by copyright laws.
+                                                         Any storage, reproduction or distribution of such materials, in whole or in part, in any form without the prior written permission of YouGov is prohibited.
+                                                         This information (including any enclosures and attachments) is propriety and confidential and has been prepared for the exclusive use and benefit of the
+                                                         addressee(s) and solely for the purpose for which it is provided.
+                                                         We make no representations, warranties or guarantees, whether express or implied, that the information is accurate, complete or up to date. We exclude all
+                                                         implied conditions, warranties, representations or other terms that may apply and we will not be liable to you for any loss or damage, whether in contract, tort
+                                                         (including negligence), breach of statutory duty, or otherwise, even if foreseeable, arising under or in connection with use of or reliance on the information. We do
+                                                         not exclude or limit in any way our liability to you where it would be unlawful to do so.
+
+                                                                                                                                      13  novembre   2026
